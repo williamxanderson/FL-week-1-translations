@@ -213,7 +213,7 @@ translate deutsch d01s02_680a44d1:
 translate deutsch d01s02_0edae168:
 
     # mc "I don't think it'll make a difference."
-    mc "I glaube nicht, dass das einen Unterschied machen wird."
+    mc "Ich glaube nicht, dass das einen Unterschied machen wird."
 
 # game/d01/s02.rpy:180
 translate deutsch d01s02_57555de8:
@@ -285,7 +285,7 @@ translate deutsch d01s02_770c683b:
 translate deutsch d01s02_e8a9d7ec:
 
     # kb "Well, it isn't just sex. Sexual compatibility with the same fetishes could be a good start for a strong relationship."
-    kb "Nun ja, es ist nicht nur Sex. Sexuelle Komptabilität aufgrund der selben Fetische könnte ein guter Start für eine starke Beziehung sein."
+    kb "Nun ja, es ist nicht nur Sex. Sexuelle Kompatibilität aufgrund der selben Fetische könnte ein guter Start für eine starke Beziehung sein."
 
 # game/d01/s02.rpy:205
 translate deutsch d01s02_21b8afaf:
@@ -483,7 +483,7 @@ translate deutsch d01s02_75652096:
 translate deutsch d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
-    mc "Ja, klar, wir sehen uns und danke für die App. Ich werde sie weiter testen."
+    mc "Ja, klar, wir sehen uns. Und danke für die App. Ich werde sie weiter testen."
 
 # game/d01/s02.rpy:290
 translate deutsch d01s02_f3b3d28f:
@@ -950,12 +950,6 @@ translate deutsch d01s02_a3f1d4fd:
     # kb "Oh, right, and you might have noticed that Antony and Min are back together."
     kb "Oh, richtig, und du hast vielleicht bemerkt, dass Antony und Min wieder zusammen sind."
 
-# game/code/d01/s02.rpy:271
-translate deutsch d01s02_91e0cd29_1:
-
-    # mct "Let's try to listen to the lecture."
-    mct "Versuchen wir der Vorlesung zu folgen."
-
 # game/code/d01/s02.rpy:277
 translate deutsch d01s02_48e2936f:
 
@@ -1021,7 +1015,7 @@ translate deutsch d01s02_e473e3b9:
 translate deutsch d01s02_91e0cd29:
 
     # mct "Let's try to listen to the lecture."
-    mct "Let's try to listen to the lecture."
+    mct "Versuchen wir mal uns auf den Unterricht zu konzentrieren."
 
 # game/code/d01/s02.rpy:211
 translate deutsch d01s02_cc12458d:
@@ -1654,11 +1648,10 @@ translate deutsch replay_d01s02_c484e8d4:
 translate deutsch d01s02_025dccec:
 
     # "A couple minutes later."
-    "A couple minutes later."
+    "Einige Minuten später."
 
 # game/code/d01/s02.rpy:481
 translate deutsch replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
-    mct "I hope I can walk out of class without someone noticing my hard dick."
-
+    mct "Ich hoffe ich komme aus der Klasse ohne das jemand meinen Ständer bemerkt."

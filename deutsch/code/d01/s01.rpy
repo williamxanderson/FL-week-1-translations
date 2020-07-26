@@ -106,7 +106,7 @@ translate deutsch d01s01_967030d1:
 translate deutsch d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "Pete hat ein Mädchen in unser Zimmer geschlichen."
+    mct "Pete hat ein Mädchen in unser Zimmer geschmuggelt."
 
 # game/d01/s01.rpy:53
 translate deutsch d01s01_0450e07b:
