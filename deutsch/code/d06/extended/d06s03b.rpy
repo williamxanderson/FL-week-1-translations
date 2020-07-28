@@ -226,7 +226,7 @@ translate deutsch d06s03b_468e9004:
 translate deutsch d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "Yeah, knacke das Achievement, versuche 100% durch zu spielen. Verstehe ich."
+    mc "Yeah, knacke das Achievement, versuche 100%% durch zu spielen. Verstehe ich."
 
 # game/code/d06/extended/d06s03b.rpy:77
 translate deutsch d06s03b_80425743:
@@ -401,4 +401,3 @@ translate deutsch d06s03b_06a74c9a:
 
     # mct "I can't tell if I am starting to like her or if I just want to see what she'll say next."
     mct "Ich kann nicht sagen ob ich anfange sie zu mögen, oder ob ich einfach nur wissen will was sie als nächstes sagt."
-
