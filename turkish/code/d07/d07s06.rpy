@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d07/d07s06.rpy:28
 translate turkish d07s06_0dc0c974:
@@ -516,49 +516,49 @@ translate turkish d07s06_later_ff8c7592:
     # flr "You will be issued new goals and instructions soon."
     flr "You will be issued new goals and instructions soon."
 
-# game/code/d07/d07s06.rpy:273
+# game/code/d07/d07s06.rpy:275
 translate turkish d07s06_gameover_5ee2d666:
 
     # "Narrator" "...And so it was that [mcname]'s adventures with Fetish Locator came to an end."
     "Narrator" "...And so it was that [mcname]'s adventures with Fetish Locator came to an end."
 
-# game/code/d07/d07s06.rpy:274
+# game/code/d07/d07s06.rpy:276
 translate turkish d07s06_gameover_412a6c9d:
 
     # "Narrator" "Compromising photos of [mcname] were published online."
     "Narrator" "Compromising photos of [mcname] were published online."
 
-# game/code/d07/d07s06.rpy:275
+# game/code/d07/d07s06.rpy:277
 translate turkish d07s06_gameover_bca35b7e:
 
     # "Narrator" "Lydia was horrified by the images. She refused to speak with [mcname] ever again."
     "Narrator" "Lydia was horrified by the images. She refused to speak with [mcname] ever again."
 
-# game/code/d07/d07s06.rpy:276
+# game/code/d07/d07s06.rpy:278
 translate turkish d07s06_gameover_27a476bf:
 
     # "Narrator" "[mcname] dropped out of college at the end of the semester."
     "Narrator" "[mcname] dropped out of college at the end of the semester."
 
-# game/code/d07/d07s06.rpy:277
+# game/code/d07/d07s06.rpy:279
 translate turkish d07s06_gameover_f90cb2f8:
 
     # "Narrator" "In response to his humiliation, authorities began a public investigation into Fetish Locator."
     "Narrator" "In response to his humiliation, authorities began a public investigation into Fetish Locator."
 
-# game/code/d07/d07s06.rpy:278
+# game/code/d07/d07s06.rpy:280
 translate turkish d07s06_gameover_ec607865:
 
     # "Narrator" "In retaliation, Fetish Locator published all the photos it had collected - tagging the images with FL usernames as well as the real names of those pictured."
     "Narrator" "In retaliation, Fetish Locator published all the photos it had collected - tagging the images with FL usernames as well as the real names of those pictured."
 
-# game/code/d07/d07s06.rpy:279
+# game/code/d07/d07s06.rpy:281
 translate turkish d07s06_gameover_65bd7255:
 
     # "Narrator" "Fetish Locator then went dark and disappeared, but those collected pictures continue to circulate online."
     "Narrator" "Fetish Locator then went dark and disappeared, but those collected pictures continue to circulate online."
 
-# game/code/d07/d07s06.rpy:280
+# game/code/d07/d07s06.rpy:282
 translate turkish d07s06_gameover_818f4392:
 
     # "Narrator" "Authorities were unable to determine who was behind the app."

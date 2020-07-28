@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d03/d03s03.rpy:44
 translate turkish replay_d03s03_7d9f2829:
@@ -180,415 +180,415 @@ translate turkish replay_d03s03_44a46dba:
     # mct "Ok footfetish sounds doable. But still would be best to find a girl for that!"
     mct "Ok footfetish sounds doable. But still would be best to find a girl for that!"
 
-# game/code/d03/d03s03.rpy:123
+# game/code/d03/d03s03.rpy:124
 translate turkish replay_d03s03_a54e77d8:
 
     # mct "Oh damn. That is totally not my thing... I need to come up with something else to get enough points for the party."
     mct "Oh damn. That is totally not my thing... I need to come up with something else to get enough points for the party."
 
-# game/code/d03/d03s03.rpy:126
+# game/code/d03/d03s03.rpy:127
 translate turkish replay_d03s03_bd4767f4:
 
     # mct "I need to come up with a way to get points."
     mct "I need to come up with a way to get points."
 
-# game/code/d03/d03s03.rpy:128
+# game/code/d03/d03s03.rpy:129
 translate turkish replay_d03s03_56310c2b:
 
     # mct "Yesterday AmRose's stream was pretty hot in terms of footfetish..."
     mct "Yesterday AmRose's stream was pretty hot in terms of footfetish..."
 
-# game/code/d03/d03s03.rpy:129
+# game/code/d03/d03s03.rpy:130
 translate turkish replay_d03s03_171445a9:
 
     # mct "Should I ask her to help me with getting the points?"
     mct "Should I ask her to help me with getting the points?"
 
-# game/code/d03/d03s03.rpy:131
+# game/code/d03/d03s03.rpy:132
 translate turkish replay_d03s03_43e35f04:
 
     # mct "Time to go and meet AmRose."
     mct "Time to go and meet AmRose."
 
-# game/code/d03/d03s03.rpy:135
+# game/code/d03/d03s03.rpy:136
 translate turkish replay_d03s03a_84930e27:
 
     # mct "Jeez... What are those sounds..."
     mct "Jeez... What are those sounds..."
 
-# game/code/d03/d03s03.rpy:137
+# game/code/d03/d03s03.rpy:138
 translate turkish replay_d03s03a_eab27164:
 
     # mct "I almost don't want to look."
     mct "I almost don't want to look."
 
-# game/code/d03/d03s03.rpy:139
+# game/code/d03/d03s03.rpy:140
 translate turkish replay_d03s03a_7f4e9f14:
 
     # mct "Sounds like someone is fucking"
     mct "Sounds like someone is fucking"
 
-# game/code/d03/d03s03.rpy:148
+# game/code/d03/d03s03.rpy:149
 translate turkish replay_d03s03a_7edff114:
 
     # mct "Holy shit! There actually is fucking going on here!"
     mct "Holy shit! There actually is fucking going on here!"
 
-# game/code/d03/d03s03.rpy:152
+# game/code/d03/d03s03.rpy:153
 translate turkish replay_d03s03a_9cbb501f:
 
     # mct "Chloe is getting around these days! Today she is fucking Dario!"
     mct "Chloe is getting around these days! Today she is fucking Dario!"
 
-# game/code/d03/d03s03.rpy:154
+# game/code/d03/d03s03.rpy:155
 translate turkish replay_d03s03a_51da9775:
 
     # mct "It would be nice to stay and watch, but I don't want to interrupt."
     mct "It would be nice to stay and watch, but I don't want to interrupt."
 
-# game/code/d03/d03s03.rpy:157
-translate turkish replay_d03s03a_8033d86c:
-
-    # mct "Something is strange with Chloe. It is the second time I see her getting fucked..."
-    mct "Something is strange with Chloe. It is the second time I see her getting fucked..."
-
 # game/code/d03/d03s03.rpy:158
-translate turkish replay_d03s03a_d24f04d2:
+translate turkish replay_d03s03a_bbe7b2c5:
 
-    # mct "Did something change with her? Or this is Fetish Locator influence?"
-    mct "Did something change with her? Or this is Fetish Locator influence?"
+    # mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
+    mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
 
 # game/code/d03/d03s03.rpy:159
+translate turkish replay_d03s03a_666716d9:
+
+    # mct "Did something change with her? Or is this Fetish Locator's influence?"
+    mct "Did something change with her? Or is this Fetish Locator's influence?"
+
+# game/code/d03/d03s03.rpy:160
 translate turkish replay_d03s03a_591619a8:
 
     # mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
     mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
 
-# game/code/d03/d03s03.rpy:161
+# game/code/d03/d03s03.rpy:162
 translate turkish replay_d03s03a_c44637b6:
 
     # mct "I kinda want to go back and watch some more, but that's a bad idea."
     mct "I kinda want to go back and watch some more, but that's a bad idea."
 
-# game/code/d03/d03s03.rpy:163
+# game/code/d03/d03s03.rpy:164
 translate turkish replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
     mct "At least this way I won't be late to meet AmRose at the cafeteria."
 
-# game/code/d03/d03s03.rpy:166
+# game/code/d03/d03s03.rpy:167
 translate turkish replay_d03s03a_d6e81c94:
 
     # mct "Ok I'm almost there. {w}I hope AmRose is not already waiting for me..."
     mct "Ok I'm almost there. {w}I hope AmRose is not already waiting for me..."
 
-# game/code/d03/d03s03.rpy:171
+# game/code/d03/d03s03.rpy:172
 translate turkish replay_d03s03a_afad5d4a:
 
     # mct "Fuck! {w}Where is my phone?!"
     mct "Fuck! {w}Where is my phone?!"
 
-# game/code/d03/d03s03.rpy:173
+# game/code/d03/d03s03.rpy:174
 translate turkish replay_d03s03a_f2a76311:
 
     # mct "I forgot it in the locker room! {w}FUCK!!"
     mct "I forgot it in the locker room! {w}FUCK!!"
 
-# game/code/d03/d03s03.rpy:174
+# game/code/d03/d03s03.rpy:175
 translate turkish replay_d03s03a_f8602559:
 
     # mct "Let's run back quickly!"
     mct "Let's run back quickly!"
 
-# game/code/d03/d03s03.rpy:175
+# game/code/d03/d03s03.rpy:176
 translate turkish replay_d03s03a_88412167:
 
     # mct "I hope Chloe and Dario finished having fun in there!"
     mct "I hope Chloe and Dario finished having fun in there!"
 
-# game/code/d03/d03s03.rpy:179
+# game/code/d03/d03s03.rpy:180
 translate turkish replay_d03s03a_44d872e6:
 
     # mct "What? {w} Kevin?!"
     mct "What? {w} Kevin?!"
 
-# game/code/d03/d03s03.rpy:181
+# game/code/d03/d03s03.rpy:182
 translate turkish replay_d03s03a_67591a57:
 
     # mct "What the hell is he doing?!"
     mct "What the hell is he doing?!"
 
-# game/code/d03/d03s03.rpy:189
+# game/code/d03/d03s03.rpy:190
 translate turkish replay_d03s03a_8d24faa9:
 
     # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
     mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
 
-# game/code/d03/d03s03.rpy:191
+# game/code/d03/d03s03.rpy:192
 translate turkish replay_d03s03a_1fee32d6:
 
     # mct "How sick is that?!"
     mct "How sick is that?!"
 
-# game/code/d03/d03s03.rpy:194
+# game/code/d03/d03s03.rpy:195
 translate turkish replay_d03s03a_90e903e9:
 
     # mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
     mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
 
-# game/code/d03/d03s03.rpy:196
+# game/code/d03/d03s03.rpy:197
 translate turkish replay_d03s03a_c071e978:
 
     # mct "And where are his pants?"
     mct "And where are his pants?"
 
-# game/code/d03/d03s03.rpy:198
+# game/code/d03/d03s03.rpy:199
 translate turkish replay_d03s03a_c724dabe:
 
     # mct "Shit! What the fuck brings Miss Waller here?!"
     mct "Shit! What the fuck brings Miss Waller here?!"
 
-# game/code/d03/d03s03.rpy:200
+# game/code/d03/d03s03.rpy:201
 translate turkish replay_d03s03a_62b83e22:
 
     # mct "She hasn't seen Kevin yet!"
     mct "She hasn't seen Kevin yet!"
 
-# game/code/d03/d03s03.rpy:206
+# game/code/d03/d03s03.rpy:207
 translate turkish replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
     mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
 
-# game/code/d03/d03s03.rpy:210
+# game/code/d03/d03s03.rpy:211
 translate turkish replay_d03s03a_833a720c:
 
     # mct "Okay, no time to think! "
     mct "Okay, no time to think! "
 
-# game/code/d03/d03s03.rpy:212
+# game/code/d03/d03s03.rpy:213
 translate turkish replay_d03s03a_de18b8ea:
 
     # mct "I just need to make a distraction!"
     mct "I just need to make a distraction!"
 
-# game/code/d03/d03s03.rpy:225
+# game/code/d03/d03s03.rpy:226
 translate turkish replay_d03s03a_2e4abe44:
 
     # "Baaaam"
     "Baaaam"
 
-# game/code/d03/d03s03.rpy:227
+# game/code/d03/d03s03.rpy:228
 translate turkish replay_d03s03a_91dd8ca5:
 
     # zw "What is going on here?!"
     zw "What is going on here?!"
 
-# game/code/d03/d03s03.rpy:229
+# game/code/d03/d03s03.rpy:230
 translate turkish replay_d03s03a_6371a3c8:
 
     # zw "Mister Young!"
     zw "Mister Young!"
 
-# game/code/d03/d03s03.rpy:231
-translate turkish replay_d03s03a_8a48b7ca:
-
-    # zw "What the hell you think you doing?!"
-    zw "What the hell you think you doing?!"
-
 # game/code/d03/d03s03.rpy:232
+translate turkish replay_d03s03a_001815b5:
+
+    # zw "What the hell do you think you're doing?!"
+    zw "What the hell do you think you're doing?!"
+
+# game/code/d03/d03s03.rpy:233
 translate turkish replay_d03s03a_46cb644d:
 
     # mc "Sorry, Miss Waller! The floor is slippery!"
     mc "Sorry, Miss Waller! The floor is slippery!"
 
-# game/code/d03/d03s03.rpy:234
+# game/code/d03/d03s03.rpy:235
 translate turkish replay_d03s03a_5721bc0f:
 
     # zw "It is the second time you are making some kind of chaos in one week!"
     zw "It is the second time you are making some kind of chaos in one week!"
 
-# game/code/d03/d03s03.rpy:236
+# game/code/d03/d03s03.rpy:237
 translate turkish replay_d03s03a_c927c5e0:
 
     # zw "[mcname] Young!"
     zw "[mcname] Young!"
 
-# game/code/d03/d03s03.rpy:237
+# game/code/d03/d03s03.rpy:238
 translate turkish replay_d03s03a_148ccf8d:
 
     # zw "Clean up this mess now!"
     zw "Clean up this mess now!"
 
-# game/code/d03/d03s03.rpy:238
+# game/code/d03/d03s03.rpy:239
 translate turkish replay_d03s03a_ab246602:
 
     # mct "Her loud voice should have warned everyone..."
     mct "Her loud voice should have warned everyone..."
 
-# game/code/d03/d03s03.rpy:240
+# game/code/d03/d03s03.rpy:241
 translate turkish replay_d03s03a_f2c84480:
 
     # zw "Did I see you pushing a student?!"
     zw "Did I see you pushing a student?!"
 
-# game/code/d03/d03s03.rpy:241
+# game/code/d03/d03s03.rpy:242
 translate turkish replay_d03s03a_add18b39:
 
     # mc "What?! No! I slipped on the wet floor!"
     mc "What?! No! I slipped on the wet floor!"
 
-# game/code/d03/d03s03.rpy:242
+# game/code/d03/d03s03.rpy:243
 translate turkish replay_d03s03a_aa7b93c4:
 
     # zw "There was more noise coming from in here."
     zw "There was more noise coming from in here."
 
-# game/code/d03/d03s03.rpy:244
+# game/code/d03/d03s03.rpy:245
 translate turkish replay_d03s03a_660079da:
 
     # mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
     mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
 
-# game/code/d03/d03s03.rpy:246
+# game/code/d03/d03s03.rpy:247
 translate turkish replay_d03s03a_bb23d441:
 
     # zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
     zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
 
-# game/code/d03/d03s03.rpy:247
+# game/code/d03/d03s03.rpy:248
 translate turkish replay_d03s03a_391e2685:
 
     # mc "What?! No!"
     mc "What?! No!"
 
-# game/code/d03/d03s03.rpy:248
+# game/code/d03/d03s03.rpy:249
 translate turkish replay_d03s03a_d149713b:
 
     # zw "Yes!"
     zw "Yes!"
 
-# game/code/d03/d03s03.rpy:249
+# game/code/d03/d03s03.rpy:250
 translate turkish replay_d03s03a_9e2edb49:
 
     # mct "Damn..."
     mct "Damn..."
 
-# game/code/d03/d03s03.rpy:253
+# game/code/d03/d03s03.rpy:254
 translate turkish replay_d03s03a_5dddfad8:
 
     # kb "Did she leave?"
     kb "Did she leave?"
 
-# game/code/d03/d03s03.rpy:254
+# game/code/d03/d03s03.rpy:255
 translate turkish replay_d03s03a_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/code/d03/d03s03.rpy:255
+# game/code/d03/d03s03.rpy:256
 translate turkish replay_d03s03a_74493ad1:
 
     # kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
     kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
 
-# game/code/d03/d03s03.rpy:256
+# game/code/d03/d03s03.rpy:257
 translate turkish replay_d03s03a_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
     mc "Sure... {w}I will be in the cafeteria."
 
-# game/code/d03/d03s03.rpy:258
+# game/code/d03/d03s03.rpy:259
 translate turkish replay_d03s03a_9715d5cd:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
     kb "I'll find you there. And here... I guess this is your phone?"
 
-# game/code/d03/d03s03.rpy:259
+# game/code/d03/d03s03.rpy:260
 translate turkish replay_d03s03a_845bde9d:
 
     # mc "Yeah, right... Thanks!"
     mc "Yeah, right... Thanks!"
 
-# game/code/d03/d03s03.rpy:263
+# game/code/d03/d03s03.rpy:264
 translate turkish replay_d03s03a_634b0e5b:
 
     # zw "A-a-a-a!!"
     zw "A-a-a-a!!"
 
-# game/code/d03/d03s03.rpy:264
+# game/code/d03/d03s03.rpy:265
 translate turkish replay_d03s03a_0ddb38b1:
 
     # zw "What is this?!"
     zw "What is this?!"
 
-# game/code/d03/d03s03.rpy:266
+# game/code/d03/d03s03.rpy:267
 translate turkish replay_d03s03a_7bce90de:
 
     # zw "How dare you! {w}All of you!"
     zw "How dare you! {w}All of you!"
 
-# game/code/d03/d03s03.rpy:269
+# game/code/d03/d03s03.rpy:270
 translate turkish replay_d03s03a_fe3819d4:
 
     # "Some minutes of Zarah Waller's angry screaming later..."
     "Some minutes of Zarah Waller's angry screaming later..."
 
-# game/code/d03/d03s03.rpy:276
+# game/code/d03/d03s03.rpy:277
 translate turkish replay_d03s03a_ff9f6802:
 
     # zw "What are you doing here? Are you involved in this too?"
     zw "What are you doing here? Are you involved in this too?"
 
-# game/code/d03/d03s03.rpy:277
+# game/code/d03/d03s03.rpy:278
 translate turkish replay_d03s03a_8db026f1:
 
     # mc "Involved in what?"
     mc "Involved in what?"
 
-# game/code/d03/d03s03.rpy:278
+# game/code/d03/d03s03.rpy:279
 translate turkish replay_d03s03a_14af1242:
 
     # zw "I... of course you are. Just consider yourself lucky this time!"
     zw "I... of course you are. Just consider yourself lucky this time!"
 
-# game/code/d03/d03s03.rpy:281
+# game/code/d03/d03s03.rpy:282
 translate turkish replay_d03s03a_457617f7:
 
     # kb "Of hey, [mcname]! What are you doing here?"
     kb "Of hey, [mcname]! What are you doing here?"
 
-# game/code/d03/d03s03.rpy:282
+# game/code/d03/d03s03.rpy:283
 translate turkish replay_d03s03a_4ec011bf:
 
     # mc "I heard the ... {w} Everything..."
     mc "I heard the ... {w} Everything..."
 
-# game/code/d03/d03s03.rpy:283
+# game/code/d03/d03s03.rpy:284
 translate turkish replay_d03s03a_3b479550:
 
     # kb "Oh shit..."
     kb "Oh shit..."
 
-# game/code/d03/d03s03.rpy:284
+# game/code/d03/d03s03.rpy:285
 translate turkish replay_d03s03a_d15ddc27:
 
     # kb "Can we talk about this later?"
     kb "Can we talk about this later?"
 
-# game/code/d03/d03s03.rpy:285
+# game/code/d03/d03s03.rpy:286
 translate turkish replay_d03s03a_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
     mc "Sure... {w}I will be in the cafeteria..."
 
-# game/code/d03/d03s03.rpy:287
+# game/code/d03/d03s03.rpy:288
 translate turkish replay_d03s03a_9715d5cd_1:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
     kb "I'll find you there. And here... I guess this is your phone?"
 
-# game/code/d03/d03s03.rpy:288
+# game/code/d03/d03s03.rpy:289
 translate turkish replay_d03s03a_845bde9d_1:
 
     # mc "Yeah, right... Thanks!"
@@ -608,11 +608,11 @@ translate turkish strings:
     old "Not my thing"
     new "Not my thing"
 
-    # game/code/d03/d03s03.rpy:207
+    # game/code/d03/d03s03.rpy:208
     old "Make a distraction and save Kevin and Chloe from being caught"
     new "Make a distraction and save Kevin and Chloe from being caught"
 
-    # game/code/d03/d03s03.rpy:207
+    # game/code/d03/d03s03.rpy:208
     old "Just let them be caught by Miss Waller"
     new "Just let them be caught by Miss Waller"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s02.rpy:9
 translate turkish d06s02_9f1f77c4:
@@ -43,10 +43,10 @@ translate turkish d06s02_f364efcd:
     mct "That was a nice yoga session..."
 
 # game/code/d06/d06s02.rpy:36
-translate turkish d06s02_db653466:
+translate turkish d06s02_b7ef2e2e:
 
-    # mct "Stacy in shower..."
-    mct "Stacy in shower..."
+    # mct "Stacy is in the shower..."
+    mct "Stacy is in the shower..."
 
 # game/code/d06/d06s02.rpy:48
 translate turkish d06s02_b64e571f:

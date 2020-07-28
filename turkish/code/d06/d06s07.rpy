@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s07.rpy:20
 translate turkish d06s07_46257486:
@@ -19,10 +19,10 @@ translate turkish d06s07_2c32f389:
     mes "Heey! What a great performance!"
 
 # game/code/d06/d06s07.rpy:25
-translate turkish d06s07_48fb66ba:
+translate turkish d06s07_22bb9788:
 
-    # lc "Thanks! It is [mcname] who made all this to happen!"
-    lc "Thanks! It is [mcname] who made all this to happen!"
+    # lc "Thanks! It is [mcname] who made all of this happen!"
+    lc "Thanks! It is [mcname] who made all of this happen!"
 
 # game/code/d06/d06s07.rpy:27
 translate turkish d06s07_f862e78f:
@@ -738,463 +738,463 @@ translate turkish replay_d06s07_c6ac44c1:
     # mc "Yeah. You're right."
     mc "Yeah. You're right."
 
-# game/code/d06/d06s07.rpy:290
+# game/code/d06/d06s07.rpy:291
 translate turkish d06s07_cumoutside_3c21fce0:
 
     # nk "Just a little bit more! Please!"
     nk "Just a little bit more! Please!"
 
-# game/code/d06/d06s07.rpy:292
+# game/code/d06/d06s07.rpy:293
 translate turkish d06s07_cumoutside_725242b9:
 
     # mc "Ar-r-rgh!"
     mc "Ar-r-rgh!"
 
-# game/code/d06/d06s07.rpy:298
+# game/code/d06/d06s07.rpy:299
 translate turkish d06s07_cumoutside_a7d3796a:
 
     # nk "Wow! So much!"
     nk "Wow! So much!"
 
-# game/code/d06/d06s07.rpy:300
+# game/code/d06/d06s07.rpy:301
 translate turkish d06s07_cumoutside_f409383d:
 
     # nk "I'm almost there! O-o-oh!"
     nk "I'm almost there! O-o-oh!"
 
-# game/code/d06/d06s07.rpy:306
+# game/code/d06/d06s07.rpy:307
 translate turkish d06s07_warnnora_30a436da:
 
     # mc "Nora! I'm going to cum!!!"
     mc "Nora! I'm going to cum!!!"
 
-# game/code/d06/d06s07.rpy:308
+# game/code/d06/d06s07.rpy:309
 translate turkish d06s07_warnnora_df92350e:
 
     # nk "Pull out!"
     nk "Pull out!"
 
-# game/code/d06/d06s07.rpy:309
+# game/code/d06/d06s07.rpy:310
 translate turkish d06s07_warnnora_7efc1e0e:
 
     # mc "But, I want to-"
     mc "But, I want to-"
 
-# game/code/d06/d06s07.rpy:311
+# game/code/d06/d06s07.rpy:312
 translate turkish d06s07_warnnora_8199b59b:
 
     # nk "Pull out! Pull out! OR ELSE!!"
     nk "Pull out! Pull out! OR ELSE!!"
 
-# game/code/d06/d06s07.rpy:312
+# game/code/d06/d06s07.rpy:313
 translate turkish d06s07_warnnora_30f29837:
 
     # mc "Okay, okay!"
     mc "Okay, okay!"
 
-# game/code/d06/d06s07.rpy:314
+# game/code/d06/d06s07.rpy:315
 translate turkish d06s07_warnnora_725242b9:
 
     # mc "Ar-r-rgh!"
     mc "Ar-r-rgh!"
 
-# game/code/d06/d06s07.rpy:322
+# game/code/d06/d06s07.rpy:323
 translate turkish d06s07_warnnora_c721d215:
 
     # nk "Fuck me! I'm so close!!"
     nk "Fuck me! I'm so close!!"
 
-# game/code/d06/d06s07.rpy:323
+# game/code/d06/d06s07.rpy:324
 translate turkish d06s07_warnnora_a380ee64:
 
     # mct "I can still get some points. Where did I put my phone?"
     mct "I can still get some points. Where did I put my phone?"
 
-# game/code/d06/d06s07.rpy:324
+# game/code/d06/d06s07.rpy:325
 translate turkish d06s07_warnnora_453db7b8:
 
     # nk "Almost there! Almost!"
     nk "Almost there! Almost!"
 
-# game/code/d06/d06s07.rpy:329
+# game/code/d06/d06s07.rpy:330
 translate turkish d06s07_warnnora_9847de70:
 
     # mct "It's not a creampie, but it almost looks like it."
     mct "It's not a creampie, but it almost looks like it."
 
-# game/code/d06/d06s07.rpy:330
+# game/code/d06/d06s07.rpy:331
 translate turkish d06s07_warnnora_a2f0ce4f:
 
     # nk "May I Cum, Sir! Please Please Please May I Cum?!"
     nk "May I Cum, Sir! Please Please Please May I Cum?!"
 
-# game/code/d06/d06s07.rpy:331
+# game/code/d06/d06s07.rpy:332
 translate turkish d06s07_warnnora_12ba8acd:
 
     # mc "Sure. Go ahead."
     mc "Sure. Go ahead."
 
-# game/code/d06/d06s07.rpy:336
+# game/code/d06/d06s07.rpy:337
 translate turkish d06s07_noracreampie_63c29916:
 
     # nk "FUCK YESSS!!! FILL MY NAUGHTY PUSSY WITH YOUR HARD COCK!!!"
     nk "FUCK YESSS!!! FILL MY NAUGHTY PUSSY WITH YOUR HARD COCK!!!"
 
-# game/code/d06/d06s07.rpy:341
+# game/code/d06/d06s07.rpy:342
 translate turkish d06s07_noracreampie_a6166d09:
 
     # mct "Hell yes. That was great. Where's my phone?"
     mct "Hell yes. That was great. Where's my phone?"
 
-# game/code/d06/d06s07.rpy:342
+# game/code/d06/d06s07.rpy:343
 translate turkish d06s07_noracreampie_d619378e:
 
     # nk "Fuck me! Fuck me! Fuck me!"
     nk "Fuck me! Fuck me! Fuck me!"
 
-# game/code/d06/d06s07.rpy:344
+# game/code/d06/d06s07.rpy:345
 translate turkish d06s07_noracreampie_21efe7e0:
 
     # nk "Huh?"
     nk "Huh?"
 
-# game/code/d06/d06s07.rpy:351
+# game/code/d06/d06s07.rpy:352
 translate turkish d06s07_noracreampie_48247922:
 
     # mct "What a glorious image. That should be worth a lot of points."
     mct "What a glorious image. That should be worth a lot of points."
 
-# game/code/d06/d06s07.rpy:353
+# game/code/d06/d06s07.rpy:354
 translate turkish d06s07_noracreampie_85a35950:
 
     # nk "What are you doing back there?"
     nk "What are you doing back there?"
 
-# game/code/d06/d06s07.rpy:355
+# game/code/d06/d06s07.rpy:356
 translate turkish d06s07_noracreampie_a69dc8ff:
 
     # nk "Wait- DID YOU CUM!?!?"
     nk "Wait- DID YOU CUM!?!?"
 
-# game/code/d06/d06s07.rpy:356
+# game/code/d06/d06s07.rpy:357
 translate turkish d06s07_noracreampie_dbc9c5b2:
 
     # mct "Oh shit."
     mct "Oh shit."
 
-# game/code/d06/d06s07.rpy:358
+# game/code/d06/d06s07.rpy:359
 translate turkish d06s07_noracreampie_535b9a97:
 
     # nk "YOU'RE TAKING PHOTOS???? WHAT THE FUCK ARE YOU DOING?!?!"
     nk "YOU'RE TAKING PHOTOS???? WHAT THE FUCK ARE YOU DOING?!?!"
 
-# game/code/d06/d06s07.rpy:359
+# game/code/d06/d06s07.rpy:360
 translate turkish d06s07_noracreampie_d7afdc3b:
 
     # mc "I-"
     mc "I-"
 
-# game/code/d06/d06s07.rpy:365
+# game/code/d06/d06s07.rpy:366
 translate turkish d06s07_noracreampie_8261d907:
 
     # nk "MOTHER FUCKER I AM GONNA-"
     nk "MOTHER FUCKER I AM GONNA-"
 
-# game/code/d06/d06s07.rpy:366
+# game/code/d06/d06s07.rpy:367
 translate turkish d06s07_noracreampie_81626652:
 
     # mc "Ow! Ow! Quit it! Let me-"
     mc "Ow! Ow! Quit it! Let me-"
 
-# game/code/d06/d06s07.rpy:367
+# game/code/d06/d06s07.rpy:368
 translate turkish d06s07_noracreampie_dba3c288:
 
     # nk "EXPLAIN MOTHERFUCKER!?!? LET ME EXPLAIN MY FOOT UP YOUR ASS!!!"
     nk "EXPLAIN MOTHERFUCKER!?!? LET ME EXPLAIN MY FOOT UP YOUR ASS!!!"
 
-# game/code/d06/d06s07.rpy:371
+# game/code/d06/d06s07.rpy:372
 translate turkish d06s07_noracreampie_92d12bc1:
 
     # nk "DON'T YOU EVER-!!!"
     nk "DON'T YOU EVER-!!!"
 
-# game/code/d06/d06s07.rpy:372
+# game/code/d06/d06s07.rpy:373
 translate turkish d06s07_noracreampie_1ebbfff4:
 
     # mc "Fuck me, that hurt..."
     mc "Fuck me, that hurt..."
 
-# game/code/d06/d06s07.rpy:374
+# game/code/d06/d06s07.rpy:375
 translate turkish d06s07_noracreampie_eb1f6cc6:
 
     # mh "I guess that didn't go according to plan."
     mh "I guess that didn't go according to plan."
 
-# game/code/d06/d06s07.rpy:376
+# game/code/d06/d06s07.rpy:377
 translate turkish d06s07_noracreampie_0038e77a:
 
     # mc "What? Oh, hey Lyssa."
     mc "What? Oh, hey Lyssa."
 
-# game/code/d06/d06s07.rpy:378
+# game/code/d06/d06s07.rpy:379
 translate turkish d06s07_noracreampie_d7eecb70:
 
     # mh "Hey [mcname]. What a show! And you are still leaking..."
     mh "Hey [mcname]. What a show! And you are still leaking..."
 
-# game/code/d06/d06s07.rpy:379
+# game/code/d06/d06s07.rpy:380
 translate turkish d06s07_noracreampie_74ffcd3a:
 
     # mc "Hmmm great that you noticed..."
     mc "Hmmm great that you noticed..."
 
-# game/code/d06/d06s07.rpy:381
+# game/code/d06/d06s07.rpy:382
 translate turkish d06s07_noracreampie_24421d01:
 
     # mh "Hang on a second. Girl talk."
     mh "Hang on a second. Girl talk."
 
-# game/code/d06/d06s07.rpy:382
+# game/code/d06/d06s07.rpy:383
 translate turkish d06s07_noracreampie_84f16542:
 
     # mc "Okay..."
     mc "Okay..."
 
-# game/code/d06/d06s07.rpy:385
+# game/code/d06/d06s07.rpy:386
 translate turkish d06s07_noracreampie_2973f85e:
 
     # mct "That did not go well at all. {w}Well, maybe a little..."
     mct "That did not go well at all. {w}Well, maybe a little..."
 
-# game/code/d06/d06s07.rpy:387
+# game/code/d06/d06s07.rpy:388
 translate turkish d06s07_noracreampie_7f42113e:
 
     # fl "You got [d06s07_points] points."
     fl "You got [d06s07_points] points."
 
-# game/code/d06/d06s07.rpy:389
+# game/code/d06/d06s07.rpy:390
 translate turkish d06s07_noracreampie_19e2c8ca:
 
     # mc "Ok that is good!"
     mc "Ok that is good!"
 
-# game/code/d06/d06s07.rpy:393
+# game/code/d06/d06s07.rpy:394
 translate turkish d06s07_noracreampie_4afb160a:
 
     # mh "Here are your clothes. I calmed her down, but you probably want to find a different place for coffee."
     mh "Here are your clothes. I calmed her down, but you probably want to find a different place for coffee."
 
-# game/code/d06/d06s07.rpy:394
+# game/code/d06/d06s07.rpy:395
 translate turkish d06s07_noracreampie_c451e619:
 
     # mc "Damn. She had the best lattes."
     mc "Damn. She had the best lattes."
 
-# game/code/d06/d06s07.rpy:396
+# game/code/d06/d06s07.rpy:397
 translate turkish d06s07_noracreampie_48870a6e:
 
     # mh "Just the right amount of froth?"
     mh "Just the right amount of froth?"
 
-# game/code/d06/d06s07.rpy:397
+# game/code/d06/d06s07.rpy:398
 translate turkish d06s07_noracreampie_d9ac1018:
 
     # mc "You have no idea."
     mc "You have no idea."
 
-# game/code/d06/d06s07.rpy:404
+# game/code/d06/d06s07.rpy:406
 translate turkish d06s07_goodend_411d305f:
 
     # nk "YEEEEEASSSSSSHHHH!!!"
     nk "YEEEEEASSSSSSHHHH!!!"
 
-# game/code/d06/d06s07.rpy:405
+# game/code/d06/d06s07.rpy:407
 translate turkish d06s07_goodend_07eef455:
 
     # mc "Wow!"
     mc "Wow!"
 
-# game/code/d06/d06s07.rpy:411
+# game/code/d06/d06s07.rpy:413
 translate turkish d06s07_goodend_dabcef68:
 
     # nk "Thank you! Thank you. Thank you..."
     nk "Thank you! Thank you. Thank you..."
 
-# game/code/d06/d06s07.rpy:412
+# game/code/d06/d06s07.rpy:414
 translate turkish d06s07_goodend_5294e4a6:
 
     # mc "It was my pleasure."
     mc "It was my pleasure."
 
-# game/code/d06/d06s07.rpy:413
+# game/code/d06/d06s07.rpy:415
 translate turkish d06s07_goodend_cacf03fd:
 
     # nk "I needed that. {w}I haven't had a dick inside me in far far too long."
     nk "I needed that. {w}I haven't had a dick inside me in far far too long."
 
-# game/code/d06/d06s07.rpy:414
+# game/code/d06/d06s07.rpy:416
 translate turkish d06s07_goodend_9e94ec93:
 
     # mc "Yeah? You were great."
     mc "Yeah? You were great."
 
-# game/code/d06/d06s07.rpy:417
+# game/code/d06/d06s07.rpy:419
 translate turkish d06s07_goodend_f5f70753:
 
     # nk "You were terrific. Thank you so much for pulling out. I'm not on the pill."
     nk "You were terrific. Thank you so much for pulling out. I'm not on the pill."
 
-# game/code/d06/d06s07.rpy:418
+# game/code/d06/d06s07.rpy:420
 translate turkish d06s07_goodend_085722e2:
 
     # mc "What?!"
     mc "What?!"
 
-# game/code/d06/d06s07.rpy:420
+# game/code/d06/d06s07.rpy:422
 translate turkish d06s07_goodend_3d35d4eb:
 
     # nk "It's been a long time since I needed it."
     nk "It's been a long time since I needed it."
 
-# game/code/d06/d06s07.rpy:421
+# game/code/d06/d06s07.rpy:423
 translate turkish d06s07_goodend_b8990a51:
 
     # mc "Wow! I can't even imagine... you're smoking hot and-"
     mc "Wow! I can't even imagine... you're smoking hot and-"
 
-# game/code/d06/d06s07.rpy:422
+# game/code/d06/d06s07.rpy:424
 translate turkish d06s07_goodend_d886f984:
 
     # nk "Yeah, well. I was getting so desperate that I was even thinking about switching sides."
     nk "Yeah, well. I was getting so desperate that I was even thinking about switching sides."
 
-# game/code/d06/d06s07.rpy:423
+# game/code/d06/d06s07.rpy:425
 translate turkish d06s07_goodend_96ff00de:
 
     # mc "Playing for the other team?"
     mc "Playing for the other team?"
 
-# game/code/d06/d06s07.rpy:424
+# game/code/d06/d06s07.rpy:426
 translate turkish d06s07_goodend_4d1c4fd5:
 
     # nk "Yep. The only one hitting on me lately was this girl..."
     nk "Yep. The only one hitting on me lately was this girl..."
 
-# game/code/d06/d06s07.rpy:425
+# game/code/d06/d06s07.rpy:427
 translate turkish d06s07_goodend_0c9dea51:
 
     # mc "Is that something you're into?"
     mc "Is that something you're into?"
 
-# game/code/d06/d06s07.rpy:427
+# game/code/d06/d06s07.rpy:429
 translate turkish d06s07_goodend_6ed18c0e:
 
     # nk "What? Are you already looking for a threesome?"
     nk "What? Are you already looking for a threesome?"
 
-# game/code/d06/d06s07.rpy:428
+# game/code/d06/d06s07.rpy:430
 translate turkish d06s07_goodend_cfe8fa9e:
 
     # mc "Ha! No, I'm spent. You drained me."
     mc "Ha! No, I'm spent. You drained me."
 
-# game/code/d06/d06s07.rpy:429
+# game/code/d06/d06s07.rpy:431
 translate turkish d06s07_goodend_5f81c210:
 
     # nk "Well, don't take too long to recover. I really do have to clean this place."
     nk "Well, don't take too long to recover. I really do have to clean this place."
 
-# game/code/d06/d06s07.rpy:430
+# game/code/d06/d06s07.rpy:432
 translate turkish d06s07_goodend_7e826f5c:
 
     # mc "Did you still want some help?"
     mc "Did you still want some help?"
 
-# game/code/d06/d06s07.rpy:432
+# game/code/d06/d06s07.rpy:434
 translate turkish d06s07_goodend_828435e6:
 
     # nk "You've already done everything I wanted."
     nk "You've already done everything I wanted."
 
-# game/code/d06/d06s07.rpy:433
+# game/code/d06/d06s07.rpy:435
 translate turkish d06s07_goodend_78446058:
 
     # mc "So, you're done with me? Just like that?"
     mc "So, you're done with me? Just like that?"
 
-# game/code/d06/d06s07.rpy:434
+# game/code/d06/d06s07.rpy:436
 translate turkish d06s07_goodend_e2d1ed7a:
 
     # nk "For tonight... and for tonight only..."
     nk "For tonight... and for tonight only..."
 
-# game/code/d06/d06s07.rpy:435
+# game/code/d06/d06s07.rpy:437
 translate turkish d06s07_goodend_a7a38fb6:
 
     # mc "Yeah, we should probably talk about-"
     mc "Yeah, we should probably talk about-"
 
-# game/code/d06/d06s07.rpy:437
+# game/code/d06/d06s07.rpy:439
 translate turkish d06s07_goodend_d9e30cea:
 
     # nk "Nobody needs to know. This never happened, but that doesn't mean it can't happen again."
     nk "Nobody needs to know. This never happened, but that doesn't mean it can't happen again."
 
-# game/code/d06/d06s07.rpy:438
+# game/code/d06/d06s07.rpy:440
 translate turkish d06s07_goodend_74c498aa:
 
     # mc "Sounds good to me."
     mc "Sounds good to me."
 
-# game/code/d06/d06s07.rpy:442
+# game/code/d06/d06s07.rpy:444
 translate turkish d06s07_goodend_7f42113e:
 
     # fl "You got [d06s07_points] points."
     fl "You got [d06s07_points] points."
 
-# game/code/d06/d06s07.rpy:450
+# game/code/d06/d06s07.rpy:452
 translate turkish d06s07_goodend_0d1746c7:
 
     # mh "Oh... {w}Hi [mcname]."
     mh "Oh... {w}Hi [mcname]."
 
-# game/code/d06/d06s07.rpy:451
+# game/code/d06/d06s07.rpy:453
 translate turkish d06s07_goodend_91827775:
 
     # mc "Hey Lyssa. What's going on?"
     mc "Hey Lyssa. What's going on?"
 
-# game/code/d06/d06s07.rpy:452
+# game/code/d06/d06s07.rpy:454
 translate turkish d06s07_goodend_7b94615b:
 
     # mh "I was just... {w}I was just about to go home, when..."
     mh "I was just... {w}I was just about to go home, when..."
 
-# game/code/d06/d06s07.rpy:453
+# game/code/d06/d06s07.rpy:455
 translate turkish d06s07_goodend_ee567ec1:
 
     # mc "I see. Something caught your attention."
     mc "I see. Something caught your attention."
 
-# game/code/d06/d06s07.rpy:455
+# game/code/d06/d06s07.rpy:457
 translate turkish d06s07_goodend_644c102f:
 
     # mh "I'm sorry. I know that I shouldn't have watched, but I couldn't look away."
     mh "I'm sorry. I know that I shouldn't have watched, but I couldn't look away."
 
-# game/code/d06/d06s07.rpy:456
+# game/code/d06/d06s07.rpy:458
 translate turkish d06s07_goodend_e817d8d9:
 
     # mc "Are we going to have a problem? You aren't a gossip, are you?"
     mc "Are we going to have a problem? You aren't a gossip, are you?"
 
-# game/code/d06/d06s07.rpy:458
+# game/code/d06/d06s07.rpy:460
 translate turkish d06s07_goodend_e1092db7:
 
     # mh "Well, it's not covered under attorney-client privilege, but I can definitely keep a secret."
     mh "Well, it's not covered under attorney-client privilege, but I can definitely keep a secret."
 
-# game/code/d06/d06s07.rpy:459
+# game/code/d06/d06s07.rpy:461
 translate turkish d06s07_goodend_e07ccfc9:
 
     # mc "Glad to hear it."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d02/d02s12.rpy:124
 translate turkish replay_d02s12_a1e025fa:
@@ -240,139 +240,139 @@ translate turkish replay_d02s12_62798c5e:
     # pw "That was... {w}(panting){w} Very satisfying!"
     pw "That was... {w}(panting){w} Very satisfying!"
 
-# game/code/d02/d02s12.rpy:236
+# game/code/d02/d02s12.rpy:237
 translate turkish replay_d02s12_3995d758:
 
     # mc "Sorry, we have to draw a line here. {w}My balls are already busting!"
     mc "Sorry, we have to draw a line here. {w}My balls are already busting!"
 
-# game/code/d02/d02s12.rpy:238
+# game/code/d02/d02s12.rpy:239
 translate turkish replay_d02s12_2d325fcd:
 
     # pw "Oh... {w}You sad little thing."
     pw "Oh... {w}You sad little thing."
 
-# game/code/d02/d02s12.rpy:243
+# game/code/d02/d02s12.rpy:244
 translate turkish replay_d02s12_68f8459e:
 
     # pw "Here is your phone. I hope you are happy with the photos. If not, give me a call later."
     pw "Here is your phone. I hope you are happy with the photos. If not, give me a call later."
 
-# game/code/d02/d02s12.rpy:244
+# game/code/d02/d02s12.rpy:245
 translate turkish replay_d02s12_dd9d1878:
 
     # pw "I'm gonna go take a nap."
     pw "I'm gonna go take a nap."
 
-# game/code/d02/d02s12.rpy:246
+# game/code/d02/d02s12.rpy:247
 translate turkish replay_d02s12_ee894cdb:
 
     # mct "That girl is as crazy as she is crazy hot."
     mct "That girl is as crazy as she is crazy hot."
 
-# game/code/d02/d02s12.rpy:247
+# game/code/d02/d02s12.rpy:248
 translate turkish replay_d02s12_09a9165d:
 
     # mct "I know they say,\"Don't stick your dick in crazy.\" but, if I get the chance...{w} Hell yes, I will."
     mct "I know they say,\"Don't stick your dick in crazy.\" but, if I get the chance...{w} Hell yes, I will."
 
-# game/code/d02/d02s12.rpy:249
+# game/code/d02/d02s12.rpy:250
 translate turkish replay_d02s12_e3c6d119:
 
     # mct "What a day!"
     mct "What a day!"
 
-# game/code/d02/d02s12.rpy:254
+# game/code/d02/d02s12.rpy:255
 translate turkish replay_d02s12_d07f8876:
 
     # fl "You earned some points!"
     fl "You earned some points!"
 
-# game/code/d02/d02s12.rpy:256
+# game/code/d02/d02s12.rpy:257
 translate turkish replay_d02s12_09461e00:
 
     # mc "12 pts. Not bad."
     mc "12 pts. Not bad."
 
-# game/code/d02/d02s12.rpy:257
+# game/code/d02/d02s12.rpy:258
 translate turkish replay_d02s12_1ad8d249:
 
     # mct "I wonder if I should call her later and say there was a problem with the photos."
     mct "I wonder if I should call her later and say there was a problem with the photos."
 
-# game/code/d02/d02s12.rpy:262
+# game/code/d02/d02s12.rpy:263
 translate turkish replay_d02s12_b4ee38b4:
 
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "Today's challenge winners are Echo and Bravo!!"
 
-# game/code/d02/d02s12.rpy:263
+# game/code/d02/d02s12.rpy:264
 translate turkish replay_d02s12_337fae55:
 
     # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats? {w}Whatever. I got my 12 points!"
     mct "Who is that?! {w}Echo and Bravo? Do I know any military brats? {w}Whatever. I got my 12 points!"
 
-# game/code/d02/d02s12.rpy:269
+# game/code/d02/d02s12.rpy:270
 translate turkish replay_d02s12_de1a6b0d:
 
     # mct "Oh, again, here is Polly."
     mct "Oh, again, here is Polly."
 
-# game/code/d02/d02s12.rpy:271
+# game/code/d02/d02s12.rpy:272
 translate turkish replay_d02s12_5e02629e:
 
     # mct "What are the chances?"
     mct "What are the chances?"
 
-# game/code/d02/d02s12.rpy:274
+# game/code/d02/d02s12.rpy:275
 translate turkish replay_d02s12_4473dcad:
 
     # mct "She stopped..."
     mct "She stopped..."
 
-# game/code/d02/d02s12.rpy:276
+# game/code/d02/d02s12.rpy:277
 translate turkish replay_d02s12_01ab749a:
 
     # mct "What is she doing?"
     mct "What is she doing?"
 
-# game/code/d02/d02s12.rpy:283
+# game/code/d02/d02s12.rpy:284
 translate turkish replay_d02s12_07eef455:
 
     # mc "Wow!"
     mc "Wow!"
 
-# game/code/d02/d02s12.rpy:285
+# game/code/d02/d02s12.rpy:286
 translate turkish replay_d02s12_836c6fb6:
 
     # mct "What the hell was that..."
     mct "What the hell was that..."
 
-# game/code/d02/d02s12.rpy:293
+# game/code/d02/d02s12.rpy:295
 translate turkish replay_d02s12_b4ee38b4_1:
 
     # fl "Today's challenge winners are Echo and Bravo!!"
     fl "Today's challenge winners are Echo and Bravo!!"
 
-# game/code/d02/d02s12.rpy:294
+# game/code/d02/d02s12.rpy:296
 translate turkish replay_d02s12_5d8da468:
 
     # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
     mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
 
-# game/code/d02/d02s12.rpy:296
+# game/code/d02/d02s12.rpy:298
 translate turkish replay_d02s12_9d996558:
 
     # mct "Okay looks like I'm not getting any points here."
     mct "Okay looks like I'm not getting any points here."
 
-# game/code/d02/d02s12.rpy:298
+# game/code/d02/d02s12.rpy:300
 translate turkish replay_d02s12_33b7cacb:
 
     # mct "Well at least I got points for that nice encounter with Min!"
     mct "Well at least I got points for that nice encounter with Min!"
 
-# game/code/d02/d02s12.rpy:300
+# game/code/d02/d02s12.rpy:302
 translate turkish replay_d02s12_9bdfda90:
 
     # mct "Time to go back home."

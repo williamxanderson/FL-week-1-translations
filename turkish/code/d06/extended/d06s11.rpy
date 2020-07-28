@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/extended/d06s11.rpy:7
 translate turkish replay_d06s11_dfad3a9c:
@@ -97,10 +97,10 @@ translate turkish replay_d06s11_136a11dd:
     jf "And this one is one of my oldest looks. It won a few contests!"
 
 # game/code/d06/extended/d06s11.rpy:58
-translate turkish replay_d06s11_96021254:
+translate turkish replay_d06s11_e31b60f1:
 
-    # jf "Ah, and you can see here some of best pictures!"
-    jf "Ah, and you can see here some of best pictures!"
+    # jf "Ah, and you can see here some of my best pictures!"
+    jf "Ah, and you can see here some of my best pictures!"
 
 # game/code/d06/extended/d06s11.rpy:60
 translate turkish replay_d06s11_4c1426e4:
@@ -115,10 +115,10 @@ translate turkish replay_d06s11_0824e7cb:
     mc "Oh? Why?"
 
 # game/code/d06/extended/d06s11.rpy:63
-translate turkish replay_d06s11_2e2b3c82:
+translate turkish replay_d06s11_86951418:
 
-    # jf "Simple. The offer was too good, and so I had money to make next one!"
-    jf "Simple. The offer was too good, and so I had money to make next one!"
+    # jf "Simple. The offer was too good, and so I had money to make the next one!"
+    jf "Simple. The offer was too good, and so I had money to make the next one!"
 
 # game/code/d06/extended/d06s11.rpy:65
 translate turkish replay_d06s11_021de18f:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d01/s01.rpy:30
 translate turkish d01s01_e830540f:
@@ -714,31 +714,31 @@ translate turkish d01s01_shower_171def1d:
     # zw "You'll help to empty out the trash after the game tonight."
     zw "You'll help to empty out the trash after the game tonight."
 
-# game/code/d01/s01.rpy:270
+# game/code/d01/s01.rpy:271
 translate turkish d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
     zw "So, you think I care who brought that girl here?!"
 
-# game/code/d01/s01.rpy:271
+# game/code/d01/s01.rpy:272
 translate turkish d01s01_shower_03d60ad0:
 
     # zw "Both of you will help empty out the trash after the game tonight."
     zw "Both of you will help empty out the trash after the game tonight."
 
-# game/code/d01/s01.rpy:273
+# game/code/d01/s01.rpy:274
 translate turkish d01s01_shower_bb83081f:
 
     # zw "Be there at 6 PM!"
     zw "Be there at 6 PM!"
 
-# game/code/d01/s01.rpy:274
+# game/code/d01/s01.rpy:275
 translate turkish d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
     zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
 
-# game/code/d01/s01.rpy:276
+# game/code/d01/s01.rpy:277
 translate turkish d01s01_shower_5e7d96e5:
 
     # mct "Time to go to the class."

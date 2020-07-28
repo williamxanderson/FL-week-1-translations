@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d05/d05s05b.rpy:16
 translate turkish d05s05_apt2_b250022a:

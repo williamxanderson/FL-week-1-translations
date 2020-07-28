@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d07/d07s04mh.rpy:18
 translate turkish replay_d07s04mh_73e41fa9:
@@ -655,10 +655,10 @@ translate turkish replay_d07s04mh_be7862f2:
     mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
 
 # game/code/d07/d07s04mh.rpy:204
-translate turkish replay_d07s04mh_22b372db:
+translate turkish replay_d07s04mh_80a1113c:
 
-    # mc "Don't know, but should be fair number of points!"
-    mc "Don't know, but should be fair number of points!"
+    # mc "Don't know, but it should be a fair number of points!"
+    mc "Don't know, but it should be a fair number of points!"
 
 # game/code/d07/d07s04mh.rpy:206
 translate turkish replay_d07s04mh_40e1c558:
@@ -888,73 +888,73 @@ translate turkish d07s04mh_slap_cum_1a944efe:
     # mh "Do you want me to keep going?"
     mh "Do you want me to keep going?"
 
-# game/code/d07/d07s04mh.rpy:343
+# game/code/d07/d07s04mh.rpy:344
 translate turkish d07s04mh_polly_3b01b4e9:
 
     # pw "Oops-s-s!"
     pw "Oops-s-s!"
 
-# game/code/d07/d07s04mh.rpy:344
+# game/code/d07/d07s04mh.rpy:345
 translate turkish d07s04mh_polly_1f7a9c0c:
 
     # mc "Hm-m-m... {w}Polly!"
     mc "Hm-m-m... {w}Polly!"
 
-# game/code/d07/d07s04mh.rpy:346
+# game/code/d07/d07s04mh.rpy:347
 translate turkish d07s04mh_polly_fe7e1ff3:
 
     # pw "I'm very sorry, I thought it was empty here..."
     pw "I'm very sorry, I thought it was empty here..."
 
-# game/code/d07/d07s04mh.rpy:350
+# game/code/d07/d07s04mh.rpy:351
 translate turkish d07s04mh_polly_94b80ba4:
 
     # mh "Oh my god..."
     mh "Oh my god..."
 
-# game/code/d07/d07s04mh.rpy:351
+# game/code/d07/d07s04mh.rpy:352
 translate turkish d07s04mh_polly_1801c904:
 
     # mc "Hey. I'm sorry... There shouldn't be anyone here..."
     mc "Hey. I'm sorry... There shouldn't be anyone here..."
 
-# game/code/d07/d07s04mh.rpy:352
+# game/code/d07/d07s04mh.rpy:353
 translate turkish d07s04mh_polly_4e955109:
 
     # mh "I can't... someone just..."
     mh "I can't... someone just..."
 
-# game/code/d07/d07s04mh.rpy:353
+# game/code/d07/d07s04mh.rpy:354
 translate turkish d07s04mh_polly_3f9eabcf:
 
     # mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
     mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
 
-# game/code/d07/d07s04mh.rpy:355
+# game/code/d07/d07s04mh.rpy:356
 translate turkish d07s04mh_polly_80ec799e:
 
     # mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
     mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
 
-# game/code/d07/d07s04mh.rpy:356
+# game/code/d07/d07s04mh.rpy:357
 translate turkish d07s04mh_polly_35c05d95:
 
     # mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
     mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
 
-# game/code/d07/d07s04mh.rpy:358
+# game/code/d07/d07s04mh.rpy:359
 translate turkish d07s04mh_polly_c9779ea7:
 
     # mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
     mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
 
-# game/code/d07/d07s04mh.rpy:360
+# game/code/d07/d07s04mh.rpy:361
 translate turkish d07s04mh_polly_09081efa:
 
     # mc "It's okay. Let's get dressed, then I'll go find her."
     mc "It's okay. Let's get dressed, then I'll go find her."
 
-# game/code/d07/d07s04mh.rpy:362
+# game/code/d07/d07s04mh.rpy:363
 translate turkish d07s04mh_polly_b162b831:
 
     # mc "It's okay. Let's just get dressed and head back."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d07/d07s04pw.rpy:21
 translate turkish replay_d07s04pw_9942cdc2:
@@ -600,85 +600,85 @@ translate turkish replay_d07s04pw_706f887c:
     # pw "I might just be falling for you... a little."
     pw "I might just be falling for you... a little."
 
-# game/code/d07/d07s04pw.rpy:256
+# game/code/d07/d07s04pw.rpy:258
 translate turkish d07s04_pw_end_fe87a3d4:
 
     # pw "Alright. I'm going to take a little swim."
     pw "Alright. I'm going to take a little swim."
 
-# game/code/d07/d07s04pw.rpy:257
+# game/code/d07/d07s04pw.rpy:259
 translate turkish d07s04_pw_end_e1f66e39:
 
     # mc "Cool. Would you like me to join you?"
     mc "Cool. Would you like me to join you?"
 
-# game/code/d07/d07s04pw.rpy:258
+# game/code/d07/d07s04pw.rpy:260
 translate turkish d07s04_pw_end_3a239766:
 
     # pw "Nah. I think I want a little time alone."
     pw "Nah. I think I want a little time alone."
 
-# game/code/d07/d07s04pw.rpy:261
+# game/code/d07/d07s04pw.rpy:263
 translate turkish d07s04_pw_end_d20e7db5:
 
     # mct "Huh. I guess she really is starting to have feelings for me."
     mct "Huh. I guess she really is starting to have feelings for me."
 
-# game/code/d07/d07s04pw.rpy:263
+# game/code/d07/d07s04pw.rpy:265
 translate turkish d07s04_pw_end_f137250f:
 
     # mct "Fuck. Maybe I should have let her... do that... to me."
     mct "Fuck. Maybe I should have let her... do that... to me."
 
-# game/code/d07/d07s04pw.rpy:264
+# game/code/d07/d07s04pw.rpy:266
 translate turkish d07s04_pw_end_b975ddbe:
 
     # mct "No, I guess not."
     mct "No, I guess not."
 
-# game/code/d07/d07s04pw.rpy:266
+# game/code/d07/d07s04pw.rpy:268
 translate turkish d07s04_pw_end_3a14ab91:
 
     # mct "I should probably leave her alone with her thoughts."
     mct "I should probably leave her alone with her thoughts."
 
-# game/code/d07/d07s04pw.rpy:267
+# game/code/d07/d07s04pw.rpy:269
 translate turkish d07s04_pw_end_bfa7a03d:
 
     # mc "Alright. I need to get back to the main beach."
     mc "Alright. I need to get back to the main beach."
 
-# game/code/d07/d07s04pw.rpy:268
+# game/code/d07/d07s04pw.rpy:270
 translate turkish d07s04_pw_end_eadc9456:
 
     # pw "Don't forget to put your clothes back on."
     pw "Don't forget to put your clothes back on."
 
-# game/code/d07/d07s04pw.rpy:270
+# game/code/d07/d07s04pw.rpy:272
 translate turkish d07s04_pw_end_fe95ef33:
 
     # mc "Are you going to be okay alone out here? Should I-"
     mc "Are you going to be okay alone out here? Should I-"
 
-# game/code/d07/d07s04pw.rpy:271
+# game/code/d07/d07s04pw.rpy:273
 translate turkish d07s04_pw_end_77a93e55:
 
     # pw "This isn't my first solo skinny dip. I'll be fine."
     pw "This isn't my first solo skinny dip. I'll be fine."
 
-# game/code/d07/d07s04pw.rpy:272
+# game/code/d07/d07s04pw.rpy:274
 translate turkish d07s04_pw_end_ad2ea457:
 
     # mc "Okay. See ya'!"
     mc "Okay. See ya'!"
 
-# game/code/d07/d07s04pw.rpy:273
+# game/code/d07/d07s04pw.rpy:275
 translate turkish d07s04_pw_end_82e8b514:
 
     # pw "Looking forward to it."
     pw "Looking forward to it."
 
-# game/code/d07/d07s04pw.rpy:275
+# game/code/d07/d07s04pw.rpy:277
 translate turkish d07s04_pw_end_e21680c6:
 
     # mct "I should get back and find Stacy and AmRose."

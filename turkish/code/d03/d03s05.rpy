@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d03/d03s05.rpy:14
 translate turkish d03s05_445aec41:
@@ -391,10 +391,10 @@ translate turkish d03s05_29bb2b53:
     mc "Huh. I have to think about that."
 
 # game/code/d03/d03s05.rpy:162
-translate turkish d03s05_f77b5bc5:
+translate turkish d03s05_4625af52:
 
-    # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like an old friends!"
-    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like an old friends!"
+    # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
 
 # game/code/d03/d03s05.rpy:163
 translate turkish d03s05_04d52ffd:

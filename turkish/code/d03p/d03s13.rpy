@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d03p/d03s13.rpy:21
 translate turkish replay_d03s13_2d4b4461:
@@ -1020,13 +1020,13 @@ translate turkish replay_d03s13_5f006774:
     # mes "You can thank me later."
     mes "You can thank me later."
 
-# game/code/d03p/d03s13.rpy:517
+# game/code/d03p/d03s13.rpy:518
 translate turkish d03s13_end_329cfa27:
 
     # mct "My balls are going to explode soon!"
     mct "My balls are going to explode soon!"
 
-# game/code/d03p/d03s13.rpy:518
+# game/code/d03p/d03s13.rpy:519
 translate turkish d03s13_end_6a49319a:
 
     # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."

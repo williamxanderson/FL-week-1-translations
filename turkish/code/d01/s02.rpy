@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d01/s02.rpy:96
 translate turkish d01s02_4ee8cc8f:
@@ -522,559 +522,559 @@ translate turkish d01s02_30d051be:
     # mct "Hmmm ... how should I answer?"
     mct "Hmmm ... how should I answer?"
 
-# game/code/d01/s02.rpy:276
+# game/code/d01/s02.rpy:277
 translate turkish d01s02_2d4947fa:
 
     # mct "Hmmm ... it's not showing or doing anything."
     mct "Hmmm ... it's not showing or doing anything."
 
-# game/code/d01/s02.rpy:278
+# game/code/d01/s02.rpy:279
 translate turkish d01s02_91e0cd29_1:
 
     # mct "Let's try to listen to the lecture."
     mct "Let's try to listen to the lecture."
 
-# game/code/d01/s02.rpy:279
-translate turkish d01s02_5c820b32:
+# game/code/d01/s02.rpy:280
+translate turkish d01s02_025dccec:
 
-    # "A a couple minutes later."
-    "A a couple minutes later."
+    # "A couple minutes later."
+    "A couple minutes later."
 
-# game/code/d01/s02.rpy:282
+# game/code/d01/s02.rpy:283
 translate turkish d01s02_295bbea7:
 
     # mct "..."
     mct "..."
 
-# game/code/d01/s02.rpy:283
+# game/code/d01/s02.rpy:284
 translate turkish d01s02_99858e1d:
 
     # mct "Wha-a-at?"
     mct "Wha-a-at?"
 
-# game/code/d01/s02.rpy:284
+# game/code/d01/s02.rpy:285
 translate turkish d01s02_48e2936f:
 
     # mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
     mct "What's going on with Antony? He's doing something strange. Am I the only one seeing this?!"
 
-# game/code/d01/s02.rpy:285
+# game/code/d01/s02.rpy:286
 translate turkish d01s02_56ac7286:
 
     # mct "I can't see enough from here. I need to move closer."
     mct "I can't see enough from here. I need to move closer."
 
-# game/code/d01/s02.rpy:288
+# game/code/d01/s02.rpy:289
 translate turkish d01s02_e5ad10eb:
 
     # mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
     mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
 
-# game/code/d01/s02.rpy:290
+# game/code/d01/s02.rpy:291
 translate turkish d01s02_75652096:
 
     # kb "No problem! I'll see you tonight at the game?"
     kb "No problem! I'll see you tonight at the game?"
 
-# game/code/d01/s02.rpy:291
+# game/code/d01/s02.rpy:292
 translate turkish d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
     mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
 
-# game/code/d01/s02.rpy:293
+# game/code/d01/s02.rpy:294
 translate turkish d01s02_9ea2f78c:
 
     # " "
     " "
 
-# game/code/d01/s02.rpy:296
+# game/code/d01/s02.rpy:297
 translate turkish replay_d01s02_699878f6:
 
     # mc "Hey!"
     mc "Hey!"
 
-# game/code/d01/s02.rpy:297
+# game/code/d01/s02.rpy:298
 translate turkish replay_d01s02_4cd44184:
 
     # arj "..."
     arj "..."
 
-# game/code/d01/s02.rpy:298
+# game/code/d01/s02.rpy:299
 translate turkish replay_d01s02_f3b3d28f:
 
     # mc "What's wrong?"
     mc "What's wrong?"
 
-# game/code/d01/s02.rpy:300
+# game/code/d01/s02.rpy:301
 translate turkish replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
     arj "You were gone for two weeks and when you get back you don't even say Hi!"
 
-# game/code/d01/s02.rpy:302
+# game/code/d01/s02.rpy:303
 translate turkish replay_d01s02_ed0f5321:
 
     # mc "Ummmm."
     mc "Ummmm."
 
-# game/code/d01/s02.rpy:304
+# game/code/d01/s02.rpy:305
 translate turkish replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
     arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
 
-# game/code/d01/s02.rpy:306
+# game/code/d01/s02.rpy:307
 translate turkish replay_d01s02_507086ef:
 
     # mc "Oh, that. Sorry."
     mc "Oh, that. Sorry."
 
-# game/code/d01/s02.rpy:310
+# game/code/d01/s02.rpy:311
 translate turkish replay_d01s02_015d20de:
 
     # mct "Wow!"
     mct "Wow!"
 
-# game/code/d01/s02.rpy:311
+# game/code/d01/s02.rpy:312
 translate turkish replay_d01s02_632ff841:
 
     # mct "Holy shit!"
     mct "Holy shit!"
 
-# game/code/d01/s02.rpy:312
+# game/code/d01/s02.rpy:313
 translate turkish replay_d01s02_ab7d5066:
 
     # mct "I knew something was going on!"
     mct "I knew something was going on!"
 
-# game/code/d01/s02.rpy:315
+# game/code/d01/s02.rpy:316
 translate turkish replay_d01s02_dbccc912:
 
     # arj "Are you distracted again?"
     arj "Are you distracted again?"
 
-# game/code/d01/s02.rpy:317
+# game/code/d01/s02.rpy:318
 translate turkish replay_d01s02_ed592207:
 
     # mc "No! Just trying to listen to the lecture, you know?"
     mc "No! Just trying to listen to the lecture, you know?"
 
-# game/code/d01/s02.rpy:319
+# game/code/d01/s02.rpy:320
 translate turkish replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
     arj "C'mon, like, you never listen in history class."
 
-# game/code/d01/s02.rpy:321
+# game/code/d01/s02.rpy:322
 translate turkish replay_d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
     mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
 
-# game/code/d01/s02.rpy:323
+# game/code/d01/s02.rpy:324
 translate turkish replay_d01s02_84a64c74:
 
     # arj "Hmmm."
     arj "Hmmm."
 
-# game/code/d01/s02.rpy:325
+# game/code/d01/s02.rpy:326
 translate turkish replay_d01s02_eaf4eca4:
 
     # arj "You know how to get out of trouble."
     arj "You know how to get out of trouble."
 
-# game/code/d01/s02.rpy:326
+# game/code/d01/s02.rpy:327
 translate turkish replay_d01s02_80c2ad2e:
 
     # arj "What kind of movie is it?"
     arj "What kind of movie is it?"
 
-# game/code/d01/s02.rpy:329
+# game/code/d01/s02.rpy:330
 translate turkish replay_d01s02_0e7f0158:
 
     # mct "Damn!"
     mct "Damn!"
 
-# game/code/d01/s02.rpy:330
+# game/code/d01/s02.rpy:331
 translate turkish replay_d01s02_9f24c4a8:
 
     # mct "I need to focus on what AmRose saying... {w}But I can't!"
     mct "I need to focus on what AmRose saying... {w}But I can't!"
 
-# game/code/d01/s02.rpy:333
+# game/code/d01/s02.rpy:334
 translate turkish replay_d01s02_7ab8cb7f:
 
     # arj "Are you there?!"
     arj "Are you there?!"
 
-# game/code/d01/s02.rpy:335
+# game/code/d01/s02.rpy:336
 translate turkish replay_d01s02_ee6bbee0:
 
     # mc "Yeah! Sure."
     mc "Yeah! Sure."
 
-# game/code/d01/s02.rpy:337
+# game/code/d01/s02.rpy:338
 translate turkish replay_d01s02_3c7c87f9:
 
     # arj "What did I just ask you?"
     arj "What did I just ask you?"
 
-# game/code/d01/s02.rpy:343
+# game/code/d01/s02.rpy:344
 translate turkish replay_d01s02_b5006555:
 
     # mc "You asked about the movie!"
     mc "You asked about the movie!"
 
-# game/code/d01/s02.rpy:344
+# game/code/d01/s02.rpy:345
 translate turkish replay_d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
     mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
 
-# game/code/d01/s02.rpy:348
+# game/code/d01/s02.rpy:349
 translate turkish replay_d01s02_7bb488f1:
 
     # mc "You were talking about me not listening History lectures?"
     mc "You were talking about me not listening History lectures?"
 
-# game/code/d01/s02.rpy:352
+# game/code/d01/s02.rpy:353
 translate turkish replay_d01s02_37f824cb:
 
     # mc "Me not being here for two weeks?"
     mc "Me not being here for two weeks?"
 
-# game/code/d01/s02.rpy:355
+# game/code/d01/s02.rpy:356
 translate turkish replay_d01s02_71b6273b:
 
     # arj "No! That's not what I asked."
     arj "No! That's not what I asked."
 
-# game/code/d01/s02.rpy:357
+# game/code/d01/s02.rpy:358
 translate turkish replay_d01s02_4cd44184_1:
 
     # arj "..."
     arj "..."
 
-# game/code/d01/s02.rpy:358
+# game/code/d01/s02.rpy:359
 translate turkish replay_d01s02_968cf464:
 
     # mct "Seems like I really pissed her off."
     mct "Seems like I really pissed her off."
 
-# game/code/d01/s02.rpy:362
+# game/code/d01/s02.rpy:363
 translate turkish replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
     arj "Hmmm. I might forgive you ... but only if we watch it together!"
 
-# game/code/d01/s02.rpy:364
+# game/code/d01/s02.rpy:365
 translate turkish replay_d01s02_15f6a903:
 
     # mc "Sure, we can do that!"
     mc "Sure, we can do that!"
 
-# game/code/d01/s02.rpy:367
+# game/code/d01/s02.rpy:368
 translate turkish replay_d01s02_cf97b7f3:
 
     # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
     mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
 
-# game/code/d01/s02.rpy:368
+# game/code/d01/s02.rpy:369
 translate turkish replay_d01s02_bb084984:
 
     # mct "She going faster and faster."
     mct "She going faster and faster."
 
-# game/code/d01/s02.rpy:369
+# game/code/d01/s02.rpy:370
 translate turkish replay_d01s02_018ed043:
 
     # mct "How much longer can Antony last?"
     mct "How much longer can Antony last?"
 
-# game/code/d01/s02.rpy:372
+# game/code/d01/s02.rpy:373
 translate turkish replay_d01s02_918fea83:
 
     # mc "I'm sorry."
     mc "I'm sorry."
 
-# game/code/d01/s02.rpy:373
+# game/code/d01/s02.rpy:374
 translate turkish replay_d01s02_786a7cd7:
 
     # mct "Looks like she isn't going to talk to me anymore."
     mct "Looks like she isn't going to talk to me anymore."
 
-# game/code/d01/s02.rpy:377
+# game/code/d01/s02.rpy:378
 translate turkish replay_d01s02_5c581103:
 
     # arj "Then it's a deal! We'll watch it tonight."
     arj "Then it's a deal! We'll watch it tonight."
 
-# game/code/d01/s02.rpy:379
+# game/code/d01/s02.rpy:380
 translate turkish replay_d01s02_1e1e3d11:
 
     # mc "Tonight may be complicated ..."
     mc "Tonight may be complicated ..."
 
-# game/code/d01/s02.rpy:381
+# game/code/d01/s02.rpy:382
 translate turkish replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
     mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
 
-# game/code/d01/s02.rpy:383
+# game/code/d01/s02.rpy:384
 translate turkish replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
     arj "You brought a girl to your room?!"
 
-# game/code/d01/s02.rpy:385
+# game/code/d01/s02.rpy:386
 translate turkish replay_d01s02_3a95b93e:
 
     # mc "No! Pete did."
     mc "No! Pete did."
 
-# game/code/d01/s02.rpy:387
+# game/code/d01/s02.rpy:388
 translate turkish replay_d01s02_d527faec:
 
     # arj "Then why did you get in trouble?"
     arj "Then why did you get in trouble?"
 
-# game/code/d01/s02.rpy:390
+# game/code/d01/s02.rpy:391
 translate turkish replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
     mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
 
-# game/code/d01/s02.rpy:392
+# game/code/d01/s02.rpy:393
 translate turkish replay_d01s02_23b83d84:
 
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
     mc "I was just put in a bad spot and it isn't cool to rat out your friends."
 
-# game/code/d01/s02.rpy:394
+# game/code/d01/s02.rpy:395
 translate turkish replay_d01s02_bbfa59bc:
 
     # arj "Oh, so you're just being a good friend."
     arj "Oh, so you're just being a good friend."
 
-# game/code/d01/s02.rpy:396
+# game/code/d01/s02.rpy:397
 translate turkish replay_d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
     mc "I promised to hang with Pete tonight."
 
-# game/code/d01/s02.rpy:398
+# game/code/d01/s02.rpy:399
 translate turkish replay_d01s02_ccc69cb6:
 
     # arj "Hmmm. I see."
     arj "Hmmm. I see."
 
-# game/code/d01/s02.rpy:401
+# game/code/d01/s02.rpy:402
 translate turkish replay_d01s02_3f29ebba:
 
     # mct "Is he gonna to finish now?!"
     mct "Is he gonna to finish now?!"
 
-# game/code/d01/s02.rpy:405
+# game/code/d01/s02.rpy:406
 translate turkish replay_d01s02_91b13306:
 
     # mct "Oh my God! He just came in her hand!"
     mct "Oh my God! He just came in her hand!"
 
-# game/code/d01/s02.rpy:406
+# game/code/d01/s02.rpy:407
 translate turkish replay_d01s02_1ec6e58e:
 
     # mct "That's actually really hot!"
     mct "That's actually really hot!"
 
-# game/code/d01/s02.rpy:411
+# game/code/d01/s02.rpy:412
 translate turkish replay_d01s02_4cd44184_2:
 
     # arj "..."
     arj "..."
 
-# game/code/d01/s02.rpy:417
+# game/code/d01/s02.rpy:418
 translate turkish replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
     mc "But we can watch it later ... after I'm finished."
 
-# game/code/d01/s02.rpy:419
+# game/code/d01/s02.rpy:420
 translate turkish replay_d01s02_b065aa01:
 
     # arj "Okay. that sounds cool."
     arj "Okay. that sounds cool."
 
-# game/code/d01/s02.rpy:422
+# game/code/d01/s02.rpy:423
 translate turkish replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
     mc "I already saw it anyway. I just wanted you to see it."
 
-# game/code/d01/s02.rpy:425
+# game/code/d01/s02.rpy:426
 translate turkish replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
     arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
 
-# game/code/d01/s02.rpy:426
+# game/code/d01/s02.rpy:427
 translate turkish replay_d01s02_ca5f0fd9:
 
     # mct "Damn! She's acting so different! Does she wanna go out?!"
     mct "Damn! She's acting so different! Does she wanna go out?!"
 
-# game/code/d01/s02.rpy:427
+# game/code/d01/s02.rpy:428
 translate turkish replay_d01s02_ad429af8:
 
     # mct "Her body language is definitely flirtatious!"
     mct "Her body language is definitely flirtatious!"
 
-# game/code/d01/s02.rpy:430
+# game/code/d01/s02.rpy:431
 translate turkish replay_d01s02_4cd44184_3:
 
     # arj "..."
     arj "..."
 
-# game/code/d01/s02.rpy:434
+# game/code/d01/s02.rpy:435
 translate turkish replay_d01s02_578606f6:
 
     # mct "Did she just swallow his whole load?"
     mct "Did she just swallow his whole load?"
 
-# game/code/d01/s02.rpy:435
+# game/code/d01/s02.rpy:436
 translate turkish replay_d01s02_015d20de_1:
 
     # mct "Wow!"
     mct "Wow!"
 
-# game/code/d01/s02.rpy:436
+# game/code/d01/s02.rpy:437
 translate turkish replay_d01s02_27953c55:
 
     # mct "That's ..."
     mct "That's ..."
 
-# game/code/d01/s02.rpy:437
+# game/code/d01/s02.rpy:438
 translate turkish replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
     mct "That's probably the hottest thing I've seen in my life!"
 
-# game/code/d01/s02.rpy:443
+# game/code/d01/s02.rpy:444
 translate turkish replay_d01s02_3090eac0:
 
     # arj "So, are you distracted again?"
     arj "So, are you distracted again?"
 
-# game/code/d01/s02.rpy:447
+# game/code/d01/s02.rpy:448
 translate turkish replay_d01s02_ee89dd2b:
 
     # mc "Sorry AmRose, I have to study for the exams."
     mc "Sorry AmRose, I have to study for the exams."
 
-# game/code/d01/s02.rpy:450
+# game/code/d01/s02.rpy:451
 translate turkish replay_d01s02_39681987:
 
     # arj "Okay. Sure, I understand."
     arj "Okay. Sure, I understand."
 
-# game/code/d01/s02.rpy:455
+# game/code/d01/s02.rpy:456
 translate turkish replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
     mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
 
-# game/code/d01/s02.rpy:456
+# game/code/d01/s02.rpy:457
 translate turkish replay_d01s02_8ba3d6f6:
 
     # arj "That sounds great."
     arj "That sounds great."
 
-# game/code/d01/s02.rpy:458
+# game/code/d01/s02.rpy:459
 translate turkish replay_d01s02_a879797f:
 
     # mct "Okay. Seems like the lecture is almost over ..."
     mct "Okay. Seems like the lecture is almost over ..."
 
-# game/code/d01/s02.rpy:459
+# game/code/d01/s02.rpy:460
 translate turkish replay_d01s02_300e3d8a:
 
     # mct "just a little longer."
     mct "just a little longer."
 
-# game/code/d01/s02.rpy:464
+# game/code/d01/s02.rpy:465
 translate turkish replay_d01s02_5c98fad5:
 
     # arjt "Hmmm."
     arjt "Hmmm."
 
-# game/code/d01/s02.rpy:465
+# game/code/d01/s02.rpy:466
 translate turkish replay_d01s02_015d87b4:
 
     # arjt "What?!"
     arjt "What?!"
 
-# game/code/d01/s02.rpy:468
+# game/code/d01/s02.rpy:469
 translate turkish replay_d01s02_de6c46e2:
 
     # arjt "Oh wow!"
     arjt "Oh wow!"
 
-# game/code/d01/s02.rpy:470
+# game/code/d01/s02.rpy:471
 translate turkish replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
     arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
 
-# game/code/d01/s02.rpy:471
+# game/code/d01/s02.rpy:472
 translate turkish replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
     arjt "I'm sure he is. He just got super hard when I invited him."
 
-# game/code/d01/s02.rpy:474
+# game/code/d01/s02.rpy:476
 translate turkish replay_d01s02_ae5cc99b:
 
     # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
     arjt "What should I do?! We were friends for so long. He never showed any interest in me."
 
-# game/code/d01/s02.rpy:475
+# game/code/d01/s02.rpy:477
 translate turkish replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
     arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
 
-# game/code/d01/s02.rpy:478
+# game/code/d01/s02.rpy:480
 translate turkish replay_d01s02_55d3d3cd:
 
     # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
     mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
 
-# game/code/d01/s02.rpy:480
+# game/code/d01/s02.rpy:482
 translate turkish replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
     mct "Oh man! I'm so hard after I saw Min jerking Antony off."
 
-# game/code/d01/s02.rpy:481
-translate turkish replay_d01s02_2b171a44:
+# game/code/d01/s02.rpy:483
+translate turkish replay_d01s02_84d4c479:
 
-    # mct "I hope I can walk out class without someone noticing my hard dick."
-    mct "I hope I can walk out class without someone noticing my hard dick."
+    # mct "I hope I can walk out of class without someone noticing my hard dick."
+    mct "I hope I can walk out of class without someone noticing my hard dick."
 
-# game/code/d01/s02.rpy:485
+# game/code/d01/s02.rpy:487
 translate turkish replay_d01s02_9096c34d:
 
     # mc "See ya tonight!"
     mc "See ya tonight!"
 
-# game/code/d01/s02.rpy:487
+# game/code/d01/s02.rpy:489
 translate turkish replay_d01s02_4c85d272:
 
     # mc "See ya!"
     mc "See ya!"
 
-# game/code/d01/s02.rpy:490
+# game/code/d01/s02.rpy:492
 translate turkish replay_d01s02_c484e8d4:
 
     # arj "Ciao!"
@@ -1090,31 +1090,31 @@ translate turkish strings:
     old "No, Cumshot is not my fetish"
     new "No, Cumshot is not my fetish"
 
-    # game/code/d01/s02.rpy:339
+    # game/code/d01/s02.rpy:340
     old "About the movie!"
     new "About the movie!"
 
-    # game/code/d01/s02.rpy:339
+    # game/code/d01/s02.rpy:340
     old "It was about listening to the lecture!"
     new "It was about listening to the lecture!"
 
-    # game/code/d01/s02.rpy:339
+    # game/code/d01/s02.rpy:340
     old "You asked why I was gone for two weeks!"
     new "You asked why I was gone for two weeks!"
 
-    # game/code/d01/s02.rpy:412
+    # game/code/d01/s02.rpy:413
     old "See the movie after that"
     new "See the movie after that"
 
-    # game/code/d01/s02.rpy:412
+    # game/code/d01/s02.rpy:413
     old "Don't go to see the movie with her"
     new "Don't go to see the movie with her"
 
-    # game/code/d01/s02.rpy:445
+    # game/code/d01/s02.rpy:446
     old "Don't watch a movie with her"
     new "Don't watch a movie with her"
 
-    # game/code/d01/s02.rpy:445
+    # game/code/d01/s02.rpy:446
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s01.rpy:37
 translate turkish replay_d06s01_e9d8a8ea:
@@ -163,10 +163,10 @@ translate turkish replay_d06s01_0f5eed03:
     dd "No, no. I'm sorry. I didn't mean to fingerfuck your ass while it was dry."
 
 # game/code/d06/d06s01.rpy:125
-translate turkish replay_d06s01_e86c8aec:
+translate turkish replay_d06s01_ffd9ddf6:
 
-    # mc "I know you didn't. Let's just... not repeat that every again."
-    mc "I know you didn't. Let's just... not repeat that every again."
+    # mc "I know you didn't. Let's just... not repeat that ever again."
+    mc "I know you didn't. Let's just... not repeat that ever again."
 
 # game/code/d06/d06s01.rpy:126
 translate turkish replay_d06s01_b3d674f1:

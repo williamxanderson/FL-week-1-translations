@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s10.rpy:8
 translate turkish replay_d06s10_8294ec97:
@@ -210,49 +210,49 @@ translate turkish replay_d06s10_44cf3a69:
     # "female voice" "Did you hear that? I think your roommate is having good dreams."
     "female voice" "Did you hear that? I think your roommate is having good dreams."
 
-# game/code/d06/d06s10.rpy:101
+# game/code/d06/d06s10.rpy:102
 translate turkish replay_d06s10_7ff738c6:
 
     # pb "I bet he... {w}ooohhhhhh yeah."
     pb "I bet he... {w}ooohhhhhh yeah."
 
-# game/code/d06/d06s10.rpy:104
+# game/code/d06/d06s10.rpy:105
 translate turkish replay_d06s10_2012b948:
 
     # "female voice" "Maybe you can go on top for once?"
     "female voice" "Maybe you can go on top for once?"
 
-# game/code/d06/d06s10.rpy:105
+# game/code/d06/d06s10.rpy:106
 translate turkish replay_d06s10_b9a17a5f:
 
     # pb "You bet... {w}ooohhhhhh yeah."
     pb "You bet... {w}ooohhhhhh yeah."
 
-# game/code/d06/d06s10.rpy:107
+# game/code/d06/d06s10.rpy:108
 translate turkish replay_d06s10_6c9b9c0b:
 
     # "female voice" "Really? Is that it?"
     "female voice" "Really? Is that it?"
 
-# game/code/d06/d06s10.rpy:108
+# game/code/d06/d06s10.rpy:109
 translate turkish replay_d06s10_1a7f4f70:
 
     # pb "Shhhhh... {w}(snoring)"
     pb "Shhhhh... {w}(snoring)"
 
-# game/code/d06/d06s10.rpy:110
+# game/code/d06/d06s10.rpy:111
 translate turkish replay_d06s10_1b124cd3:
 
     # "female voice" "I don't believe this. {w}Get me off or get off me."
     "female voice" "I don't believe this. {w}Get me off or get off me."
 
-# game/code/d06/d06s10.rpy:111
+# game/code/d06/d06s10.rpy:112
 translate turkish replay_d06s10_30794d05:
 
     # pb "Sssuuree... {w}(snoring)"
     pb "Sssuuree... {w}(snoring)"
 
-# game/code/d06/d06s10.rpy:113
+# game/code/d06/d06s10.rpy:114
 translate turkish replay_d06s10_b79140a5:
 
     # "female voice" "asshole."

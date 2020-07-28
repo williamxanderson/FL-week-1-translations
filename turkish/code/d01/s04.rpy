@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d01/s04.rpy:157
 translate turkish s04_2433015c:
@@ -67,10 +67,10 @@ translate turkish s04_63fa3f9f:
     pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
 
 # game/code/d01/s04.rpy:186
-translate turkish s04_93757b95:
+translate turkish s04_5ea01134:
 
-    # mc "Thanks! We'll both of us will finish it a lot quicker together."
-    mc "Thanks! We'll both of us will finish it a lot quicker together."
+    # mc "Thanks! We'll finish this a lot quicker together."
+    mc "Thanks! We'll finish this a lot quicker together."
 
 # game/code/d01/s04.rpy:189
 translate turkish s04_08628ae2:
@@ -283,10 +283,10 @@ translate turkish s04_f2eaa3d2:
     mc "You aren't naked!"
 
 # game/code/d01/s04.rpy:292
-translate turkish s04_aaffe5fa:
+translate turkish s04_5bfce982:
 
-    # sy "What if I'd be doing it naked? You would still watch me?"
-    sy "What if I'd be doing it naked? You would still watch me?"
+    # sy "What if I'd been doing it naked? Would you still watch me?"
+    sy "What if I'd been doing it naked? Would you still watch me?"
 
 # game/code/d01/s04.rpy:294
 translate turkish s04_c16c614e:
@@ -457,10 +457,10 @@ translate turkish replay_d01s04_2fdfc77c:
     pb "Okay-okay. Here you go. Choke on it bitch."
 
 # game/code/d01/s04.rpy:371
-translate turkish replay_d01s04_00bf4179:
+translate turkish replay_d01s04_ad5ec6e0:
 
-    # mct "What the fuck?! He knows that I just came into restroom. Did he bring some girl here on purpose?"
-    mct "What the fuck?! He knows that I just came into restroom. Did he bring some girl here on purpose?"
+    # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
+    mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
 
 # game/code/d01/s04.rpy:372
 translate turkish replay_d01s04_1d4de0ac:

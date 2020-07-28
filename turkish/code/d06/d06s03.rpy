@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s03.rpy:22
 translate turkish d06s03_ce6bbf32:
@@ -733,10 +733,10 @@ translate turkish replay_d06s03k_24fb4913_1:
     sy "What?!"
 
 # game/code/d06/d06s03.rpy:387
-translate turkish replay_d06s03k_b05a81cb:
+translate turkish replay_d06s03k_dfa8b32f:
 
-    # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's signing at the local coffee shop."
-    mc "Lydia is kinda my girlfriend. We're having our first date, and then she's signing at the local coffee shop."
+    # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
+    mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
 
 # game/code/d06/d06s03.rpy:389
 translate turkish replay_d06s03k_13ab6a1d:

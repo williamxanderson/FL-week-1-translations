@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d05/d05s05a.rpy:13
 translate turkish d05s05_577ee943:
@@ -145,10 +145,10 @@ translate turkish d05s05_a17b056e:
     mc "Yeah, that stuff. Besides, you can introduce me to your realtor."
 
 # game/code/d05/d05s05a.rpy:54
-translate turkish d05s05_143ef998:
+translate turkish d05s05_b634c7fd:
 
-    # arj "Okay. We're going across down, so I'll meet you at the subway station."
-    arj "Okay. We're going across down, so I'll meet you at the subway station."
+    # arj "Okay. We're going across town, so I'll meet you at the subway station."
+    arj "Okay. We're going across town, so I'll meet you at the subway station."
 
 # game/code/d05/d05s05a.rpy:57
 translate turkish d05s05_10eacc41:

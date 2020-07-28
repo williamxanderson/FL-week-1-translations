@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 translate turkish strings:
 
@@ -318,7 +318,7 @@ translate turkish strings:
     old "Quick load."
     new "Quick load."
 
-    # renpy/common/00action_other.rpy:355
+    # renpy/common/00action_other.rpy:375
     old "Language [text]"
     new "Language [text]"
 
@@ -414,43 +414,43 @@ translate turkish strings:
     old "Audio Filename:"
     new "Audio Filename:"
 
-    # renpy/common/00gui.rpy:371
+    # renpy/common/00gui.rpy:374
     old "Are you sure?"
     new "Are you sure?"
 
-    # renpy/common/00gui.rpy:372
+    # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
     new "Are you sure you want to delete this save?"
 
-    # renpy/common/00gui.rpy:373
+    # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
     new "Are you sure you want to overwrite your save?"
 
-    # renpy/common/00gui.rpy:374
+    # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
 
-    # renpy/common/00gui.rpy:375
+    # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
     new "Are you sure you want to quit?"
 
-    # renpy/common/00gui.rpy:376
+    # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
 
-    # renpy/common/00gui.rpy:377
+    # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
     new "Are you sure you want to end the replay?"
 
-    # renpy/common/00gui.rpy:378
+    # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
     new "Are you sure you want to begin skipping?"
 
-    # renpy/common/00gui.rpy:379
+    # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
     new "Are you sure you want to skip to the next choice?"
 
-    # renpy/common/00gui.rpy:380
+    # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Are you sure you want to skip unseen dialogue to the next choice?"
 

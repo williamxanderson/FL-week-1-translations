@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d03p/d03s11.rpy:40
 translate turkish d03s11_b3510f7c:
@@ -558,13 +558,13 @@ translate turkish replay_d03s11_ba2f6047:
     # mh "I'm going back to the party! Have fun!"
     mh "I'm going back to the party! Have fun!"
 
-# game/code/d03p/d03s11.rpy:322
+# game/code/d03p/d03s11.rpy:324
 translate turkish replay_d03s11_dbf187e2:
 
     # mct "I just got a blowjob from a transsexual?!"
     mct "I just got a blowjob from a transsexual?!"
 
-# game/code/d03p/d03s11.rpy:323
+# game/code/d03p/d03s11.rpy:325
 translate turkish replay_d03s11_754efcdb:
 
     # mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."

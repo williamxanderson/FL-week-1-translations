@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 translate turkish strings:
 
@@ -11,8 +11,8 @@ translate turkish strings:
     new "Replay Room"
 
     # game/code/screens/extended/screens_fl.rpy:23
-    old "Achievements"
-    new "Achievements"
+    old "Bonus Content"
+    new "Bonus Content"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
@@ -22,15 +22,15 @@ translate turkish strings:
     old "Hints off"
     new "Hints off"
 
-    # game/code/screens/extended/screens_fl.rpy:45
+    # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
     new "Page [page]"
 
-    # game/code/screens/extended/screens_fl.rpy:93
+    # game/code/screens/extended/screens_fl.rpy:94
     old "<"
     new "<"
 
-    # game/code/screens/extended/screens_fl.rpy:101
+    # game/code/screens/extended/screens_fl.rpy:102
     old ">"
     new ">"
 

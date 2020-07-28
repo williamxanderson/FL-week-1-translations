@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d05/d05s02.rpy:31
 translate turkish d05s02_7d9f2829:
@@ -354,367 +354,367 @@ translate turkish d05s02_film_it_929d26c8:
     # kb "Nice!"
     kb "Nice!"
 
-# game/code/d05/d05s02.rpy:165
+# game/code/d05/d05s02.rpy:166
 translate turkish d05s02_anal_349c5cb0:
 
     # mc "Oh, it gets better. {w}Chloe, turn around."
     mc "Oh, it gets better. {w}Chloe, turn around."
 
-# game/code/d05/d05s02.rpy:166
+# game/code/d05/d05s02.rpy:167
 translate turkish d05s02_anal_4bcf86b6:
 
     # cb "Hell yeah!"
     cb "Hell yeah!"
 
-# game/code/d05/d05s02.rpy:168
+# game/code/d05/d05s02.rpy:169
 translate turkish d05s02_anal_edaa8cb8:
 
     # mc "Hey Kev - Pick a hole!"
     mc "Hey Kev - Pick a hole!"
 
-# game/code/d05/d05s02.rpy:170
+# game/code/d05/d05s02.rpy:171
 translate turkish d05s02_anal_6c4d60d4:
 
     # kb "Fuck her ass, bro!"
     kb "Fuck her ass, bro!"
 
-# game/code/d05/d05s02.rpy:172
+# game/code/d05/d05s02.rpy:173
 translate turkish d05s02_anal_134eb979:
 
     # cb "What?! {w}Oh, okay."
     cb "What?! {w}Oh, okay."
 
-# game/code/d05/d05s02.rpy:177
+# game/code/d05/d05s02.rpy:178
 translate turkish d05s02_anal_29b9ec7c:
 
     # cb "Oh-h-h! Not so fast!"
     cb "Oh-h-h! Not so fast!"
 
-# game/code/d05/d05s02.rpy:180
+# game/code/d05/d05s02.rpy:181
 translate turkish d05s02_anal_ec072719:
 
     # cb "My ass is on fire!"
     cb "My ass is on fire!"
 
-# game/code/d05/d05s02.rpy:182
+# game/code/d05/d05s02.rpy:183
 translate turkish d05s02_anal_7ebde289:
 
     # cb "C'mon! Move it!"
     cb "C'mon! Move it!"
 
-# game/code/d05/d05s02.rpy:185
+# game/code/d05/d05s02.rpy:186
 translate turkish d05s02_anal_35020996:
 
     # cb "A-a-a-h!"
     cb "A-a-a-h!"
 
-# game/code/d05/d05s02.rpy:195
+# game/code/d05/d05s02.rpy:196
 translate turkish d05s02_anal_1d7ac442:
 
     # kb "Wow!"
     kb "Wow!"
 
-# game/code/d05/d05s02.rpy:200
+# game/code/d05/d05s02.rpy:201
 translate turkish d05s02_anal_3fe2943f:
 
     # cb "Faster!"
     cb "Faster!"
 
-# game/code/d05/d05s02.rpy:204
+# game/code/d05/d05s02.rpy:205
 translate turkish d05s02_anal_335271ef:
 
     # cb "O-o-u-h! My Ass!"
     cb "O-o-u-h! My Ass!"
 
-# game/code/d05/d05s02.rpy:208
+# game/code/d05/d05s02.rpy:209
 translate turkish d05s02_anal_d214b8da:
 
     # cb "So good!"
     cb "So good!"
 
-# game/code/d05/d05s02.rpy:214
+# game/code/d05/d05s02.rpy:215
 translate turkish d05s02_anal_cbf7d28d:
 
     # cb "Do you want to cum in my ass?"
     cb "Do you want to cum in my ass?"
 
-# game/code/d05/d05s02.rpy:218
+# game/code/d05/d05s02.rpy:219
 translate turkish d05s02_anal_09130781:
 
     # mc "If feels great in your ass!"
     mc "If feels great in your ass!"
 
-# game/code/d05/d05s02.rpy:221
+# game/code/d05/d05s02.rpy:222
 translate turkish d05s02_anal_c5c1806b:
 
     # cb "Do it! Fill me up!"
     cb "Do it! Fill me up!"
 
-# game/code/d05/d05s02.rpy:227
+# game/code/d05/d05s02.rpy:228
 translate turkish d05s02_anal_cd7b20bd:
 
     # mc "O-o-of!"
     mc "O-o-of!"
 
-# game/code/d05/d05s02.rpy:230
+# game/code/d05/d05s02.rpy:231
 translate turkish d05s02_anal_b4d0f9e4:
 
     # mc "Looks awesome!"
     mc "Looks awesome!"
 
-# game/code/d05/d05s02.rpy:231
+# game/code/d05/d05s02.rpy:232
 translate turkish d05s02_anal_77c06ee9:
 
     # cb "Feels even better!"
     cb "Feels even better!"
 
-# game/code/d05/d05s02.rpy:233
+# game/code/d05/d05s02.rpy:234
 translate turkish d05s02_anal_f50b9525:
 
     # mc "Turn around! {w}I think you should taste it!"
     mc "Turn around! {w}I think you should taste it!"
 
-# game/code/d05/d05s02.rpy:235
+# game/code/d05/d05s02.rpy:236
 translate turkish d05s02_anal_5c89d7d5:
 
     # cb "M-m-mgh"
     cb "M-m-mgh"
 
-# game/code/d05/d05s02.rpy:250
+# game/code/d05/d05s02.rpy:251
 translate turkish d05s02_anal_448be381:
 
     # cb "Thanks! That was great!"
     cb "Thanks! That was great!"
 
-# game/code/d05/d05s02.rpy:251
+# game/code/d05/d05s02.rpy:252
 translate turkish d05s02_anal_587cf954:
 
     # mc "Anytime!"
     mc "Anytime!"
 
-# game/code/d05/d05s02.rpy:253
+# game/code/d05/d05s02.rpy:254
 translate turkish d05s02_anal_50249c83:
 
     # kb "That was awesome!"
     kb "That was awesome!"
 
-# game/code/d05/d05s02.rpy:254
+# game/code/d05/d05s02.rpy:255
 translate turkish d05s02_anal_5313d45d:
 
     # mc "You're telling me?!"
     mc "You're telling me?!"
 
-# game/code/d05/d05s02.rpy:255
+# game/code/d05/d05s02.rpy:256
 translate turkish d05s02_anal_abbe0f72:
 
     # cb "dammit... next time... need lube."
     cb "dammit... next time... need lube."
 
-# game/code/d05/d05s02.rpy:257
+# game/code/d05/d05s02.rpy:258
 translate turkish d05s02_anal_54beaead:
 
     # kb "Oh, sorry sis. I have some you could've used."
     kb "Oh, sorry sis. I have some you could've used."
 
-# game/code/d05/d05s02.rpy:259
+# game/code/d05/d05s02.rpy:260
 translate turkish d05s02_anal_41054b01:
 
     # kb "Oh, sorry hon. I have some you could've used."
     kb "Oh, sorry hon. I have some you could've used."
 
-# game/code/d05/d05s02.rpy:260
+# game/code/d05/d05s02.rpy:261
 translate turkish d05s02_anal_03787f2f:
 
     # cb "Yeah, but I knew it would be hotter for you to watch me without it."
     cb "Yeah, but I knew it would be hotter for you to watch me without it."
 
-# game/code/d05/d05s02.rpy:262
+# game/code/d05/d05s02.rpy:263
 translate turkish d05s02_anal_aeeab336:
 
     # mc "Damn. I don't know if that's love, but that sure is something."
     mc "Damn. I don't know if that's love, but that sure is something."
 
-# game/code/d05/d05s02.rpy:277
+# game/code/d05/d05s02.rpy:278
 translate turkish d05s02_BJ_1d7ac442:
 
     # kb "Wow!"
     kb "Wow!"
 
-# game/code/d05/d05s02.rpy:280
+# game/code/d05/d05s02.rpy:281
 translate turkish d05s02_BJ_1eb30572:
 
     # cb "Are you ready to cum?"
     cb "Are you ready to cum?"
 
-# game/code/d05/d05s02.rpy:281
+# game/code/d05/d05s02.rpy:282
 translate turkish d05s02_BJ_9fb20e4d:
 
     # mc "I'm close!"
     mc "I'm close!"
 
-# game/code/d05/d05s02.rpy:284
+# game/code/d05/d05s02.rpy:285
 translate turkish d05s02_BJ_968f9097:
 
     # mc "Oh! I'm almost there!"
     mc "Oh! I'm almost there!"
 
-# game/code/d05/d05s02.rpy:291
+# game/code/d05/d05s02.rpy:292
 translate turkish d05s02_BJ_3664c496:
 
     # cb "Amazing!"
     cb "Amazing!"
 
-# game/code/d05/d05s02.rpy:294
+# game/code/d05/d05s02.rpy:295
 translate turkish d05s02_BJ_7abe4673:
 
     # kb "Great! I got it all!"
     kb "Great! I got it all!"
 
-# game/code/d05/d05s02.rpy:296
+# game/code/d05/d05s02.rpy:297
 translate turkish d05s02_BJ_a1f5876d:
 
     # kb "Awesome material!"
     kb "Awesome material!"
 
-# game/code/d05/d05s02.rpy:299
+# game/code/d05/d05s02.rpy:300
 translate turkish d05s02_BJ_76340e1b:
 
     # cb "Thanks for that... {w}and for helping us out the other day."
     cb "Thanks for that... {w}and for helping us out the other day."
 
-# game/code/d05/d05s02.rpy:300
+# game/code/d05/d05s02.rpy:301
 translate turkish d05s02_BJ_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/d05/d05s02.rpy:301
+# game/code/d05/d05s02.rpy:302
 translate turkish d05s02_BJ_9463e47f:
 
     # cb "When you got in trouble so that we wouldn't get caught."
     cb "When you got in trouble so that we wouldn't get caught."
 
-# game/code/d05/d05s02.rpy:302
+# game/code/d05/d05s02.rpy:303
 translate turkish d05s02_BJ_f1e96d15:
 
     # mc "Oh yeah. {w}It's been a busy week. I almost forgot about that."
     mc "Oh yeah. {w}It's been a busy week. I almost forgot about that."
 
-# game/code/d05/d05s02.rpy:303
+# game/code/d05/d05s02.rpy:304
 translate turkish d05s02_BJ_33cdca68:
 
     # cb "We didn't."
     cb "We didn't."
 
-# game/code/d05/d05s02.rpy:305
+# game/code/d05/d05s02.rpy:306
 translate turkish d05s02_BJ_cab57c03:
 
     # mc "Well, you're welcome."
     mc "Well, you're welcome."
 
-# game/code/d05/d05s02.rpy:330
+# game/code/d05/d05s02.rpy:331
 translate turkish d05s02_end_ed2805f5:
 
     # flr "REMINDER Keep your device with you as much as possible."
     flr "REMINDER Keep your device with you as much as possible."
 
-# game/code/d05/d05s02.rpy:331
+# game/code/d05/d05s02.rpy:332
 translate turkish d05s02_end_3e96b0df:
 
     # mc "Huh. It didn't get any signal while it was in my gym locker."
     mc "Huh. It didn't get any signal while it was in my gym locker."
 
-# game/code/d05/d05s02.rpy:332
+# game/code/d05/d05s02.rpy:333
 translate turkish d05s02_end_55b6e10d:
 
     # mct "I guess the metal locker functions like a Faraday cage. {w}Good to know."
     mct "I guess the metal locker functions like a Faraday cage. {w}Good to know."
 
-# game/code/d05/d05s02.rpy:338
+# game/code/d05/d05s02.rpy:339
 translate turkish d05s02_end_bced1ce1:
 
     # fl "Message from Squizzle: I'll need your help today; Drink lots of water!"
     fl "Message from Squizzle: I'll need your help today; Drink lots of water!"
 
-# game/code/d05/d05s02.rpy:339
+# game/code/d05/d05s02.rpy:340
 translate turkish d05s02_end_fc35ec74:
 
     # mct "What's that about? {w}Oh, I guess she wants to start her lessons."
     mct "What's that about? {w}Oh, I guess she wants to start her lessons."
 
-# game/code/d05/d05s02.rpy:343
+# game/code/d05/d05s02.rpy:344
 translate turkish d05s02_end_425f0d01:
 
     # fl "Daily Challenge: Watersports"
     fl "Daily Challenge: Watersports"
 
-# game/code/d05/d05s02.rpy:345
+# game/code/d05/d05s02.rpy:346
 translate turkish d05s02_end_f75ef870:
 
     # mct "Ah that is why Min wants to start piss practice..."
     mct "Ah that is why Min wants to start piss practice..."
 
-# game/code/d05/d05s02.rpy:353
+# game/code/d05/d05s02.rpy:354
 translate turkish d05s02_end_49f6e3aa:
 
     # mct "I better respond to Min."
     mct "I better respond to Min."
 
-# game/code/d05/d05s02.rpy:355
+# game/code/d05/d05s02.rpy:356
 translate turkish d05s02_end_083696b1:
 
     # mct "fo' shizzle my Squizzle; Where & When?"
     mct "fo' shizzle my Squizzle; Where & When?"
 
-# game/code/d05/d05s02.rpy:357
+# game/code/d05/d05s02.rpy:358
 translate turkish d05s02_end_7ce3ba62:
 
     # mct "Wait, did I really mean to turn down this challenge?"
     mct "Wait, did I really mean to turn down this challenge?"
 
-# game/code/d05/d05s02.rpy:361
+# game/code/d05/d05s02.rpy:362
 translate turkish d05s02_end_ec73df52:
 
     # mct "Sure Squizzle; Where & When?"
     mct "Sure Squizzle; Where & When?"
 
-# game/code/d05/d05s02.rpy:363
+# game/code/d05/d05s02.rpy:364
 translate turkish d05s02_end_8c36759e:
 
     # mct "Weird. Why did I drink... {w}oh well, nevermind."
     mct "Weird. Why did I drink... {w}oh well, nevermind."
 
-# game/code/d05/d05s02.rpy:364
+# game/code/d05/d05s02.rpy:365
 translate turkish d05s02_end_970dae40:
 
     # mct "Sorry Squizzle, I'm done with that stuff."
     mct "Sorry Squizzle, I'm done with that stuff."
 
-# game/code/d05/d05s02.rpy:367
+# game/code/d05/d05s02.rpy:368
 translate turkish d05s02_end_12157c14:
 
     # mct "Even more messages!"
     mct "Even more messages!"
 
-# game/code/d05/d05s02.rpy:369
+# game/code/d05/d05s02.rpy:370
 translate turkish d05s02_end_d07f8876:
 
     # fl "You earned some points!"
     fl "You earned some points!"
 
-# game/code/d05/d05s02.rpy:371
+# game/code/d05/d05s02.rpy:372
 translate turkish d05s02_end_60e719c5:
 
     # mct "Ok! [d05s02_points] points for having sex with Chloe. That is a good start!"
     mct "Ok! [d05s02_points] points for having sex with Chloe. That is a good start!"
 
-# game/code/d05/d05s02.rpy:373
+# game/code/d05/d05s02.rpy:374
 translate turkish d05s02_end_ffa43b58:
 
     # mct "Huh? What's that noise?"
     mct "Huh? What's that noise?"
 
-# game/code/d05/d05s02.rpy:374
+# game/code/d05/d05s02.rpy:375
 translate turkish d05s02_end_c96c6016:
 
     # mct "It sounds like people yelling."
@@ -742,27 +742,27 @@ translate turkish strings:
     old "I'm not comfortable with that."
     new "I'm not comfortable with that."
 
-    # game/code/d05/d05s02.rpy:215
+    # game/code/d05/d05s02.rpy:216
     old "Cum in her ass"
     new "Cum in her ass"
 
-    # game/code/d05/d05s02.rpy:215
+    # game/code/d05/d05s02.rpy:216
     old "Cum in her mouth"
     new "Cum in her mouth"
 
-    # game/code/d05/d05s02.rpy:346
+    # game/code/d05/d05s02.rpy:347
     old "Yes to watersports"
     new "Yes to watersports"
 
-    # game/code/d05/d05s02.rpy:346
+    # game/code/d05/d05s02.rpy:347
     old "No, that is not my thing"
     new "No, that is not my thing"
 
-    # game/code/d05/d05s02.rpy:358
+    # game/code/d05/d05s02.rpy:359
     old "I want pee, piss, and watersports"
     new "I want pee, piss, and watersports"
 
-    # game/code/d05/d05s02.rpy:358
+    # game/code/d05/d05s02.rpy:359
     old "I do not want any of that"
     new "I do not want any of that"
 

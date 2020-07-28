@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/data/extended/labels.rpy:7
 translate turkish extended_game_over_5d5a9fa8:

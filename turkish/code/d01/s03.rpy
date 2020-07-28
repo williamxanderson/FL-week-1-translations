@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d01/s03.rpy:59
 translate turkish s03_97dc2f80:
@@ -241,16 +241,16 @@ translate turkish s03_82ad7de8:
     mc "I checked it out a little bit. Looks unusual."
 
 # game/code/d01/s03.rpy:145
-translate turkish s03_c7daa34b:
+translate turkish s03_e0d4ae87:
 
-    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
-    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
+    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
 
 # game/code/d01/s03.rpy:147
-translate turkish s03_4b2f6a12:
+translate turkish s03_512c71de:
 
-    # mc "What's this about the points in the app? There was a message that someone won 50 points."
-    mc "What's this about the points in the app? There was a message that someone won 50 points."
+    # mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "What's this about the points in the app? There was a message that someone won 25 points."
 
 # game/code/d01/s03.rpy:149
 translate turkish s03_8cfb41dc:
@@ -325,10 +325,10 @@ translate turkish s03_8f41ab32:
     kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
 
 # game/code/d01/s03.rpy:171
-translate turkish s03_8e5f8321:
+translate turkish s03_71858fb4:
 
-    # mct "Hey, there's Chloe! It's not like her to miss first 10 minutes of the game."
-    mct "Hey, there's Chloe! It's not like her to miss first 10 minutes of the game."
+    # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+    mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
 
 # game/code/d01/s03.rpy:172
 translate turkish s03_898380c6:
@@ -427,10 +427,10 @@ translate turkish s03_337726d5:
     mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
 
 # game/code/d01/s03.rpy:199
-translate turkish s03_f5ab3df5:
+translate turkish s03_f549b1a7:
 
-    # mc "The last two weeks though, we had chance to get caught up with each other's lives."
-    mc "The last two weeks though, we had chance to get caught up with each other's lives."
+    # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+    mc "The last two weeks though, we had a chance to get caught up with each other's lives."
 
 # game/code/d01/s03.rpy:200
 translate turkish s03_89560423:
@@ -763,10 +763,10 @@ translate turkish s03_2f1b80f7:
     mc "Ughh."
 
 # game/code/d01/s03.rpy:328
-translate turkish s03_75701fce:
+translate turkish s03_7dbb8e20:
 
-    # mct "Damn! When she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Damn! When she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+    # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+    mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
 
 # game/code/d01/s03.rpy:331
 translate turkish s03_82d48b48:

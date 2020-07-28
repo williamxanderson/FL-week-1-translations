@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d05/d05s06.rpy:19
 translate turkish d05s06_d0f18cf9:
@@ -1260,121 +1260,121 @@ translate turkish d05s06_after_2a86b453:
     # mesfl "Um, okay. I'll do that."
     mesfl "Um, okay. I'll do that."
 
-# game/code/d05/d05s06.rpy:442
+# game/code/d05/d05s06.rpy:443
 translate turkish d05s06_after_09c82e29:
 
     # fl "Daily Challenge Winners Announcement: OurKelley & Chickaa"
     fl "Daily Challenge Winners Announcement: OurKelley & Chickaa"
 
-# game/code/d05/d05s06.rpy:444
+# game/code/d05/d05s06.rpy:445
 translate turkish d05s06_after_849b8c8b:
 
     # mesfl "Who are they? I've never heard of either one."
     mesfl "Who are they? I've never heard of either one."
 
-# game/code/d05/d05s06.rpy:445
+# game/code/d05/d05s06.rpy:446
 translate turkish d05s06_after_1f660624:
 
     # mc "Damn. I'm sorry."
     mc "Damn. I'm sorry."
 
-# game/code/d05/d05s06.rpy:447
+# game/code/d05/d05s06.rpy:448
 translate turkish d05s06_after_dbcb9b25:
 
     # mesfl "Don't be. If anything, this is my fault. I should have started training sooner."
     mesfl "Don't be. If anything, this is my fault. I should have started training sooner."
 
-# game/code/d05/d05s06.rpy:448
+# game/code/d05/d05s06.rpy:449
 translate turkish d05s06_after_b47abf86:
 
     # mc "Well, unless they repeat daily challenges, at least you never have to do that again."
     mc "Well, unless they repeat daily challenges, at least you never have to do that again."
 
-# game/code/d05/d05s06.rpy:449
+# game/code/d05/d05s06.rpy:450
 translate turkish d05s06_after_20197518:
 
     # mesfl "Oh yes I do. I need to beat this on my own terms. And you're going to help me."
     mesfl "Oh yes I do. I need to beat this on my own terms. And you're going to help me."
 
-# game/code/d05/d05s06.rpy:450
+# game/code/d05/d05s06.rpy:451
 translate turkish d05s06_after_160cc547:
 
     # mc "I am?"
     mc "I am?"
 
-# game/code/d05/d05s06.rpy:452
+# game/code/d05/d05s06.rpy:453
 translate turkish d05s06_after_4fd7690a:
 
     # mesfl "I won't take no for an answer."
     mesfl "I won't take no for an answer."
 
-# game/code/d05/d05s06.rpy:453
+# game/code/d05/d05s06.rpy:454
 translate turkish d05s06_after_a576b8e1:
 
     # mc "You're kinda scary sometimes."
     mc "You're kinda scary sometimes."
 
-# game/code/d05/d05s06.rpy:454
+# game/code/d05/d05s06.rpy:455
 translate turkish d05s06_after_c4f55880:
 
     # mesfl "I will drink your piss and learn to love it."
     mesfl "I will drink your piss and learn to love it."
 
-# game/code/d05/d05s06.rpy:455
+# game/code/d05/d05s06.rpy:456
 translate turkish d05s06_after_f5c9a807:
 
     # mc "Anyway, I should get going. Take care."
     mc "Anyway, I should get going. Take care."
 
-# game/code/d05/d05s06.rpy:457
+# game/code/d05/d05s06.rpy:458
 translate turkish d05s06_after_d666d4a9:
 
     # mesfl "You too... {w}and hey, if you ever need points or just want a partner for something, I wouldn't mind doing more challenges with you."
     mesfl "You too... {w}and hey, if you ever need points or just want a partner for something, I wouldn't mind doing more challenges with you."
 
-# game/code/d05/d05s06.rpy:458
+# game/code/d05/d05s06.rpy:459
 translate turkish d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
     mc "Looking forward to it."
 
-# game/code/d05/d05s06.rpy:460
+# game/code/d05/d05s06.rpy:461
 translate turkish d05s06_after_a8604854:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
     mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
 
-# game/code/d05/d05s06.rpy:461
+# game/code/d05/d05s06.rpy:462
 translate turkish d05s06_after_077a5ea0:
 
     # mesfl "Don't think you can defeat me with simple watersports next time."
     mesfl "Don't think you can defeat me with simple watersports next time."
 
-# game/code/d05/d05s06.rpy:462
+# game/code/d05/d05s06.rpy:463
 translate turkish d05s06_after_d226a0c0:
 
     # mc "Of course not, but I know you can't handle bodily emissions."
     mc "Of course not, but I know you can't handle bodily emissions."
 
-# game/code/d05/d05s06.rpy:463
+# game/code/d05/d05s06.rpy:464
 translate turkish d05s06_after_75f5d497:
 
     # mesfl "What are you- {w}You wouldn't."
     mesfl "What are you- {w}You wouldn't."
 
-# game/code/d05/d05s06.rpy:464
+# game/code/d05/d05s06.rpy:465
 translate turkish d05s06_after_645b1818:
 
     # mc "Piss is only the beginning..."
     mc "Piss is only the beginning..."
 
-# game/code/d05/d05s06.rpy:466
+# game/code/d05/d05s06.rpy:467
 translate turkish d05s06_after_37e07a8e:
 
     # mesfl "No. You wouldn't dare."
     mesfl "No. You wouldn't dare."
 
-# game/code/d05/d05s06.rpy:468
+# game/code/d05/d05s06.rpy:469
 translate turkish d05s06_after_775e40e3:
 
     # mc "See ya' at the next Party!"

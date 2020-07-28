@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d07/d07s03.rpy:13
 translate turkish d07s03_bc215ba7:
@@ -199,16 +199,16 @@ translate turkish d07s03_52e4f359:
     mc "Sure!"
 
 # game/code/d07/d07s03.rpy:70
-translate turkish d07s03_85ee1659:
+translate turkish d07s03_a990ded7:
 
-    # arj "Did you even see kayaking competition last year?"
-    arj "Did you even see kayaking competition last year?"
+    # arj "Did you even see the kayaking competition last year?"
+    arj "Did you even see the kayaking competition last year?"
 
 # game/code/d07/d07s03.rpy:71
-translate turkish d07s03_d1c93d61:
+translate turkish d07s03_1c8e118c:
 
-    # mc "I was here, but I don't remember competition itself."
-    mc "I was here, but I don't remember competition itself."
+    # mc "I was here, but I don't remember the competition itself."
+    mc "I was here, but I don't remember the competition itself."
 
 # game/code/d07/d07s03.rpy:73
 translate turkish d07s03_7244f03b:
@@ -223,10 +223,10 @@ translate turkish d07s03_10353503:
     mc "I'm fine with just spending time on the beach."
 
 # game/code/d07/d07s03.rpy:75
-translate turkish d07s03_faaef226:
+translate turkish d07s03_5a6fbbce:
 
-    # arj "Oh, you see there a girl warming up? I think she is from University team. Never seen her at college."
-    arj "Oh, you see there a girl warming up? I think she is from University team. Never seen her at college."
+    # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
+    arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
 
 # game/code/d07/d07s03.rpy:83
 translate turkish d07s03_a39e616d:

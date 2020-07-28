@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d03p2/d03s15.rpy:12
 translate turkish replay_d03s15_b9f43a8f:
@@ -79,10 +79,10 @@ translate turkish replay_d03s15_2aa7a86c:
     mct "This girl looks a lot like Maria. Could that redhead she talked about be AmRose?"
 
 # game/code/d03p2/d03s15.rpy:59
-translate turkish replay_d03s15_643e1f87:
+translate turkish replay_d03s15_363b3bc3:
 
-    # mct "But I didn't notice AmRose on the party... Why would she be \"crazy for points\"?"
-    mct "But I didn't notice AmRose on the party... Why would she be \"crazy for points\"?"
+    # mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
+    mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
 
 # game/code/d03p2/d03s15.rpy:62
 translate turkish replay_d03s15_8bf02a56:
@@ -91,10 +91,10 @@ translate turkish replay_d03s15_8bf02a56:
     mct "Seems like she wants to join Allison!"
 
 # game/code/d03p2/d03s15.rpy:92
-translate turkish replay_d03s15_f48ee2ab:
+translate turkish replay_d03s15_3156a5ef:
 
-    # mct "Allison removed her mask! Is it pretty dark and far, but now I'm almost certain that Vesna is Maria!"
-    mct "Allison removed her mask! Is it pretty dark and far, but now I'm almost certain that Vesna is Maria!"
+    # mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
+    mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
 
 # game/code/d03p2/d03s15.rpy:101
 translate turkish replay_d03s15_51ea8c52:

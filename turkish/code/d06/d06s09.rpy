@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d06/d06s09.rpy:7
 translate turkish d06s09_b8ade568:
@@ -198,265 +198,265 @@ translate turkish d06s09_f25dbcf6:
     # sy "What are you looking at?"
     sy "What are you looking at?"
 
-# game/code/d06/d06s09.rpy:68
+# game/code/d06/d06s09.rpy:69
 translate turkish d06s09_49f6461e:
 
     # mct "Fuck me. Stacy is hot."
     mct "Fuck me. Stacy is hot."
 
-# game/code/d06/d06s09.rpy:69
+# game/code/d06/d06s09.rpy:70
 translate turkish d06s09_1d8e4b50:
 
     # sy "Easy there, cowboy. Your eyes are likely to set my clothes on fire."
     sy "Easy there, cowboy. Your eyes are likely to set my clothes on fire."
 
-# game/code/d06/d06s09.rpy:70
+# game/code/d06/d06s09.rpy:71
 translate turkish d06s09_34b1f8cb:
 
     # mc "Ha! Are you sure you want to wear that?"
     mc "Ha! Are you sure you want to wear that?"
 
-# game/code/d06/d06s09.rpy:72
+# game/code/d06/d06s09.rpy:73
 translate turkish d06s09_cb659ac1:
 
     # sy "Why not? I trust you, and there's nobody here but us."
     sy "Why not? I trust you, and there's nobody here but us."
 
-# game/code/d06/d06s09.rpy:73
+# game/code/d06/d06s09.rpy:74
 translate turkish d06s09_56837d0c:
 
     # mct "I don't trust me THAT much."
     mct "I don't trust me THAT much."
 
-# game/code/d06/d06s09.rpy:75
+# game/code/d06/d06s09.rpy:76
 translate turkish d06s09_13981781:
 
     # sy "What was that on the phone?"
     sy "What was that on the phone?"
 
-# game/code/d06/d06s09.rpy:76
+# game/code/d06/d06s09.rpy:77
 translate turkish d06s09_8a130c45:
 
     # mc "Just some funny cats..."
     mc "Just some funny cats..."
 
-# game/code/d06/d06s09.rpy:77
+# game/code/d06/d06s09.rpy:78
 translate turkish d06s09_f24dbc17:
 
     # sy "Didn't look like a cat."
     sy "Didn't look like a cat."
 
-# game/code/d06/d06s09.rpy:78
+# game/code/d06/d06s09.rpy:79
 translate turkish d06s09_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/d06/d06s09.rpy:79
+# game/code/d06/d06s09.rpy:80
 translate turkish d06s09_d40ba70f:
 
     # sy "Was that an update to your porn collection?"
     sy "Was that an update to your porn collection?"
 
-# game/code/d06/d06s09.rpy:80
+# game/code/d06/d06s09.rpy:81
 translate turkish d06s09_82f64f73:
 
     # mc "What?! No! Forget about that collection!"
     mc "What?! No! Forget about that collection!"
 
-# game/code/d06/d06s09.rpy:81
+# game/code/d06/d06s09.rpy:82
 translate turkish d06s09_d1cdbe69:
 
     # sy "Hmmm."
     sy "Hmmm."
 
-# game/code/d06/d06s09.rpy:82
+# game/code/d06/d06s09.rpy:83
 translate turkish d06s09_ac33b984:
 
     # mc "Okay then. {w}I didn't think this through. Are you okay with sharing a bed?"
     mc "Okay then. {w}I didn't think this through. Are you okay with sharing a bed?"
 
-# game/code/d06/d06s09.rpy:84
+# game/code/d06/d06s09.rpy:85
 translate turkish d06s09_31fdec05:
 
     # sy "As long as I'm sharing it with you."
     sy "As long as I'm sharing it with you."
 
-# game/code/d06/d06s09.rpy:85
+# game/code/d06/d06s09.rpy:86
 translate turkish d06s09_5d195d25:
 
     # mc "Right. Okay. Well, this is my bed. You're welcome to it."
     mc "Right. Okay. Well, this is my bed. You're welcome to it."
 
-# game/code/d06/d06s09.rpy:89
+# game/code/d06/d06s09.rpy:90
 translate turkish d06s09_7ac6fcfb:
 
     # sy "Hmm. It's not comfy, but I suppose it will be cozy soon."
     sy "Hmm. It's not comfy, but I suppose it will be cozy soon."
 
-# game/code/d06/d06s09.rpy:91
+# game/code/d06/d06s09.rpy:92
 translate turkish d06s09_a8d013dd:
 
     # mc "Would you mind...?"
     mc "Would you mind...?"
 
-# game/code/d06/d06s09.rpy:92
+# game/code/d06/d06s09.rpy:93
 translate turkish d06s09_177d3151:
 
     # sy "What's that?"
     sy "What's that?"
 
-# game/code/d06/d06s09.rpy:93
+# game/code/d06/d06s09.rpy:94
 translate turkish d06s09_1e2a7d08:
 
     # mc "I just think it would be better if we sleep back to back."
     mc "I just think it would be better if we sleep back to back."
 
-# game/code/d06/d06s09.rpy:94
+# game/code/d06/d06s09.rpy:95
 translate turkish d06s09_d05c54d7:
 
     # sy "Oh, sure."
     sy "Oh, sure."
 
-# game/code/d06/d06s09.rpy:98
+# game/code/d06/d06s09.rpy:99
 translate turkish d06s09_26caed0d:
 
     # mct "Okay, okay. This isn't what it... {w}it's just me and her sharing a bed."
     mct "Okay, okay. This isn't what it... {w}it's just me and her sharing a bed."
 
-# game/code/d06/d06s09.rpy:99
+# game/code/d06/d06s09.rpy:100
 translate turkish d06s09_5805327f:
 
     # mct "Don't overthink this. Just tuck in."
     mct "Don't overthink this. Just tuck in."
 
-# game/code/d06/d06s09.rpy:101
+# game/code/d06/d06s09.rpy:102
 translate turkish d06s09_c3d2a863:
 
     # sy "I was right."
     sy "I was right."
 
-# game/code/d06/d06s09.rpy:102
+# game/code/d06/d06s09.rpy:103
 translate turkish d06s09_c17ef8ec:
 
     # mc "What's that?"
     mc "What's that?"
 
-# game/code/d06/d06s09.rpy:103
+# game/code/d06/d06s09.rpy:104
 translate turkish d06s09_6259b6e9:
 
     # sy "It is much cozier with you laying next to me."
     sy "It is much cozier with you laying next to me."
 
-# game/code/d06/d06s09.rpy:105
+# game/code/d06/d06s09.rpy:106
 translate turkish d06s09_20c66ea7:
 
     # mc "Oh, shit. I forgot to get the lights."
     mc "Oh, shit. I forgot to get the lights."
 
-# game/code/d06/d06s09.rpy:107
+# game/code/d06/d06s09.rpy:108
 translate turkish d06s09_a6cc195e:
 
     # sy "Can you not?"
     sy "Can you not?"
 
-# game/code/d06/d06s09.rpy:109
+# game/code/d06/d06s09.rpy:110
 translate turkish d06s09_05500ff6_1:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/d06/d06s09.rpy:111
+# game/code/d06/d06s09.rpy:112
 translate turkish d06s09_5836b2e5:
 
     # sy "I prefer to sleep with the lights on."
     sy "I prefer to sleep with the lights on."
 
-# game/code/d06/d06s09.rpy:113
+# game/code/d06/d06s09.rpy:114
 translate turkish d06s09_a31340dd:
 
     # mc "Really?"
     mc "Really?"
 
-# game/code/d06/d06s09.rpy:115
+# game/code/d06/d06s09.rpy:116
 translate turkish d06s09_345306fc:
 
     # sy "It just makes me feel safer."
     sy "It just makes me feel safer."
 
-# game/code/d06/d06s09.rpy:116
+# game/code/d06/d06s09.rpy:117
 translate turkish d06s09_8f77b2b9:
 
     # mc "Okay. I will just dim it a bit."
     mc "Okay. I will just dim it a bit."
 
-# game/code/d06/d06s09.rpy:124
+# game/code/d06/d06s09.rpy:125
 translate turkish d06s09_f538598b:
 
     # sy "Good night, bro."
     sy "Good night, bro."
 
-# game/code/d06/d06s09.rpy:125
+# game/code/d06/d06s09.rpy:126
 translate turkish d06s09_23dca2d3:
 
     # mc "Good night, sis."
     mc "Good night, sis."
 
-# game/code/d06/d06s09.rpy:127
+# game/code/d06/d06s09.rpy:128
 translate turkish d06s09_63c8bc6f:
 
     # sy "Good night, [mcname]."
     sy "Good night, [mcname]."
 
-# game/code/d06/d06s09.rpy:128
+# game/code/d06/d06s09.rpy:129
 translate turkish d06s09_bae8c4d4:
 
     # mc "Good night, Stacy."
     mc "Good night, Stacy."
 
-# game/code/d06/d06s09.rpy:131
+# game/code/d06/d06s09.rpy:132
 translate turkish d06s09_8095706f:
 
     # mct "How the fuck am I supposed to sleep like this?"
     mct "How the fuck am I supposed to sleep like this?"
 
-# game/code/d06/d06s09.rpy:132
+# game/code/d06/d06s09.rpy:133
 translate turkish d06s09_a468c009:
 
     # mct "I'm horny as hell; I've got a gorgeous woman in bed next to me; and the lights are on."
     mct "I'm horny as hell; I've got a gorgeous woman in bed next to me; and the lights are on."
 
-# game/code/d06/d06s09.rpy:133
+# game/code/d06/d06s09.rpy:134
 translate turkish d06s09_cc4bb73c:
 
     # mct "Fuck it. Just try to sleep."
     mct "Fuck it. Just try to sleep."
 
-# game/code/d06/d06s09.rpy:134
+# game/code/d06/d06s09.rpy:135
 translate turkish d06s09_295bbea7:
 
     # mct "..."
     mct "..."
 
-# game/code/d06/d06s09.rpy:135
+# game/code/d06/d06s09.rpy:136
 translate turkish d06s09_219ba9db:
 
     # mct "Great. Now she's snoring. One more thing to keep me awake."
     mct "Great. Now she's snoring. One more thing to keep me awake."
 
-# game/code/d06/d06s09.rpy:136
+# game/code/d06/d06s09.rpy:137
 translate turkish d06s09_8d0f9153:
 
     # mct "Although, her snoring is kinda soothing."
     mct "Although, her snoring is kinda soothing."
 
-# game/code/d06/d06s09.rpy:137
+# game/code/d06/d06s09.rpy:138
 translate turkish d06s09_b70c0da8:
 
     # mct "I don't think I'll..."
     mct "I don't think I'll..."
 
-# game/code/d06/d06s09.rpy:141
+# game/code/d06/d06s09.rpy:142
 translate turkish d06s09_789857d1:
 
     # mct "Zzzzzzzzzzz."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-30 12:35
+﻿# TODO: Translation updated at 2020-07-29 01:00
 
 # game/code/d07/d07s04vw.rpy:23
 translate turkish d07s04vw_963dfa5e:
@@ -468,7 +468,7 @@ translate turkish d07s04_vw_foot_8ac298e1:
     # mc "No, I merely was blessed by your wonderful feet!"
     mc "No, I merely was blessed by your wonderful feet!"
 
-# game/code/d07/d07s04vw.rpy:273
+# game/code/d07/d07s04vw.rpy:274
 translate turkish d07s04_vw_end_f5a4c513:
 
     # vw "This was fun! Let's go back!"
