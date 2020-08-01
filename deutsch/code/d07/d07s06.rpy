@@ -4,7 +4,7 @@
 translate deutsch d07s06_0dc0c974:
 
     # "Evening. {w}Back at AmRose's home."
-    "Evening. {w}Back at AmRose's home."
+    "Abends. {w}Zurück in AmRose's Haus."
 
 # game/code/d07/d07s06.rpy:29
 translate deutsch d07s06_9743cee4:
