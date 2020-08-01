@@ -4219,7 +4219,7 @@ translate deutsch d04s04p2_7ce75d72:
 translate deutsch d04s04_e8172d92:
 
     # "11:10 AM"
-    "11:10 AM"
+    "11:10"                             #like I said before Germany is 24h clock
 
 # game/code/d04/d04s04.rpy:163
 translate deutsch d04s04p2_4f01f556:
@@ -4231,7 +4231,7 @@ translate deutsch d04s04p2_4f01f556:
 translate deutsch d04s04p2_596f2b6f:
 
     # nk "Your parents?"
-    nk "Your parents?"
+    nk "Deine Eltern?"
 
 # game/code/d04/d04s04.rpy:199
 translate deutsch d04s04p2_822cfe95:
@@ -4261,7 +4261,7 @@ translate deutsch d04s04p2_bc4fd44d:
 translate deutsch d04s04p2_e8bab788:
 
     # lc "Yeah, I haven't seen anyone else here. I just figured it wasn't a popular time."
-    lc "Yeah, I haven't seen anyone else here. I just figured it wasn't a popular time."
+    lc "Yeah, Ich habe niemand anderes hier gesehen. Ich habe gerade herausgefunden das es keine beliebte Zeit war."
 
 # game/code/d04/d04s04.rpy:421
 translate deutsch d04s04p2_05500ff6:
@@ -4279,7 +4279,7 @@ translate deutsch d04s04p2_21efe7e0:
 translate deutsch d04s04p2_cfc97a03:
 
     # nk "Tell me what? {w}Oh! Are you two eloping and want me to be the minister?"
-    nk "Tell me what? {w}Oh! Are you two eloping and want me to be the minister?"
+    nk "Erzähl mir was? {w}Oh! Seid ihr zwei am durchbrennen und wollt das ich der Minister bin?"
 
 # game/code/d04/d04s04.rpy:568
 translate deutsch d04s04p2_5094293b:
