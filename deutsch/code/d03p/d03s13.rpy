@@ -1328,7 +1328,7 @@ translate deutsch replay_d03s13_836c33c8:
 translate deutsch replay_d03s13_b62e8c69:
 
     # dd "But I lost."
-    dd "But I lost."
+    dd "Aber Ich hab verloren."
 
 # game/code/d03p/d03s13.rpy:159
 translate deutsch replay_d03s13_1611d8c9:
@@ -1340,7 +1340,7 @@ translate deutsch replay_d03s13_1611d8c9:
 translate deutsch replay_d03s13_2f415ada:
 
     # dd "But... I lost. The game is over."
-    dd "But... I lost. The game is over."
+    dd "Aber... Ich hab verloren. Das Spiel ist vorbei."
 
 # game/code/d03p/d03s13.rpy:163
 translate deutsch replay_d03s13_b8de06d3:
