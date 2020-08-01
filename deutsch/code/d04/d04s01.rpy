@@ -645,23 +645,23 @@ translate deutsch d04s01_2be1690d:
 translate deutsch d04s01_bbaaf33c:
 
     # dd "My change of clothes is in his dorm room... I don't want to walk around like this all day."
-    dd "My change of clothes is in his dorm room... I don't want to walk around like this all day."
+    dd "Meine Wechselklamotten sind in seinem Zimmer.. Ich möchte nicht den ganzen Tag so herum laufen."
 
 # game/code/d04/d04s01.rpy:142
 translate deutsch d04s01_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Achja?"
 
 # game/code/d04/d04s01.rpy:145
 translate deutsch d04s01_a7759475:
 
     # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
-    mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
+    mes "Ich bin nicht schüchtern - Ich hasse es nur zu verlieren {w} Und ich kann Hilfe gebrauchen damit es nicht wieder passiert!"
 
 # game/code/d04/d04s01.rpy:152
 translate deutsch d04s01_69263aea:
 
     # mc "What would your boyfriend say about that?"
-    mc "What would your boyfriend say about that?"
+    mc "Was würde denn dein Freund dazu sagen?"
 
