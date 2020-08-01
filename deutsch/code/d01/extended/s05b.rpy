@@ -240,7 +240,7 @@ translate deutsch d01s05b_94b59505:
 translate deutsch d01s05b_e8f94ad8:
 
     # jfx "Was it about religion?"
-    jfx "Was it about religion?"
+    jfx "War es wegen Religion?"
 
 # game/code/d01/extended/s05b.rpy:28
 translate deutsch d01s05b_c8eef95b:
@@ -264,7 +264,7 @@ translate deutsch d01s05b_7198b166:
 translate deutsch d01s05b_5522dd87:
 
     # jfx "Nope."
-    jfx "Nope."
+    jfx "Nope."                             #no Translation needed it fits 
 
 # game/code/d01/extended/s05b.rpy:45
 translate deutsch d01s05b_25dc7110:
