@@ -34,7 +34,7 @@ translate spanish s04_a60fb28f:
 translate spanish s04_dd8f8ec0:
 
     # pb "Thanks. It was easy but the next game is gonna be a lot harder."
-    pb "Gracias, Estuvo sencillo, pero el próximo juego será más difícil."
+    pb "Gracias. Estuvo sencillo, pero el próximo juego será más difícil."
 
 # game/code/d01/s04.rpy:175
 translate spanish s04_7671f8f6:
@@ -136,7 +136,7 @@ translate spanish s04_785ba4a3:
 translate spanish s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "¡Wow! Suena a una buena transformación. ¿Ya no es una aficionada a las computadoras?
+    pb "¡Wow! Suena a una buena transformación. ¿Ya no es una aficionada a las computadoras?"
 
 # game/code/d01/s04.rpy:213
 translate spanish s04_7407f7c1:
@@ -154,7 +154,7 @@ translate spanish s04_bb8ac82c:
 translate spanish s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "!Hey! Quita tus manos de mi [game.stacytitle]! ¡Ni siquiera lo pienses!
+    mc "!Hey! Quita tus manos de mi [game.stacytitle]! ¡Ni siquiera lo pienses!"
 
 # game/code/d01/s04.rpy:219
 translate spanish s04_b6043fc1:
@@ -435,7 +435,7 @@ translate spanish replay_d01s04_ef29e1d2:
 translate spanish replay_d01s04_5cd1cde6:
 
     # mct "Oh my god! They are right next to me!"
-    mct "¡Dios" ¡Están al lado mío!"
+    mct "¡Dios ¡Están al lado mío!"
 
 # game/code/d01/s04.rpy:367
 translate spanish replay_d01s04_b695f088:
@@ -495,7 +495,7 @@ translate spanish replay_d01s04_dc2d9f45:
 translate spanish replay_d01s04_85581721:
 
     # mct "Holy shit! It's Chloe!"
-    mct "¡Mierda puta" ¡Es Chloe!"
+    mct "¡Mierda puta ¡Es Chloe!"
 
 # game/code/d01/s04.rpy:389
 translate spanish replay_d01s04_0fcc45f8:
@@ -642,7 +642,7 @@ translate spanish replay_d01s04_cb0985d9:
 translate spanish replay_d01s04_2e7638aa:
 
     # mc "Dude! Why Chloe?!"
-    mc "¡Hermano" ¡¿Por qué Chloe?!"
+    mc "¡Hermano ¡¿Por qué Chloe?!"
 
 # game/code/d01/s04.rpy:454
 translate spanish replay_d01s04_403dad95:
