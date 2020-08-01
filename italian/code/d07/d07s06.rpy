@@ -136,7 +136,7 @@ translate italian d07s06_0eebabfd:
 translate italian d07s06_2629181c:
 
     # mesfl "{i}Yes! I'm ready!{/i}"
-    mesfl "{i}Sì! Sono pronta!{i}"
+    mesfl "{i}Sì! Sono pronta!{/i}"
 
 # game/code/d07/d07s06.rpy:64
 translate italian d07s06_ef422fb5:

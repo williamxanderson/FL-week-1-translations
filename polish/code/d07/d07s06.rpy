@@ -136,7 +136,7 @@ translate polish d07s06_0eebabfd:
 translate polish d07s06_16625641:
 
     # mesfl "{i}Yes! I'm ready!{i}"
-    mesfl "{i}Yes! I'm ready!{i}"
+    mesfl "{i}Yes! I'm ready!{/i}"
 
 # game/code/d07/d07s06.rpy:64
 translate polish d07s06_ef422fb5:
