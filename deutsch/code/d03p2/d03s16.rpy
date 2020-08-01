@@ -986,7 +986,7 @@ translate deutsch d03s16_36102d06:
 translate deutsch d03s16_d6cc9e1a:
 
     # mc "Why don't we stand over there?"
-    mc "Why don't we stand over there?"
+    mc "Warum stehen wir nicht da drüben?"
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -994,7 +994,7 @@ translate deutsch d03s16_d6cc9e1a:
 translate deutsch replay_d03s16_a1b31452:
 
     # amfl "LADIES AND GENTLEMEN{w} and those who self-identify otherwise!"
-    amfl "MEINE DAMEN UND HERREN{w} und die sich anders identifizieren!"
+    amfl "MEINE DAMEN UND HERREN{w} und die welche sich anders identifizieren!"
 
 # game/code/d03p2/d03s16.rpy:278
 translate deutsch replay_d03s16_086843f4:
@@ -1270,7 +1270,7 @@ translate deutsch replay_d03s16_d1e009d7:
 translate deutsch replay_d03s16_1ef56dad:
 
     # mct "Son-of-a-bitch. I'm going to kill him!"
-    mct "Sohn-einer-elendigen-Hure. Ich werde ich umbringen!"
+    mct "Sohn-einer-elendigen-Hure. Ich werde ihn umbringen!"
 
 # game/code/d03p2/d03s16.rpy:426
 translate deutsch replay_d03s16_fb8a9aaf:
