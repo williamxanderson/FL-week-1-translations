@@ -344,19 +344,19 @@ translate deutsch d04s08_after_ec624f66:
 translate deutsch d04s08_after_2ff74e70:
 
     # mc "I didn't do anything."
-    mc "I didn't do anything."
+    mc "Ich habe nichts getan."
 
 # game/code/d04/d04s07.rpy:168
 translate deutsch d04s08_after_7808a659:
 
     # nk "Okay, okay. \"It's not me.\" {w}I'll see you on Saturday, right?"
-    nk "Okay, okay. \"It's not me.\" {w}I'll see you on Saturday, right?"
+    nk "Okay, okay. \"Ich war es nicht.\" {w}Ich sehe dich am Samstag. richtig?"
 
 # game/code/d04/d04s07.rpy:175
 translate deutsch d04s08_after_86b00baf:
 
     # nk "Bye!"
-    nk "Bye!"
+    nk "Tschüss!"
 
 # game/code/d04/d04s07.rpy:190
 translate deutsch d04s08_after_d6a03070:
@@ -370,7 +370,7 @@ translate deutsch d04s08_after_d6a03070:
 translate deutsch replay_d04s07_ed7a1303:
 
     # "5:30 PM"
-    "5:30 PM"
+    "17:30"                        #Germany 24h clock
 
 # game/code/d04/d04s07.rpy:19
 translate deutsch replay_d04s07_7a4eb3fd:
