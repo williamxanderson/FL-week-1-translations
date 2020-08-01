@@ -765,7 +765,7 @@ translate deutsch d04s02_message_06a49016:
 translate deutsch d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
+    lc "Hey, mein Unterricht fällt aus. Sollen wir uns auf einen Kaffee treffen?"
 
 # TODO: Translation updated at 2020-06-09 02:20
 
