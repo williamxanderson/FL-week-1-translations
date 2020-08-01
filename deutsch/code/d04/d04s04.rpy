@@ -4279,7 +4279,7 @@ translate deutsch d04s04p2_21efe7e0:
 translate deutsch d04s04p2_cfc97a03:
 
     # nk "Tell me what? {w}Oh! Are you two eloping and want me to be the minister?"
-    nk "Erzähl mir was? {w}Oh! Seid ihr zwei am durchbrennen und wollt das ich der Minister bin?"
+    nk "Erzähl mir was? {w}Oh! Seid ihr zwei am durchbrennen und wollt das ich der Standesbeamte bin?"
 
 # game/code/d04/d04s04.rpy:568
 translate deutsch d04s04p2_5094293b:
