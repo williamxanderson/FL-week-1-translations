@@ -964,5 +964,5 @@ translate deutsch replay_d06s01_a59de2ec:
 translate deutsch replay_d06s01_ffd9ddf6:
 
     # mc "I know you didn't. Let's just... not repeat that ever again."
-    mc "I know you didn't. Let's just... not repeat that ever again."
+    mc "Ich weiß du hast es nicht getan. Lass uns einfach... das nie wieder machen."
 
