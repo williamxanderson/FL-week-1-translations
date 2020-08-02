@@ -348,5 +348,5 @@ translate deutsch d06s02_a81d71ef:
 translate deutsch d06s02_b7ef2e2e:
 
     # mct "Stacy is in the shower..."
-    mct "Stacy is in the shower..."
+    mct "Stacy ist in der Dusche..."
 
