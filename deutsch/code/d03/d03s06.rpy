@@ -269,15 +269,15 @@ translate deutsch d03s06_699878f6:
 translate deutsch d03s06_19d80348:
 
     # mct "Do I even what to know?"
-    mct "Do I even what to know?"
+    mct "Will ich das wirklich wissen?"
 
 translate deutsch strings:
 
     # game/code/d03/d03s06.rpy:104
     old "Yes, I want to know"
-    new "Yes, I want to know"
+    new "Ja, Ich will es wissen"
 
     # game/code/d03/d03s06.rpy:104
     old "No, I have no interest in that"
-    new "No, I have no interest in that"
+    new "Nein, Kein Iteresse daran"
 
