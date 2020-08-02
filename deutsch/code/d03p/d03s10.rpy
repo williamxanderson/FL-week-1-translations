@@ -980,25 +980,25 @@ translate deutsch d03s10_05500ff6:
 translate deutsch d03s10_126541f2:
 
     # mct "Just some guys here."
-    mct "Just some guys here."
+    mct "Nur einige Kerle hier."
 
 # game/code/d03p/d03s10.rpy:419
 translate deutsch d03s10_back_089024da:
 
     # mct "Alright, let's grab a beer for me, and something for Lydia."
-    mct "Alright, let's grab a beer for me, and something for Lydia."
+    mct "Geht klar, Lass mal ein Bier für mich, und was zu trinken für Lydia besorgen."
 
 # game/code/d03p/d03s10.rpy:420
 translate deutsch d03s10_back_fdc71e9a:
 
     # mct "I wonder if they have any good wine. That seems like something she would like."
-    mct "I wonder if they have any good wine. That seems like something she would like."
+    mct "Mal sehen ob sie guten Wein haben. Das scheint etwas zu sein das Lydia mögen würde."
 
 # game/code/d03p/d03s10.rpy:422
 translate deutsch d03s10_back_ace53e16:
 
     # mct "Yes, perfect. This wine looks good."
-    mct "Yes, perfect. This wine looks good."
+    mct "Ja, Perfekt. Dieser Wein sieht gut aus."
 
 # game/code/d03p/d03s10.rpy:423
 translate deutsch d03s10_back_04c1a37b:
@@ -1010,131 +1010,131 @@ translate deutsch d03s10_back_04c1a37b:
 translate deutsch d03s10_back_fbdef870:
 
     # mct "She likes music. I can talk to her about music."
-    mct "She likes music. I can talk to her about music."
+    mct "Sie mag Musik. Ich denke wir könnten über Musik reden."
 
 # game/code/d03p/d03s10.rpy:431
 translate deutsch d03s10_back_2cc6daa4:
 
     # mc "Oh fuck! {w}Dude! You scared me!"
-    mc "Oh fuck! {w}Dude! You scared me!"
+    mc "Oh fuck! {w}Kumpel! Du hast mich erschreckt!"
 
 # game/code/d03p/d03s10.rpy:432
 translate deutsch d03s10_back_d6c8bf79:
 
     # "Some dude" "Hey! Cool mask right?!"
-    "Some dude" "Hey! Cool mask right?!"
+    "Irgendein Typ" "Hey! Gute Maske oder?!"
 
 # game/code/d03p/d03s10.rpy:433
 translate deutsch d03s10_back_e249ef4f:
 
     # mct "Yea... fucking creepy mask. Especially if you run into him in the darkness..."
-    mct "Yea... fucking creepy mask. Especially if you run into him in the darkness..."
+    mct "Yea... ziemlich gruselige Maske. Besonders wenn man ihr im Dunklen begegnet..."
 
 # game/code/d03p/d03s10.rpy:437
 translate deutsch d03s10_back_e164d646:
 
     # mct "This is the third floor. Just one girl here. I don't see Lydia."
-    mct "This is the third floor. Just one girl here. I don't see Lydia."
+    mct "Das ist der dritte Stock. Nur ein Mädchen hier. Ich sehe Lydia nicht."
 
 # game/code/d03p/d03s10.rpy:440
 translate deutsch d03s10_back_d5ba8f63:
 
     # mct "Do I know this girl?"
-    mct "Do I know this girl?"
+    mct "Kenne ich dieses Mädchen?"
 
 # game/code/d03p/d03s10.rpy:446
 translate deutsch d03s10_back_e02a82be:
 
     # mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
-    mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
+    mct "Oh! Das ist diese \"nicht deines\" Tattoo Mädchen die mit Pete geschlafen hat!"
 
 # game/code/d03p/d03s10.rpy:447
 translate deutsch d03s10_back_104b5ede:
 
     # mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
-    mct "Let's hope this mask is hiding me well enough that she doesn't recognize me."
+    mct "Lass uns hoffen das diese Maske mich genug verbirgt das sie sich nicht an mich erinern kann."
 
 # game/code/d03p/d03s10.rpy:451
 translate deutsch d03s10_back_1463d069:
 
     # mct "Is there someone on the balcony?"
-    mct "Is there someone on the balcony?"
+    mct "Ist das jemand auf dem Balkon?"
 
 # game/code/d03p/d03s10.rpy:453
 translate deutsch d03s10_back_b3b0b724:
 
     # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
+    mct "Sieht aus wie die gleiche Gruppe wie in der Cafeteria! Min, Cynthia, und Lydia!"
 
 # game/code/d03p/d03s10.rpy:456
 translate deutsch d03s10_back_96472a7f:
 
     # mct "Does Cynthia go around in bare feet everywhere?"
-    mct "Does Cynthia go around in bare feet everywhere?"
+    mct "Läuft Cynthia überall barfuss herum?"
 
 # game/code/d03p/d03s10.rpy:457
 translate deutsch d03s10_back_7aaed503:
 
     # mct "And Lydia doesn't have a drink! Perfect time to make a move!"
-    mct "And Lydia doesn't have a drink! Perfect time to make a move!"
+    mct "Und Lydia hat nichts zu trinken! Perfekter Zeitpunkt um ihr näher zu kommen!"
 
 # game/code/d03p/d03s10.rpy:460
 translate deutsch d03s10_back_693156ff:
 
     # mc "Hey Lydia, would you care for a drink?"
-    mc "Hey Lydia, would you care for a drink?"
+    mc "Hey Lydia, Lust auf einen Drink?"
 
 # game/code/d03p/d03s10.rpy:463
 translate deutsch d03s10_back_fbab6ae2:
 
     # cl "Oh! Thank you. I'll take it."
-    cl "Oh! Thank you. I'll take it."
+    cl "Oh! Danke dir. Ich nehme ihn gern."
 
 # game/code/d03p/d03s10.rpy:465
 translate deutsch d03s10_back_74e94210:
 
     # cl "So, I said to the clerk, you think I would buy this?"
-    cl "So, I said to the clerk, you think I would buy this?"
+    cl "Also, habe ich zu dem Verkäufer gesagt, denkst du wirklich ich würde das kaufen?"
 
 # game/code/d03p/d03s10.rpy:467
 translate deutsch d03s10_back_70b84aea:
 
     # lc "Nothing, thanks. I'm fine."
-    lc "Nothing, thanks. I'm fine."
+    lc "Nichts danke. Ich bin zufrieden."
 
 # game/code/d03p/d03s10.rpy:468
 translate deutsch d03s10_back_e4ea2075:
 
     # mc "Yes, you are."
-    mc "Yes, you are."
+    mc "Sicher bist du das."
 
 # game/code/d03p/d03s10.rpy:471
 translate deutsch d03s10_back_34a45bdd:
 
     # cl "... Show me the stuff you aren't donating to the homeless."
-    cl "... Show me the stuff you aren't donating to the homeless."
+    cl "... Zeig mir das Zeug was du nicht den Obdachlosen spendest."
 
 # game/code/d03p/d03s10.rpy:475
 translate deutsch d03s10_back_1236183c:
 
     # mes "Harsh. Did it work?"
-    mes "Harsh. Did it work?"
+    mes "Hart, Hat es funktioniert?"
 
 # game/code/d03p/d03s10.rpy:477
 translate deutsch d03s10_back_2133d50b:
 
     # cl "Yeah, the new stock was in the back, so..."
-    cl "Yeah, the new stock was in the back, so..."
+    cl "Ja, die neue Ware ist hinten also..."
 
 # game/code/d03p/d03s10.rpy:478
 translate deutsch d03s10_back_555675f2:
 
     # mct "Swing and a miss. I should probably try talking to her when she isn't chatting with other girls."
-    mct "Swing and a miss. I should probably try talking to her when she isn't chatting with other girls."
+    mct "Versuch und Fehlschlag, Vielleicht sollte ich mit ihr reden wenn sie nicht mit den anderen Mädchen redet."
 
 # game/code/d03p/d03s10.rpy:480
 translate deutsch d03s10_back_5c66cf99:
 
     # mct "Let's go back and find out about the events."
-    mct "Let's go back and find out about the events."
+    mct "Zurück zum Anfang und finden wir mal heraus was sonst so los ist."
 
