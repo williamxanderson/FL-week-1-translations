@@ -1407,7 +1407,7 @@ translate deutsch d05s06_d0f18cf9:
 translate deutsch d05s06_begin_90dcb7dd:
 
     # mct "Oh! She tastes quite sweet today!"
-    mct "Oh! She tastes quite sweet today!"
+    mct "Oh! Sie schmeckt heute wirklich süss!"
 
 # game/code/d05/d05s06.rpy:250
 translate deutsch d05s06_begin_621d9a84:
@@ -1523,7 +1523,7 @@ translate deutsch replay_d05s06_3746ac00:
 translate deutsch replay_d05s06_e9a05e0d:
 
     # mesfl "Tomato juice is not a bodily emission of waste product."
-    mesfl "Tomato juice is not a bodily emission of waste product."
+    mesfl "Tomatensaft ist keine körperliche Ausscheidung von Abfallprodukten."
 
 # game/code/d05/d05s06.rpy:61
 translate deutsch replay_d05s06_d9890cc8:
@@ -1949,7 +1949,7 @@ translate deutsch replay_d05s06_39af3f14:
 translate deutsch replay_d05s06_90dcb7dd:
 
     # mct "Oh! She tastes quite sweet today!"
-    mct "Oh! She tastes quite sweet today!"
+    mct "Oh! Sie schmeckt heute wirklich süss!"
 
 # game/code/d05/d05s06.rpy:193
 translate deutsch replay_d05s06_803a72a7:
@@ -2183,7 +2183,7 @@ translate deutsch replay_d05s06_c5f4b8c8:
 translate deutsch replay_d05s06_621d9a84:
 
     # mesfl "Stop! Stop!"
-    mesfl "Stop! Stop!"
+    mesfl "Halt! Stop!"
 
 # game/code/d05/d05s06.rpy:255
 translate deutsch replay_d05s06_cc37f097:
