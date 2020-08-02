@@ -1102,7 +1102,7 @@ translate deutsch d01s05_dorm_6a0f9198:
 translate deutsch d01s05_dorm_36ab944a:
 
     # mc "Yes. That was really hot!"
-    mc "Yes. That was really hot!"
+    mc "Ja! Das war wirklich Heiß!"
 
 # game/code/d01/s05.rpy:268
 translate deutsch d01s05_dorm_779c051a:
