@@ -58,7 +58,7 @@ translate deutsch d05s01_cf5f874a:
 translate deutsch d05s01_2ec6fe75:
 
     # mct "I am completely ass invaded."
-    mct "I am completely ass invaded."
+    mct "Ich bin total am Arsch."
 
 # game/code/d05/d05s01.rpy:27
 translate deutsch d05s01_685a3a1c:
