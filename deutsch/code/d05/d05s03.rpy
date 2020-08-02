@@ -701,7 +701,7 @@ translate deutsch d05s03_0c7b4226:
 translate deutsch d05s03_83a61397:
 
     # mc "Fuck off, Maria."
-    mc "Fuck off, Maria."
+    mc "Verpiss dich, Maria."
 
 # TODO: Translation updated at 2020-06-27 22:20
 
@@ -709,5 +709,5 @@ translate deutsch d05s03_83a61397:
 translate deutsch d05s03_wantcock_f8e0e6fe:
 
     # mc "Maybe I should just have you spend a day in the men's room working as a urinal."
-    mc "Maybe I should just have you spend a day in the men's room working as a urinal."
+    mc "Vielleicht sollte ich dich einfach einen Tag im Männerklo verbringen lassen, und du bist das Urinal."
 
