@@ -978,7 +978,7 @@ translate deutsch replay_d06s03k_4a593e3a:
 translate deutsch replay_d06s03k_34834b49:
 
     # sy "*Nom nom nom* {w}He tapped that ass."
-    sy "*Nom nom nom* {w}Er tätschelte den Hintern"
+    sy "*Nom nom nom* {w}Er tätschelte den Hintern."
 
 # game/code/d06/d06s03.rpy:97
 translate deutsch replay_d06s03k_b6024e54:
