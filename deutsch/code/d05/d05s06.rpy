@@ -142,7 +142,7 @@ translate deutsch d05s06_begin_3746ac00:
 translate deutsch d05s06_begin_e9a05e0d:
 
     # mesfl "Tomato juice is not a bodily emission of waste product."
-    mesfl "Tomato juice is not a bodily emission of waste product."
+    mesfl "Tomatensaft ist keine körperliche Ausscheidung von Abfallprodukten."
 
 # game/code/d05/d05s06.rpy:60
 translate deutsch d05s06_begin_d9890cc8:
