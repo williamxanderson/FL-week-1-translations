@@ -880,7 +880,7 @@ translate deutsch s04_015d20de_1:
 translate deutsch s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
+    mct "Der heutige Fetish ist Cumshot. So wie ich es verstehe muss ich etwas das damit zusammen hängt einsenden."
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -990,7 +990,7 @@ translate deutsch replay_d01s04_85581721:
 translate deutsch replay_d01s04_0fcc45f8:
 
     # pb "Ohhh! There you go!"
-    pb "Ohhh! There you go!"
+    pb "Ohhh! Hier hast du es!"
 
 # game/code/d01/s04.rpy:390
 translate deutsch replay_d01s04_fffb037c:
@@ -1365,17 +1365,17 @@ translate deutsch replay_d01s04_239f55bf:
 translate deutsch s04_5ea01134:
 
     # mc "Thanks! We'll finish this a lot quicker together."
-    mc "Thanks! We'll finish this a lot quicker together."
+    mc "Danke! Zusammen werden wir viel schneller fertig."
 
 # game/code/d01/s04.rpy:292
 translate deutsch s04_5bfce982:
 
     # sy "What if I'd been doing it naked? Would you still watch me?"
-    sy "What if I'd been doing it naked? Would you still watch me?"
+    sy "Was wäre wenn ich es nackt mache? Würdest du mir immer noch zusehen?"
 
 # game/code/d01/s04.rpy:371
 translate deutsch replay_d01s04_ad5ec6e0:
 
     # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
-    mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
+    mct "Was zur Hölle?! Er weiß das ich gerade ins Klo bin. Hat er absichtlich Mädchen hier reingeschickt?"
 
