@@ -292,7 +292,7 @@ translate deutsch replay_d07s05_d847a964:
 translate deutsch replay_d07s05_c96ba2c6:
 
     # arj "I'm saying... when I think back on her giving you her virginity... {w}I wish it had been mine instead."
-    arj "Was ich sagen will... wenn ich daran denke dass du ihr damals ihre Jungfräulichkeit genommen hast...{w}wünsche ich mir es wäre stattdessen meine gewesen."
+    arj "Was ich sagen will... wenn ich daran denke dass du ihr damals ihre Jungfräulichkeit genommen hast... {w}wünsche ich mir es wäre stattdessen meine gewesen."
 
 # game/code/d07/d07s05.rpy:116
 translate deutsch replay_d07s05_b8de06d3:
