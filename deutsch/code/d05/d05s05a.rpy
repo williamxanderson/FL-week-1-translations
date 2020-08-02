@@ -905,13 +905,13 @@ translate deutsch d05s05_apt1_97887db1:
 translate deutsch d05s05_fde3c179:
 
     # arj "Yeah, okay."
-    arj "Yeah, okay."
+    arj "Jaa, okay."
 
 # game/code/d05/d05s05a.rpy:247
 translate deutsch d05s05_apt1_5e2e8d15:
 
     # arj "Oh. {w}Your cum slut."
-    arj "Oh. {w}Your cum slut."
+    arj "Oh. {w}Deine Spermastute."
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -927,19 +927,19 @@ translate deutsch replay_d05s05_2e181d5a:
 translate deutsch d05s05_apt1_4e319489:
 
     # arj "Shhhhh. Someone might hear you."
-    arj "Shhhhh. Someone might hear you."
+    arj "Shhhhh. Jemand könnte dich hören."
 
 # game/code/d05/d05s05a.rpy:269
 translate deutsch d05s05_apt1_95f64aba:
 
     # arj "Oh. {w}Your little pony."
-    arj "Oh. {w}Your little pony."
+    arj "Oh. {w}Dein kleines Pony."
 
 # game/code/d05/d05s05a.rpy:274
 translate deutsch d05s05_apt1_0f6dffd9:
 
     # mc "Huh, \"URLittlePony\". I didn't even know this screen existed."
-    mc "Huh, \"URLittlePony\". I didn't even know this screen existed."
+    mc "Huh, \"URLittlePony\". Ich wusste gar nicht das dieser Bildschrim existiert."
 
 # TODO: Translation updated at 2020-07-01 23:25
 
@@ -947,5 +947,5 @@ translate deutsch d05s05_apt1_0f6dffd9:
 translate deutsch d05s05_b634c7fd:
 
     # arj "Okay. We're going across town, so I'll meet you at the subway station."
-    arj "Okay. We're going across town, so I'll meet you at the subway station."
+    arj "Okay. Wir gehen durch die Stadt, also treffe ich dich an der U-Bahn Haltestelle."
 

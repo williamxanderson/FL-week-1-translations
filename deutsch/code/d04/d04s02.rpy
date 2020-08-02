@@ -747,7 +747,7 @@ translate deutsch d04s02_domdbj_232c3f6d:
 translate deutsch d04s02_domdbj_9fb02192:
 
     # mct "That was amazing. I worried that I was pushing her too far, but she clearly enjoys such rough treatment!"
-    mct "That was amazing. I worried that I was pushing her too far, but she clearly enjoys such rough treatment!"
+    mct "Das war unglaublich. Ich hatte mir sorgen gemacht das ich zu weit gehe, aber sie mag die Harte Gangart wirklich!"
 
 # game/code/d04/d04s02.rpy:236
 translate deutsch d04s02_handjob_part_2_232c3f6d:
@@ -765,7 +765,7 @@ translate deutsch d04s02_message_06a49016:
 translate deutsch d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
+    lc "Hey, mein Unterricht fällt aus. Sollen wir uns auf einen Kaffee treffen?"
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -811,5 +811,5 @@ translate deutsch replay_d04s02_23ccac6c:
 translate deutsch d04s02_handjob_part_2_09e61f10:
 
     # dd "Mmm! What a wonderful taste!"
-    dd "Mmm! What a wonderful taste!"
+    dd "Mmm! Was ein wundervoller Geschmack!"
 

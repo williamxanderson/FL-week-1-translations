@@ -297,7 +297,7 @@ translate deutsch replay_d05s08_01ab749a:
 translate deutsch replay_d05s08_f4d03ddc:
 
     # mct "What the hell? Is she going to the toilet?"
-    mct "What the hell? Is she going to the toilet?"
+    mct "Was zur Hölle? Geht sie auf die Toilette"
 
 # game/code/d05/d05s08.rpy:40
 translate deutsch replay_d05s08_03d321ee:
