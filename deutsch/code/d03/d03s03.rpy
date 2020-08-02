@@ -1229,17 +1229,17 @@ translate deutsch strings:
 translate deutsch replay_d03s03a_bbe7b2c5:
 
     # mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
-    mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
+    mct "Etwas is seltsam mit Chloe. Dies ist das zweite mal das ich sehe wie sie gefickt wird..."
 
 # game/code/d03/d03s03.rpy:158
 translate deutsch replay_d03s03a_666716d9:
 
     # mct "Did something change with her? Or is this Fetish Locator's influence?"
-    mct "Did something change with her? Or is this Fetish Locator's influence?"
+    mct "Hat sie sich verändert? Oder ist es der Einfluss von Fetish Locator?"
 
 # game/code/d03/d03s03.rpy:231
 translate deutsch replay_d03s03a_001815b5:
 
     # zw "What the hell do you think you're doing?!"
-    zw "What the hell do you think you're doing?!"
+    zw "Was zur Hölle glaubst du das du da machst?!"
 
