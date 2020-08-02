@@ -874,7 +874,7 @@ translate deutsch d07s05_spank_a2eaca06:
 translate deutsch d07s05_spank_b6ef9f4e:
 
     # arj "Yes... But I'll be fine!"
-    arj "Ja...Aber es ist nicht so schlimm!"
+    arj "Ja... Aber es ist nicht so schlimm!"
 
 # game/code/d07/d07s05.rpy:510
 translate deutsch d07s05_spank_9cd45890:
