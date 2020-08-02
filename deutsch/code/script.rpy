@@ -121,14 +121,14 @@ translate deutsch strings:
 translate deutsch end_2cc909b0:
 
     # "You reached the end of implemented part of the story! Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
-    "You reached the end of implemented part of the story! Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
+    "Du hast das Ende des Verfügbaren Teils der Geschichte erreicht. Danke das du [config.version] version des Spiels gespielt hast. Bitte lass mich wissen was du darüber denkst! Dein Feedback würde mir sehr helfen! Unterstütze auf Patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
 
 # game/script.rpy:100
 translate deutsch finish_860ea407:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
-    "Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
-
+   "Danke das du [config.version] version des Spiels gespielt hast. Bitte lass mich wissen was du darüber denkst! Dein Feedback würde mir sehr helfen! Unterstütze auf Patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
+   
 translate deutsch strings:
 
     # game/script.rpy:83
@@ -173,13 +173,13 @@ translate deutsch strings:
 
     # game/script.rpy:38
     old "bro"
-    new "Bruder"
+    new "Bro"         #Edited this Cause in German we say sometimes Bro to our Brother or Kumpel if we mean a Friend
 
     # game/script.rpy:39
     old "Taboo Edition disabled"
-    new "Taboo Edition disabled"
+    new "Taboo Edition ausgeschaltet"
 
     # game/script.rpy:41
     old "Taboo Edition enabled"
-    new "Taboo Edition enabled"
+    new "Taboo Edition eingeschaltet"
 
