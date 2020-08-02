@@ -811,13 +811,13 @@ translate deutsch d03s05_end_06a49016:
 translate deutsch d03s05_55f2f8d3:
 
     # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
-    mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+    mc "Mich auch! Bringe dir neue Kunden mit! {w}Könnten wir zwei dieser wundervollen Kaffees haben die du gestern gemacht hast?"
 
 # game/code/d03/d03s05.rpy:70
 translate deutsch d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+    kb "Yeah... Das ist was anderes... {w}Wir waren für einige Zeit zusammen. Hatten schrecklich guten Sex und haben dabei fast alles gemacht..."
 
 # game/code/d03/d03s05.rpy:102
 translate deutsch d03s05_f2650af8:
@@ -830,5 +830,5 @@ translate deutsch d03s05_f2650af8:
 translate deutsch d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+    mct "Ok zuallererst. {w}Polly ist gerade rein gekommen. Sie und Nora reden als seien sie alte Freundinnen!"
 
