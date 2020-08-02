@@ -128,6 +128,7 @@ translate deutsch finish_860ea407:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
    "Danke das du [config.version] version des Spiels gespielt hast. Bitte lass mich wissen was du darüber denkst! Dein Feedback würde mir sehr helfen! Unterstütze auf Patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
+   
 translate deutsch strings:
 
     # game/script.rpy:83
