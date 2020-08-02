@@ -136,7 +136,7 @@ translate deutsch d03s18_d543c13d:
 translate deutsch d03s18_be317158:
 
     # mct "Oh fuck oh fuck oh fuck"
-    mct "Oh fuck oh fuck oh fuck"
+    mct "Oh Scheiße oh Scheiße oh Scheiße"
 
 # game/code/d03p2/d03s18.rpy:100
 translate deutsch d03s18_2fb1841f:

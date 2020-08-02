@@ -215,11 +215,11 @@ translate deutsch d04s08_ea528ae2:
 translate deutsch d04s08_a3cbccca:
 
     # fl "Just what do you think you're doing, [mcname]?"
-    fl "Just what do you think you're doing, [mcname]?"
+    fl "Was denkst du machst du da, [mcname]?"
 
 # game/code/d04/d04s08.rpy:54
 translate deutsch d04s08_46f0d9f2:
 
     # fl "[mcname], I really think I'm entitled to an answer to that question."
-    fl "[mcname], I really think I'm entitled to an answer to that question."
+    fl "[mcname]." I denke wirklich ich habe eine Antwort auf diese Frage verdient."
 

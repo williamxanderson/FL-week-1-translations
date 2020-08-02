@@ -1293,7 +1293,7 @@ translate deutsch d04s05_slut_74cb2f64:
 translate deutsch d04s05_slut_57295c0f:
 
     # mc "Fine... {w}you do realize I found you face down and ass up on your couch like 10 minutes ago, right?"
-    mc "Fine... {w}you do realize I found you face down and ass up on your couch like 10 minutes ago, right?"
+    mc "In Ordnung... {w}Du hast schon bemerkt das ich dich Gesicht runter Arsch hoch auf der Couch gefunden habe vor keinen 10 Minuten, oder?"
 
 # game/code/d04/d04s05.rpy:245
 translate deutsch d04s05_confession_cf1adef2:
@@ -1311,7 +1311,7 @@ translate deutsch d04s05_confession_cbd97ab3:
 translate deutsch d04s05_confession_5c57e179:
 
     # mc "Dumber than what you did today?"
-    mc "Dumber than what you did today?"
+    mc "Dümmer als was du heute getan hast?"
 
 # game/code/d04/d04s05.rpy:296
 translate deutsch d04s05_confession_ee87e6f3:
@@ -1341,7 +1341,7 @@ translate deutsch d04s05_confession_a841da30:
 translate deutsch d04s05_confession_67b1de89:
 
     # mc "She mentioned a redhead."
-    mc "She mentioned a redhead."
+    mc "Sie erwähnte eine rothaarige."
 
 # game/code/d04/d04s05.rpy:370
 translate deutsch d04s05_confession_30900e88:
@@ -1457,5 +1457,5 @@ translate deutsch replay_d04s05_82d7d6e1:
 translate deutsch d04s05_confession_2bd45108:
 
     # arj "It was something really stupid, something I had never done, and then I did it."
-    arj "It was something really stupid, something I had never done, and then I did it."
+    arj "Es war etwas wirklich dummes, etwas das ich noch nie getan habe, und nun habe ich es."
 

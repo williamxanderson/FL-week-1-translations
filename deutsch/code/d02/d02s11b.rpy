@@ -835,5 +835,5 @@ translate deutsch replay_d02s11b_629fe89d:
 translate deutsch replay_d02s11b_e5cb2ce8:
 
     # mes "YES! OH YES! PLEASE LET ME CUM!!"
-    mes "YES! OH YES! PLEASE LET ME CUM!!"
+    mes "JA! OH JA! BITTE LASS MICH KOMMEN!"
 

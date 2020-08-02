@@ -274,11 +274,11 @@ translate deutsch replay_d03s15_4f17a13e:
 translate deutsch replay_d03s15_363b3bc3:
 
     # mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
-    mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
+    mct "Aber ich habe AmRose nicht auf der Party gesehen... Warum sollte sie \"verrückt nach Punkten\" sein?"
 
 # game/code/d03p2/d03s15.rpy:92
 translate deutsch replay_d03s15_3156a5ef:
 
     # mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
-    mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
+    mct "Allison hat ihre Make entfernt! Es ist ziemlich dunkel und weit weg, aber ich bin mir fast sicher das es Vesna und Maria sind!"
 

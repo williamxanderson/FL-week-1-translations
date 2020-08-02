@@ -862,7 +862,7 @@ translate deutsch replay_d03s11_8e7bf898:
 translate deutsch replay_d03s11_adf15dc3:
 
     # mh "Then follow me!"
-    mh "Then follow me!"
+    mh "Dann folge mir!"
 
 # game/code/d03p/d03s11.rpy:162
 translate deutsch replay_d03s11_0307cb95:
@@ -988,7 +988,7 @@ translate deutsch replay_d03s11_b588fad5:
 translate deutsch replay_d03s11_87225907:
 
     # mc "But isn't that the point!?"
-    mc "But isn't that the point!?"
+    mc "Aber ist das nicht genau der Punkt!?"
 
 # game/code/d03p/d03s11.rpy:240
 translate deutsch replay_d03s11_e7973108:
