@@ -729,11 +729,11 @@ translate deutsch d05s05_apt2_3258698f:
 translate deutsch d05s05_end_5104b7e2:
 
     # mct "Alright, Stacy's got an apartment... or will have one soon."
-    mct "Alright, Stacy's got an apartment... or will have one soon."
+    mct "Alles klar, Stacy hat ein Appartment... oder wird bald eines haben."
 
 # game/code/d05/d05s05b.rpy:235
 translate deutsch d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct "I can check that item off my worry list."
+    mct "Ich kann das von meiner Sorgenliste entfernen."
 
