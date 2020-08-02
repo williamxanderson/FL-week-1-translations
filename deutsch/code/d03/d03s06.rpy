@@ -279,5 +279,5 @@ translate deutsch strings:
 
     # game/code/d03/d03s06.rpy:104
     old "No, I have no interest in that"
-    new "Nein, Kein Iteresse daran!"
+    new "Nein, Kein Iteresse daran"
 
