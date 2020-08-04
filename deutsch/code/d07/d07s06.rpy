@@ -286,7 +286,7 @@ translate deutsch d07s06_808d101c:
 translate deutsch d07s06_efcc6b36:
 
     # mc "{i}Thanks!{/i}"
-    mc "{iDanke!{/i}"
+    mc "{i}Danke!{/i}"
 
 # game/code/d07/d07s06.rpy:122
 translate deutsch d07s06_5f18867b:
