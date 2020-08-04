@@ -506,7 +506,7 @@ translate deutsch replay_d06s10_b79140a5:
 translate deutsch replay_d06s10_2012b948:
 
     # "female voice" "Maybe you can go on top for once?"
-    "weibliche Stimme" "Vielleicht möchtest du einmal oben sein?"
+    "Frauenstimme" "Vielleicht möchtest du einmal oben sein?"
 
 # game/code/d06/d06s10.rpy:105
 translate deutsch replay_d06s10_b9a17a5f:
