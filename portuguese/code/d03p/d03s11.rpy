@@ -1,588 +1,582 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p/d03s11.rpy:37
+# game/code/d03p/d03s11.rpy:40
 translate portuguese d03s11_b3510f7c:
 
     # mct "Ok let's upload a dickpic to FL to participate at this Secret Oral Santa event."
-    mct ""
+    mct "Ok let's upload a dickpic to FL to participate at this Secret Oral Santa event."
 
-# game/d03p/d03s11.rpy:41
+# game/code/d03p/d03s11.rpy:44
 translate portuguese d03s11_8bc90307:
 
     # mct "Looks like no one is on this small balcony. Let's do it quickly."
-    mct ""
+    mct "Looks like no one is on this small balcony. Let's do it quickly."
 
-# game/d03p/d03s11.rpy:48
+# game/code/d03p/d03s11.rpy:52
 translate portuguese d03s11_b9598193:
 
     # mct "Done. Let's go back."
-    mct ""
+    mct "Done. Let's go back."
 
-# game/d03p/d03s11.rpy:54
-translate portuguese d03s11_06a49016:
-
-    # "Bzzzzz"
-    ""
-
-# game/d03p/d03s11.rpy:57
-translate portuguese d03s11_3b2a4fc0:
+# game/code/d03p/d03s11.rpy:63
+translate portuguese replay_d03s11_3b2a4fc0:
 
     # fl "Here is the pussy you have to please! Try to find it!"
-    fl ""
+    fl "Here is the pussy you have to please! Try to find it!"
 
-# game/d03p/d03s11.rpy:58
-translate portuguese d03s11_0e71a1bb:
+# game/code/d03p/d03s11.rpy:64
+translate portuguese replay_d03s11_0e71a1bb:
 
     # mct "Ok, I'm looking for pussy and hopefully, someone is looking for my dick!"
-    mct ""
+    mct "Ok, I'm looking for pussy and hopefully, someone is looking for my dick!"
 
-# game/d03p/d03s11.rpy:59
-translate portuguese d03s11_c0ba925c:
+# game/code/d03p/d03s11.rpy:65
+translate portuguese replay_d03s11_c0ba925c:
 
     # mct "I should try to find this pussy. Let's start right here!"
-    mct ""
+    mct "I should try to find this pussy. Let's start right here!"
 
-# game/d03p/d03s11.rpy:61
-translate portuguese d03s11_5182471b:
+# game/code/d03p/d03s11.rpy:67
+translate portuguese replay_d03s11_5182471b:
 
     # mc "Hey girls!"
-    mc ""
+    mc "Hey girls!"
 
-# game/d03p/d03s11.rpy:63
-translate portuguese d03s11_f6524e81:
+# game/code/d03p/d03s11.rpy:69
+translate portuguese replay_d03s11_f6524e81:
 
     # mc "Do you have any clue whose pussy this is?"
-    mc ""
+    mc "Do you have any clue whose pussy this is?"
 
-# game/d03p/d03s11.rpy:66
-translate portuguese d03s11_f8869564:
+# game/code/d03p/d03s11.rpy:72
+translate portuguese replay_d03s11_f8869564:
 
     # mkfl "Nope... and you're not getting near my pussy! It was just a dream."
-    mkfl ""
+    mkfl "Nope... and you're not getting near my pussy! It was just a dream."
 
-# game/d03p/d03s11.rpy:68
-translate portuguese d03s11_735a7621:
+# game/code/d03p/d03s11.rpy:74
+translate portuguese replay_d03s11_735a7621:
 
     # mkfl "Not mine... And I wouldn't let any guy near my pussy!"
-    mkfl ""
+    mkfl "Not mine... And I wouldn't let any guy near my pussy!"
 
-# game/d03p/d03s11.rpy:72
-translate portuguese d03s11_ab8b0a25:
+# game/code/d03p/d03s11.rpy:78
+translate portuguese replay_d03s11_ab8b0a25:
 
     # tm "You've already seen both of ours, remember?"
-    tm ""
+    tm "You've already seen both of ours, remember?"
 
-# game/d03p/d03s11.rpy:74
-translate portuguese d03s11_91ffc89e:
+# game/code/d03p/d03s11.rpy:80
+translate portuguese replay_d03s11_91ffc89e:
 
     # tm "That is a nice looking pussy, but I don't know which one it is..."
-    tm ""
+    tm "That is a nice looking pussy, but I don't know which one it is..."
 
-# game/d03p/d03s11.rpy:75
-translate portuguese d03s11_b4e482b5:
+# game/code/d03p/d03s11.rpy:81
+translate portuguese replay_d03s11_b4e482b5:
 
     # tm "Good luck finding it!"
-    tm ""
+    tm "Good luck finding it!"
 
-# game/d03p/d03s11.rpy:77
-translate portuguese d03s11_f81f36db:
+# game/code/d03p/d03s11.rpy:83
+translate portuguese replay_d03s11_f81f36db:
 
     # tm "My earlier offer still stands, anything Vesna does to you..."
-    tm ""
+    tm "My earlier offer still stands, anything Vesna does to you..."
 
-# game/d03p/d03s11.rpy:78
-translate portuguese d03s11_312316f2:
+# game/code/d03p/d03s11.rpy:84
+translate portuguese replay_d03s11_312316f2:
 
     # mkfl "Not going to happen!"
-    mkfl ""
+    mkfl "Not going to happen!"
 
-# game/d03p/d03s11.rpy:79
-translate portuguese d03s11_7f4a1a8c:
+# game/code/d03p/d03s11.rpy:85
+translate portuguese replay_d03s11_7f4a1a8c:
 
     # tm "Maybe you should come back later, if she changes her mind."
-    tm ""
+    tm "Maybe you should come back later, if she changes her mind."
 
-# game/d03p/d03s11.rpy:81
-translate portuguese d03s11_9d904b87:
+# game/code/d03p/d03s11.rpy:87
+translate portuguese replay_d03s11_9d904b87:
 
     # tm "If you don't find it and are looking to use your tongue, find me later. I wouldn't mind getting eaten out!"
-    tm ""
+    tm "If you don't find it and are looking to use your tongue, find me later. I wouldn't mind getting eaten out!"
 
-# game/d03p/d03s11.rpy:83
-translate portuguese d03s11_1cc13fd3:
+# game/code/d03p/d03s11.rpy:89
+translate portuguese replay_d03s11_1cc13fd3:
 
     # mc "Hmmm ok, I'll keep in mind. Thanks!"
-    mc ""
+    mc "Hmmm ok, I'll keep in mind. Thanks!"
 
-# game/d03p/d03s11.rpy:85
-translate portuguese d03s11_06a2d411:
+# game/code/d03p/d03s11.rpy:91
+translate portuguese replay_d03s11_06a2d411:
 
     # mct "Oh, this party is just something!"
-    mct ""
+    mct "Oh, this party is just something!"
 
-# game/d03p/d03s11.rpy:86
-translate portuguese d03s11_a0ac6d5c:
+# game/code/d03p/d03s11.rpy:92
+translate portuguese replay_d03s11_a0ac6d5c:
 
     # mct "Maybe I should try another floor."
-    mct ""
+    mct "Maybe I should try another floor."
 
-# game/d03p/d03s11.rpy:89
-translate portuguese d03s11_71d48693:
+# game/code/d03p/d03s11.rpy:95
+translate portuguese replay_d03s11_71d48693:
 
     # aw "Come, maybe we'll find him here!"
-    aw ""
+    aw "Come, maybe we'll find him here!"
 
-# game/d03p/d03s11.rpy:91
-translate portuguese d03s11_c537bc83:
+# game/code/d03p/d03s11.rpy:97
+translate portuguese replay_d03s11_c537bc83:
 
     # aw "Hey [mclogin]! How are you doing?"
-    aw ""
+    aw "Hey [mclogin]! How are you doing?"
 
-# game/d03p/d03s11.rpy:93
-translate portuguese d03s11_94fcc76d:
+# game/code/d03p/d03s11.rpy:99
+translate portuguese replay_d03s11_94fcc76d:
 
     # aw "I'm doing a tour for another guest!"
-    aw ""
+    aw "I'm doing a tour for another guest!"
 
-# game/d03p/d03s11.rpy:95
-translate portuguese d03s11_4af978ad:
+# game/code/d03p/d03s11.rpy:101
+translate portuguese replay_d03s11_4af978ad:
 
     # aw "Have you met Lyssa?"
-    aw ""
+    aw "Have you met Lyssa?"
 
-# game/d03p/d03s11.rpy:104
-translate portuguese d03s11_6b355eef:
+# game/code/d03p/d03s11.rpy:110
+translate portuguese replay_d03s11_6b355eef:
 
     # mct "Oh that is one fine looking woman!"
-    mct ""
+    mct "Oh that is one fine looking woman!"
 
-# game/d03p/d03s11.rpy:109
-translate portuguese d03s11_6cc78304:
+# game/code/d03p/d03s11.rpy:115
+translate portuguese replay_d03s11_6cc78304:
 
     # mct "Both of them!"
-    mct ""
+    mct "Both of them!"
 
-# game/d03p/d03s11.rpy:115
-translate portuguese d03s11_bc6b4e5c:
+# game/code/d03p/d03s11.rpy:121
+translate portuguese replay_d03s11_bc6b4e5c:
 
     # mct "Can this party get any better?"
-    mct ""
+    mct "Can this party get any better?"
 
-# game/d03p/d03s11.rpy:117
-translate portuguese d03s11_5575db2f:
+# game/code/d03p/d03s11.rpy:123
+translate portuguese replay_d03s11_5575db2f:
 
     # aw "Lyssa meet [mclogin]!"
-    aw ""
+    aw "Lyssa meet [mclogin]!"
 
-# game/d03p/d03s11.rpy:119
-translate portuguese d03s11_a15a5ca4:
+# game/code/d03p/d03s11.rpy:125
+translate portuguese replay_d03s11_a15a5ca4:
 
     # mc "You seem to go by your real names? I'm [mcname], you can just call me that. I'm pleased to meet you Lyssa!"
-    mc ""
+    mc "You seem to go by your real names? I'm [mcname], you can just call me that. I'm pleased to meet you Lyssa!"
 
-# game/d03p/d03s11.rpy:121
-translate portuguese d03s11_8731a120:
+# game/code/d03p/d03s11.rpy:127
+translate portuguese replay_d03s11_8731a120:
 
     # mh "Hi [mcname]! {w}Are you also participating in the events?"
-    mh ""
+    mh "Hi [mcname]! {w}Are you also participating in the events?"
 
-# game/d03p/d03s11.rpy:123
-translate portuguese d03s11_48c30c01:
+# game/code/d03p/d03s11.rpy:129
+translate portuguese replay_d03s11_48c30c01:
 
     # mc "Sure! That is what I'm trying to do now!"
-    mc ""
+    mc "Sure! That is what I'm trying to do now!"
 
-# game/d03p/d03s11.rpy:125
-translate portuguese d03s11_8a654d62:
+# game/code/d03p/d03s11.rpy:131
+translate portuguese replay_d03s11_8a654d62:
 
     # mc "Is there any chance the pussy in this picture belongs to one of you?"
-    mc ""
+    mc "Is there any chance the pussy in this picture belongs to one of you?"
 
-# game/d03p/d03s11.rpy:127
-translate portuguese d03s11_fc205a0e:
+# game/code/d03p/d03s11.rpy:133
+translate portuguese replay_d03s11_fc205a0e:
 
     # aw "Sorry, that's neither of us."
-    aw ""
+    aw "Sorry, that's neither of us."
 
-# game/d03p/d03s11.rpy:129
-translate portuguese d03s11_9fb09c50:
+# game/code/d03p/d03s11.rpy:135
+translate portuguese replay_d03s11_9fb09c50:
 
     # mct "She can speak for both of them?!"
-    mct ""
+    mct "She can speak for both of them?!"
 
-# game/d03p/d03s11.rpy:131
-translate portuguese d03s11_b9913c20:
+# game/code/d03p/d03s11.rpy:137
+translate portuguese replay_d03s11_b9913c20:
 
     # aw "But Lyssa is also looking for her Secret-Oral-Off-Season-Santa..."
-    aw ""
+    aw "But Lyssa is also looking for her Secret-Oral-Off-Season-Santa..."
 
-# game/d03p/d03s11.rpy:133
-translate portuguese d03s11_3a238daf:
+# game/code/d03p/d03s11.rpy:139
+translate portuguese replay_d03s11_3a238daf:
 
     # aw "Show him the picture."
-    aw ""
+    aw "Show him the picture."
 
-# game/d03p/d03s11.rpy:136
-translate portuguese d03s11_ec5d1db6:
+# game/code/d03p/d03s11.rpy:142
+translate portuguese replay_d03s11_ec5d1db6:
 
     # mh "Ok... Is that your dick?"
-    mh ""
+    mh "Ok... Is that your dick?"
 
-# game/d03p/d03s11.rpy:138
-translate portuguese d03s11_7542faa2:
+# game/code/d03p/d03s11.rpy:144
+translate portuguese replay_d03s11_7542faa2:
 
     # mc "Holy... {w}I mean, Yeah, that's my dickpic."
-    mc ""
+    mc "Holy... {w}I mean, Yeah, that's my dickpic."
 
-# game/d03p/d03s11.rpy:140
-translate portuguese d03s11_084207c7:
+# game/code/d03p/d03s11.rpy:146
+translate portuguese replay_d03s11_084207c7:
 
     # mh "Great! Seems like I found my dick to suck!"
-    mh ""
+    mh "Great! Seems like I found my dick to suck!"
 
-# game/d03p/d03s11.rpy:141
-translate portuguese d03s11_874dcb20:
+# game/code/d03p/d03s11.rpy:147
+translate portuguese replay_d03s11_874dcb20:
 
     # mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
-    mh ""
+    mh "Thank you, Allison, for your help! I was worried that it would be hard to find, but it was actually super easy!"
 
-# game/d03p/d03s11.rpy:143
-translate portuguese d03s11_61b3fbfd:
+# game/code/d03p/d03s11.rpy:149
+translate portuguese replay_d03s11_61b3fbfd:
 
     # aw "You are very welcome! There is a bedroom on this floor. You can do it there!"
-    aw ""
+    aw "You are very welcome! There is a bedroom on this floor. You can do it there!"
 
-# game/d03p/d03s11.rpy:144
-translate portuguese d03s11_5a4052b4:
+# game/code/d03p/d03s11.rpy:150
+translate portuguese replay_d03s11_5a4052b4:
 
     # aw "Have fun!"
-    aw ""
+    aw "Have fun!"
 
-# game/d03p/d03s11.rpy:146
-translate portuguese d03s11_20736b0e:
+# game/code/d03p/d03s11.rpy:152
+translate portuguese replay_d03s11_20736b0e:
 
     # mh "Let's go!"
-    mh ""
+    mh "Let's go!"
 
-# game/d03p/d03s11.rpy:149
-translate portuguese d03s11_f9144f76:
+# game/code/d03p/d03s11.rpy:155
+translate portuguese replay_d03s11_f9144f76:
 
     # mc "Just like that?!"
-    mc ""
+    mc "Just like that?!"
 
-# game/d03p/d03s11.rpy:151
-translate portuguese d03s11_377a9f7d:
+# game/code/d03p/d03s11.rpy:157
+translate portuguese replay_d03s11_377a9f7d:
 
     # mh "You don't want me to give you a blowjob?"
-    mh ""
+    mh "You don't want me to give you a blowjob?"
 
-# game/d03p/d03s11.rpy:153
-translate portuguese d03s11_8fc02887:
+# game/code/d03p/d03s11.rpy:159
+translate portuguese replay_d03s11_8fc02887:
 
     # mc "Of course I do! But just like that?"
-    mc ""
+    mc "Of course I do! But just like that?"
 
-# game/d03p/d03s11.rpy:155
-translate portuguese d03s11_6d0e904e:
+# game/code/d03p/d03s11.rpy:161
+translate portuguese replay_d03s11_6d0e904e:
 
     # mh "Yes it is very simple. Your penis. My mouth. How much longer do I need to convince you?"
-    mh ""
+    mh "Yes it is very simple. Your penis. My mouth. How much longer do I need to convince you?"
 
-# game/d03p/d03s11.rpy:157
-translate portuguese d03s11_8e7bf898:
+# game/code/d03p/d03s11.rpy:163
+translate portuguese replay_d03s11_8e7bf898:
 
     # mc "Not a single second longer!"
-    mc ""
+    mc "Not a single second longer!"
 
-# game/d03p/d03s11.rpy:159
-translate portuguese d03s11_adf15dc3:
+# game/code/d03p/d03s11.rpy:165
+translate portuguese replay_d03s11_adf15dc3:
 
     # mh "Then follow me!"
-    mh ""
+    mh "Then follow me!"
 
-# game/d03p/d03s11.rpy:162
-translate portuguese d03s11_0307cb95:
+# game/code/d03p/d03s11.rpy:168
+translate portuguese replay_d03s11_0307cb95:
 
     # mh "I think the bedroom is here. You coming?"
-    mh ""
+    mh "I think the bedroom is here. You coming?"
 
-# game/d03p/d03s11.rpy:168
-translate portuguese d03s11_462a9bfc:
+# game/code/d03p/d03s11.rpy:174
+translate portuguese replay_d03s11_462a9bfc:
 
     # mh "Seems like it is already occupied..."
-    mh ""
+    mh "Seems like it is already occupied..."
 
-# game/d03p/d03s11.rpy:171
-translate portuguese d03s11_8da5eb52:
+# game/code/d03p/d03s11.rpy:177
+translate portuguese replay_d03s11_8da5eb52:
 
     # cb "Hey guys. We're here for a few more minutes. Do you need anything?"
-    cb ""
+    cb "Hey guys. We're here for a few more minutes. Do you need anything?"
 
-# game/d03p/d03s11.rpy:172
-translate portuguese d03s11_da5b22d5:
+# game/code/d03p/d03s11.rpy:178
+translate portuguese replay_d03s11_da5b22d5:
 
     # mh "No we are just looking for a place where I can suck his cock..."
-    mh ""
+    mh "No we are just looking for a place where I can suck his cock..."
 
-# game/d03p/d03s11.rpy:173
-translate portuguese d03s11_3d11ac26:
+# game/code/d03p/d03s11.rpy:179
+translate portuguese replay_d03s11_3d11ac26:
 
     # cb "Oh I see! We're also doing the Santa event."
-    cb ""
+    cb "Oh I see! We're also doing the Santa event."
 
-# game/d03p/d03s11.rpy:175
-translate portuguese d03s11_17119074:
+# game/code/d03p/d03s11.rpy:181
+translate portuguese replay_d03s11_17119074:
 
     # cb "You can just do it here, if I can watch… or in the closet over there. {w}It is like a small room and it's empty."
-    cb ""
+    cb "You can just do it here, if I can watch… or in the closet over there. {w}It is like a small room and it's empty."
 
-# game/d03p/d03s11.rpy:177
-translate portuguese d03s11_27827121:
+# game/code/d03p/d03s11.rpy:183
+translate portuguese replay_d03s11_27827121:
 
     # mh "Thanks!"
-    mh ""
+    mh "Thanks!"
 
-# game/d03p/d03s11.rpy:178
-translate portuguese d03s11_330e3a75:
+# game/code/d03p/d03s11.rpy:184
+translate portuguese replay_d03s11_330e3a75:
 
     # mct "Chloe seems to be having a ton of fun!"
-    mct ""
+    mct "Chloe seems to be having a ton of fun!"
 
-# game/d03p/d03s11.rpy:183
-translate portuguese d03s11_032d6117:
+# game/code/d03p/d03s11.rpy:188
+translate portuguese replay_d03s11_032d6117:
 
     # mh "Yeah, there is more than enough space here. Come!"
-    mh ""
+    mh "Yeah, there is more than enough space here. Come!"
 
-# game/d03p/d03s11.rpy:188
-translate portuguese d03s11_a7f0d99c:
+# game/code/d03p/d03s11.rpy:196
+translate portuguese replay_d03s11_a7f0d99c:
 
     # mh "M-m-m. Nice and hard! That is the way I like it!"
-    mh ""
+    mh "M-m-m. Nice and hard! That is the way I like it!"
 
-# game/d03p/d03s11.rpy:190
-translate portuguese d03s11_7a3e9b14:
+# game/code/d03p/d03s11.rpy:198
+translate portuguese replay_d03s11_7a3e9b14:
 
     # mh "Should I get on my knees and suck it?"
-    mh ""
+    mh "Should I get on my knees and suck it?"
 
-# game/d03p/d03s11.rpy:191
-translate portuguese d03s11_b6739c54:
+# game/code/d03p/d03s11.rpy:199
+translate portuguese replay_d03s11_b6739c54:
 
     # mct "Oh my... I need to pull all my shit together to not just cum right fucking now!"
-    mct ""
+    mct "Oh my... I need to pull all my shit together to not just cum right fucking now!"
 
-# game/d03p/d03s11.rpy:192
-translate portuguese d03s11_819d4336:
+# game/code/d03p/d03s11.rpy:200
+translate portuguese replay_d03s11_819d4336:
 
     # mc "Hell yes!"
-    mc ""
+    mc "Hell yes!"
 
-# game/d03p/d03s11.rpy:199
-translate portuguese d03s11_4ad8ec78:
+# game/code/d03p/d03s11.rpy:207
+translate portuguese replay_d03s11_4ad8ec78:
 
     # mh "M-m-m very nice!"
-    mh ""
+    mh "M-m-m very nice!"
 
-# game/d03p/d03s11.rpy:203
-translate portuguese d03s11_853e3b7e:
+# game/code/d03p/d03s11.rpy:211
+translate portuguese replay_d03s11_853e3b7e:
 
     # mh "I knew it from the photo that you would have a delicious dick!"
-    mh ""
+    mh "I knew it from the photo that you would have a delicious dick!"
 
-# game/d03p/d03s11.rpy:229
-translate portuguese d03s11_f127ef52:
+# game/code/d03p/d03s11.rpy:237
+translate portuguese replay_d03s11_f127ef52:
 
     # mct "Oh, that's awesome! I'm about to explode!"
-    mct ""
+    mct "Oh, that's awesome! I'm about to explode!"
 
-# game/d03p/d03s11.rpy:232
-translate portuguese d03s11_cef73e98:
+# game/code/d03p/d03s11.rpy:240
+translate portuguese replay_d03s11_cef73e98:
 
     # mh "Ok I think we are done!"
-    mh ""
+    mh "Ok I think we are done!"
 
-# game/d03p/d03s11.rpy:233
-translate portuguese d03s11_4c6f5e70:
+# game/code/d03p/d03s11.rpy:241
+translate portuguese replay_d03s11_4c6f5e70:
 
     # mc "What?! But I didn't cum!"
-    mc ""
+    mc "What?! But I didn't cum!"
 
-# game/d03p/d03s11.rpy:234
-translate portuguese d03s11_dcfc5573:
+# game/code/d03p/d03s11.rpy:242
+translate portuguese replay_d03s11_dcfc5573:
 
     # mh "Well the gift was about giving oral pleasure..."
-    mh ""
+    mh "Well the gift was about giving oral pleasure..."
 
-# game/d03p/d03s11.rpy:236
-translate portuguese d03s11_b588fad5:
+# game/code/d03p/d03s11.rpy:244
+translate portuguese replay_d03s11_b588fad5:
 
     # mh "and not about making you cum. Right?"
-    mh ""
+    mh "and not about making you cum. Right?"
 
-# game/d03p/d03s11.rpy:238
-translate portuguese d03s11_87225907:
+# game/code/d03p/d03s11.rpy:246
+translate portuguese replay_d03s11_87225907:
 
     # mc "But isn't that the point!?"
-    mc ""
+    mc "But isn't that the point!?"
 
-# game/d03p/d03s11.rpy:240
-translate portuguese d03s11_e7973108:
+# game/code/d03p/d03s11.rpy:248
+translate portuguese replay_d03s11_e7973108:
 
     # mh "Nah, but... {w}Thank you. I enjoyed this a lot too!"
-    mh ""
+    mh "Nah, but... {w}Thank you. I enjoyed this a lot too!"
 
-# game/d03p/d03s11.rpy:242
-translate portuguese d03s11_8ed5699f:
+# game/code/d03p/d03s11.rpy:250
+translate portuguese replay_d03s11_8ed5699f:
 
     # mct "Damn! My balls are loaded like a 747 shoved into the trunk of a Fiat!"
-    mct ""
+    mct "Damn! My balls are loaded like a 747 shoved into the trunk of a Fiat!"
 
-# game/d03p/d03s11.rpy:244
-translate portuguese d03s11_0b7866b5:
+# game/code/d03p/d03s11.rpy:252
+translate portuguese replay_d03s11_0b7866b5:
 
     # mh "Ok, let's get back to the party."
-    mh ""
+    mh "Ok, let's get back to the party."
 
-# game/d03p/d03s11.rpy:247
-translate portuguese d03s11_8b5e620a:
+# game/code/d03p/d03s11.rpy:255
+translate portuguese replay_d03s11_8b5e620a:
 
     # mc "Wait!"
-    mc ""
+    mc "Wait!"
 
-# game/d03p/d03s11.rpy:248
-translate portuguese d03s11_1bceeac2:
+# game/code/d03p/d03s11.rpy:256
+translate portuguese replay_d03s11_1bceeac2:
 
     # mct "I need to come up with something to convince her!"
-    mct ""
+    mct "I need to come up with something to convince her!"
 
-# game/d03p/d03s11.rpy:249
-translate portuguese d03s11_dc84e908:
+# game/code/d03p/d03s11.rpy:257
+translate portuguese replay_d03s11_dc84e908:
 
     # mc "Are you sure it was not your pussy on the picture?"
-    mc ""
+    mc "Are you sure it was not your pussy on the picture?"
 
-# game/d03p/d03s11.rpy:251
-translate portuguese d03s11_e4e33def:
+# game/code/d03p/d03s11.rpy:259
+translate portuguese replay_d03s11_e4e33def:
 
     # mh "Pretty sure."
-    mh ""
+    mh "Pretty sure."
 
-# game/d03p/d03s11.rpy:253
-translate portuguese d03s11_7ef32bca:
+# game/code/d03p/d03s11.rpy:261
+translate portuguese replay_d03s11_7ef32bca:
 
     # mc "But how do I know that you are telling me the truth?"
-    mc ""
+    mc "But how do I know that you are telling me the truth?"
 
-# game/d03p/d03s11.rpy:255
-translate portuguese d03s11_0180f672:
+# game/code/d03p/d03s11.rpy:263
+translate portuguese replay_d03s11_0180f672:
 
     # mh "Why would I lie?"
-    mh ""
+    mh "Why would I lie?"
 
-# game/d03p/d03s11.rpy:257
-translate portuguese d03s11_416f5752:
+# game/code/d03p/d03s11.rpy:265
+translate portuguese replay_d03s11_416f5752:
 
     # mc "I don't know! People lie about strange things!"
-    mc ""
+    mc "I don't know! People lie about strange things!"
 
-# game/d03p/d03s11.rpy:259
-translate portuguese d03s11_cd0767a3:
+# game/code/d03p/d03s11.rpy:267
+translate portuguese replay_d03s11_cd0767a3:
 
     # mh "Trust me. It is not me on the picture."
-    mh ""
+    mh "Trust me. It is not me on the picture."
 
-# game/d03p/d03s11.rpy:263
-translate portuguese d03s11_0d59610e:
+# game/code/d03p/d03s11.rpy:271
+translate portuguese replay_d03s11_0d59610e:
 
     # mc "I want you to make me cum! I can make you cum first, if that's what it takes!"
-    mc ""
+    mc "I want you to make me cum! I can make you cum first, if that's what it takes!"
 
-# game/d03p/d03s11.rpy:265
-translate portuguese d03s11_1b3a1880:
+# game/code/d03p/d03s11.rpy:273
+translate portuguese replay_d03s11_1b3a1880:
 
     # mh "No thanks..."
-    mh ""
+    mh "No thanks..."
 
-# game/d03p/d03s11.rpy:267
-translate portuguese d03s11_a82a3377:
+# game/code/d03p/d03s11.rpy:275
+translate portuguese replay_d03s11_a82a3377:
 
     # mc "You don't want me to eat you out?"
-    mc ""
+    mc "You don't want me to eat you out?"
 
-# game/d03p/d03s11.rpy:269
-translate portuguese d03s11_17af5a66:
+# game/code/d03p/d03s11.rpy:277
+translate portuguese replay_d03s11_17af5a66:
 
     # mh "Ha! I will pass on that offer!"
-    mh ""
+    mh "Ha! I will pass on that offer!"
 
-# game/d03p/d03s11.rpy:271
-translate portuguese d03s11_2285a78c:
+# game/code/d03p/d03s11.rpy:279
+translate portuguese replay_d03s11_2285a78c:
 
     # mh "I'm going back to the party! See you!"
-    mh ""
+    mh "I'm going back to the party! See you!"
 
-# game/d03p/d03s11.rpy:274
-translate portuguese d03s11_94ad77e4:
+# game/code/d03p/d03s11.rpy:283
+translate portuguese replay_d03s11_94ad77e4:
 
     # mc "How about you show it to me and I would judge?"
-    mc ""
+    mc "How about you show it to me and I would judge?"
 
-# game/d03p/d03s11.rpy:276
-translate portuguese d03s11_9ae3d8ca:
+# game/code/d03p/d03s11.rpy:285
+translate portuguese replay_d03s11_9ae3d8ca:
 
     # mh "You know what? Sure, take a look!"
-    mh ""
+    mh "You know what? Sure, take a look!"
 
-# game/d03p/d03s11.rpy:277
-translate portuguese d03s11_9d9cf38e:
+# game/code/d03p/d03s11.rpy:286
+translate portuguese replay_d03s11_9d9cf38e:
 
     # mct "Ok... that was easy."
-    mct ""
+    mct "Ok... that was easy."
 
-# game/d03p/d03s11.rpy:295
-translate portuguese d03s11_eee8a13b:
+# game/code/d03p/d03s11.rpy:304
+translate portuguese replay_d03s11_eee8a13b:
 
     # mc "That... {w}is...{w} a penis!"
-    mc ""
+    mc "That... {w}is...{w} a penis!"
 
-# game/d03p/d03s11.rpy:297
-translate portuguese d03s11_17011966:
+# game/code/d03p/d03s11.rpy:306
+translate portuguese replay_d03s11_17011966:
 
     # mh "Ten points to Gryffindor!"
-    mh ""
+    mh "Ten points to Gryffindor!"
 
-# game/d03p/d03s11.rpy:298
-translate portuguese d03s11_51f281e1:
+# game/code/d03p/d03s11.rpy:307
+translate portuguese replay_d03s11_51f281e1:
 
     # mc "Wait, but how is that?!"
-    mc ""
+    mc "Wait, but how is that?!"
 
-# game/d03p/d03s11.rpy:300
-translate portuguese d03s11_ba2f6047:
+# game/code/d03p/d03s11.rpy:309
+translate portuguese replay_d03s11_ba2f6047:
 
     # mh "I'm going back to the party! Have fun!"
-    mh ""
+    mh "I'm going back to the party! Have fun!"
 
-# game/d03p/d03s11.rpy:308
-translate portuguese d03s11_69c45577:
+# game/code/d03p/d03s11.rpy:324
+translate portuguese replay_d03s11_dbf187e2:
 
-    # mc "I just got a blowjob from a transsexual?!"
-    mc ""
+    # mct "I just got a blowjob from a transsexual?!"
+    mct "I just got a blowjob from a transsexual?!"
 
-# game/d03p/d03s11.rpy:309
-translate portuguese d03s11_92d8d6fc:
+# game/code/d03p/d03s11.rpy:325
+translate portuguese replay_d03s11_754efcdb:
 
-    # mc "She looks like the hottest girl! {w}She even talks and moves like girl... {w}Or he? {w}Daaamn..."
-    mc ""
+    # mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."
+    mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."
 
 translate portuguese strings:
 
-    # game/d03p/d03s11.rpy:261
+    # game/code/d03p/d03s11.rpy:269
     old "Offer to eat her out if she makes you cum"
-    new ""
+    new "Offer to eat her out if she makes you cum"
 
-    # game/d03p/d03s11.rpy:261
+    # game/code/d03p/d03s11.rpy:269
     old "Demand to see her pussy"
-    new ""
+    new "Demand to see her pussy"
 

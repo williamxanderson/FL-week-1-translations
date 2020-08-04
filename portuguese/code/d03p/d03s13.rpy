@@ -1,1052 +1,1052 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p/d03s13.rpy:17
-translate portuguese d03s13_2d4b4461:
+# game/code/d03p/d03s13.rpy:21
+translate portuguese replay_d03s13_2d4b4461:
 
     # mct "Min's event should be on the first floor."
-    mct ""
+    mct "Min's event should be on the first floor."
 
-# game/d03p/d03s13.rpy:21
-translate portuguese d03s13_d8c6b7a2:
+# game/code/d03p/d03s13.rpy:25
+translate portuguese replay_d03s13_d8c6b7a2:
 
     # mct "Here is Daisy."
-    mct ""
+    mct "Here is Daisy."
 
-# game/d03p/d03s13.rpy:23
-translate portuguese d03s13_10938193:
+# game/code/d03p/d03s13.rpy:27
+translate portuguese replay_d03s13_10938193:
 
     # dd "[mcname]!"
-    dd ""
+    dd "[mcname]!"
 
-# game/d03p/d03s13.rpy:25
-translate portuguese d03s13_ede399d8:
+# game/code/d03p/d03s13.rpy:29
+translate portuguese replay_d03s13_ede399d8:
 
     # mc "Oh, hey Daisy."
-    mc ""
+    mc "Oh, hey Daisy."
 
-# game/d03p/d03s13.rpy:27
-translate portuguese d03s13_109c863e:
+# game/code/d03p/d03s13.rpy:31
+translate portuguese replay_d03s13_109c863e:
 
     # mc "Whoa. What's up?"
-    mc ""
+    mc "Whoa. What's up?"
 
-# game/d03p/d03s13.rpy:29
-translate portuguese d03s13_fbdad4a0:
+# game/code/d03p/d03s13.rpy:33
+translate portuguese replay_d03s13_fbdad4a0:
 
     # dd "Let's go! I need you."
-    dd ""
+    dd "Let's go! I need you."
 
-# game/d03p/d03s13.rpy:31
-translate portuguese d03s13_c1732cff:
+# game/code/d03p/d03s13.rpy:35
+translate portuguese replay_d03s13_c1732cff:
 
     # mc "Sure... {w}uh, where are we going?"
-    mc ""
+    mc "Sure... {w}uh, where are we going?"
 
-# game/d03p/d03s13.rpy:38
-translate portuguese d03s13_b36e4671:
+# game/code/d03p/d03s13.rpy:42
+translate portuguese replay_d03s13_b36e4671:
 
     # dw "Fine. {w}You win."
-    dw ""
+    dw "Fine. {w}You win."
 
-# game/d03p/d03s13.rpy:41
-translate portuguese d03s13_d95f37f8:
+# game/code/d03p/d03s13.rpy:45
+translate portuguese replay_d03s13_d95f37f8:
 
     # dw "Get the fuck out of my way. {w}I need a smoke."
-    dw ""
+    dw "Get the fuck out of my way. {w}I need a smoke."
 
-# game/d03p/d03s13.rpy:44
-translate portuguese d03s13_1b4509fb:
+# game/code/d03p/d03s13.rpy:48
+translate portuguese replay_d03s13_1b4509fb:
 
     # pb "Dude, you just missed a hell of a show. Dahlia was all..."
-    pb ""
+    pb "Dude, you just missed a hell of a show. Dahlia was all..."
 
-# game/d03p/d03s13.rpy:51
-translate portuguese d03s13_015d20de:
+# game/code/d03p/d03s13.rpy:57
+translate portuguese replay_d03s13_015d20de:
 
     # mct "Wow!"
-    mct ""
+    mct "Wow!"
 
-# game/d03p/d03s13.rpy:55
-translate portuguese d03s13_2fa30697:
+# game/code/d03p/d03s13.rpy:61
+translate portuguese replay_d03s13_2fa30697:
 
     # dd "I have a challenge!"
-    dd ""
+    dd "I have a challenge!"
 
-# game/d03p/d03s13.rpy:57
-translate portuguese d03s13_e62851e8:
+# game/code/d03p/d03s13.rpy:63
+translate portuguese replay_d03s13_e62851e8:
 
     # dd "I take [mcname], you get Pete. {w}Whichever one of us can make their guy cum first wins!"
-    dd ""
+    dd "I take [mcname], you get Pete. {w}Whichever one of us can make their guy cum first wins!"
 
-# game/d03p/d03s13.rpy:59
-translate portuguese d03s13_be4a48dc:
+# game/code/d03p/d03s13.rpy:65
+translate portuguese replay_d03s13_be4a48dc:
 
     # mes "Too easy. Where is the challenge in that?"
-    mes ""
+    mes "Too easy. Where is the challenge in that?"
 
-# game/d03p/d03s13.rpy:61
-translate portuguese d03s13_a9c83609:
+# game/code/d03p/d03s13.rpy:67
+translate portuguese replay_d03s13_a9c83609:
 
     # dd "I wasn't finished! The girl can only use her hands to get the guy hard, but after that, anything goes."
-    dd ""
+    dd "I wasn't finished! The girl can only use her hands to get the guy hard, but after that, anything goes."
 
-# game/d03p/d03s13.rpy:63
-translate portuguese d03s13_f3d17874:
+# game/code/d03p/d03s13.rpy:69
+translate portuguese replay_d03s13_f3d17874:
 
     # mes "Is that it?"
-    mes ""
+    mes "Is that it?"
 
-# game/d03p/d03s13.rpy:65
-translate portuguese d03s13_d8339b00:
+# game/code/d03p/d03s13.rpy:71
+translate portuguese replay_d03s13_d8339b00:
 
     # dd "um, yes."
-    dd ""
+    dd "um, yes."
 
-# game/d03p/d03s13.rpy:67
-translate portuguese d03s13_dff0f142:
+# game/code/d03p/d03s13.rpy:73
+translate portuguese replay_d03s13_dff0f142:
 
     # mes "Fine. Go ahead and get ready."
-    mes ""
+    mes "Fine. Go ahead and get ready."
 
-# game/d03p/d03s13.rpy:70
-translate portuguese d03s13_5c30cdf0:
+# game/code/d03p/d03s13.rpy:76
+translate portuguese replay_d03s13_5c30cdf0:
 
     # mc "I'm not complaining, but are you sure this is a good idea?"
-    mc ""
+    mc "I'm not complaining, but are you sure this is a good idea?"
 
-# game/d03p/d03s13.rpy:71
-translate portuguese d03s13_0c7e1a3a:
+# game/code/d03p/d03s13.rpy:77
+translate portuguese replay_d03s13_0c7e1a3a:
 
     # dd "Don't worry, we've got this. Pete can't get hard from just a handjob."
-    dd ""
+    dd "Don't worry, we've got this. Pete can't get hard from just a handjob."
 
-# game/d03p/d03s13.rpy:72
-translate portuguese d03s13_5e1824b9:
+# game/code/d03p/d03s13.rpy:78
+translate portuguese replay_d03s13_5e1824b9:
 
     # mc "Why would you..."
-    mc ""
+    mc "Why would you..."
 
-# game/d03p/d03s13.rpy:73
-translate portuguese d03s13_67b42a3b:
+# game/code/d03p/d03s13.rpy:79
+translate portuguese replay_d03s13_67b42a3b:
 
     # dd "Besides, he's already cum several times today."
-    dd ""
+    dd "Besides, he's already cum several times today."
 
-# game/d03p/d03s13.rpy:74
-translate portuguese d03s13_c127200a:
+# game/code/d03p/d03s13.rpy:80
+translate portuguese replay_d03s13_c127200a:
 
     # mc "I don't want to know..."
-    mc ""
+    mc "I don't want to know..."
 
-# game/d03p/d03s13.rpy:75
-translate portuguese d03s13_1437b2a3:
+# game/code/d03p/d03s13.rpy:81
+translate portuguese replay_d03s13_1437b2a3:
 
     # dd "Dahlia's butt must be really sore."
-    dd ""
+    dd "Dahlia's butt must be really sore."
 
-# game/d03p/d03s13.rpy:76
-translate portuguese d03s13_2736022e:
+# game/code/d03p/d03s13.rpy:82
+translate portuguese replay_d03s13_2736022e:
 
     # mc "... or maybe I want to hear more."
-    mc ""
+    mc "... or maybe I want to hear more."
 
-# game/d03p/d03s13.rpy:77
-translate portuguese d03s13_a40b2e58:
+# game/code/d03p/d03s13.rpy:83
+translate portuguese replay_d03s13_a40b2e58:
 
     # dd "Later."
-    dd ""
+    dd "Later."
 
-# game/d03p/d03s13.rpy:80
-translate portuguese d03s13_12ecc282:
+# game/code/d03p/d03s13.rpy:86
+translate portuguese replay_d03s13_12ecc282:
 
     # mes "I'm ready whenever you are."
-    mes ""
+    mes "I'm ready whenever you are."
 
-# game/d03p/d03s13.rpy:82
-translate portuguese d03s13_08be305c:
+# game/code/d03p/d03s13.rpy:88
+translate portuguese replay_d03s13_08be305c:
 
     # dd "Let's do this. {w}Go!"
-    dd ""
+    dd "Let's do this. {w}Go!"
 
-# game/d03p/d03s13.rpy:87
-translate portuguese d03s13_75235761:
+# game/code/d03p/d03s13.rpy:93
+translate portuguese replay_d03s13_75235761:
 
     # dd "Okay, do you feel my tits against your back?"
-    dd ""
+    dd "Okay, do you feel my tits against your back?"
 
-# game/d03p/d03s13.rpy:90
-translate portuguese d03s13_84d9991b:
+# game/code/d03p/d03s13.rpy:96
+translate portuguese replay_d03s13_84d9991b:
 
     # mc "Yes..."
-    mc ""
+    mc "Yes..."
 
-# game/d03p/d03s13.rpy:94
-translate portuguese d03s13_7d475484:
+# game/code/d03p/d03s13.rpy:100
+translate portuguese replay_d03s13_7d475484:
 
     # dd "Now look at me."
-    dd ""
+    dd "Now look at me."
 
-# game/d03p/d03s13.rpy:96
-translate portuguese d03s13_9f72e3a5:
+# game/code/d03p/d03s13.rpy:102
+translate portuguese replay_d03s13_9f72e3a5:
 
     # dd "That works, apparently."
-    dd ""
+    dd "That works, apparently."
 
-# game/d03p/d03s13.rpy:98
-translate portuguese d03s13_7e57bef1:
+# game/code/d03p/d03s13.rpy:104
+translate portuguese replay_d03s13_7e57bef1:
 
     # dd "My guy is ready!"
-    dd ""
+    dd "My guy is ready!"
 
-# game/d03p/d03s13.rpy:100
-translate portuguese d03s13_1aa55233:
+# game/code/d03p/d03s13.rpy:106
+translate portuguese replay_d03s13_1aa55233:
 
     # dd "Let's get this easy win!"
-    dd ""
+    dd "Let's get this easy win!"
 
-# game/d03p/d03s13.rpy:103
-translate portuguese d03s13_913b9a20:
+# game/code/d03p/d03s13.rpy:109
+translate portuguese replay_d03s13_913b9a20:
 
     # dd "Just focus on my eyes, okay?"
-    dd ""
+    dd "Just focus on my eyes, okay?"
 
-# game/d03p/d03s13.rpy:122
-translate portuguese d03s13_babd9c31:
+# game/code/d03p/d03s13.rpy:128
+translate portuguese replay_d03s13_babd9c31:
 
     # mct "Oh so good! I'm about to cum!"
-    mct ""
+    mct "Oh so good! I'm about to cum!"
 
-# game/d03p/d03s13.rpy:126
-translate portuguese d03s13_f0eaafba:
+# game/code/d03p/d03s13.rpy:132
+translate portuguese replay_d03s13_f0eaafba:
 
     # pb "Gah!"
-    pb ""
+    pb "Gah!"
 
-# game/d03p/d03s13.rpy:133
-translate portuguese d03s13_1d6e0ea5:
+# game/code/d03p/d03s13.rpy:139
+translate portuguese replay_d03s13_1d6e0ea5:
 
     # mc "What? How did she?..."
-    mc ""
+    mc "What? How did she?..."
 
-# game/d03p/d03s13.rpy:139
-translate portuguese d03s13_1c2bbb11:
+# game/code/d03p/d03s13.rpy:145
+translate portuguese replay_d03s13_1c2bbb11:
 
     # mct "Did she made him cum with a finger in his ass??"
-    mct ""
+    mct "Did she made him cum with a finger in his ass??"
 
-# game/d03p/d03s13.rpy:143
-translate portuguese d03s13_788de16b:
+# game/code/d03p/d03s13.rpy:149
+translate portuguese replay_d03s13_788de16b:
 
     # mes "You can stop. I won."
-    mes ""
+    mes "You can stop. I won."
 
-# game/d03p/d03s13.rpy:146
-translate portuguese d03s13_c7f32d6a:
+# game/code/d03p/d03s13.rpy:152
+translate portuguese replay_d03s13_c7f32d6a:
 
     # dd "What? How? That can't be."
-    dd ""
+    dd "What? How? That can't be."
 
-# game/d03p/d03s13.rpy:149
-translate portuguese d03s13_3606a100:
+# game/code/d03p/d03s13.rpy:155
+translate portuguese replay_d03s13_3606a100:
 
     # mes "Are you saying he didn't cum?"
-    mes ""
+    mes "Are you saying he didn't cum?"
 
-# game/d03p/d03s13.rpy:151
-translate portuguese d03s13_0366652d:
+# game/code/d03p/d03s13.rpy:157
+translate portuguese replay_d03s13_0366652d:
 
     # dd "What!? No, I didn't mean that."
-    dd ""
+    dd "What!? No, I didn't mean that."
 
-# game/d03p/d03s13.rpy:153
-translate portuguese d03s13_72459ea6:
+# game/code/d03p/d03s13.rpy:159
+translate portuguese replay_d03s13_72459ea6:
 
     # dd "You won."
-    dd ""
+    dd "You won."
 
-# game/d03p/d03s13.rpy:156
-translate portuguese d03s13_836c33c8:
+# game/code/d03p/d03s13.rpy:162
+translate portuguese replay_d03s13_836c33c8:
 
     # mc "Um, Daisy... {w}I could use a little help here."
-    mc ""
+    mc "Um, Daisy... {w}I could use a little help here."
 
-# game/d03p/d03s13.rpy:158
-translate portuguese d03s13_c696a0d0:
+# game/code/d03p/d03s13.rpy:164
+translate portuguese replay_d03s13_b62e8c69:
 
-    # dd "but I lost."
-    dd ""
+    # dd "But I lost."
+    dd "But I lost."
 
-# game/d03p/d03s13.rpy:159
-translate portuguese d03s13_1611d8c9:
+# game/code/d03p/d03s13.rpy:165
+translate portuguese replay_d03s13_1611d8c9:
 
     # mc "Could you finish? {w}Would you mind..."
-    mc ""
+    mc "Could you finish? {w}Would you mind..."
 
-# game/d03p/d03s13.rpy:162
-translate portuguese d03s13_b3cab5b8:
+# game/code/d03p/d03s13.rpy:168
+translate portuguese replay_d03s13_2f415ada:
 
-    # dd "but... I lost. The game is over."
-    dd ""
+    # dd "But... I lost. The game is over."
+    dd "But... I lost. The game is over."
 
-# game/d03p/d03s13.rpy:163
-translate portuguese d03s13_a56c650e:
+# game/code/d03p/d03s13.rpy:169
+translate portuguese replay_d03s13_b8de06d3:
 
-    # mc "oh."
-    mc ""
+    # mc "Oh."
+    mc "Oh."
 
-# game/d03p/d03s13.rpy:165
-translate portuguese d03s13_6cb4abeb:
+# game/code/d03p/d03s13.rpy:171
+translate portuguese replay_d03s13_6cb4abeb:
 
     # pb "Sorry about that, dude."
-    pb ""
+    pb "Sorry about that, dude."
 
-# game/d03p/d03s13.rpy:169
-translate portuguese d03s13_70b28f76:
+# game/code/d03p/d03s13.rpy:175
+translate portuguese replay_d03s13_70b28f76:
 
     # mc "Hold on."
-    mc ""
+    mc "Hold on."
 
-# game/d03p/d03s13.rpy:174
-translate portuguese d03s13_2e52dd8a:
+# game/code/d03p/d03s13.rpy:180
+translate portuguese replay_d03s13_2e52dd8a:
 
     # mct "I know one Min's weakness! She was shy to pee in front of me!"
-    mct ""
+    mct "I know one Min's weakness! She was shy to pee in front of me!"
 
-# game/d03p/d03s13.rpy:176
-translate portuguese d03s13_ee0caa36:
+# game/code/d03p/d03s13.rpy:182
+translate portuguese replay_d03s13_ee0caa36:
 
     # mct "I also can do some naughty things..."
-    mct ""
+    mct "I also can do some naughty things..."
 
-# game/d03p/d03s13.rpy:182
-translate portuguese d03s13_86db9d36:
+# game/code/d03p/d03s13.rpy:188
+translate portuguese replay_d03s13_86db9d36:
 
     # mct "What if I would challenge Min to a pee contest?"
-    mct ""
+    mct "What if I would challenge Min to a pee contest?"
 
-# game/d03p/d03s13.rpy:195
-translate portuguese d03s13_ebdeb7a0:
+# game/code/d03p/d03s13.rpy:201
+translate portuguese replay_d03s13_ebdeb7a0:
 
     # mc "Nevermind, I'm ready. Let's go."
-    mc ""
+    mc "Nevermind, I'm ready. Let's go."
 
-# game/d03p/d03s13.rpy:203
-translate portuguese d03s13_a777d207:
+# game/code/d03p/d03s13.rpy:210
+translate portuguese replay_d03s13_a777d207:
 
     # mes "You might want to put your pants on."
-    mes ""
+    mes "You might want to put your pants on."
 
-# game/d03p/d03s13.rpy:204
-translate portuguese d03s13_a9060406:
+# game/code/d03p/d03s13.rpy:211
+translate portuguese replay_d03s13_a9060406:
 
     # mc "I have a challenge for you."
-    mc ""
+    mc "I have a challenge for you."
 
-# game/d03p/d03s13.rpy:206
-translate portuguese d03s13_f69fbcb4:
+# game/code/d03p/d03s13.rpy:213
+translate portuguese replay_d03s13_f69fbcb4:
 
     # mes "I bet I know what it will be."
-    mes ""
+    mes "I bet I know what it will be."
 
-# game/d03p/d03s13.rpy:208
-translate portuguese d03s13_e3f1e91c:
+# game/code/d03p/d03s13.rpy:215
+translate portuguese replay_d03s13_e3f1e91c:
 
     # mes "Does it involve your flaccid cock?"
-    mes ""
+    mes "Does it involve your flaccid cock?"
 
-# game/d03p/d03s13.rpy:210
-translate portuguese d03s13_2ddf5601:
+# game/code/d03p/d03s13.rpy:217
+translate portuguese replay_d03s13_2ddf5601:
 
     # mc "I challenge you to a pissing contest."
-    mc ""
+    mc "I challenge you to a pissing contest."
 
-# game/d03p/d03s13.rpy:213
-translate portuguese d03s13_7fb439c3:
+# game/code/d03p/d03s13.rpy:220
+translate portuguese replay_d03s13_7fb439c3:
 
     # pb "I don't want to see this. Let's go."
-    pb ""
+    pb "I don't want to see this. Let's go."
 
-# game/d03p/d03s13.rpy:214
-translate portuguese d03s13_99889e95:
+# game/code/d03p/d03s13.rpy:221
+translate portuguese replay_d03s13_99889e95:
 
     # dd "I want to see this!"
-    dd ""
+    dd "I want to see this!"
 
-# game/d03p/d03s13.rpy:216
-translate portuguese d03s13_206dace7:
+# game/code/d03p/d03s13.rpy:223
+translate portuguese replay_d03s13_206dace7:
 
     # pb "I'll go find Dahlia then."
-    pb ""
+    pb "I'll go find Dahlia then."
 
-# game/d03p/d03s13.rpy:219
-translate portuguese d03s13_bece8db7:
+# game/code/d03p/d03s13.rpy:226
+translate portuguese replay_d03s13_bece8db7:
 
     # mes "You do realize that I'm a girl, right?"
-    mes ""
+    mes "You do realize that I'm a girl, right?"
 
-# game/d03p/d03s13.rpy:221
-translate portuguese d03s13_dcd253e5:
+# game/code/d03p/d03s13.rpy:228
+translate portuguese replay_d03s13_dcd253e5:
 
     # mc "It's simple; Two identical containers. We piss into one each..."
-    mc ""
+    mc "It's simple; Two identical containers. We piss into one each..."
 
-# game/d03p/d03s13.rpy:223
-translate portuguese d03s13_6f32f4f4:
+# game/code/d03p/d03s13.rpy:230
+translate portuguese replay_d03s13_6f32f4f4:
 
     # mes "Alright, I accept. Let's do this."
-    mes ""
+    mes "Alright, I accept. Let's do this."
 
-# game/d03p/d03s13.rpy:225
-translate portuguese d03s13_eba58e4b:
+# game/code/d03p/d03s13.rpy:232
+translate portuguese replay_d03s13_eba58e4b:
 
     # dd "This sounds so hot! {w}Can I judge!?"
-    dd ""
+    dd "This sounds so hot! {w}Can I judge!?"
 
-# game/d03p/d03s13.rpy:226
-translate portuguese d03s13_7372edae:
+# game/code/d03p/d03s13.rpy:233
+translate portuguese replay_d03s13_7372edae:
 
     # dd "I have an idea! Wait for a second!"
-    dd ""
+    dd "I have an idea! Wait for a second!"
 
-# game/d03p/d03s13.rpy:229
-translate portuguese d03s13_0c3dac37:
+# game/code/d03p/d03s13.rpy:236
+translate portuguese replay_d03s13_0c3dac37:
 
     # dd "Look what I found! These will do perfectly for this challenge!"
-    dd ""
+    dd "Look what I found! These will do perfectly for this challenge!"
 
-# game/d03p/d03s13.rpy:232
-translate portuguese d03s13_be0a90cd:
+# game/code/d03p/d03s13.rpy:239
+translate portuguese replay_d03s13_be0a90cd:
 
     # dd "Here we go!"
-    dd ""
+    dd "Here we go!"
 
-# game/d03p/d03s13.rpy:235
-translate portuguese d03s13_e88aed8d:
+# game/code/d03p/d03s13.rpy:242
+translate portuguese replay_d03s13_e88aed8d:
 
     # dd "And I will be judging from here!"
-    dd ""
+    dd "And I will be judging from here!"
 
-# game/d03p/d03s13.rpy:239
-translate portuguese d03s13_9f510937:
+# game/code/d03p/d03s13.rpy:246
+translate portuguese replay_d03s13_9f510937:
 
     # dd "When I give the word, you can both start peeing."
-    dd ""
+    dd "When I give the word, you can both start peeing."
 
-# game/d03p/d03s13.rpy:243
-translate portuguese d03s13_51730cef:
+# game/code/d03p/d03s13.rpy:250
+translate portuguese replay_d03s13_51730cef:
 
     # dd "[mcname], are you ready?"
-    dd ""
+    dd "[mcname], are you ready?"
 
-# game/d03p/d03s13.rpy:247
-translate portuguese d03s13_f4e4fa76:
+# game/code/d03p/d03s13.rpy:254
+translate portuguese replay_d03s13_f4e4fa76:
 
     # mc "Ready."
-    mc ""
+    mc "Ready."
 
-# game/d03p/d03s13.rpy:249
-translate portuguese d03s13_3caeffc4:
+# game/code/d03p/d03s13.rpy:256
+translate portuguese replay_d03s13_3caeffc4:
 
     # dd "Miss [mesfl], are you ready?"
-    dd ""
+    dd "Miss [mesfl], are you ready?"
 
-# game/d03p/d03s13.rpy:254
-translate portuguese d03s13_bff52eff:
+# game/code/d03p/d03s13.rpy:261
+translate portuguese replay_d03s13_bff52eff:
 
     # mes "I just want you to know that I was expecting this."
-    mes ""
+    mes "I just want you to know that I was expecting this."
 
-# game/d03p/d03s13.rpy:255
-translate portuguese d03s13_84a3eabc:
+# game/code/d03p/d03s13.rpy:262
+translate portuguese replay_d03s13_84a3eabc:
 
     # mes "I've been mentally preparing myself."
-    mes ""
+    mes "I've been mentally preparing myself."
 
-# game/d03p/d03s13.rpy:256
-translate portuguese d03s13_6215bbf9:
+# game/code/d03p/d03s13.rpy:263
+translate portuguese replay_d03s13_6215bbf9:
 
     # mes "I am ready."
-    mes ""
+    mes "I am ready."
 
-# game/d03p/d03s13.rpy:259
-translate portuguese d03s13_eec6d34a:
+# game/code/d03p/d03s13.rpy:266
+translate portuguese replay_d03s13_eec6d34a:
 
     # dd "GO!!!"
-    dd ""
+    dd "GO!!!"
 
-# game/d03p/d03s13.rpy:263
-translate portuguese d03s13_bc7c869e:
+# game/code/d03p/d03s13.rpy:271
+translate portuguese replay_d03s13_bc7c869e:
 
     # dd "[mcname] is off to an early lead..."
-    dd ""
+    dd "[mcname] is off to an early lead..."
 
-# game/d03p/d03s13.rpy:267
-translate portuguese d03s13_ab160341:
+# game/code/d03p/d03s13.rpy:275
+translate portuguese replay_d03s13_ab160341:
 
     # dd "[mesfl] appears to be struggling at the starting line..."
-    dd ""
+    dd "[mesfl] appears to be struggling at the starting line..."
 
-# game/d03p/d03s13.rpy:271
-translate portuguese d03s13_33bcb18b:
+# game/code/d03p/d03s13.rpy:279
+translate portuguese replay_d03s13_33bcb18b:
 
     # dd "[mcname] is really pouring it on..."
-    dd ""
+    dd "[mcname] is really pouring it on..."
 
-# game/d03p/d03s13.rpy:275
-translate portuguese d03s13_3a3a5d4b:
+# game/code/d03p/d03s13.rpy:284
+translate portuguese replay_d03s13_3a3a5d4b:
 
     # dd "[mesfl] has started, but will it be enough..."
-    dd ""
+    dd "[mesfl] has started, but will it be enough..."
 
-# game/d03p/d03s13.rpy:279
-translate portuguese d03s13_43a86b51:
+# game/code/d03p/d03s13.rpy:288
+translate portuguese replay_d03s13_43a86b51:
 
     # dd "[mcname] has a strong lead..."
-    dd ""
+    dd "[mcname] has a strong lead..."
 
-# game/d03p/d03s13.rpy:283
-translate portuguese d03s13_0894d08d:
+# game/code/d03p/d03s13.rpy:292
+translate portuguese replay_d03s13_0894d08d:
 
     # dd "[mesfl] is going strong..."
-    dd ""
+    dd "[mesfl] is going strong..."
 
-# game/d03p/d03s13.rpy:286
-translate portuguese d03s13_0f9d95d3:
+# game/code/d03p/d03s13.rpy:295
+translate portuguese replay_d03s13_0f9d95d3:
 
     # dd "can she catch up to [mcname]???"
-    dd ""
+    dd "can she catch up to [mcname]???"
 
-# game/d03p/d03s13.rpy:289
-translate portuguese d03s13_10dd0d54:
+# game/code/d03p/d03s13.rpy:298
+translate portuguese replay_d03s13_10dd0d54:
 
     # dd "Is it just me, or is this incredibly hot?"
-    dd ""
+    dd "Is it just me, or is this incredibly hot?"
 
-# game/d03p/d03s13.rpy:293
-translate portuguese d03s13_d5639277:
+# game/code/d03p/d03s13.rpy:303
+translate portuguese replay_d03s13_d5639277:
 
     # dd "[mcname] has filled his container, but remember..."
-    dd ""
+    dd "[mcname] has filled his container, but remember..."
 
-# game/d03p/d03s13.rpy:295
-translate portuguese d03s13_91aeee4d:
+# game/code/d03p/d03s13.rpy:305
+translate portuguese replay_d03s13_91aeee4d:
 
     # dd "this is about volume, not just speed."
-    dd ""
+    dd "this is about volume, not just speed."
 
-# game/d03p/d03s13.rpy:297
-translate portuguese d03s13_6c5302f8:
+# game/code/d03p/d03s13.rpy:307
+translate portuguese replay_d03s13_6c5302f8:
 
     # dd "[mesfl] appears to be pushing herself hard to tie [mcname]'s volume..."
-    dd ""
+    dd "[mesfl] appears to be pushing herself hard to tie [mcname]'s volume..."
 
-# game/d03p/d03s13.rpy:300
-translate portuguese d03s13_fec68026:
+# game/code/d03p/d03s13.rpy:311
+translate portuguese replay_d03s13_fec68026:
 
     # dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
-    dd ""
+    dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
 
-# game/d03p/d03s13.rpy:303
-translate portuguese d03s13_8a0034a5:
+# game/code/d03p/d03s13.rpy:314
+translate portuguese replay_d03s13_8a0034a5:
 
     # dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
-    dd ""
+    dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
 
-# game/d03p/d03s13.rpy:309
-translate portuguese d03s13_02e62dd1:
+# game/code/d03p/d03s13.rpy:320
+translate portuguese replay_d03s13_02e62dd1:
 
     # mes "That was a good challenge. Thank you."
-    mes ""
+    mes "That was a good challenge. Thank you."
 
-# game/d03p/d03s13.rpy:311
-translate portuguese d03s13_620cb18b:
+# game/code/d03p/d03s13.rpy:322
+translate portuguese replay_d03s13_620cb18b:
 
     # mc "Well done. I guess we can call that a draw."
-    mc ""
+    mc "Well done. I guess we can call that a draw."
 
-# game/d03p/d03s13.rpy:320
-translate portuguese d03s13_c421b4c9:
+# game/code/d03p/d03s13.rpy:331
+translate portuguese replay_d03s13_c421b4c9:
 
     # mes "No. You challenged me. I met your challenge. {w}I won."
-    mes ""
+    mes "No. You challenged me. I met your challenge. {w}I won."
 
-# game/d03p/d03s13.rpy:321
-translate portuguese d03s13_b31cfab4:
+# game/code/d03p/d03s13.rpy:332
+translate portuguese replay_d03s13_b31cfab4:
 
     # mc "Oh, I guess so."
-    mc ""
+    mc "Oh, I guess so."
 
-# game/d03p/d03s13.rpy:324
-translate portuguese d03s13_581d2380:
+# game/code/d03p/d03s13.rpy:335
+translate portuguese replay_d03s13_581d2380:
 
     # dd "You're a winner in my book!"
-    dd ""
+    dd "You're a winner in my book!"
 
-# game/d03p/d03s13.rpy:327
-translate portuguese d03s13_8359954c:
+# game/code/d03p/d03s13.rpy:338
+translate portuguese replay_d03s13_8359954c:
 
     # dd "I mean, you're both winners."
-    dd ""
+    dd "I mean, you're both winners."
 
-# game/d03p/d03s13.rpy:330
-translate portuguese d03s13_c4651896:
+# game/code/d03p/d03s13.rpy:341
+translate portuguese replay_d03s13_c4651896:
 
     # dd "That was really something to see."
-    dd ""
+    dd "That was really something to see."
 
-# game/d03p/d03s13.rpy:333
-translate portuguese d03s13_4981d323:
+# game/code/d03p/d03s13.rpy:344
+translate portuguese replay_d03s13_4981d323:
 
     # mc "Um, Daisy?"
-    mc ""
+    mc "Um, Daisy?"
 
-# game/d03p/d03s13.rpy:335
-translate portuguese d03s13_170fcf0e:
+# game/code/d03p/d03s13.rpy:346
+translate portuguese replay_d03s13_170fcf0e:
 
     # mc "Do you think we could finish what you started earlier?"
-    mc ""
+    mc "Do you think we could finish what you started earlier?"
 
-# game/d03p/d03s13.rpy:337
-translate portuguese d03s13_808f30fb:
+# game/code/d03p/d03s13.rpy:348
+translate portuguese replay_d03s13_808f30fb:
 
     # dd "[mcname] don't be gross. I just watched you pee from that thing."
-    dd ""
+    dd "[mcname] don't be gross. I just watched you pee from that thing."
 
-# game/d03p/d03s13.rpy:339
-translate portuguese d03s13_ec4950d4:
+# game/code/d03p/d03s13.rpy:350
+translate portuguese replay_d03s13_ec4950d4:
 
     # mc "Great..."
-    mc ""
+    mc "Great..."
 
-# game/d03p/d03s13.rpy:341
-translate portuguese d03s13_3b192da5:
+# game/code/d03p/d03s13.rpy:352
+translate portuguese replay_d03s13_3b192da5:
 
     # mc "Yeah, I'll just put my pants on and go."
-    mc ""
+    mc "Yeah, I'll just put my pants on and go."
 
-# game/d03p/d03s13.rpy:346
-translate portuguese d03s13_af147d72:
+# game/code/d03p/d03s13.rpy:358
+translate portuguese replay_d03s13_af147d72:
 
     # mc "I have an idea how can we resolve this draw!"
-    mc ""
+    mc "I have an idea how can we resolve this draw!"
 
-# game/d03p/d03s13.rpy:348
-translate portuguese d03s13_150cf153:
+# game/code/d03p/d03s13.rpy:360
+translate portuguese replay_d03s13_150cf153:
 
     # mes "Hm-m-m?"
-    mes ""
+    mes "Hm-m-m?"
 
-# game/d03p/d03s13.rpy:350
-translate portuguese d03s13_f1366c5c:
+# game/code/d03p/d03s13.rpy:362
+translate portuguese replay_d03s13_f1366c5c:
 
     # mc "Let's call it tie resolution challenge!"
-    mc ""
+    mc "Let's call it tie resolution challenge!"
 
-# game/d03p/d03s13.rpy:352
-translate portuguese d03s13_89accabd:
+# game/code/d03p/d03s13.rpy:364
+translate portuguese replay_d03s13_89accabd:
 
     # mes "Go on."
-    mes ""
+    mes "Go on."
 
-# game/d03p/d03s13.rpy:354
-translate portuguese d03s13_5b04b019:
+# game/code/d03p/d03s13.rpy:366
+translate portuguese replay_d03s13_5b04b019:
 
     # mc "Our bowls have the same volume... {w} But!"
-    mc ""
+    mc "Our bowls have the same volume... {w} But!"
 
-# game/d03p/d03s13.rpy:357
-translate portuguese d03s13_82b192e4:
+# game/code/d03p/d03s13.rpy:369
+translate portuguese replay_d03s13_82b192e4:
 
     # mc "Let me show you."
-    mc ""
+    mc "Let me show you."
 
-# game/d03p/d03s13.rpy:360
-translate portuguese d03s13_71408274:
+# game/code/d03p/d03s13.rpy:372
+translate portuguese replay_d03s13_71408274:
 
     # mes "What are you doing?!"
-    mes ""
+    mes "What are you doing?!"
 
-# game/d03p/d03s13.rpy:364
-translate portuguese d03s13_bcbc62f3:
+# game/code/d03p/d03s13.rpy:377
+translate portuguese replay_d03s13_bcbc62f3:
 
     # "(Gulp) (gulp) (gulp)"
-    ""
+    "(Gulp) (gulp) (gulp)"
 
-# game/d03p/d03s13.rpy:366
-translate portuguese d03s13_31e92a2b:
+# game/code/d03p/d03s13.rpy:379
+translate portuguese replay_d03s13_31e92a2b:
 
     # dd "Wow!"
-    dd ""
+    dd "Wow!"
 
-# game/d03p/d03s13.rpy:368
-translate portuguese d03s13_af5560e0:
+# game/code/d03p/d03s13.rpy:381
+translate portuguese replay_d03s13_af5560e0:
 
     # mes "You must be kidding me!"
-    mes ""
+    mes "You must be kidding me!"
 
-# game/d03p/d03s13.rpy:371
-translate portuguese d03s13_890fc4c9:
+# game/code/d03p/d03s13.rpy:384
+translate portuguese replay_d03s13_890fc4c9:
 
     # dd "Oh {w}my {w}gosh."
-    dd ""
+    dd "Oh {w}my {w}gosh."
 
-# game/d03p/d03s13.rpy:374
-translate portuguese d03s13_806956a1:
+# game/code/d03p/d03s13.rpy:388
+translate portuguese replay_d03s13_806956a1:
 
     # mc "It's not bad. It looks and tastes just like white grape juice."
-    mc ""
+    mc "It's not bad. It looks and tastes just like white grape juice."
 
-# game/d03p/d03s13.rpy:375
-translate portuguese d03s13_62c92d04:
+# game/code/d03p/d03s13.rpy:389
+translate portuguese replay_d03s13_62c92d04:
 
     # mc "You see. Your bowl is empty again!"
-    mc ""
+    mc "You see. Your bowl is empty again!"
 
-# game/d03p/d03s13.rpy:379
-translate portuguese d03s13_9f58cdc8:
+# game/code/d03p/d03s13.rpy:393
+translate portuguese replay_d03s13_9f58cdc8:
 
     # mes "Now I have to drink your piss?"
-    mes ""
+    mes "Now I have to drink your piss?"
 
-# game/d03p/d03s13.rpy:381
-translate portuguese d03s13_f9825be5:
+# game/code/d03p/d03s13.rpy:395
+translate portuguese replay_d03s13_f9825be5:
 
     # mc "That's it. Just drink my empty and we can call it a draw."
-    mc ""
+    mc "That's it. Just drink my empty and we can call it a draw."
 
-# game/d03p/d03s13.rpy:383
-translate portuguese d03s13_20b3e14c:
+# game/code/d03p/d03s13.rpy:397
+translate portuguese replay_d03s13_20b3e14c:
 
     # mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
-    mes ""
+    mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
 
-# game/d03p/d03s13.rpy:385
-translate portuguese d03s13_dd5b30ec:
+# game/code/d03p/d03s13.rpy:399
+translate portuguese replay_d03s13_dd5b30ec:
 
     # mc "Fair enough. Drink it dry and you can call it a win."
-    mc ""
+    mc "Fair enough. Drink it dry and you can call it a win."
 
-# game/d03p/d03s13.rpy:387
-translate portuguese d03s13_c2d58c4c:
+# game/code/d03p/d03s13.rpy:401
+translate portuguese replay_d03s13_c2d58c4c:
 
     # mes "If I had known what I was agreeing to..."
-    mes ""
+    mes "If I had known what I was agreeing to..."
 
-# game/d03p/d03s13.rpy:389
-translate portuguese d03s13_0999870b:
+# game/code/d03p/d03s13.rpy:403
+translate portuguese replay_d03s13_0999870b:
 
     # dd "Are you backing out? Is it too much for you?"
-    dd ""
+    dd "Are you backing out? Is it too much for you?"
 
-# game/d03p/d03s13.rpy:390
-translate portuguese d03s13_f26dc804:
+# game/code/d03p/d03s13.rpy:404
+translate portuguese replay_d03s13_f26dc804:
 
     # mes "I will do it. You have the right. I agreed to this."
-    mes ""
+    mes "I will do it. You have the right. I agreed to this."
 
-# game/d03p/d03s13.rpy:400
-translate portuguese d03s13_10fc7e56:
+# game/code/d03p/d03s13.rpy:414
+translate portuguese replay_d03s13_10fc7e56:
 
     # mest "I can do this."
-    mest ""
+    mest "I can do this."
 
-# game/d03p/d03s13.rpy:403
-translate portuguese d03s13_16a3af30:
-
-    # mest "This bowl is so warm! {w}It is just a juice..."
-    mest ""
-
-# game/d03p/d03s13.rpy:405
-translate portuguese d03s13_e1df2347:
-
-    # mest "C'mon Min! You can win this! I won't let this defeat me."
-    mest ""
-
-# game/d03p/d03s13.rpy:406
-translate portuguese d03s13_c76ddea0:
-
-    # mest "Why is it so hot in here?"
-    mest ""
-
-# game/d03p/d03s13.rpy:409
-translate portuguese d03s13_fbfc0b04:
-
-    # mes "(gulp)"
-    mes ""
-
-# game/d03p/d03s13.rpy:412
-translate portuguese d03s13_fbfc0b04_1:
-
-    # mes "(gulp)"
-    mes ""
-
-# game/d03p/d03s13.rpy:413
-translate portuguese d03s13_e3ff21a8:
-
-    # dd "One sip down!"
-    dd ""
-
-# game/d03p/d03s13.rpy:414
-translate portuguese d03s13_5e75afd3:
-
-    # mct "Wow she is actually drinking my piss!"
-    mct ""
-
-# game/d03p/d03s13.rpy:417
-translate portuguese d03s13_c0b9cd37:
-
-    # mes "Euh-h-h"
-    mes ""
-
-# game/d03p/d03s13.rpy:420
-translate portuguese d03s13_efeb6de5:
-
-    # mes "DAMN IT!"
-    mes ""
-
-# game/d03p/d03s13.rpy:421
-translate portuguese d03s13_9025af82:
-
-    # mest "It tastes even worse than it smells."
-    mest ""
-
-# game/d03p/d03s13.rpy:423
-translate portuguese d03s13_8b6b3d5c:
-
-    # mes "I can't do it..."
-    mes ""
-
-# game/d03p/d03s13.rpy:427
-translate portuguese d03s13_5f84504f:
-
-    # mct "I did it. I beat her."
-    mct ""
-
-# game/d03p/d03s13.rpy:429
-translate portuguese d03s13_0c437da8:
-
-    # mct "I wonder..."
-    mct ""
-
-# game/d03p/d03s13.rpy:431
-translate portuguese d03s13_67473244:
-
-    # dd "Yay!!! {w}What did he win!!!"
-    dd ""
-
-# game/d03p/d03s13.rpy:434
-translate portuguese d03s13_60a0dd86:
-
-    # mes "Daisy, is it?"
-    mes ""
-
-# game/d03p/d03s13.rpy:436
-translate portuguese d03s13_2841b96a:
-
-    # dd "That's Me!"
-    dd ""
-
-# game/d03p/d03s13.rpy:438
-translate portuguese d03s13_99aea372:
-
-    # mes "Could you give us a few minutes?"
-    mes ""
-
-# game/d03p/d03s13.rpy:440
-translate portuguese d03s13_5231dce8:
-
-    # dd "Aww, I wanted to watch."
-    dd ""
-
-# game/d03p/d03s13.rpy:442
-translate portuguese d03s13_57aabe72:
-
-    # mes "Trust me. You don't want to be here for this."
-    mes ""
-
-# game/d03p/d03s13.rpy:444
-translate portuguese d03s13_c9ffc51a:
-
-    # dd "Why's that?"
-    dd ""
-
-# game/d03p/d03s13.rpy:446
-translate portuguese d03s13_fd8eb059:
-
-    # mes "Because I would tear out your eyes and render you deaf."
-    mes ""
-
-# game/d03p/d03s13.rpy:448
-translate portuguese d03s13_20c18383:
-
-    # dd "That wouldn't... oh. {w}Ok, see you!"
-    dd ""
-
-# game/d03p/d03s13.rpy:450
-translate portuguese d03s13_9849049c:
-
-    # mc "Should I leave too?"
-    mc ""
-
-# game/d03p/d03s13.rpy:453
-translate portuguese d03s13_972f4ffc:
-
-    # mes "No, you stay. {w}Let me remove this first..."
-    mes ""
-
-# game/d03p/d03s13.rpy:458
-translate portuguese d03s13_efae2267:
-
-    # mes "To the victor goes the spoils."
-    mes ""
-
-# game/d03p/d03s13.rpy:461
-translate portuguese d03s13_aaed64e5:
-
-    # mes "I bet I know what you think you want..."
-    mes ""
-
-# game/d03p/d03s13.rpy:464
-translate portuguese d03s13_9a3b5c6c:
-
-    # mes "I bet you want my mouth{w} ...or my cunt{w}"
-    mes ""
-
-# game/d03p/d03s13.rpy:466
-translate portuguese d03s13_dc9ef5e7:
-
-    # mes "...or maybe my ass..."
-    mes ""
-
-# game/d03p/d03s13.rpy:468
-translate portuguese d03s13_938b3d39:
-
-    # mes "...wrapped around your hard cock."
-    mes ""
-
-# game/d03p/d03s13.rpy:469
-translate portuguese d03s13_49c38924:
-
-    # mes "I bet you want to cum."
-    mes ""
-
-# game/d03p/d03s13.rpy:472
-translate portuguese d03s13_a18ff623:
-
-    # mes "I know something you want even more than that."
-    mes ""
-
-# game/d03p/d03s13.rpy:473
-translate portuguese d03s13_5f13d56b:
-
-    # mes "Do you want to hear it?"
-    mes ""
-
-# game/d03p/d03s13.rpy:475
-translate portuguese d03s13_f800bed0:
-
-    # mc "Yes."
-    mc ""
-
-# game/d03p/d03s13.rpy:478
-translate portuguese d03s13_11524ba1:
-
-    # mes "I will help you win Lydia."
-    mes ""
-
-# game/d03p/d03s13.rpy:481
-translate portuguese d03s13_7c0fd87d:
-
-    # mc "What? How did you know?"
-    mc ""
-
-# game/d03p/d03s13.rpy:483
-translate portuguese d03s13_07317fba:
-
-    # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
-    mes ""
-
-# game/d03p/d03s13.rpy:485
-translate portuguese d03s13_f699dd96:
-
-    # mc "Wait, what about..."
-    mc ""
-
-# game/d03p/d03s13.rpy:486
-translate portuguese d03s13_7c55351f:
-
-    # mes "I think you'll be a good fit for her, and I am her best friend."
-    mes ""
-
-# game/d03p/d03s13.rpy:487
-translate portuguese d03s13_915ecf9a:
-
-    # mc "Do you mean...?"
-    mc ""
-
-# game/d03p/d03s13.rpy:489
-translate portuguese d03s13_7ab50454:
-
-    # mes "Anyway, you should probably put your pants back on."
-    mes ""
-
-# game/d03p/d03s13.rpy:490
-translate portuguese d03s13_27399a26:
-
-    # mc "Okay, but..."
-    mc ""
-
-# game/d03p/d03s13.rpy:491
-translate portuguese d03s13_fee771f6:
-
-    # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes ""
-
-# game/d03p/d03s13.rpy:492
-translate portuguese d03s13_4dbf8248:
-
-    # mct "... Yeah, okay."
-    mct ""
-
-# game/d03p/d03s13.rpy:493
-translate portuguese d03s13_5f006774:
-
-    # mes "You can thank me later."
-    mes ""
-
-# game/d03p/d03s13.rpy:498
-translate portuguese d03s13_end_329cfa27:
-
-    # mct "My balls are going to explode soon!"
-    mct ""
-
-# game/d03p/d03s13.rpy:499
-translate portuguese d03s13_end_6a49319a:
-
-    # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
-    mct ""
-
-translate portuguese strings:
-
-    # game/d03p/d03s13.rpy:188
-    old "Challenge Min to a Pissing Contest"
-    new ""
-
-    # game/d03p/d03s13.rpy:188
-    old "Don't Challenge Min"
-    new ""
-
-    # game/d03p/d03s13.rpy:312
-    old "Do Whatever It Takes To Win"
-    new ""
-
-    # game/d03p/d03s13.rpy:312
-    old "Shake Hands in Acceptance"
-    new ""
-
-
-# game/code/d03p/d03s13.rpy:402
-translate portuguese d03s13_79ed1fb0:
+# game/code/d03p/d03s13.rpy:416
+translate portuguese replay_d03s13_79ed1fb0:
 
     # mest "Just pretend it is grape juice..."
     mest "Just pretend it is grape juice..."
+
+# game/code/d03p/d03s13.rpy:417
+translate portuguese replay_d03s13_16a3af30:
+
+    # mest "This bowl is so warm! {w}It is just a juice..."
+    mest "This bowl is so warm! {w}It is just a juice..."
+
+# game/code/d03p/d03s13.rpy:419
+translate portuguese replay_d03s13_e1df2347:
+
+    # mest "C'mon Min! You can win this! I won't let this defeat me."
+    mest "C'mon Min! You can win this! I won't let this defeat me."
+
+# game/code/d03p/d03s13.rpy:420
+translate portuguese replay_d03s13_c76ddea0:
+
+    # mest "Why is it so hot in here?"
+    mest "Why is it so hot in here?"
+
+# game/code/d03p/d03s13.rpy:424
+translate portuguese replay_d03s13_fbfc0b04:
+
+    # mes "(gulp)"
+    mes "(gulp)"
+
+# game/code/d03p/d03s13.rpy:428
+translate portuguese replay_d03s13_fbfc0b04_1:
+
+    # mes "(gulp)"
+    mes "(gulp)"
+
+# game/code/d03p/d03s13.rpy:429
+translate portuguese replay_d03s13_e3ff21a8:
+
+    # dd "One sip down!"
+    dd "One sip down!"
+
+# game/code/d03p/d03s13.rpy:430
+translate portuguese replay_d03s13_5e75afd3:
+
+    # mct "Wow she is actually drinking my piss!"
+    mct "Wow she is actually drinking my piss!"
+
+# game/code/d03p/d03s13.rpy:434
+translate portuguese replay_d03s13_c0b9cd37:
+
+    # mes "Euh-h-h"
+    mes "Euh-h-h"
+
+# game/code/d03p/d03s13.rpy:437
+translate portuguese replay_d03s13_efeb6de5:
+
+    # mes "DAMN IT!"
+    mes "DAMN IT!"
+
+# game/code/d03p/d03s13.rpy:438
+translate portuguese replay_d03s13_9025af82:
+
+    # mest "It tastes even worse than it smells."
+    mest "It tastes even worse than it smells."
+
+# game/code/d03p/d03s13.rpy:440
+translate portuguese replay_d03s13_8b6b3d5c:
+
+    # mes "I can't do it..."
+    mes "I can't do it..."
+
+# game/code/d03p/d03s13.rpy:444
+translate portuguese replay_d03s13_5f84504f:
+
+    # mct "I did it. I beat her."
+    mct "I did it. I beat her."
+
+# game/code/d03p/d03s13.rpy:446
+translate portuguese replay_d03s13_0c437da8:
+
+    # mct "I wonder..."
+    mct "I wonder..."
+
+# game/code/d03p/d03s13.rpy:448
+translate portuguese replay_d03s13_67473244:
+
+    # dd "Yay!!! {w}What did he win!!!"
+    dd "Yay!!! {w}What did he win!!!"
+
+# game/code/d03p/d03s13.rpy:451
+translate portuguese replay_d03s13_60a0dd86:
+
+    # mes "Daisy, is it?"
+    mes "Daisy, is it?"
+
+# game/code/d03p/d03s13.rpy:453
+translate portuguese replay_d03s13_2841b96a:
+
+    # dd "That's Me!"
+    dd "That's Me!"
+
+# game/code/d03p/d03s13.rpy:455
+translate portuguese replay_d03s13_99aea372:
+
+    # mes "Could you give us a few minutes?"
+    mes "Could you give us a few minutes?"
+
+# game/code/d03p/d03s13.rpy:457
+translate portuguese replay_d03s13_5231dce8:
+
+    # dd "Aww, I wanted to watch."
+    dd "Aww, I wanted to watch."
+
+# game/code/d03p/d03s13.rpy:459
+translate portuguese replay_d03s13_57aabe72:
+
+    # mes "Trust me. You don't want to be here for this."
+    mes "Trust me. You don't want to be here for this."
+
+# game/code/d03p/d03s13.rpy:461
+translate portuguese replay_d03s13_c9ffc51a:
+
+    # dd "Why's that?"
+    dd "Why's that?"
+
+# game/code/d03p/d03s13.rpy:463
+translate portuguese replay_d03s13_fd8eb059:
+
+    # mes "Because I would tear out your eyes and render you deaf."
+    mes "Because I would tear out your eyes and render you deaf."
+
+# game/code/d03p/d03s13.rpy:465
+translate portuguese replay_d03s13_20c18383:
+
+    # dd "That wouldn't... oh. {w}Ok, see you!"
+    dd "That wouldn't... oh. {w}Ok, see you!"
+
+# game/code/d03p/d03s13.rpy:467
+translate portuguese replay_d03s13_9849049c:
+
+    # mc "Should I leave too?"
+    mc "Should I leave too?"
+
+# game/code/d03p/d03s13.rpy:470
+translate portuguese replay_d03s13_972f4ffc:
+
+    # mes "No, you stay. {w}Let me remove this first..."
+    mes "No, you stay. {w}Let me remove this first..."
+
+# game/code/d03p/d03s13.rpy:475
+translate portuguese replay_d03s13_efae2267:
+
+    # mes "To the victor goes the spoils."
+    mes "To the victor goes the spoils."
+
+# game/code/d03p/d03s13.rpy:478
+translate portuguese replay_d03s13_aaed64e5:
+
+    # mes "I bet I know what you think you want..."
+    mes "I bet I know what you think you want..."
+
+# game/code/d03p/d03s13.rpy:481
+translate portuguese replay_d03s13_9a3b5c6c:
+
+    # mes "I bet you want my mouth{w} ...or my cunt{w}"
+    mes "I bet you want my mouth{w} ...or my cunt{w}"
+
+# game/code/d03p/d03s13.rpy:483
+translate portuguese replay_d03s13_dc9ef5e7:
+
+    # mes "...or maybe my ass..."
+    mes "...or maybe my ass..."
+
+# game/code/d03p/d03s13.rpy:485
+translate portuguese replay_d03s13_938b3d39:
+
+    # mes "...wrapped around your hard cock."
+    mes "...wrapped around your hard cock."
+
+# game/code/d03p/d03s13.rpy:486
+translate portuguese replay_d03s13_49c38924:
+
+    # mes "I bet you want to cum."
+    mes "I bet you want to cum."
+
+# game/code/d03p/d03s13.rpy:489
+translate portuguese replay_d03s13_a18ff623:
+
+    # mes "I know something you want even more than that."
+    mes "I know something you want even more than that."
+
+# game/code/d03p/d03s13.rpy:490
+translate portuguese replay_d03s13_5f13d56b:
+
+    # mes "Do you want to hear it?"
+    mes "Do you want to hear it?"
+
+# game/code/d03p/d03s13.rpy:492
+translate portuguese replay_d03s13_f800bed0:
+
+    # mc "Yes."
+    mc "Yes."
+
+# game/code/d03p/d03s13.rpy:495
+translate portuguese replay_d03s13_11524ba1:
+
+    # mes "I will help you win Lydia."
+    mes "I will help you win Lydia."
+
+# game/code/d03p/d03s13.rpy:498
+translate portuguese replay_d03s13_7c0fd87d:
+
+    # mc "What? How did you know?"
+    mc "What? How did you know?"
+
+# game/code/d03p/d03s13.rpy:500
+translate portuguese replay_d03s13_07317fba:
+
+    # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
+    mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
+
+# game/code/d03p/d03s13.rpy:502
+translate portuguese replay_d03s13_f699dd96:
+
+    # mc "Wait, what about..."
+    mc "Wait, what about..."
+
+# game/code/d03p/d03s13.rpy:503
+translate portuguese replay_d03s13_7c55351f:
+
+    # mes "I think you'll be a good fit for her, and I am her best friend."
+    mes "I think you'll be a good fit for her, and I am her best friend."
+
+# game/code/d03p/d03s13.rpy:504
+translate portuguese replay_d03s13_915ecf9a:
+
+    # mc "Do you mean...?"
+    mc "Do you mean...?"
+
+# game/code/d03p/d03s13.rpy:506
+translate portuguese replay_d03s13_7ab50454:
+
+    # mes "Anyway, you should probably put your pants back on."
+    mes "Anyway, you should probably put your pants back on."
+
+# game/code/d03p/d03s13.rpy:507
+translate portuguese replay_d03s13_27399a26:
+
+    # mc "Okay, but..."
+    mc "Okay, but..."
+
+# game/code/d03p/d03s13.rpy:508
+translate portuguese replay_d03s13_fee771f6:
+
+    # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
+    mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
+
+# game/code/d03p/d03s13.rpy:509
+translate portuguese replay_d03s13_4dbf8248:
+
+    # mct "... Yeah, okay."
+    mct "... Yeah, okay."
+
+# game/code/d03p/d03s13.rpy:510
+translate portuguese replay_d03s13_5f006774:
+
+    # mes "You can thank me later."
+    mes "You can thank me later."
+
+# game/code/d03p/d03s13.rpy:518
+translate portuguese d03s13_end_329cfa27:
+
+    # mct "My balls are going to explode soon!"
+    mct "My balls are going to explode soon!"
+
+# game/code/d03p/d03s13.rpy:519
+translate portuguese d03s13_end_6a49319a:
+
+    # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
+    mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
+
+translate portuguese strings:
+
+    # game/code/d03p/d03s13.rpy:194
+    old "Challenge Min to a Pissing Contest"
+    new "Challenge Min to a Pissing Contest"
+
+    # game/code/d03p/d03s13.rpy:194
+    old "Don't Challenge Min"
+    new "Don't Challenge Min"
+
+    # game/code/d03p/d03s13.rpy:323
+    old "Do Whatever It Takes To Win"
+    new "Do Whatever It Takes To Win"
+
+    # game/code/d03p/d03s13.rpy:323
+    old "Shake Hands in Acceptance"
+    new "Shake Hands in Acceptance"
+

@@ -575,3 +575,17 @@ translate portuguese d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "Preciso pensar sobre isso..."
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d02/d02s09.rpy:160
+translate portuguese d02s09_f2d314d2:
+
+    # nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+    nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+
+# game/code/d02/d02s09.rpy:217
+translate portuguese d02s09_00b1d252:
+
+    # mc "Then you miss out on this opportunity and won't get my help with your business."
+    mc "Then you miss out on this opportunity and won't get my help with your business."
+

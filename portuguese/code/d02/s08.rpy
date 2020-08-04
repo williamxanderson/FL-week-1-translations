@@ -631,3 +631,35 @@ translate portuguese strings:
     # game/d02/s08.rpy:172
     old "Make a counteroffer"
     new "Fazer outra proposta"
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d02/s08.rpy:48
+translate portuguese d02s08_61cc607a:
+
+    # mct "And I feel a bit stupid sitting here and holding this banana."
+    mct "And I feel a bit stupid sitting here and holding this banana."
+
+# game/code/d02/s08.rpy:127
+translate portuguese d02s08_6be0a302:
+
+    # mct "It looks like she is coming my way..."
+    mct "It looks like she is coming my way..."
+
+# game/code/d02/s08.rpy:170
+translate portuguese d02s08_bf9dde6f:
+
+    # pw "Yeah, but I think that you need those points more than I do."
+    pw "Yeah, but I think that you need those points more than I do."
+
+# game/code/d02/s08.rpy:246
+translate portuguese d02s08_cbf2642e:
+
+    # mc "Okay - what is the favor?"
+    mc "Okay - what is the favor?"
+
+# game/code/d02/s08.rpy:249
+translate portuguese d02s08_82c27cdb:
+
+    # mc "Without knowing what it is?!"
+    mc "Without knowing what it is?!"
+

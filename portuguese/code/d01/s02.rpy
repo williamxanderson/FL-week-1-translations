@@ -1141,3 +1141,543 @@ translate portuguese strings:
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
     new "Mudança de planos! Vamos ver um filme com a AmRose"
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d01/s02.rpy:166
+translate portuguese d01s02_94ba6d1d:
+
+    # mc "Yeah, I heard them talking about some kind of party."
+    mc "Yeah, I heard them talking about some kind of party."
+
+# game/code/d01/s02.rpy:191
+translate portuguese d01s02_ed823cb2:
+
+    # kb "Yeah, she is doing great!"
+    kb "Yeah, she is doing great!"
+
+# game/code/d01/s02.rpy:247
+translate portuguese d01s02_fcbe40cd:
+
+    # fl "Do you like Cumshot fetish?"
+    fl "Do you like Cumshot fetish?"
+
+# game/code/d01/s02.rpy:256
+translate portuguese d01s02_f6203809:
+
+    # kb "About Cumshot?"
+    kb "About Cumshot?"
+
+# game/code/d01/s02.rpy:264
+translate portuguese d01s02_cdd73384:
+
+    # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
+    kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
+
+# game/code/d01/s02.rpy:280
+translate portuguese d01s02_025dccec:
+
+    # "A couple minutes later."
+    "A couple minutes later."
+
+# game/code/d01/s02.rpy:297
+translate portuguese replay_d01s02_699878f6:
+
+    # mc "Hey!"
+    mc "Hey!"
+
+# game/code/d01/s02.rpy:298
+translate portuguese replay_d01s02_4cd44184:
+
+    # arj "..."
+    arj "..."
+
+# game/code/d01/s02.rpy:299
+translate portuguese replay_d01s02_f3b3d28f:
+
+    # mc "What's wrong?"
+    mc "What's wrong?"
+
+# game/code/d01/s02.rpy:301
+translate portuguese replay_d01s02_b199b51f:
+
+    # arj "You were gone for two weeks and when you get back you don't even say Hi!"
+    arj "You were gone for two weeks and when you get back you don't even say Hi!"
+
+# game/code/d01/s02.rpy:303
+translate portuguese replay_d01s02_ed0f5321:
+
+    # mc "Ummmm."
+    mc "Ummmm."
+
+# game/code/d01/s02.rpy:305
+translate portuguese replay_d01s02_3469a83b:
+
+    # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
+    arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
+
+# game/code/d01/s02.rpy:307
+translate portuguese replay_d01s02_507086ef:
+
+    # mc "Oh, that. Sorry."
+    mc "Oh, that. Sorry."
+
+# game/code/d01/s02.rpy:311
+translate portuguese replay_d01s02_015d20de:
+
+    # mct "Wow!"
+    mct "Wow!"
+
+# game/code/d01/s02.rpy:312
+translate portuguese replay_d01s02_632ff841:
+
+    # mct "Holy shit!"
+    mct "Holy shit!"
+
+# game/code/d01/s02.rpy:313
+translate portuguese replay_d01s02_ab7d5066:
+
+    # mct "I knew something was going on!"
+    mct "I knew something was going on!"
+
+# game/code/d01/s02.rpy:316
+translate portuguese replay_d01s02_dbccc912:
+
+    # arj "Are you distracted again?"
+    arj "Are you distracted again?"
+
+# game/code/d01/s02.rpy:318
+translate portuguese replay_d01s02_ed592207:
+
+    # mc "No! Just trying to listen to the lecture, you know?"
+    mc "No! Just trying to listen to the lecture, you know?"
+
+# game/code/d01/s02.rpy:320
+translate portuguese replay_d01s02_36026660:
+
+    # arj "C'mon, like, you never listen in history class."
+    arj "C'mon, like, you never listen in history class."
+
+# game/code/d01/s02.rpy:322
+translate portuguese replay_d01s02_3e274df8:
+
+    # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
+    mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
+
+# game/code/d01/s02.rpy:324
+translate portuguese replay_d01s02_84a64c74:
+
+    # arj "Hmmm."
+    arj "Hmmm."
+
+# game/code/d01/s02.rpy:326
+translate portuguese replay_d01s02_eaf4eca4:
+
+    # arj "You know how to get out of trouble."
+    arj "You know how to get out of trouble."
+
+# game/code/d01/s02.rpy:327
+translate portuguese replay_d01s02_80c2ad2e:
+
+    # arj "What kind of movie is it?"
+    arj "What kind of movie is it?"
+
+# game/code/d01/s02.rpy:330
+translate portuguese replay_d01s02_0e7f0158:
+
+    # mct "Damn!"
+    mct "Damn!"
+
+# game/code/d01/s02.rpy:331
+translate portuguese replay_d01s02_9f24c4a8:
+
+    # mct "I need to focus on what AmRose saying... {w}But I can't!"
+    mct "I need to focus on what AmRose saying... {w}But I can't!"
+
+# game/code/d01/s02.rpy:334
+translate portuguese replay_d01s02_7ab8cb7f:
+
+    # arj "Are you there?!"
+    arj "Are you there?!"
+
+# game/code/d01/s02.rpy:336
+translate portuguese replay_d01s02_ee6bbee0:
+
+    # mc "Yeah! Sure."
+    mc "Yeah! Sure."
+
+# game/code/d01/s02.rpy:338
+translate portuguese replay_d01s02_3c7c87f9:
+
+    # arj "What did I just ask you?"
+    arj "What did I just ask you?"
+
+# game/code/d01/s02.rpy:344
+translate portuguese replay_d01s02_b5006555:
+
+    # mc "You asked about the movie!"
+    mc "You asked about the movie!"
+
+# game/code/d01/s02.rpy:345
+translate portuguese replay_d01s02_c48bdb4e:
+
+    # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
+    mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
+
+# game/code/d01/s02.rpy:349
+translate portuguese replay_d01s02_7bb488f1:
+
+    # mc "You were talking about me not listening History lectures?"
+    mc "You were talking about me not listening History lectures?"
+
+# game/code/d01/s02.rpy:353
+translate portuguese replay_d01s02_37f824cb:
+
+    # mc "Me not being here for two weeks?"
+    mc "Me not being here for two weeks?"
+
+# game/code/d01/s02.rpy:356
+translate portuguese replay_d01s02_71b6273b:
+
+    # arj "No! That's not what I asked."
+    arj "No! That's not what I asked."
+
+# game/code/d01/s02.rpy:358
+translate portuguese replay_d01s02_4cd44184_1:
+
+    # arj "..."
+    arj "..."
+
+# game/code/d01/s02.rpy:359
+translate portuguese replay_d01s02_968cf464:
+
+    # mct "Seems like I really pissed her off."
+    mct "Seems like I really pissed her off."
+
+# game/code/d01/s02.rpy:363
+translate portuguese replay_d01s02_f9adf382:
+
+    # arj "Hmmm. I might forgive you ... but only if we watch it together!"
+    arj "Hmmm. I might forgive you ... but only if we watch it together!"
+
+# game/code/d01/s02.rpy:365
+translate portuguese replay_d01s02_15f6a903:
+
+    # mc "Sure, we can do that!"
+    mc "Sure, we can do that!"
+
+# game/code/d01/s02.rpy:368
+translate portuguese replay_d01s02_cf97b7f3:
+
+    # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
+    mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
+
+# game/code/d01/s02.rpy:369
+translate portuguese replay_d01s02_bb084984:
+
+    # mct "She going faster and faster."
+    mct "She going faster and faster."
+
+# game/code/d01/s02.rpy:370
+translate portuguese replay_d01s02_018ed043:
+
+    # mct "How much longer can Antony last?"
+    mct "How much longer can Antony last?"
+
+# game/code/d01/s02.rpy:373
+translate portuguese replay_d01s02_918fea83:
+
+    # mc "I'm sorry."
+    mc "I'm sorry."
+
+# game/code/d01/s02.rpy:374
+translate portuguese replay_d01s02_786a7cd7:
+
+    # mct "Looks like she isn't going to talk to me anymore."
+    mct "Looks like she isn't going to talk to me anymore."
+
+# game/code/d01/s02.rpy:378
+translate portuguese replay_d01s02_5c581103:
+
+    # arj "Then it's a deal! We'll watch it tonight."
+    arj "Then it's a deal! We'll watch it tonight."
+
+# game/code/d01/s02.rpy:380
+translate portuguese replay_d01s02_1e1e3d11:
+
+    # mc "Tonight may be complicated ..."
+    mc "Tonight may be complicated ..."
+
+# game/code/d01/s02.rpy:382
+translate portuguese replay_d01s02_06c4215c:
+
+    # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
+    mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
+
+# game/code/d01/s02.rpy:384
+translate portuguese replay_d01s02_3b00d1ca:
+
+    # arj "You brought a girl to your room?!"
+    arj "You brought a girl to your room?!"
+
+# game/code/d01/s02.rpy:386
+translate portuguese replay_d01s02_3a95b93e:
+
+    # mc "No! Pete did."
+    mc "No! Pete did."
+
+# game/code/d01/s02.rpy:388
+translate portuguese replay_d01s02_d527faec:
+
+    # arj "Then why did you get in trouble?"
+    arj "Then why did you get in trouble?"
+
+# game/code/d01/s02.rpy:391
+translate portuguese replay_d01s02_04c56411:
+
+    # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
+    mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
+
+# game/code/d01/s02.rpy:393
+translate portuguese replay_d01s02_23b83d84:
+
+    # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
+    mc "I was just put in a bad spot and it isn't cool to rat out your friends."
+
+# game/code/d01/s02.rpy:395
+translate portuguese replay_d01s02_bbfa59bc:
+
+    # arj "Oh, so you're just being a good friend."
+    arj "Oh, so you're just being a good friend."
+
+# game/code/d01/s02.rpy:397
+translate portuguese replay_d01s02_46c4606b:
+
+    # mc "I promised to hang with Pete tonight."
+    mc "I promised to hang with Pete tonight."
+
+# game/code/d01/s02.rpy:399
+translate portuguese replay_d01s02_ccc69cb6:
+
+    # arj "Hmmm. I see."
+    arj "Hmmm. I see."
+
+# game/code/d01/s02.rpy:402
+translate portuguese replay_d01s02_3f29ebba:
+
+    # mct "Is he gonna to finish now?!"
+    mct "Is he gonna to finish now?!"
+
+# game/code/d01/s02.rpy:406
+translate portuguese replay_d01s02_91b13306:
+
+    # mct "Oh my God! He just came in her hand!"
+    mct "Oh my God! He just came in her hand!"
+
+# game/code/d01/s02.rpy:407
+translate portuguese replay_d01s02_1ec6e58e:
+
+    # mct "That's actually really hot!"
+    mct "That's actually really hot!"
+
+# game/code/d01/s02.rpy:412
+translate portuguese replay_d01s02_4cd44184_2:
+
+    # arj "..."
+    arj "..."
+
+# game/code/d01/s02.rpy:418
+translate portuguese replay_d01s02_62c324fa:
+
+    # mc "But we can watch it later ... after I'm finished."
+    mc "But we can watch it later ... after I'm finished."
+
+# game/code/d01/s02.rpy:420
+translate portuguese replay_d01s02_b065aa01:
+
+    # arj "Okay. that sounds cool."
+    arj "Okay. that sounds cool."
+
+# game/code/d01/s02.rpy:423
+translate portuguese replay_d01s02_e7934d20:
+
+    # mc "I already saw it anyway. I just wanted you to see it."
+    mc "I already saw it anyway. I just wanted you to see it."
+
+# game/code/d01/s02.rpy:426
+translate portuguese replay_d01s02_5f5a449a:
+
+    # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
+    arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
+
+# game/code/d01/s02.rpy:427
+translate portuguese replay_d01s02_ca5f0fd9:
+
+    # mct "Damn! She's acting so different! Does she wanna go out?!"
+    mct "Damn! She's acting so different! Does she wanna go out?!"
+
+# game/code/d01/s02.rpy:428
+translate portuguese replay_d01s02_ad429af8:
+
+    # mct "Her body language is definitely flirtatious!"
+    mct "Her body language is definitely flirtatious!"
+
+# game/code/d01/s02.rpy:431
+translate portuguese replay_d01s02_4cd44184_3:
+
+    # arj "..."
+    arj "..."
+
+# game/code/d01/s02.rpy:435
+translate portuguese replay_d01s02_578606f6:
+
+    # mct "Did she just swallow his whole load?"
+    mct "Did she just swallow his whole load?"
+
+# game/code/d01/s02.rpy:436
+translate portuguese replay_d01s02_015d20de_1:
+
+    # mct "Wow!"
+    mct "Wow!"
+
+# game/code/d01/s02.rpy:437
+translate portuguese replay_d01s02_27953c55:
+
+    # mct "That's ..."
+    mct "That's ..."
+
+# game/code/d01/s02.rpy:438
+translate portuguese replay_d01s02_468b4c54:
+
+    # mct "That's probably the hottest thing I've seen in my life!"
+    mct "That's probably the hottest thing I've seen in my life!"
+
+# game/code/d01/s02.rpy:444
+translate portuguese replay_d01s02_3090eac0:
+
+    # arj "So, are you distracted again?"
+    arj "So, are you distracted again?"
+
+# game/code/d01/s02.rpy:448
+translate portuguese replay_d01s02_ee89dd2b:
+
+    # mc "Sorry AmRose, I have to study for the exams."
+    mc "Sorry AmRose, I have to study for the exams."
+
+# game/code/d01/s02.rpy:451
+translate portuguese replay_d01s02_39681987:
+
+    # arj "Okay. Sure, I understand."
+    arj "Okay. Sure, I understand."
+
+# game/code/d01/s02.rpy:456
+translate portuguese replay_d01s02_9879f0c8:
+
+    # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
+    mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
+
+# game/code/d01/s02.rpy:457
+translate portuguese replay_d01s02_8ba3d6f6:
+
+    # arj "That sounds great."
+    arj "That sounds great."
+
+# game/code/d01/s02.rpy:459
+translate portuguese replay_d01s02_a879797f:
+
+    # mct "Okay. Seems like the lecture is almost over ..."
+    mct "Okay. Seems like the lecture is almost over ..."
+
+# game/code/d01/s02.rpy:460
+translate portuguese replay_d01s02_300e3d8a:
+
+    # mct "just a little longer."
+    mct "just a little longer."
+
+# game/code/d01/s02.rpy:465
+translate portuguese replay_d01s02_5c98fad5:
+
+    # arjt "Hmmm."
+    arjt "Hmmm."
+
+# game/code/d01/s02.rpy:466
+translate portuguese replay_d01s02_015d87b4:
+
+    # arjt "What?!"
+    arjt "What?!"
+
+# game/code/d01/s02.rpy:469
+translate portuguese replay_d01s02_de6c46e2:
+
+    # arjt "Oh wow!"
+    arjt "Oh wow!"
+
+# game/code/d01/s02.rpy:471
+translate portuguese replay_d01s02_f5f3b3e1:
+
+    # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
+    arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
+
+# game/code/d01/s02.rpy:472
+translate portuguese replay_d01s02_de19de29:
+
+    # arjt "I'm sure he is. He just got super hard when I invited him."
+    arjt "I'm sure he is. He just got super hard when I invited him."
+
+# game/code/d01/s02.rpy:476
+translate portuguese replay_d01s02_ae5cc99b:
+
+    # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
+    arjt "What should I do?! We were friends for so long. He never showed any interest in me."
+
+# game/code/d01/s02.rpy:477
+translate portuguese replay_d01s02_037e9ef7:
+
+    # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
+    arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
+
+# game/code/d01/s02.rpy:480
+translate portuguese replay_d01s02_55d3d3cd:
+
+    # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
+    mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
+
+# game/code/d01/s02.rpy:482
+translate portuguese replay_d01s02_85246e7f:
+
+    # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
+    mct "Oh man! I'm so hard after I saw Min jerking Antony off."
+
+# game/code/d01/s02.rpy:483
+translate portuguese replay_d01s02_84d4c479:
+
+    # mct "I hope I can walk out of class without someone noticing my hard dick."
+    mct "I hope I can walk out of class without someone noticing my hard dick."
+
+# game/code/d01/s02.rpy:487
+translate portuguese replay_d01s02_9096c34d:
+
+    # mc "See ya tonight!"
+    mc "See ya tonight!"
+
+# game/code/d01/s02.rpy:489
+translate portuguese replay_d01s02_4c85d272:
+
+    # mc "See ya!"
+    mc "See ya!"
+
+# game/code/d01/s02.rpy:492
+translate portuguese replay_d01s02_c484e8d4:
+
+    # arj "Ciao!"
+    arj "Ciao!"
+
+translate portuguese strings:
+
+    # game/code/d01/s02.rpy:270
+    old "Yes, I like Cumshots"
+    new "Yes, I like Cumshots"
+
+    # game/code/d01/s02.rpy:270
+    old "No, Cumshot is not my fetish"
+    new "No, Cumshot is not my fetish"
+

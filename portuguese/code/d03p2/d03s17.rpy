@@ -1,506 +1,506 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p2/d03s17.rpy:6
+# game/code/d03p2/d03s17.rpy:9
 translate portuguese d03s17_f072089f:
 
     # mct "Okay, where would they go?"
-    mct ""
+    mct "Okay, where would they go?"
 
-# game/d03p2/d03s17.rpy:9
+# game/code/d03p2/d03s17.rpy:14
 translate portuguese d03s17_c5f8c600:
 
     # "???" "(muffled screaming)"
-    "???" ""
+    "???" "(muffled screaming)"
 
-# game/d03p2/d03s17.rpy:11
+# game/code/d03p2/d03s17.rpy:17
 translate portuguese d03s17_fa80058d:
 
     # mct "Behind that door."
-    mct ""
+    mct "Behind that door."
 
-# game/d03p2/d03s17.rpy:12
+# game/code/d03p2/d03s17.rpy:18
 translate portuguese d03s17_ad33b61f:
 
     # "???" "...YEARS You've Been Teasing ME..."
-    "???" ""
+    "???" "...YEARS You've Been Teasing ME..."
 
-# game/d03p2/d03s17.rpy:14
+# game/code/d03p2/d03s17.rpy:20
 translate portuguese d03s17_6a31ee91:
 
     # "???" "...NOT Tonight. NOT AGAIN..."
-    "???" ""
+    "???" "...NOT Tonight. NOT AGAIN..."
 
-# game/d03p2/d03s17.rpy:16
+# game/code/d03p2/d03s17.rpy:22
 translate portuguese d03s17_7b057f89:
 
     # "???" "...I AM GETTING SOME TONIGHT..."
-    "???" ""
+    "???" "...I AM GETTING SOME TONIGHT..."
 
-# game/d03p2/d03s17.rpy:25
+# game/code/d03p2/d03s17.rpy:33
 translate portuguese d03s17_83270194:
 
     # lc "Help!"
-    lc ""
+    lc "Help!"
 
-# game/d03p2/d03s17.rpy:30
+# game/code/d03p2/d03s17.rpy:38
 translate portuguese d03s17_eb86fc49:
 
     # "???" "Who the fuck are you?"
-    "???" ""
+    "???" "Who the fuck are you?"
 
-# game/d03p2/d03s17.rpy:32
+# game/code/d03p2/d03s17.rpy:40
 translate portuguese d03s17_0438c82d:
 
     # "???" "What the FUCK are you doing?"
-    "???" ""
+    "???" "What the FUCK are you doing?"
 
-# game/d03p2/d03s17.rpy:35
+# game/code/d03p2/d03s17.rpy:43
 translate portuguese d03s17_69872b48:
 
     # mc "Me? I'm beating your ass."
-    mc ""
+    mc "Me? I'm beating your ass."
 
-# game/d03p2/d03s17.rpy:48
+# game/code/d03p2/d03s17.rpy:56
 translate portuguese d03s17_492f2997:
 
     # mc "THIS"
-    mc ""
+    mc "THIS"
 
-# game/d03p2/d03s17.rpy:51
+# game/code/d03p2/d03s17.rpy:59
 translate portuguese d03s17_897852a0:
 
     # mc "IS HOW"
-    mc ""
+    mc "IS HOW"
 
-# game/d03p2/d03s17.rpy:54
+# game/code/d03p2/d03s17.rpy:62
 translate portuguese d03s17_9506295a:
 
     # mc "YOU LEARN"
-    mc ""
+    mc "YOU LEARN"
 
-# game/d03p2/d03s17.rpy:57
+# game/code/d03p2/d03s17.rpy:65
 translate portuguese d03s17_645b6996:
 
     # mc "TO RESPECT"
-    mc ""
+    mc "TO RESPECT"
 
-# game/d03p2/d03s17.rpy:60
+# game/code/d03p2/d03s17.rpy:68
 translate portuguese d03s17_7a74d109:
 
     # mc "WOMEN!"
-    mc ""
+    mc "WOMEN!"
 
-# game/d03p2/d03s17.rpy:63
+# game/code/d03p2/d03s17.rpy:71
 translate portuguese d03s17_59982564:
 
     # lc "Oh!"
-    lc ""
+    lc "Oh!"
 
-# game/d03p2/d03s17.rpy:64
+# game/code/d03p2/d03s17.rpy:72
 translate portuguese d03s17_0e0412e8:
 
     # mct "Fuck!"
-    mct ""
+    mct "Fuck!"
 
-# game/d03p2/d03s17.rpy:71
+# game/code/d03p2/d03s17.rpy:79
 translate portuguese d03s17_96393c5e:
 
     # mct "Mother fucker..."
-    mct ""
+    mct "Mother fucker..."
 
-# game/d03p2/d03s17.rpy:80
+# game/code/d03p2/d03s17.rpy:88
 translate portuguese d03s17_d186134e:
 
     # lc "Wait... {w}please don't leave me."
-    lc ""
+    lc "Wait... {w}please don't leave me."
 
-# game/d03p2/d03s17.rpy:86
+# game/code/d03p2/d03s17.rpy:94
 translate portuguese d03s17_e7eba25c:
 
     # lc "oh crap… {w}Wait, did you just lock the door?"
-    lc ""
+    lc "oh crap… {w}Wait, did you just lock the door?"
 
-# game/d03p2/d03s17.rpy:88
+# game/code/d03p2/d03s17.rpy:96
 translate portuguese d03s17_5e99ec43:
 
     # mc "Of course - just in case he comes back."
-    mc ""
+    mc "Of course - just in case he comes back."
 
-# game/d03p2/d03s17.rpy:90
+# game/code/d03p2/d03s17.rpy:98
 translate portuguese d03s17_02d377f3:
 
     # mc "Hey, it's okay. It is just me, [mcname]. I'm not gonna hurt you!"
-    mc ""
+    mc "Hey, it's okay. It is just me, [mcname]. I'm not gonna hurt you!"
 
-# game/d03p2/d03s17.rpy:92
+# game/code/d03p2/d03s17.rpy:100
 translate portuguese d03s17_6faa4829:
 
     # lc "I was so scared!"
-    lc ""
+    lc "I was so scared!"
 
-# game/d03p2/d03s17.rpy:93
+# game/code/d03p2/d03s17.rpy:101
 translate portuguese d03s17_d076353e:
 
     # mc "I'm sorry, that was..."
-    mc ""
+    mc "I'm sorry, that was..."
 
-# game/d03p2/d03s17.rpy:95
+# game/code/d03p2/d03s17.rpy:103
 translate portuguese d03s17_364a234b:
 
     # lc "No. I mean, thank you. He was out of control."
-    lc ""
+    lc "No. I mean, thank you. He was out of control."
 
-# game/d03p2/d03s17.rpy:96
+# game/code/d03p2/d03s17.rpy:104
 translate portuguese d03s17_0ba26ce7:
 
     # mc "Yeah. That just wasn't like me. I'm not a violent person."
-    mc ""
+    mc "Yeah. That just wasn't like me. I'm not a violent person."
 
-# game/d03p2/d03s17.rpy:98
+# game/code/d03p2/d03s17.rpy:106
 translate portuguese d03s17_47ca3d72:
 
     # lc "It looked like you've practiced."
-    lc ""
+    lc "It looked like you've practiced."
 
-# game/d03p2/d03s17.rpy:99
+# game/code/d03p2/d03s17.rpy:107
 translate portuguese d03s17_741535c0:
 
     # mc "No, nah, not really. I did some martial arts when I was younger, but..."
-    mc ""
+    mc "No, nah, not really. I did some martial arts when I was younger, but..."
 
-# game/d03p2/d03s17.rpy:100
+# game/code/d03p2/d03s17.rpy:108
 translate portuguese d03s17_c37d2f7a:
 
     # mc "Shit, I don't think I've been in a fight since middle school."
-    mc ""
+    mc "Shit, I don't think I've been in a fight since middle school."
 
-# game/d03p2/d03s17.rpy:101
+# game/code/d03p2/d03s17.rpy:109
 translate portuguese d03s17_780e77d1:
 
     # mc "It was just..."
-    mc ""
+    mc "It was just..."
 
-# game/d03p2/d03s17.rpy:103
+# game/code/d03p2/d03s17.rpy:111
 translate portuguese d03s17_1c74c09d:
 
     # lc "...the right thing to do. Someone had to... {w}I'm glad you did."
-    lc ""
+    lc "...the right thing to do. Someone had to... {w}I'm glad you did."
 
-# game/d03p2/d03s17.rpy:104
+# game/code/d03p2/d03s17.rpy:112
 translate portuguese d03s17_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Yeah..."
 
-# game/d03p2/d03s17.rpy:105
+# game/code/d03p2/d03s17.rpy:113
 translate portuguese d03s17_306bb039:
 
     # lc "Yeah."
-    lc ""
+    lc "Yeah."
 
-# game/d03p2/d03s17.rpy:106
+# game/code/d03p2/d03s17.rpy:114
 translate portuguese d03s17_62938b70:
 
     # mct "Okay, what now?"
-    mct ""
+    mct "Okay, what now?"
 
-# game/d03p2/d03s17.rpy:108
+# game/code/d03p2/d03s17.rpy:116
 translate portuguese d03s17_1bf1bfd7:
 
     # lc "I don't think he'll be back, but I'd feel safer with you here."
-    lc ""
+    lc "I don't think he'll be back, but I'd feel safer with you here."
 
-# game/d03p2/d03s17.rpy:109
+# game/code/d03p2/d03s17.rpy:117
 translate portuguese d03s17_8f35db4f:
 
     # mc "Cool. So..."
-    mc ""
+    mc "Cool. So..."
 
-# game/d03p2/d03s17.rpy:111
+# game/code/d03p2/d03s17.rpy:119
 translate portuguese d03s17_a812b9f3:
 
     # lc "So?"
-    lc ""
+    lc "So?"
 
-# game/d03p2/d03s17.rpy:113
+# game/code/d03p2/d03s17.rpy:121
 translate portuguese d03s17_f6e247d1:
 
     # mc "Um... {w}Seen any good movies lately?"
-    mc ""
+    mc "Um... {w}Seen any good movies lately?"
 
-# game/d03p2/d03s17.rpy:117
+# game/code/d03p2/d03s17.rpy:125
 translate portuguese d03s17_6d4f7a58:
 
     # mct "Small talk might not be the best idea at the moment..."
-    mct ""
+    mct "Small talk might not be the best idea at the moment..."
 
-# game/d03p2/d03s17.rpy:121
+# game/code/d03p2/d03s17.rpy:129
 translate portuguese d03s17_9b9b00f3:
 
     # mct "...but she needs some distraction from what just happened."
-    mct ""
+    mct "...but she needs some distraction from what just happened."
 
-# game/d03p2/d03s17.rpy:124
+# game/code/d03p2/d03s17.rpy:132
 translate portuguese d03s17_15de76da:
 
     # lc "Huh? Movies? Yeah, just the latest MCU."
-    lc ""
+    lc "Huh? Movies? Yeah, just the latest MCU."
 
-# game/d03p2/d03s17.rpy:127
+# game/code/d03p2/d03s17.rpy:135
 translate portuguese d03s17_62a9a3db:
 
     # mc "Nice. Did it pass the Bechdel Test?"
-    mc ""
+    mc "Nice. Did it pass the Bechdel Test?"
 
-# game/d03p2/d03s17.rpy:128
+# game/code/d03p2/d03s17.rpy:136
 translate portuguese d03s17_259347f2:
 
     # mct "What the fuck am I doing?"
-    mct ""
+    mct "What the fuck am I doing?"
 
-# game/d03p2/d03s17.rpy:132
+# game/code/d03p2/d03s17.rpy:140
 translate portuguese d03s17_8c017dba:
 
     # lc "Ha! I don't think so. {w}It had some strong pro-women scenes, but at least as many women in refrigerators."
-    lc ""
+    lc "Ha! I don't think so. {w}It had some strong pro-women scenes, but at least as many women in refrigerators."
 
-# game/d03p2/d03s17.rpy:135
+# game/code/d03p2/d03s17.rpy:143
 translate portuguese d03s17_09611735:
 
     # mc "Wow. I didn't figure you for such a comic book nerd."
-    mc ""
+    mc "Wow. I didn't figure you for such a comic book nerd."
 
-# game/d03p2/d03s17.rpy:138
+# game/code/d03p2/d03s17.rpy:146
 translate portuguese d03s17_84ea54c7:
 
     # lc "I didn't expect you to be such a feminist. Why would you even know the Bechdel Test?"
-    lc ""
+    lc "I didn't expect you to be such a feminist. Why would you even know the Bechdel Test?"
 
-# game/d03p2/d03s17.rpy:141
+# game/code/d03p2/d03s17.rpy:149
 translate portuguese d03s17_4014f5f0:
 
     # mc "Hey, I'm a modern guy. {w}Also, I like it when movies have strong female characters."
-    mc ""
+    mc "Hey, I'm a modern guy. {w}Also, I like it when movies have strong female characters."
 
-# game/d03p2/d03s17.rpy:144
+# game/code/d03p2/d03s17.rpy:152
 translate portuguese d03s17_236e42c5:
 
     # lc "Oh? Is that your thing?"
-    lc ""
+    lc "Oh? Is that your thing?"
 
-# game/d03p2/d03s17.rpy:147
+# game/code/d03p2/d03s17.rpy:155
 translate portuguese d03s17_719e9594:
 
     # mc "Well, I like stories with good characters. Female characters should be well developed too."
-    mc ""
+    mc "Well, I like stories with good characters. Female characters should be well developed too."
 
-# game/d03p2/d03s17.rpy:150
+# game/code/d03p2/d03s17.rpy:158
 translate portuguese d03s17_61860ae9:
 
     # lc "I bet. It makes them more attractive."
-    lc ""
+    lc "I bet. It makes them more attractive."
 
-# game/d03p2/d03s17.rpy:153
+# game/code/d03p2/d03s17.rpy:161
 translate portuguese d03s17_2776fb3e:
 
     # mc "Being attractive doesn't hurt. {w}The other day I was rewatching Kill Bill."
-    mc ""
+    mc "Being attractive doesn't hurt. {w}The other day I was rewatching Kill Bill."
 
-# game/d03p2/d03s17.rpy:156
+# game/code/d03p2/d03s17.rpy:164
 translate portuguese d03s17_1c2f3b9b:
 
     # lc "One or two?"
-    lc ""
+    lc "One or two?"
 
-# game/d03p2/d03s17.rpy:159
+# game/code/d03p2/d03s17.rpy:167
 translate portuguese d03s17_6f0e36f0:
 
     # mc "First one, then the other."
-    mc ""
+    mc "First one, then the other."
 
-# game/d03p2/d03s17.rpy:160
+# game/code/d03p2/d03s17.rpy:168
 translate portuguese d03s17_0ea1b40c:
 
     # mc "Despite the name, the story is really about the female characters. The guys are secondary."
-    mc ""
+    mc "Despite the name, the story is really about the female characters. The guys are secondary."
 
-# game/d03p2/d03s17.rpy:161
+# game/code/d03p2/d03s17.rpy:169
 translate portuguese d03s17_32c5c8ff:
 
     # mc "Even when you get to the end, it is less about getting revenge on the guy than it is about reuniting a mother and daughter."
-    mc ""
+    mc "Even when you get to the end, it is less about getting revenge on the guy than it is about reuniting a mother and daughter."
 
-# game/d03p2/d03s17.rpy:164
+# game/code/d03p2/d03s17.rpy:172
 translate portuguese d03s17_aa7d9e06:
 
     # lc "Okay, but those \"developed female characters\" were all written by a guy..."
-    lc ""
+    lc "Okay, but those \"developed female characters\" were all written by a guy..."
 
-# game/d03p2/d03s17.rpy:167
+# game/code/d03p2/d03s17.rpy:177
 translate portuguese d03s17_33a46fdf:
 
     # "Some time later..."
-    ""
+    "Some time later..."
 
-# game/d03p2/d03s17.rpy:171
+# game/code/d03p2/d03s17.rpy:182
 translate portuguese d03s17_9e9bb5fc:
 
     # mc "... It turned out that she was my boss's mother!"
-    mc ""
+    mc "... It turned out that she was my boss's mother!"
 
-# game/d03p2/d03s17.rpy:174
+# game/code/d03p2/d03s17.rpy:185
 translate portuguese d03s17_4cfb31dc:
 
     # lc "Wow! Awkward."
-    lc ""
+    lc "Wow! Awkward."
 
-# game/d03p2/d03s17.rpy:177
+# game/code/d03p2/d03s17.rpy:188
 translate portuguese d03s17_837c5ca3:
 
     # mc "Yeah, I won't be working there again this summer."
-    mc ""
+    mc "Yeah, I won't be working there again this summer."
 
-# game/d03p2/d03s17.rpy:180
+# game/code/d03p2/d03s17.rpy:191
 translate portuguese d03s17_f29b9256:
 
     # lc "That's probably for the best."
-    lc ""
+    lc "That's probably for the best."
 
-# game/d03p2/d03s17.rpy:183
+# game/code/d03p2/d03s17.rpy:194
 translate portuguese d03s17_92fe8dfa:
 
     # mc "Yeah... {w}oh hey, do you hear that?"
-    mc ""
+    mc "Yeah... {w}oh hey, do you hear that?"
 
-# game/d03p2/d03s17.rpy:186
+# game/code/d03p2/d03s17.rpy:197
 translate portuguese d03s17_efe41640:
 
     # lc "I don't hear anything."
-    lc ""
+    lc "I don't hear anything."
 
-# game/d03p2/d03s17.rpy:189
+# game/code/d03p2/d03s17.rpy:200
 translate portuguese d03s17_ece5d02f:
 
     # mc "Exactly, the music stopped."
-    mc ""
+    mc "Exactly, the music stopped."
 
-# game/d03p2/d03s17.rpy:192
+# game/code/d03p2/d03s17.rpy:205
 translate portuguese d03s17_edd9cda6:
 
     # lc "oh? Yeah, I didn't even notice."
-    lc ""
+    lc "oh? Yeah, I didn't even notice."
 
-# game/d03p2/d03s17.rpy:195
+# game/code/d03p2/d03s17.rpy:208
 translate portuguese d03s17_d05db22f:
 
     # lc "I think it's been pretty quiet for a long time."
-    lc ""
+    lc "I think it's been pretty quiet for a long time."
 
-# game/d03p2/d03s17.rpy:198
+# game/code/d03p2/d03s17.rpy:211
 translate portuguese d03s17_294b828d:
 
     # mc "It's probably stopped being late and started being early."
-    mc ""
+    mc "It's probably stopped being late and started being early."
 
-# game/d03p2/d03s17.rpy:201
+# game/code/d03p2/d03s17.rpy:214
 translate portuguese d03s17_ae20879d:
 
     # lc "I don't mind. {w}(yawn) although now that you mention it."
-    lc ""
+    lc "I don't mind. {w}(yawn) although now that you mention it."
 
-# game/d03p2/d03s17.rpy:204
+# game/code/d03p2/d03s17.rpy:217
 translate portuguese d03s17_189c706e:
 
     # mc "You should probably get some sleep. You've had a long day."
-    mc ""
+    mc "You should probably get some sleep. You've had a long day."
 
-# game/d03p2/d03s17.rpy:207
+# game/code/d03p2/d03s17.rpy:220
 translate portuguese d03s17_f59f8d55:
 
     # lc "I think you're right, just..."
-    lc ""
+    lc "I think you're right, just..."
 
-# game/d03p2/d03s17.rpy:210
+# game/code/d03p2/d03s17.rpy:223
 translate portuguese d03s17_191559e1:
 
     # mc "What's up?"
-    mc ""
+    mc "What's up?"
 
-# game/d03p2/d03s17.rpy:213
+# game/code/d03p2/d03s17.rpy:226
 translate portuguese d03s17_dbf5760a:
 
     # lc "We didn't talk about it."
-    lc ""
+    lc "We didn't talk about it."
 
-# game/d03p2/d03s17.rpy:216
+# game/code/d03p2/d03s17.rpy:229
 translate portuguese d03s17_8dfbeb4e:
 
     # mc "Is there something to say?"
-    mc ""
+    mc "Is there something to say?"
 
-# game/d03p2/d03s17.rpy:219
+# game/code/d03p2/d03s17.rpy:232
 translate portuguese d03s17_5604b8e9:
 
     # lc "I just... I mean, I knew he liked me, but that was years ago."
-    lc ""
+    lc "I just... I mean, I knew he liked me, but that was years ago."
 
-# game/d03p2/d03s17.rpy:220
+# game/code/d03p2/d03s17.rpy:233
 translate portuguese d03s17_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Okay."
 
-# game/d03p2/d03s17.rpy:221
+# game/code/d03p2/d03s17.rpy:234
 translate portuguese d03s17_36c4a79e:
 
     # lc "I made it clear that we were just friends. We could only be friends."
-    lc ""
+    lc "I made it clear that we were just friends. We could only be friends."
 
-# game/d03p2/d03s17.rpy:222
+# game/code/d03p2/d03s17.rpy:235
 translate portuguese d03s17_608a9196:
 
     # lc "I didn't tease him or lead him on."
-    lc ""
+    lc "I didn't tease him or lead him on."
 
-# game/d03p2/d03s17.rpy:223
+# game/code/d03p2/d03s17.rpy:236
 translate portuguese d03s17_05cab2ba:
 
     # mc "You don't have to tell me."
-    mc ""
+    mc "You don't have to tell me."
 
-# game/d03p2/d03s17.rpy:224
+# game/code/d03p2/d03s17.rpy:237
 translate portuguese d03s17_9a2f71fd:
 
     # lc "I just don't want you to think..."
-    lc ""
+    lc "I just don't want you to think..."
 
-# game/d03p2/d03s17.rpy:227
+# game/code/d03p2/d03s17.rpy:240
 translate portuguese d03s17_f1c16acb:
 
     # mc "I don't. My opinion of you is based on you, not what anyone else says."
-    mc ""
+    mc "I don't. My opinion of you is based on you, not what anyone else says."
 
-# game/d03p2/d03s17.rpy:230
+# game/code/d03p2/d03s17.rpy:243
 translate portuguese d03s17_c6d3a41d:
 
     # lc "I'm really glad to hear you say that."
-    lc ""
+    lc "I'm really glad to hear you say that."
 
-# game/d03p2/d03s17.rpy:233
+# game/code/d03p2/d03s17.rpy:246
 translate portuguese d03s17_6ae25280:
 
     # mc "Alright, why don't you get some rest."
-    mc ""
+    mc "Alright, why don't you get some rest."
 
-# game/d03p2/d03s17.rpy:236
+# game/code/d03p2/d03s17.rpy:249
 translate portuguese d03s17_693f9028:
 
     # lc "Will you still be here when I wake up?"
-    lc ""
+    lc "Will you still be here when I wake up?"
 
-# game/d03p2/d03s17.rpy:237
+# game/code/d03p2/d03s17.rpy:250
 translate portuguese d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
-    mc ""
+    mc "I wouldn't dream of being anywhere else."
 

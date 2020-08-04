@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
 translate portuguese strings:
 
-    # game/options.rpy:15
+    # game/code/options.rpy:15
     old "Fetish Locator"
-    new ""
+    new "Fetish Locator"
 
-    # game/options.rpy:32
-    old "Created by ViNovella\n\nJoin me on Discord https://discord.gg/b6CNu2C\n\nSpecial thanks to: Theo Malt, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
-    new ""
+    # game/code/options.rpy:32
+    old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
+    new "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
 

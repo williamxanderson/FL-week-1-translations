@@ -1,200 +1,200 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p2/d03s18.rpy:27
+# game/code/d03p2/d03s18.rpy:27
 translate portuguese d03s18_91b2b001:
 
     # mct "I should dim the lights a bit..."
-    mct ""
+    mct "I should dim the lights a bit..."
 
-# game/d03p2/d03s18.rpy:30
+# game/code/d03p2/d03s18.rpy:30
 translate portuguese d03s18_c0673739:
 
     # mct "I can't sleep. {w}I'm so excited."
-    mct ""
+    mct "I can't sleep. {w}I'm so excited."
 
-# game/d03p2/d03s18.rpy:31
+# game/code/d03p2/d03s18.rpy:31
 translate portuguese d03s18_05b11594:
 
     # mct "I can't believe my luck."
-    mct ""
+    mct "I can't believe my luck."
 
-# game/d03p2/d03s18.rpy:32
+# game/code/d03p2/d03s18.rpy:32
 translate portuguese d03s18_e126c7b6:
 
     # mct "I came stomping in like a hero, then we talked all night."
-    mct ""
+    mct "I came stomping in like a hero, then we talked all night."
 
-# game/d03p2/d03s18.rpy:33
+# game/code/d03p2/d03s18.rpy:33
 translate portuguese d03s18_a5c2be97:
 
     # mct "Now she's laying here sleeping... looking so beautiful."
-    mct ""
+    mct "Now she's laying here sleeping... looking so beautiful."
 
-# game/d03p2/d03s18.rpy:34
+# game/code/d03p2/d03s18.rpy:34
 translate portuguese d03s18_6ac54edd:
 
     # mct "I especially like..."
-    mct ""
+    mct "I especially like..."
 
-# game/d03p2/d03s18.rpy:60
+# game/code/d03p2/d03s18.rpy:61
 translate portuguese d03s18_43bbe414:
 
     # mct "I could spend all night watching her..."
-    mct ""
+    mct "I could spend all night watching her..."
 
-# game/d03p2/d03s18.rpy:62
+# game/code/d03p2/d03s18.rpy:63
 translate portuguese d03s18_66768480:
 
     # mct "...listening to her soft breathing..."
-    mct ""
+    mct "...listening to her soft breathing..."
 
-# game/d03p2/d03s18.rpy:63
+# game/code/d03p2/d03s18.rpy:64
 translate portuguese d03s18_34db99a1:
 
     # mct "...sleeping like an angel..."
-    mct ""
+    mct "...sleeping like an angel..."
 
-# game/d03p2/d03s18.rpy:66
-translate portuguese d03s18_06a49016:
+# game/code/d03p2/d03s18.rpy:68
+translate portuguese d03s18_77673b32:
 
-    # "Bzzzzz"
-    ""
+    # mc "Z-z-z..."
+    mc "Z-z-z..."
 
-# game/d03p2/d03s18.rpy:69
+# game/code/d03p2/d03s18.rpy:76
 translate portuguese d03s18_496b78e1:
 
     # mct "Huh? what's this?"
-    mct ""
+    mct "Huh? what's this?"
 
-# game/d03p2/d03s18.rpy:71
+# game/code/d03p2/d03s18.rpy:82
 translate portuguese d03s18_01c4e0d0:
 
     # fl "It is a blitz challenge time!"
-    fl ""
+    fl "It is a blitz challenge time!"
 
-# game/d03p2/d03s18.rpy:72
+# game/code/d03p2/d03s18.rpy:83
 translate portuguese d03s18_611b9f55:
 
     # fl "Cum in 69 seconds to earn 69 points!"
-    fl ""
+    fl "Cum in 69 seconds to earn 69 points!"
 
-# game/d03p2/d03s18.rpy:74
+# game/code/d03p2/d03s18.rpy:85
 translate portuguese d03s18_89327d77:
 
     # mct "Oh! I can do this!"
-    mct ""
+    mct "Oh! I can do this!"
 
-# game/d03p2/d03s18.rpy:77
+# game/code/d03p2/d03s18.rpy:88
 translate portuguese d03s18_9146671f:
 
     # mct "And after all the blue-balling I need just about 10 seconds..."
-    mct ""
+    mct "And after all the blue-balling I need just about 10 seconds..."
 
-# game/d03p2/d03s18.rpy:81
+# game/code/d03p2/d03s18.rpy:94
 translate portuguese d03s18_930de9ee:
 
     # mct "What the hell am I doing?"
-    mct ""
+    mct "What the hell am I doing?"
 
-# game/d03p2/d03s18.rpy:82
+# game/code/d03p2/d03s18.rpy:95
 translate portuguese d03s18_c24e66af:
 
     # mct "I don't need any points anymore! Lydia is right here sleeping with me!"
-    mct ""
+    mct "I don't need any points anymore! Lydia is right here sleeping with me!"
 
-# game/d03p2/d03s18.rpy:83
+# game/code/d03p2/d03s18.rpy:96
 translate portuguese d03s18_d4717231:
 
     # mct "I just need to NOT FUCK IT UP!"
-    mct ""
+    mct "I just need to NOT FUCK IT UP!"
 
-# game/d03p2/d03s18.rpy:84
+# game/code/d03p2/d03s18.rpy:97
 translate portuguese d03s18_7ce65ecb:
 
     # mct "And masturbating right in front of her after she almost got raped is a certain path to FUCK THINGS UP!"
-    mct ""
+    mct "And masturbating right in front of her after she almost got raped is a certain path to FUCK THINGS UP!"
 
-# game/d03p2/d03s18.rpy:85
+# game/code/d03p2/d03s18.rpy:98
 translate portuguese d03s18_765cf62b:
 
     # mct "I have to stop my monkey brain from taking control in such situations!"
-    mct ""
+    mct "I have to stop my monkey brain from taking control in such situations!"
 
-# game/d03p2/d03s18.rpy:88
+# game/code/d03p2/d03s18.rpy:102
 translate portuguese d03s18_e4e85d26:
 
     # mct "WTF?"
-    mct ""
+    mct "WTF?"
 
-# game/d03p2/d03s18.rpy:93
+# game/code/d03p2/d03s18.rpy:107
 translate portuguese d03s18_d543c13d:
 
     # mct "Why did it...?!"
-    mct ""
+    mct "Why did it...?!"
 
-# game/d03p2/d03s18.rpy:96
+# game/code/d03p2/d03s18.rpy:110
 translate portuguese d03s18_be317158:
 
     # mct "Oh fuck oh fuck oh fuck"
-    mct ""
+    mct "Oh fuck oh fuck oh fuck"
 
-# game/d03p2/d03s18.rpy:100
+# game/code/d03p2/d03s18.rpy:114
 translate portuguese d03s18_2fb1841f:
 
     # mct "Stop. {w}Cancel. {w}Uninstall. {w}Fuck fuck fuck."
-    mct ""
+    mct "Stop. {w}Cancel. {w}Uninstall. {w}Fuck fuck fuck."
 
-# game/d03p2/d03s18.rpy:101
+# game/code/d03p2/d03s18.rpy:115
 translate portuguese d03s18_bde46e9b:
 
     # mct "I don't need this stupid app anymore!"
-    mct ""
+    mct "I don't need this stupid app anymore!"
 
-# game/d03p2/d03s18.rpy:102
+# game/code/d03p2/d03s18.rpy:116
 translate portuguese d03s18_f1c2c58a:
 
     # mct "Screw it, just shut the damn thing off."
-    mct ""
+    mct "Screw it, just shut the damn thing off."
 
-# game/d03p2/d03s18.rpy:106
+# game/code/d03p2/d03s18.rpy:120
 translate portuguese d03s18_1904400a:
 
     # mct "That was weird... {w}oh fuck!"
-    mct ""
+    mct "That was weird... {w}oh fuck!"
 
-# game/d03p2/d03s18.rpy:107
+# game/code/d03p2/d03s18.rpy:121
 translate portuguese d03s18_8f4b9d89:
 
     # mct "I hope I deleted the app before it uploaded this image anywhere..."
-    mct ""
+    mct "I hope I deleted the app before it uploaded this image anywhere..."
 
-# game/d03p2/d03s18.rpy:110
+# game/code/d03p2/d03s18.rpy:124
 translate portuguese d03s18_d0036d7c:
 
     # mct "I should get some rest... {w}Damn this was so close to a fuckup..."
-    mct ""
+    mct "I should get some rest... {w}Damn this was so close to a fuckup..."
 
-# game/d03p2/d03s18.rpy:111
+# game/code/d03p2/d03s18.rpy:125
 translate portuguese d03s18_8bac5718:
 
     # "Some time later"
-    ""
+    "Some time later"
 
 translate portuguese strings:
 
-    # game/d03p2/d03s18.rpy:35
+    # game/code/d03p2/d03s18.rpy:35
     old "Her face"
-    new ""
+    new "Her face"
 
-    # game/d03p2/d03s18.rpy:35
+    # game/code/d03p2/d03s18.rpy:35
     old "Her breasts"
-    new ""
+    new "Her breasts"
 
-    # game/d03p2/d03s18.rpy:35
+    # game/code/d03p2/d03s18.rpy:35
     old "Her thighs"
-    new ""
+    new "Her thighs"
 
-    # game/d03p2/d03s18.rpy:35
+    # game/code/d03p2/d03s18.rpy:35
     old "Her feet"
-    new ""
+    new "Her feet"
 

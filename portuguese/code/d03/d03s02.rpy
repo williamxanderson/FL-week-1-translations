@@ -261,3 +261,161 @@ translate portuguese strings:
     # game/d03/d03s02.rpy:189
     old "Start masturbating yourself"
     new ""
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d03/d03s02.rpy:140
+translate portuguese replay_d03s02_d22da02a:
+
+    # "Two weeks ago"
+    "Two weeks ago"
+
+# game/code/d03/d03s02.rpy:143
+translate portuguese replay_d03s02_2dfe103d:
+
+    # mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
+    mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
+
+# game/code/d03/d03s02.rpy:146
+translate portuguese replay_d03s02_49702d3e:
+
+    # mct "She looked so beautiful in the shower!"
+    mct "She looked so beautiful in the shower!"
+
+# game/code/d03/d03s02.rpy:148
+translate portuguese replay_d03s02_abd30b9f:
+
+    # mct "She was peeing, masturbating and having an orgasm almost all at the same time."
+    mct "She was peeing, masturbating and having an orgasm almost all at the same time."
+
+# game/code/d03/d03s02.rpy:150
+translate portuguese replay_d03s02_b61a3da0:
+
+    # "a couple minutes later"
+    "a couple minutes later"
+
+# game/code/d03/d03s02.rpy:156
+translate portuguese replay_d03s02_fb3ed701:
+
+    # mct "Someone is opening the door! When it is clear that the shower is running!"
+    mct "Someone is opening the door! When it is clear that the shower is running!"
+
+# game/code/d03/d03s02.rpy:166
+translate portuguese replay_d03s02_2e30e92b:
+
+    # mct "That is clearly Stacy!"
+    mct "That is clearly Stacy!"
+
+# game/code/d03/d03s02.rpy:169
+translate portuguese replay_d03s02_9ed01e39:
+
+    # mct "Looks like the tables have turned!"
+    mct "Looks like the tables have turned!"
+
+# game/code/d03/d03s02.rpy:175
+translate portuguese replay_d03s02_85f9447e:
+
+    # mct "Wait..."
+    mct "Wait..."
+
+# game/code/d03/d03s02.rpy:180
+translate portuguese replay_d03s02_dbb7cb09:
+
+    # mct "If I can clearly see her! She must have seen me yesterday! {w}Shit!"
+    mct "If I can clearly see her! She must have seen me yesterday! {w}Shit!"
+
+# game/code/d03/d03s02.rpy:181
+translate portuguese replay_d03s02_14b2848f:
+
+    # mct "But she didn't say anything?!"
+    mct "But she didn't say anything?!"
+
+# game/code/d03/d03s02.rpy:184
+translate portuguese replay_d03s02_a7989dab:
+
+    # mct "Did she start to pee and masturbate then on purpose?!"
+    mct "Did she start to pee and masturbate then on purpose?!"
+
+# game/code/d03/d03s02.rpy:185
+translate portuguese replay_d03s02_73e489c9:
+
+    # mct "Was she was putting on a show for me?!"
+    mct "Was she was putting on a show for me?!"
+
+# game/code/d03/d03s02.rpy:188
+translate portuguese replay_d03s02_a35c1238:
+
+    # mct "And now she is standing there letting me know that she knew that all along?!"
+    mct "And now she is standing there letting me know that she knew that all along?!"
+
+# game/code/d03/d03s02.rpy:189
+translate portuguese replay_d03s02_03a2509a:
+
+    # mct "Fuck! I'm so hard from this!"
+    mct "Fuck! I'm so hard from this!"
+
+# game/code/d03/d03s02.rpy:192
+translate portuguese replay_d03s02_90e76b4c:
+
+    # mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
+    mct "If I can clearly see her she might have seen that I almost entered when she was showering!"
+
+# game/code/d03/d03s02.rpy:193
+translate portuguese replay_d03s02_add2ee8c:
+
+    # mct "Somehow I am hard now just from that thought!"
+    mct "Somehow I am hard now just from that thought!"
+
+# game/code/d03/d03s02.rpy:194
+translate portuguese replay_d03s02_3f96f9ed:
+
+    # mct "What should I do now?!"
+    mct "What should I do now?!"
+
+# game/code/d03/d03s02.rpy:198
+translate portuguese replay_d03s02_34030409:
+
+    # mc "I feel a draft. Why is it suddenly so cold in here?"
+    mc "I feel a draft. Why is it suddenly so cold in here?"
+
+# game/code/d03/d03s02.rpy:199
+translate portuguese replay_d03s02_be7e9aac:
+
+    # mct "And she is gone..."
+    mct "And she is gone..."
+
+# game/code/d03/d03s02.rpy:204
+translate portuguese replay_d03s02_6f015947:
+
+    # mct "She knew I was watching her and she decided to masturbate. {w}Why shouldn't I do the same?"
+    mct "She knew I was watching her and she decided to masturbate. {w}Why shouldn't I do the same?"
+
+# game/code/d03/d03s02.rpy:206
+translate portuguese replay_d03s02_b911a24b:
+
+    # mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
+    mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
+
+# game/code/d03/d03s02.rpy:209
+translate portuguese replay_d03s02_a82b3399:
+
+    # mct "I know that you are watching, little [game.shortShe]!"
+    mct "I know that you are watching, little [game.shortShe]!"
+
+# game/code/d03/d03s02.rpy:213
+translate portuguese replay_d03s02_66ff7da9:
+
+    # mct "Watch me cum!"
+    mct "Watch me cum!"
+
+# game/code/d03/d03s02.rpy:243
+translate portuguese replay_d03s02_f4e2d9b2:
+
+    # mct "Great... Now I have a boner."
+    mct "Great... Now I have a boner."
+
+# game/code/d03/d03s02.rpy:244
+translate portuguese replay_d03s02_fd96ec38:
+
+    # mct "Someone could see me here like this... {w}I need to switch to cold water!"
+    mct "Someone could see me here like this... {w}I need to switch to cold water!"
+

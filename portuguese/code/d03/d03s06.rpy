@@ -1,264 +1,258 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03/d03s06.rpy:12
+# game/code/d03/d03s06.rpy:12
 translate portuguese d03s06_b44a5e18:
 
     # "03:00 PM"
-    ""
+    "03:00 PM"
 
-# game/d03/d03s06.rpy:14
+# game/code/d03/d03s06.rpy:14
 translate portuguese d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    ""
+    "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
 
-# game/d03/d03s06.rpy:20
+# game/code/d03/d03s06.rpy:20
 translate portuguese d03s06_2d23b9ad:
 
     # mct "Okay, I got the keys for the classroom I need to clean. Let's get the equipment and get this done quick!"
-    mct ""
+    mct "Okay, I got the keys for the classroom I need to clean. Let's get the equipment and get this done quick!"
 
-# game/d03/d03s06.rpy:22
-translate portuguese d03s06_06a49016:
-
-    # "Bzzzzz"
-    ""
-
-# game/d03/d03s06.rpy:29
+# game/code/d03/d03s06.rpy:28
 translate portuguese d03s06_a11181fc:
 
     # pb "Hey roomie! How are you doing on points? Party starts in a few hours!"
-    pb ""
+    pb "Hey roomie! How are you doing on points? Party starts in a few hours!"
 
-# game/d03/d03s06.rpy:31
+# game/code/d03/d03s06.rpy:30
 translate portuguese d03s06_595365ef:
 
     # mc "I'm closing on 50 points. But not enough."
-    mc ""
+    mc "I'm closing on 50 points. But not enough."
 
-# game/d03/d03s06.rpy:32
+# game/code/d03/d03s06.rpy:31
 translate portuguese d03s06_d941970c:
 
     # pb "This is good! You remember that you can buy half with real money?"
-    pb ""
+    pb "This is good! You remember that you can buy half with real money?"
 
-# game/d03/d03s06.rpy:34
+# game/code/d03/d03s06.rpy:33
 translate portuguese d03s06_685ca4dc:
 
     # mc "I have less than a half."
-    mc ""
+    mc "I have less than a half."
 
-# game/d03/d03s06.rpy:35
+# game/code/d03/d03s06.rpy:34
 translate portuguese d03s06_a601153e:
 
     # pb "That's not much! You need to get at least 25 points. The rest you can buy with real money."
-    pb ""
+    pb "That's not much! You need to get at least 25 points. The rest you can buy with real money."
 
-# game/d03/d03s06.rpy:36
+# game/code/d03/d03s06.rpy:35
 translate portuguese d03s06_b4953646:
 
     # mc "Oh yeah! I totally forgot about that!"
-    mc ""
+    mc "Oh yeah! I totally forgot about that!"
 
-# game/d03/d03s06.rpy:37
+# game/code/d03/d03s06.rpy:36
 translate portuguese d03s06_71a4811d:
 
     # pb "Anyway, I got your back! Come back to the dorm. I have a girl here who can help you to get some points!"
-    pb ""
+    pb "Anyway, I got your back! Come back to the dorm. I have a girl here who can help you to get some points!"
 
-# game/d03/d03s06.rpy:40
+# game/code/d03/d03s06.rpy:39
 translate portuguese d03s06_7ecd9876:
 
     # mct "Ok great, there is a girl waiting for me at my dorm, and I have to clean..."
-    mct ""
+    mct "Ok great, there is a girl waiting for me at my dorm, and I have to clean..."
 
-# game/d03/d03s06.rpy:43
+# game/code/d03/d03s06.rpy:42
 translate portuguese d03s06_4ba4a4a8:
 
     # mct "I wanted to check what AmRose is doing in the lecture hall..."
-    mct ""
+    mct "I wanted to check what AmRose is doing in the lecture hall..."
 
-# game/d03/d03s06.rpy:47
+# game/code/d03/d03s06.rpy:46
 translate portuguese d03s06_0c5b5173:
 
     # mct "Let's go and check the classroom."
-    mct ""
+    mct "Let's go and check the classroom."
 
-# game/d03/d03s06.rpy:50
+# game/code/d03/d03s06.rpy:49
 translate portuguese d03s06_5cf74639:
 
     # mct "It is 3 pm. AmRose should be here already..."
-    mct ""
+    mct "It is 3 pm. AmRose should be here already..."
 
-# game/d03/d03s06.rpy:52
+# game/code/d03/d03s06.rpy:51
 translate portuguese d03s06_e7f7fde2:
 
     # mct "Hmmm. The door is locked."
-    mct ""
+    mct "Hmmm. The door is locked."
 
-# game/d03/d03s06.rpy:55
+# game/code/d03/d03s06.rpy:54
 translate portuguese d03s06_45e2bb33:
 
     # mct "Maybe AmRose was talking about another classroom?"
-    mct ""
+    mct "Maybe AmRose was talking about another classroom?"
 
-# game/d03/d03s06.rpy:58
+# game/code/d03/d03s06.rpy:57
 translate portuguese d03s06_2c13140e:
 
     # mct "I have no idea what that was about. Better to try my luck with what Pete is suggesting."
-    mct ""
+    mct "I have no idea what that was about. Better to try my luck with what Pete is suggesting."
 
-# game/d03/d03s06.rpy:64
+# game/code/d03/d03s06.rpy:63
 translate portuguese d03s06_28e53307:
 
     # mct "It is 3 pm. AmRose was planning something here..."
-    mct ""
+    mct "It is 3 pm. AmRose was planning something here..."
 
-# game/d03/d03s06.rpy:66
+# game/code/d03/d03s06.rpy:65
 translate portuguese d03s06_69677eb6:
 
     # mct "I just need to clean this place up and then forget about it."
-    mct ""
+    mct "I just need to clean this place up and then forget about it."
 
-# game/d03/d03s06.rpy:69
+# game/code/d03/d03s06.rpy:68
 translate portuguese d03s06_424cbf95:
 
     # mct "Hmmm. Strange. This door isn't usually locked."
-    mct ""
+    mct "Hmmm. Strange. This door isn't usually locked."
 
-# game/d03/d03s06.rpy:70
+# game/code/d03/d03s06.rpy:69
 translate portuguese d03s06_cd5b4ed5:
 
     # mct "It is good that Miss Waller gave me a key."
-    mct ""
+    mct "It is good that Miss Waller gave me a key."
 
-# game/d03/d03s06.rpy:73
+# game/code/d03/d03s06.rpy:73
 translate portuguese d03s06_073de5aa:
 
     # mct "Damn! They must have arrived early."
-    mct ""
+    mct "Damn! They must have arrived early."
 
-# game/d03/d03s06.rpy:75
+# game/code/d03/d03s06.rpy:75
 translate portuguese d03s06_4869cf64:
 
     # mct "What the hell?"
-    mct ""
+    mct "What the hell?"
 
-# game/d03/d03s06.rpy:80
+# game/code/d03/d03s06.rpy:80
 translate portuguese d03s06_dcac2cf7:
 
     # mct "AmRose is with Maria?! Why?!"
-    mct ""
+    mct "AmRose is with Maria?! Why?!"
 
-# game/d03/d03s06.rpy:82
+# game/code/d03/d03s06.rpy:82
 translate portuguese d03s06_1ffcd4b7:
 
     # mct "What AmRose and Maria were doing here?!"
-    mct ""
+    mct "What AmRose and Maria were doing here?!"
 
-# game/d03/d03s06.rpy:83
+# game/code/d03/d03s06.rpy:83
 translate portuguese d03s06_bd801f2d:
 
     # mct "Maria attends some lectures with us in this classroom."
-    mct ""
+    mct "Maria attends some lectures with us in this classroom."
 
-# game/d03/d03s06.rpy:85
+# game/code/d03/d03s06.rpy:85
 translate portuguese d03s06_699878f6:
 
     # mc "Hey!"
-    mc ""
+    mc "Hey!"
 
-# game/d03/d03s06.rpy:87
+# game/code/d03/d03s06.rpy:87
 translate portuguese d03s06_8288cc92:
 
     # arjt "Shit! She swore that door was locked!"
-    arjt ""
+    arjt "Shit! She swore that door was locked!"
 
-# game/d03/d03s06.rpy:89
+# game/code/d03/d03s06.rpy:89
 translate portuguese d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj ""
+    arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
 
-# game/d03/d03s06.rpy:90
+# game/code/d03/d03s06.rpy:90
 translate portuguese d03s06_129c32e6:
 
     # mct "Studying my ass, they don't even have any books."
-    mct ""
+    mct "Studying my ass, they don't even have any books."
 
-# game/d03/d03s06.rpy:91
+# game/code/d03/d03s06.rpy:91
 translate portuguese d03s06_9c741a6c:
 
     # mc "Meh. I got a cleaning duty. I can come back when you're finished."
-    mc ""
+    mc "Meh. I got a cleaning duty. I can come back when you're finished."
 
-# game/d03/d03s06.rpy:93
+# game/code/d03/d03s06.rpy:93
 translate portuguese d03s06_506e5425:
 
     # arj "Oh, well..."
-    arj ""
+    arj "Oh, well..."
 
-# game/d03/d03s06.rpy:96
+# game/code/d03/d03s06.rpy:96
 translate portuguese d03s06_6f0dce88:
 
     # mk "We were just leaving. You can have the room."
-    mk ""
+    mk "We were just leaving. You can have the room."
 
-# game/d03/d03s06.rpy:98
+# game/code/d03/d03s06.rpy:98
 translate portuguese d03s06_289f25d7:
 
     # arj "... Right."
-    arj ""
+    arj "... Right."
 
-# game/d03/d03s06.rpy:101
+# game/code/d03/d03s06.rpy:101
 translate portuguese d03s06_aa75be7c:
 
     # mct "Damn. I wonder what I missed."
-    mct ""
+    mct "Damn. I wonder what I missed."
 
-# game/d03/d03s06.rpy:103
+# game/code/d03/d03s06.rpy:103
 translate portuguese d03s06_16923b43:
 
     # mct "What were they doing here?"
-    mct ""
+    mct "What were they doing here?"
 
-# game/d03/d03s06.rpy:105
+# game/code/d03/d03s06.rpy:106
 translate portuguese d03s06_9a6527b3:
 
     # mct "Ok... {w}Let's get to work."
-    mct ""
+    mct "Ok... {w}Let's get to work."
 
-# game/d03/d03s06.rpy:108
+# game/code/d03/d03s06.rpy:109
 translate portuguese d03s06_de205227:
 
     # "Sometime later..."
-    ""
+    "Sometime later..."
 
-# game/d03/d03s06.rpy:119
+# game/code/d03/d03s06.rpy:120
 translate portuguese d03s06_end_8b9eb29d:
 
     # mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
-    mct ""
+    mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
 
-# game/d03/d03s06.rpy:120
+# game/code/d03/d03s06.rpy:121
 translate portuguese d03s06_end_f30318b8:
 
     # mct "It would be so awesome to get some action with her!"
-    mct ""
+    mct "It would be so awesome to get some action with her!"
 
-# game/d03/d03s06.rpy:121
+# game/code/d03/d03s06.rpy:122
 translate portuguese d03s06_end_548a9308:
 
     # mct "Let's get to the dorm."
-    mct ""
+    mct "Let's get to the dorm."
 
 translate portuguese strings:
 
-    # game/d03/d03s06.rpy:44
+    # game/code/d03/d03s06.rpy:43
     old "First go and check what AmRose is up to"
-    new ""
+    new "First go and check what AmRose is up to"
 
-    # game/d03/d03s06.rpy:44
+    # game/code/d03/d03s06.rpy:43
     old "Go back to dorm"
-    new ""
+    new "Go back to dorm"
 

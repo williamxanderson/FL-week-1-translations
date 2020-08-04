@@ -1,134 +1,134 @@
-﻿# TODO: Translation updated at 2020-01-03 18:26
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p2/d03s15.rpy:11
-translate portuguese d03s15_b9f43a8f:
+# game/code/d03p2/d03s15.rpy:12
+translate portuguese replay_d03s15_b9f43a8f:
 
     # mct "Fresh air! That is what I need!"
-    mct ""
+    mct "Fresh air! That is what I need!"
 
-# game/d03p2/d03s15.rpy:13
-translate portuguese d03s15_8d578057:
+# game/code/d03p2/d03s15.rpy:16
+translate portuguese replay_d03s15_8d578057:
 
     # mct "I hear someone is coming..."
-    mct ""
+    mct "I hear someone is coming..."
 
-# game/d03p2/d03s15.rpy:17
-translate portuguese d03s15_56679f2e:
+# game/code/d03p2/d03s15.rpy:22
+translate portuguese replay_d03s15_56679f2e:
 
     # mct "I hear some splashes in the water... {w}Is someone in the pool?"
-    mct ""
+    mct "I hear some splashes in the water... {w}Is someone in the pool?"
 
-# game/d03p2/d03s15.rpy:21
-translate portuguese d03s15_fbe025a8:
+# game/code/d03p2/d03s15.rpy:26
+translate portuguese replay_d03s15_fbe025a8:
 
     # mct "Wow..."
-    mct ""
+    mct "Wow..."
 
-# game/d03p2/d03s15.rpy:24
-translate portuguese d03s15_d36b10e6:
+# game/code/d03p2/d03s15.rpy:29
+translate portuguese replay_d03s15_d36b10e6:
 
     # mct "That is Allison."
-    mct ""
+    mct "That is Allison."
 
-# game/d03p2/d03s15.rpy:27
-translate portuguese d03s15_8c8149b9:
+# game/code/d03p2/d03s15.rpy:32
+translate portuguese replay_d03s15_8c8149b9:
 
     # mct "And apparently she is into skinny dipping!"
-    mct ""
+    mct "And apparently she is into skinny dipping!"
 
-# game/d03p2/d03s15.rpy:36
-translate portuguese d03s15_ef1bced6:
+# game/code/d03p2/d03s15.rpy:41
+translate portuguese replay_d03s15_ef1bced6:
 
     # mct "She is talking so someone..."
-    mct ""
+    mct "She is talking so someone..."
 
-# game/d03p2/d03s15.rpy:40
-translate portuguese d03s15_9fafe0b6:
+# game/code/d03p2/d03s15.rpy:45
+translate portuguese replay_d03s15_9fafe0b6:
 
     # mct "Ah! The lesbian girl who was into my dick during this strange Antony's event."
-    mct ""
+    mct "Ah! The lesbian girl who was into my dick during this strange Antony's event."
 
-# game/d03p2/d03s15.rpy:41
-translate portuguese d03s15_cc7cdfa7:
+# game/code/d03p2/d03s15.rpy:46
+translate portuguese replay_d03s15_cc7cdfa7:
 
     # mct "What was her nickname... {w}Vesna?"
-    mct ""
+    mct "What was her nickname... {w}Vesna?"
 
-# game/d03p2/d03s15.rpy:43
-translate portuguese d03s15_6a3ac709:
+# game/code/d03p2/d03s15.rpy:48
+translate portuguese replay_d03s15_6a3ac709:
 
     # mct "Ah... This girl. What was her nickname... {w}Vesna?"
-    mct ""
+    mct "Ah... This girl. What was her nickname... {w}Vesna?"
 
-# game/d03p2/d03s15.rpy:47
-translate portuguese d03s15_e6c44687:
+# game/code/d03p2/d03s15.rpy:52
+translate portuguese replay_d03s15_e6c44687:
 
     # mct "This was the girl who talked about the redhead helping her to get points to get to the party."
-    mct ""
+    mct "This was the girl who talked about the redhead helping her to get points to get to the party."
 
-# game/d03p2/d03s15.rpy:48
-translate portuguese d03s15_dcdcff8b:
+# game/code/d03p2/d03s15.rpy:53
+translate portuguese replay_d03s15_dcdcff8b:
 
     # mct "It is a shame, I can't hear what she and Allison are talking about."
-    mct ""
+    mct "It is a shame, I can't hear what she and Allison are talking about."
 
-# game/d03p2/d03s15.rpy:51
-translate portuguese d03s15_2aa7a86c:
+# game/code/d03p2/d03s15.rpy:56
+translate portuguese replay_d03s15_2aa7a86c:
 
     # mct "This girl looks a lot like Maria. Could that redhead she talked about be AmRose?"
-    mct ""
+    mct "This girl looks a lot like Maria. Could that redhead she talked about be AmRose?"
 
-# game/d03p2/d03s15.rpy:54
-translate portuguese d03s15_643e1f87:
+# game/code/d03p2/d03s15.rpy:59
+translate portuguese replay_d03s15_363b3bc3:
 
-    # mct "But I didn't notice AmRose on the party... Why would she be \"crazy for points\"?"
-    mct ""
+    # mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
+    mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
 
-# game/d03p2/d03s15.rpy:57
-translate portuguese d03s15_8bf02a56:
+# game/code/d03p2/d03s15.rpy:62
+translate portuguese replay_d03s15_8bf02a56:
 
     # mct "Seems like she wants to join Allison!"
-    mct ""
+    mct "Seems like she wants to join Allison!"
 
-# game/d03p2/d03s15.rpy:87
-translate portuguese d03s15_f48ee2ab:
+# game/code/d03p2/d03s15.rpy:92
+translate portuguese replay_d03s15_3156a5ef:
 
-    # mct "Allison removed her mask! Is it pretty dark and far, but now I'm almost certain that Vesna is Maria!"
-    mct ""
+    # mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
+    mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
 
-# game/d03p2/d03s15.rpy:96
-translate portuguese d03s15_51ea8c52:
+# game/code/d03p2/d03s15.rpy:101
+translate portuguese replay_d03s15_51ea8c52:
 
     # mct "Wow! Did she just go down on Allison... underwater?"
-    mct ""
+    mct "Wow! Did she just go down on Allison... underwater?"
 
-# game/d03p2/d03s15.rpy:99
-translate portuguese d03s15_49a1a827:
+# game/code/d03p2/d03s15.rpy:104
+translate portuguese replay_d03s15_49a1a827:
 
     # mct "Maybe this is her Secret Oral Santa?"
-    mct ""
+    mct "Maybe this is her Secret Oral Santa?"
 
-# game/d03p2/d03s15.rpy:101
-translate portuguese d03s15_262f36dd:
+# game/code/d03p2/d03s15.rpy:106
+translate portuguese replay_d03s15_262f36dd:
 
     # mct "Vesna is a lesbian, it makes sense that she would get pussy instead of a dick..."
-    mct ""
+    mct "Vesna is a lesbian, it makes sense that she would get pussy instead of a dick..."
 
-# game/d03p2/d03s15.rpy:123
-translate portuguese d03s15_a6a8e037:
+# game/code/d03p2/d03s15.rpy:128
+translate portuguese replay_d03s15_a6a8e037:
 
     # mct "This view is incredible! Those girls are so hot!"
-    mct ""
+    mct "This view is incredible! Those girls are so hot!"
 
-# game/d03p2/d03s15.rpy:124
-translate portuguese d03s15_4dfc3a49:
+# game/code/d03p2/d03s15.rpy:129
+translate portuguese replay_d03s15_4dfc3a49:
 
     # mct "What if I would just release myself here? It wouldn't take long watching this..."
-    mct ""
+    mct "What if I would just release myself here? It wouldn't take long watching this..."
 
-# game/d03p2/d03s15.rpy:126
-translate portuguese d03s15_4f17a13e:
+# game/code/d03p2/d03s15.rpy:131
+translate portuguese replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
-    mct ""
+    mct "Shit! Someone is coming!"
 

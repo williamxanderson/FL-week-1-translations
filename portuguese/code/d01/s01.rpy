@@ -791,3 +791,47 @@ translate portuguese strings:
     # game/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Dizer que foi o Pete quem dormiu com a garota e que você não tinha ideia que ela estava no quarto"
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d01/s01.rpy:42
+translate portuguese d01s01_16024863:
+
+    # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
+    mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
+
+# game/code/d01/s01.rpy:43
+translate portuguese d01s01_0edfd832:
+
+    # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
+    mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
+
+# game/code/d01/s01.rpy:44
+translate portuguese d01s01_74274f26:
+
+    # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
+    mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
+
+# game/code/d01/s01.rpy:48
+translate portuguese d01s01_9a9a27f1:
+
+    # mct "I should probably focus on exams now, and worry about the girls later."
+    mct "I should probably focus on exams now, and worry about the girls later."
+
+# game/code/d01/s01.rpy:124
+translate portuguese d01s01_6444e025:
+
+    # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
+    mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
+
+# game/code/d01/s01.rpy:130
+translate portuguese d01s01_01249464:
+
+    # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
+    pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
+
+# game/code/d01/s01.rpy:256
+translate portuguese d01s01_shower_e2f0143d:
+
+    # mct "Yeah. She noticed."
+    mct "Yeah. She noticed."
+

@@ -869,3 +869,17 @@ translate portuguese d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
     mct "Qual é a probabilidade dessa mensagem no Fetish Locator ser da Lydia?!"
+# TODO: Translation updated at 2020-08-05 01:51
+
+# game/code/d02/s06.rpy:108
+translate portuguese d02s06_b16ae0ae:
+
+    # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
+    mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
+
+# game/code/d02/s06.rpy:224
+translate portuguese d02s06_8a9895aa:
+
+    # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
+    kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
+

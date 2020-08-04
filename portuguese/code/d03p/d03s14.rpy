@@ -1,685 +1,686 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03p/d03s14.rpy:70
-translate portuguese d03s14_95908d3d:
+# game/code/d03p/d03s14.rpy:74
+translate portuguese replay_d03s14_95908d3d:
 
     # mct "It seems like this event is happening on the rooftop. {w}Let's go there."
-    mct ""
+    mct "It seems like this event is happening on the rooftop. {w}Let's go there."
 
-# game/d03p/d03s14.rpy:72
-translate portuguese d03s14_63c38e87:
+# game/code/d03p/d03s14.rpy:76
+translate portuguese replay_d03s14_63c38e87:
 
     # tm "I told you, I'm straight."
-    tm ""
+    tm "I told you, I'm straight."
 
-# game/d03p/d03s14.rpy:76
-translate portuguese d03s14_a6bca1ee:
+# game/code/d03p/d03s14.rpy:80
+translate portuguese replay_d03s14_a6bca1ee:
 
     # tm "Hey!"
-    tm ""
+    tm "Hey!"
 
-# game/d03p/d03s14.rpy:78
-translate portuguese d03s14_f41382cc:
+# game/code/d03p/d03s14.rpy:82
+translate portuguese replay_d03s14_f41382cc:
 
     # tm "The light is too bright! Close the door!"
-    tm ""
+    tm "The light is too bright! Close the door!"
 
-# game/d03p/d03s14.rpy:80
-translate portuguese d03s14_bdca0566:
+# game/code/d03p/d03s14.rpy:84
+translate portuguese replay_d03s14_bdca0566:
 
     # tm "That is much better!"
-    tm ""
+    tm "That is much better!"
 
-# game/d03p/d03s14.rpy:81
-translate portuguese d03s14_aaf02080:
+# game/code/d03p/d03s14.rpy:85
+translate portuguese replay_d03s14_aaf02080:
 
     # mc "Are you girls here for the event?"
-    mc ""
+    mc "Are you girls here for the event?"
 
-# game/d03p/d03s14.rpy:83
-translate portuguese d03s14_7748f064:
+# game/code/d03p/d03s14.rpy:87
+translate portuguese replay_d03s14_7748f064:
 
     # mkfl "Yes, it looks like the right place. But Mister D1cky is not here yet..."
-    mkfl ""
+    mkfl "Yes, it looks like the right place. But Mister D1cky is not here yet..."
 
-# game/d03p/d03s14.rpy:85
-translate portuguese d03s14_6018f8d3:
+# game/code/d03p/d03s14.rpy:89
+translate portuguese replay_d03s14_6018f8d3:
 
     # tm "Yeah... So, what we were talking about?"
-    tm ""
+    tm "Yeah... So, what we were talking about?"
 
-# game/d03p/d03s14.rpy:87
-translate portuguese d03s14_32a1057a:
+# game/code/d03p/d03s14.rpy:91
+translate portuguese replay_d03s14_83071273:
 
-    # mkfl "You being straight! Have you never even experimented with a girl!"
-    mkfl ""
+    # mkfl "You being straight! Have you never even experimented with a girl?!"
+    mkfl "You being straight! Have you never even experimented with a girl?!"
 
-# game/d03p/d03s14.rpy:88
-translate portuguese d03s14_008b8ce7:
+# game/code/d03p/d03s14.rpy:92
+translate portuguese replay_d03s14_008b8ce7:
 
     # tm "Maybe. Have you?"
-    tm ""
+    tm "Maybe. Have you?"
 
-# game/d03p/d03s14.rpy:89
-translate portuguese d03s14_a6da8fcc:
+# game/code/d03p/d03s14.rpy:93
+translate portuguese replay_d03s14_a6da8fcc:
 
     # mkfl "Of course, I'm a lesbian!"
-    mkfl ""
+    mkfl "Of course, I'm a lesbian!"
 
-# game/d03p/d03s14.rpy:90
-translate portuguese d03s14_e7b0c3bf:
+# game/code/d03p/d03s14.rpy:94
+translate portuguese replay_d03s14_e7b0c3bf:
 
     # tm "No, have you ever experimented with a cock?"
-    tm ""
+    tm "No, have you ever experimented with a cock?"
 
-# game/d03p/d03s14.rpy:91
-translate portuguese d03s14_a5aff01b:
+# game/code/d03p/d03s14.rpy:95
+translate portuguese replay_d03s14_a5aff01b:
 
     # mkfl "What? Fuck no!"
-    mkfl ""
+    mkfl "What? Fuck no!"
 
-# game/d03p/d03s14.rpy:92
-translate portuguese d03s14_54b935a4:
+# game/code/d03p/d03s14.rpy:96
+translate portuguese replay_d03s14_54b935a4:
 
     # tm "You've never sucked a dick? Never had a guy take your virginity?"
-    tm ""
+    tm "You've never sucked a dick? Never had a guy take your virginity?"
 
-# game/d03p/d03s14.rpy:93
-translate portuguese d03s14_29086b00:
+# game/code/d03p/d03s14.rpy:97
+translate portuguese replay_d03s14_29086b00:
 
     # mkfl "That's disgusting."
-    mkfl ""
+    mkfl "That's disgusting."
 
-# game/d03p/d03s14.rpy:95
-translate portuguese d03s14_76ed807c:
+# game/code/d03p/d03s14.rpy:99
+translate portuguese replay_d03s14_76ed807c:
 
     # tm "Hey guy, come over here."
-    tm ""
+    tm "Hey guy, come over here."
 
-# game/d03p/d03s14.rpy:96
-translate portuguese d03s14_e58297ce:
+# game/code/d03p/d03s14.rpy:100
+translate portuguese replay_d03s14_e58297ce:
 
     # mc "I'm..."
-    mc ""
+    mc "I'm..."
 
-# game/d03p/d03s14.rpy:97
-translate portuguese d03s14_8a3de237:
+# game/code/d03p/d03s14.rpy:101
+translate portuguese replay_d03s14_8a3de237:
 
     # tm "Shh. I just need your dick."
-    tm ""
+    tm "Shh. I just need your dick."
 
-# game/d03p/d03s14.rpy:98
-translate portuguese d03s14_8cb249cd:
+# game/code/d03p/d03s14.rpy:102
+translate portuguese replay_d03s14_8cb249cd:
 
     # mc "I am all yours."
-    mc ""
+    mc "I am all yours."
 
-# game/d03p/d03s14.rpy:100
-translate portuguese d03s14_9df63843:
+# game/code/d03p/d03s14.rpy:104
+translate portuguese replay_d03s14_9df63843:
 
     # tm "Okay, so here's the deal. I'll do to Vesna whatever she does to you."
-    tm ""
+    tm "Okay, so here's the deal. I'll do to Vesna whatever she does to you."
 
-# game/d03p/d03s14.rpy:101
-translate portuguese d03s14_1f9e966f:
+# game/code/d03p/d03s14.rpy:105
+translate portuguese replay_d03s14_1f9e966f:
 
     # mkfl "What?"
-    mkfl ""
+    mkfl "What?"
 
-# game/d03p/d03s14.rpy:104
-translate portuguese d03s14_51a54c0e:
+# game/code/d03p/d03s14.rpy:108
+translate portuguese replay_d03s14_51a54c0e:
 
     # tm "It's really simple. You kiss him, I'll kiss you."
-    tm ""
+    tm "It's really simple. You kiss him, I'll kiss you."
 
-# game/d03p/d03s14.rpy:105
-translate portuguese d03s14_3052db57:
+# game/code/d03p/d03s14.rpy:109
+translate portuguese replay_d03s14_3052db57:
 
     # tm "You suck his cock, I'll eat your cunt."
-    tm ""
+    tm "You suck his cock, I'll eat your cunt."
 
-# game/d03p/d03s14.rpy:106
-translate portuguese d03s14_3fc431a4:
+# game/code/d03p/d03s14.rpy:110
+translate portuguese replay_d03s14_3fc431a4:
 
     # tm "You let him fuck you, I'll do whatever you want all night long."
-    tm ""
+    tm "You let him fuck you, I'll do whatever you want all night long."
 
-# game/d03p/d03s14.rpy:108
-translate portuguese d03s14_e039ba75:
+# game/code/d03p/d03s14.rpy:112
+translate portuguese replay_d03s14_e039ba75:
 
     # mkfl "That isn't funny."
-    mkfl ""
+    mkfl "That isn't funny."
 
-# game/d03p/d03s14.rpy:110
-translate portuguese d03s14_f5e44afb:
+# game/code/d03p/d03s14.rpy:114
+translate portuguese replay_d03s14_f5e44afb:
 
     # tm "I'm serious."
-    tm ""
+    tm "I'm serious."
 
-# game/d03p/d03s14.rpy:115
-translate portuguese d03s14_64f4a96f:
+# game/code/d03p/d03s14.rpy:119
+translate portuguese replay_d03s14_64f4a96f:
 
     # amfl "Welcome!"
-    amfl ""
+    amfl "Welcome!"
 
-# game/d03p/d03s14.rpy:117
-translate portuguese d03s14_aa08e49b:
+# game/code/d03p/d03s14.rpy:121
+translate portuguese replay_d03s14_aa08e49b:
 
     # mkfl "Holy Shit!"
-    mkfl ""
+    mkfl "Holy Shit!"
 
-# game/d03p/d03s14.rpy:118
-translate portuguese d03s14_79098cbd:
+# game/code/d03p/d03s14.rpy:122
+translate portuguese replay_d03s14_79098cbd:
 
     # tm "How did he...?"
-    tm ""
+    tm "How did he...?"
 
-# game/d03p/d03s14.rpy:119
-translate portuguese d03s14_a298c546:
+# game/code/d03p/d03s14.rpy:123
+translate portuguese replay_d03s14_a298c546:
 
     # mct "Where did he come from?"
-    mct ""
+    mct "Where did he come from?"
 
-# game/d03p/d03s14.rpy:121
-translate portuguese d03s14_dcf176b0:
+# game/code/d03p/d03s14.rpy:125
+translate portuguese replay_d03s14_dcf176b0:
 
     # amfl "Please, take a seat."
-    amfl ""
+    amfl "Please, take a seat."
 
-# game/d03p/d03s14.rpy:122
-translate portuguese d03s14_1e0f955b:
+# game/code/d03p/d03s14.rpy:126
+translate portuguese replay_d03s14_1e0f955b:
 
     # mkfl "Where would we sit?"
-    mkfl ""
+    mkfl "Where would we sit?"
 
-# game/d03p/d03s14.rpy:126
-translate portuguese d03s14_07eef455:
+# game/code/d03p/d03s14.rpy:130
+translate portuguese replay_d03s14_07eef455:
 
     # mc "Wow!"
-    mc ""
+    mc "Wow!"
 
-# game/d03p/d03s14.rpy:127
-translate portuguese d03s14_8e1ab843:
+# game/code/d03p/d03s14.rpy:131
+translate portuguese replay_d03s14_8e1ab843:
 
     # mkfl "How!?"
-    mkfl ""
+    mkfl "How!?"
 
-# game/d03p/d03s14.rpy:129
-translate portuguese d03s14_405313bc:
+# game/code/d03p/d03s14.rpy:133
+translate portuguese replay_d03s14_405313bc:
 
     # tm "Ok, this promises to be interesting!"
-    tm ""
+    tm "Ok, this promises to be interesting!"
 
-# game/d03p/d03s14.rpy:131
-translate portuguese d03s14_7054deda:
+# game/code/d03p/d03s14.rpy:135
+translate portuguese replay_d03s14_7054deda:
 
     # mkfl "You seem excited."
-    mkfl ""
+    mkfl "You seem excited."
 
-# game/d03p/d03s14.rpy:133
-translate portuguese d03s14_5992592a:
+# game/code/d03p/d03s14.rpy:137
+translate portuguese replay_d03s14_5992592a:
 
     # tm "Oh yes! I love crazy experiences! Let your imagination run free!"
-    tm ""
+    tm "Oh yes! I love crazy experiences! Let your imagination run free!"
 
-# game/d03p/d03s14.rpy:135
-translate portuguese d03s14_2a3dd485:
+# game/code/d03p/d03s14.rpy:139
+translate portuguese replay_d03s14_2a3dd485:
 
     # mkfl "Okay, I'm willing to go with the flow."
-    mkfl ""
+    mkfl "Okay, I'm willing to go with the flow."
 
-# game/d03p/d03s14.rpy:136
-translate portuguese d03s14_acc20661:
+# game/code/d03p/d03s14.rpy:140
+translate portuguese replay_d03s14_acc20661:
 
     # mc "Me too!"
-    mc ""
+    mc "Me too!"
 
-# game/d03p/d03s14.rpy:140
-translate portuguese d03s14_e5aa35d2:
+# game/code/d03p/d03s14.rpy:144
+translate portuguese replay_d03s14_e5aa35d2:
 
     # amfl "Now you are ready!"
-    amfl ""
+    amfl "Now you are ready!"
 
-# game/d03p/d03s14.rpy:142
-translate portuguese d03s14_2fbe2221:
+# game/code/d03p/d03s14.rpy:146
+translate portuguese replay_d03s14_2fbe2221:
 
     # amfl "We will have to travel for some time to find the right place!"
-    amfl ""
+    amfl "We will have to travel for some time to find the right place!"
 
-# game/d03p/d03s14.rpy:143
-translate portuguese d03s14_bceeee56:
+# game/code/d03p/d03s14.rpy:147
+translate portuguese replay_d03s14_bceeee56:
 
     # amfl "Hold tight to the candles they will direct to the right world!"
-    amfl ""
+    amfl "Hold tight to the candles they will direct to the right world!"
 
-# game/d03p/d03s14.rpy:148
-translate portuguese d03s14_bd4330f9:
+# game/code/d03p/d03s14.rpy:152
+translate portuguese replay_d03s14_bd4330f9:
 
     # mc "What? World? We're traveling?"
-    mc ""
+    mc "What? World? We're traveling?"
 
-# game/d03p/d03s14.rpy:150
-translate portuguese d03s14_36c6942a:
+# game/code/d03p/d03s14.rpy:154
+translate portuguese replay_d03s14_36c6942a:
 
     # tm "Just feel it! Don't you? {w}It is so sunny there! Yet I can feel the raindrops on the leaves!"
-    tm ""
+    tm "Just feel it! Don't you? {w}It is so sunny there! Yet I can feel the raindrops on the leaves!"
 
-# game/d03p/d03s14.rpy:151
-translate portuguese d03s14_19411e03:
+# game/code/d03p/d03s14.rpy:158
+translate portuguese replay_d03s14_19411e03:
 
     # mkfl "I feel... the sea breeze? {w}Waves are crashing to the shore... {w}and a bird! I hear birds!"
-    mkfl ""
+    mkfl "I feel... the sea breeze? {w}Waves are crashing to the shore... {w}and a bird! I hear birds!"
 
-# game/d03p/d03s14.rpy:153
-translate portuguese d03s14_b4b38576:
+# game/code/d03p/d03s14.rpy:160
+translate portuguese replay_d03s14_b4b38576:
 
     # amfl "Just open your eyes! You are already there!"
-    amfl ""
+    amfl "Just open your eyes! You are already there!"
 
-# game/d03p/d03s14.rpy:154
-translate portuguese d03s14_721c8a3c:
+# game/code/d03p/d03s14.rpy:161
+translate portuguese replay_d03s14_721c8a3c:
 
     # mc "My eyes are... oh!"
-    mc ""
+    mc "My eyes are... oh!"
 
-# game/d03p/d03s14.rpy:158
-translate portuguese d03s14_feede58f:
+# game/code/d03p/d03s14.rpy:165
+translate portuguese replay_d03s14_feede58f:
 
     # mc "This is beautiful!"
-    mc ""
+    mc "This is beautiful!"
 
-# game/d03p/d03s14.rpy:160
-translate portuguese d03s14_6858a475:
+# game/code/d03p/d03s14.rpy:167
+translate portuguese replay_d03s14_6858a475:
 
     # mkfl "The sun!"
-    mkfl ""
+    mkfl "The sun!"
 
-# game/d03p/d03s14.rpy:161
-translate portuguese d03s14_163f5645:
+# game/code/d03p/d03s14.rpy:168
+translate portuguese replay_d03s14_163f5645:
 
     # tm "I can feel the sea!"
-    tm ""
+    tm "I can feel the sea!"
 
-# game/d03p/d03s14.rpy:165
-translate portuguese d03s14_f6118cca:
+# game/code/d03p/d03s14.rpy:172
+translate portuguese replay_d03s14_f6118cca:
 
     # mkfl "I can feel the sunlight on my skin!"
-    mkfl ""
+    mkfl "I can feel the sunlight on my skin!"
 
-# game/d03p/d03s14.rpy:167
-translate portuguese d03s14_12fb036d:
+# game/code/d03p/d03s14.rpy:174
+translate portuguese replay_d03s14_12fb036d:
 
     # tm "Hey how are you naked?"
-    tm ""
+    tm "Hey how are you naked?"
 
-# game/d03p/d03s14.rpy:168
-translate portuguese d03s14_043d3589:
+# game/code/d03p/d03s14.rpy:175
+translate portuguese replay_d03s14_043d3589:
 
     # mc "I don't know. I was just looking at you... and wanted to be naked."
-    mc ""
+    mc "I don't know. I was just looking at you... and wanted to be naked."
 
-# game/d03p/d03s14.rpy:169
-translate portuguese d03s14_5f9c4081:
+# game/code/d03p/d03s14.rpy:176
+translate portuguese replay_d03s14_5f9c4081:
 
     # tm "I want to be naked too!"
-    tm ""
+    tm "I want to be naked too!"
 
-# game/d03p/d03s14.rpy:173
-translate portuguese d03s14_8fe73e99:
+# game/code/d03p/d03s14.rpy:180
+translate portuguese replay_d03s14_8fe73e99:
 
     # mkfl "Wow!"
-    mkfl ""
+    mkfl "Wow!"
 
-# game/d03p/d03s14.rpy:177
-translate portuguese d03s14_789af58b:
+# game/code/d03p/d03s14.rpy:184
+translate portuguese replay_d03s14_789af58b:
 
     # mkfl "How are you doing this?"
-    mkfl ""
+    mkfl "How are you doing this?"
 
-# game/d03p/d03s14.rpy:178
-translate portuguese d03s14_80d073e3:
+# game/code/d03p/d03s14.rpy:185
+translate portuguese replay_d03s14_80d073e3:
 
     # tm "Just want it! Want to be naked!"
-    tm ""
+    tm "Just want it! Want to be naked!"
 
-# game/d03p/d03s14.rpy:180
-translate portuguese d03s14_28724b36:
+# game/code/d03p/d03s14.rpy:187
+translate portuguese replay_d03s14_28724b36:
 
     # mkfl "You are so gorgeous!"
-    mkfl ""
+    mkfl "You are so gorgeous!"
 
-# game/d03p/d03s14.rpy:182
-translate portuguese d03s14_9ca91933:
+# game/code/d03p/d03s14.rpy:189
+translate portuguese replay_d03s14_9ca91933:
 
     # mkfl "Your skin is so warm and soft!"
-    mkfl ""
+    mkfl "Your skin is so warm and soft!"
 
-# game/d03p/d03s14.rpy:184
-translate portuguese d03s14_9d6c35ca:
-
-    # mkfl "I'll undress for you! Anything for you!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:185
-translate portuguese d03s14_3b5590fc:
-
-    # tm "Anything?"
-    tm ""
-
-# game/d03p/d03s14.rpy:187
-translate portuguese d03s14_5f6a9766:
-
-    # tm "I want you to undress for him! I want to see his dick getting hard because of you!"
-    tm ""
-
-# game/d03p/d03s14.rpy:188
-translate portuguese d03s14_b79809d5:
-
-    # tm "Did you ever made a dick hard?"
-    tm ""
-
-# game/d03p/d03s14.rpy:189
-translate portuguese d03s14_d6f1ae6e:
-
-    # mkfl "I don't think so..."
-    mkfl ""
-
-# game/d03p/d03s14.rpy:190
-translate portuguese d03s14_c4c497d8:
-
-    # tm "Then do it!"
-    tm ""
-
-# game/d03p/d03s14.rpy:192
-translate portuguese d03s14_3ddcabe9:
-
-    # mkfl "As you wish! Anything you say!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:195
-translate portuguese d03s14_f5a739ff:
-
-    # mkfl "Watch me!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:196
-translate portuguese d03s14_b510a635:
-
-    # tm "You look gorgeous! See! He is getting hard!"
-    tm ""
-
-# game/d03p/d03s14.rpy:198
-translate portuguese d03s14_8cffec53:
-
-    # tm "Now go to him!"
-    tm ""
-
-# game/d03p/d03s14.rpy:203
-translate portuguese d03s14_0773385d:
-
-    # mkfl "It is... not what I expected... beautiful..."
-    mkfl ""
-
-# game/d03p/d03s14.rpy:207
-translate portuguese d03s14_4c197500:
-
-    # tm "See? You're making his cock hard!"
-    tm ""
-
-# game/d03p/d03s14.rpy:209
-translate portuguese d03s14_b4ed123f:
-
-    # tm "And now all you want is to taste this cock with your mouth!"
-    tm ""
-
-# game/d03p/d03s14.rpy:211
-translate portuguese d03s14_14c77262:
-
-    # tm "You want nothing else but this dick in your throat... hard and deep!"
-    tm ""
-
-# game/d03p/d03s14.rpy:212
-translate portuguese d03s14_0751663c:
-
-    # mkfl "Yes! I want it!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:213
-translate portuguese d03s14_a7889851:
-
-    # tm "Good girl!"
-    tm ""
-
-# game/d03p/d03s14.rpy:219
-translate portuguese d03s14_3b944fc2:
-
-    # tm "Now you are ready! Go into the water and swallow this man-meat!"
-    tm ""
-
-# game/d03p/d03s14.rpy:220
-translate portuguese d03s14_2e52c045:
-
-    # mkfl "Yes!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:225
-translate portuguese d03s14_fbb1a20b:
-
-    # tm "Wow! Honey, you look delicious."
-    tm ""
-
-# game/d03p/d03s14.rpy:227
-translate portuguese d03s14_5f7e9400:
-
-    # tm "Are you sure it is your first time having a dick in your mouth?"
-    tm ""
-
-# game/d03p/d03s14.rpy:228
-translate portuguese d03s14_7f3bbf52:
-
-    # tm "How does it feel?"
-    tm ""
-
-# game/d03p/d03s14.rpy:231
-translate portuguese d03s14_e2eb0418:
-
-    # mkfl "Awesome! I had no idea that a penis could feel this good!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:232
-translate portuguese d03s14_4c419509:
-
-    # tm "Don't make him wait!"
-    tm ""
-
-# game/d03p/d03s14.rpy:236
-translate portuguese d03s14_f6982367:
-
-    # mc "Oh, this is fantastic!"
-    mc ""
-
-# game/d03p/d03s14.rpy:237
-translate portuguese d03s14_af434bf1:
-
-    # tm "I've never seen anything that turned me on this much!"
-    tm ""
-
-# game/d03p/d03s14.rpy:239
-translate portuguese d03s14_f39f70a4:
-
-    # tm "Come here, darling. Let me taste him from your mouth!"
-    tm ""
-
-# game/d03p/d03s14.rpy:251
-translate portuguese d03s14_bd0601da:
-
-    # tm "Now, my dear, the next step!"
-    tm ""
-
-# game/d03p/d03s14.rpy:252
-translate portuguese d03s14_14526143:
-
-    # tm "You want this tasty dick to fill your virgin pussy! Don't you want that?"
-    tm ""
-
-# game/d03p/d03s14.rpy:253
-translate portuguese d03s14_2b807ce6:
-
-    # mkfl "Oh-h-h! {w}I...{w} I think I do!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:254
-translate portuguese d03s14_99890904:
-
-    # mkfl "I want to feel it inside me!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:255
-translate portuguese d03s14_fe2c016a:
-
-    # tm "Then what are you waiting for? He is ready for you up there!"
-    tm ""
-
-# game/d03p/d03s14.rpy:257
-translate portuguese d03s14_5f34c67a:
-
-    # tm "Fly to him!"
-    tm ""
-
-# game/d03p/d03s14.rpy:260
-translate portuguese d03s14_32420c34:
-
-    # mkfl "Yes! I see him!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:275
-translate portuguese d03s14_b851afde:
-
-    # mc "Come here!"
-    mc ""
-
-# game/d03p/d03s14.rpy:277
-translate portuguese d03s14_f12e7a9c:
-
-    # mkfl "We'll just do it here?"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:279
-translate portuguese d03s14_f800bed0:
-
-    # mc "Yes."
-    mc ""
-
-# game/d03p/d03s14.rpy:281
-translate portuguese d03s14_e0fa39f4:
-
-    # mkfl "Fuck me! Yes!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:284
-translate portuguese d03s14_34a39fef:
-
-    # mkfl "Oh my god! I can feel you inside me?!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:285
-translate portuguese d03s14_8b7070bb:
-
-    # tm "Yes! Do you like it?"
-    tm ""
-
-# game/d03p/d03s14.rpy:286
-translate portuguese d03s14_00eb1e84:
-
-    # mkfl "Unbelievable! I can feel you!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:288
-translate portuguese d03s14_f708d8dc:
-
-    # mct "Oh, I'm close! Should I cum inside her?"
-    mct ""
-
-# game/d03p/d03s14.rpy:290
-translate portuguese d03s14_366ad831:
-
-    # mkfl "Yes, do it!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:294
-translate portuguese d03s14_959072a7:
-
-    # mkfl "Whaaaat?!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:295
-translate portuguese d03s14_f19b4d9d:
-
-    # tm "Wow! That was a trip!"
-    tm ""
-
-# game/d03p/d03s14.rpy:296
-translate portuguese d03s14_8ce1bbb1:
-
-    # mc "It was all a dream?"
-    mc ""
-
-# game/d03p/d03s14.rpy:298
-translate portuguese d03s14_96aa3f43:
-
-    # tm "I saw you fuck her!"
-    tm ""
-
-# game/d03p/d03s14.rpy:299
-translate portuguese d03s14_7f5ad1d9:
-
-    # mkfl "What kind of fucked up dream was that?!"
-    mkfl ""
-
-# game/d03p/d03s14.rpy:300
-translate portuguese d03s14_d32008c4:
-
-    # mc "Okay, this was literally amazing!"
-    mc ""
-
-# game/d03p/d03s14.rpy:302
-translate portuguese d03s14_0de032b3:
-
-    # tm "Vesna, I guess I owe you..."
-    tm ""
-
-# game/d03p/d03s14.rpy:303
-translate portuguese d03s14_3d656795:
-
-    # mkfl "Nothing. You owe me nothing. Nothing happened."
-    mkfl ""
-
-# game/d03p/d03s14.rpy:304
-translate portuguese d03s14_3e91a5b4:
-
-    # mc "My balls are nearly exploding!"
-    mc ""
-
-# game/d03p/d03s14.rpy:306
-translate portuguese d03s14_b90bae6d:
-
-    # tm "Really?"
-    tm ""
-
-# game/d03p/d03s14.rpy:307
-translate portuguese d03s14_100611e3:
-
-    # mkfl "Well, if you want to make it up to me..."
-    mkfl ""
-
-# game/d03p/d03s14.rpy:308
-translate portuguese d03s14_e15b25a7:
-
-    # mct "I need to go find some release... or a cold shower..."
-    mct ""
-
-# game/code/d03p/d03s14.rpy:183
-translate portuguese d03s14_4771848f:
+# game/code/d03p/d03s14.rpy:190
+translate portuguese replay_d03s14_4771848f:
 
     # tm "Why are you still dressed?"
     tm "Why are you still dressed?"
+
+# game/code/d03p/d03s14.rpy:191
+translate portuguese replay_d03s14_9d6c35ca:
+
+    # mkfl "I'll undress for you! Anything for you!"
+    mkfl "I'll undress for you! Anything for you!"
+
+# game/code/d03p/d03s14.rpy:192
+translate portuguese replay_d03s14_3b5590fc:
+
+    # tm "Anything?"
+    tm "Anything?"
+
+# game/code/d03p/d03s14.rpy:194
+translate portuguese replay_d03s14_5f6a9766:
+
+    # tm "I want you to undress for him! I want to see his dick getting hard because of you!"
+    tm "I want you to undress for him! I want to see his dick getting hard because of you!"
+
+# game/code/d03p/d03s14.rpy:195
+translate portuguese replay_d03s14_b79809d5:
+
+    # tm "Did you ever made a dick hard?"
+    tm "Did you ever made a dick hard?"
+
+# game/code/d03p/d03s14.rpy:196
+translate portuguese replay_d03s14_d6f1ae6e:
+
+    # mkfl "I don't think so..."
+    mkfl "I don't think so..."
+
+# game/code/d03p/d03s14.rpy:197
+translate portuguese replay_d03s14_c4c497d8:
+
+    # tm "Then do it!"
+    tm "Then do it!"
+
+# game/code/d03p/d03s14.rpy:199
+translate portuguese replay_d03s14_3ddcabe9:
+
+    # mkfl "As you wish! Anything you say!"
+    mkfl "As you wish! Anything you say!"
+
+# game/code/d03p/d03s14.rpy:202
+translate portuguese replay_d03s14_f5a739ff:
+
+    # mkfl "Watch me!"
+    mkfl "Watch me!"
+
+# game/code/d03p/d03s14.rpy:203
+translate portuguese replay_d03s14_b510a635:
+
+    # tm "You look gorgeous! See! He is getting hard!"
+    tm "You look gorgeous! See! He is getting hard!"
+
+# game/code/d03p/d03s14.rpy:205
+translate portuguese replay_d03s14_8cffec53:
+
+    # tm "Now go to him!"
+    tm "Now go to him!"
+
+# game/code/d03p/d03s14.rpy:210
+translate portuguese replay_d03s14_0773385d:
+
+    # mkfl "It is... not what I expected... beautiful..."
+    mkfl "It is... not what I expected... beautiful..."
+
+# game/code/d03p/d03s14.rpy:214
+translate portuguese replay_d03s14_4c197500:
+
+    # tm "See? You're making his cock hard!"
+    tm "See? You're making his cock hard!"
+
+# game/code/d03p/d03s14.rpy:216
+translate portuguese replay_d03s14_b4ed123f:
+
+    # tm "And now all you want is to taste this cock with your mouth!"
+    tm "And now all you want is to taste this cock with your mouth!"
+
+# game/code/d03p/d03s14.rpy:218
+translate portuguese replay_d03s14_14c77262:
+
+    # tm "You want nothing else but this dick in your throat... hard and deep!"
+    tm "You want nothing else but this dick in your throat... hard and deep!"
+
+# game/code/d03p/d03s14.rpy:219
+translate portuguese replay_d03s14_0751663c:
+
+    # mkfl "Yes! I want it!"
+    mkfl "Yes! I want it!"
+
+# game/code/d03p/d03s14.rpy:220
+translate portuguese replay_d03s14_a7889851:
+
+    # tm "Good girl!"
+    tm "Good girl!"
+
+# game/code/d03p/d03s14.rpy:226
+translate portuguese replay_d03s14_3b944fc2:
+
+    # tm "Now you are ready! Go into the water and swallow this man-meat!"
+    tm "Now you are ready! Go into the water and swallow this man-meat!"
+
+# game/code/d03p/d03s14.rpy:227
+translate portuguese replay_d03s14_2e52c045:
+
+    # mkfl "Yes!"
+    mkfl "Yes!"
+
+# game/code/d03p/d03s14.rpy:232
+translate portuguese replay_d03s14_fbb1a20b:
+
+    # tm "Wow! Honey, you look delicious."
+    tm "Wow! Honey, you look delicious."
+
+# game/code/d03p/d03s14.rpy:234
+translate portuguese replay_d03s14_5f7e9400:
+
+    # tm "Are you sure it is your first time having a dick in your mouth?"
+    tm "Are you sure it is your first time having a dick in your mouth?"
+
+# game/code/d03p/d03s14.rpy:235
+translate portuguese replay_d03s14_7f3bbf52:
+
+    # tm "How does it feel?"
+    tm "How does it feel?"
+
+# game/code/d03p/d03s14.rpy:238
+translate portuguese replay_d03s14_e2eb0418:
+
+    # mkfl "Awesome! I had no idea that a penis could feel this good!"
+    mkfl "Awesome! I had no idea that a penis could feel this good!"
+
+# game/code/d03p/d03s14.rpy:239
+translate portuguese replay_d03s14_4c419509:
+
+    # tm "Don't make him wait!"
+    tm "Don't make him wait!"
+
+# game/code/d03p/d03s14.rpy:243
+translate portuguese replay_d03s14_f6982367:
+
+    # mc "Oh, this is fantastic!"
+    mc "Oh, this is fantastic!"
+
+# game/code/d03p/d03s14.rpy:244
+translate portuguese replay_d03s14_af434bf1:
+
+    # tm "I've never seen anything that turned me on this much!"
+    tm "I've never seen anything that turned me on this much!"
+
+# game/code/d03p/d03s14.rpy:246
+translate portuguese replay_d03s14_f39f70a4:
+
+    # tm "Come here, darling. Let me taste him from your mouth!"
+    tm "Come here, darling. Let me taste him from your mouth!"
+
+# game/code/d03p/d03s14.rpy:258
+translate portuguese replay_d03s14_bd0601da:
+
+    # tm "Now, my dear, the next step!"
+    tm "Now, my dear, the next step!"
+
+# game/code/d03p/d03s14.rpy:259
+translate portuguese replay_d03s14_14526143:
+
+    # tm "You want this tasty dick to fill your virgin pussy! Don't you want that?"
+    tm "You want this tasty dick to fill your virgin pussy! Don't you want that?"
+
+# game/code/d03p/d03s14.rpy:260
+translate portuguese replay_d03s14_2b807ce6:
+
+    # mkfl "Oh-h-h! {w}I...{w} I think I do!"
+    mkfl "Oh-h-h! {w}I...{w} I think I do!"
+
+# game/code/d03p/d03s14.rpy:261
+translate portuguese replay_d03s14_99890904:
+
+    # mkfl "I want to feel it inside me!"
+    mkfl "I want to feel it inside me!"
+
+# game/code/d03p/d03s14.rpy:262
+translate portuguese replay_d03s14_fe2c016a:
+
+    # tm "Then what are you waiting for? He is ready for you up there!"
+    tm "Then what are you waiting for? He is ready for you up there!"
+
+# game/code/d03p/d03s14.rpy:264
+translate portuguese replay_d03s14_5f34c67a:
+
+    # tm "Fly to him!"
+    tm "Fly to him!"
+
+# game/code/d03p/d03s14.rpy:267
+translate portuguese replay_d03s14_32420c34:
+
+    # mkfl "Yes! I see him!"
+    mkfl "Yes! I see him!"
+
+# game/code/d03p/d03s14.rpy:283
+translate portuguese replay_d03s14_b851afde:
+
+    # mc "Come here!"
+    mc "Come here!"
+
+# game/code/d03p/d03s14.rpy:285
+translate portuguese replay_d03s14_f12e7a9c:
+
+    # mkfl "We'll just do it here?"
+    mkfl "We'll just do it here?"
+
+# game/code/d03p/d03s14.rpy:287
+translate portuguese replay_d03s14_f800bed0:
+
+    # mc "Yes."
+    mc "Yes."
+
+# game/code/d03p/d03s14.rpy:289
+translate portuguese replay_d03s14_e0fa39f4:
+
+    # mkfl "Fuck me! Yes!"
+    mkfl "Fuck me! Yes!"
+
+# game/code/d03p/d03s14.rpy:292
+translate portuguese replay_d03s14_34a39fef:
+
+    # mkfl "Oh my god! I can feel you inside me?!"
+    mkfl "Oh my god! I can feel you inside me?!"
+
+# game/code/d03p/d03s14.rpy:293
+translate portuguese replay_d03s14_8b7070bb:
+
+    # tm "Yes! Do you like it?"
+    tm "Yes! Do you like it?"
+
+# game/code/d03p/d03s14.rpy:294
+translate portuguese replay_d03s14_00eb1e84:
+
+    # mkfl "Unbelievable! I can feel you!"
+    mkfl "Unbelievable! I can feel you!"
+
+# game/code/d03p/d03s14.rpy:296
+translate portuguese replay_d03s14_f708d8dc:
+
+    # mct "Oh, I'm close! Should I cum inside her?"
+    mct "Oh, I'm close! Should I cum inside her?"
+
+# game/code/d03p/d03s14.rpy:298
+translate portuguese replay_d03s14_366ad831:
+
+    # mkfl "Yes, do it!"
+    mkfl "Yes, do it!"
+
+# game/code/d03p/d03s14.rpy:305
+translate portuguese replay_d03s14_959072a7:
+
+    # mkfl "Whaaaat?!"
+    mkfl "Whaaaat?!"
+
+# game/code/d03p/d03s14.rpy:306
+translate portuguese replay_d03s14_f19b4d9d:
+
+    # tm "Wow! That was a trip!"
+    tm "Wow! That was a trip!"
+
+# game/code/d03p/d03s14.rpy:307
+translate portuguese replay_d03s14_8ce1bbb1:
+
+    # mc "It was all a dream?"
+    mc "It was all a dream?"
+
+# game/code/d03p/d03s14.rpy:309
+translate portuguese replay_d03s14_96aa3f43:
+
+    # tm "I saw you fuck her!"
+    tm "I saw you fuck her!"
+
+# game/code/d03p/d03s14.rpy:310
+translate portuguese replay_d03s14_7f5ad1d9:
+
+    # mkfl "What kind of fucked up dream was that?!"
+    mkfl "What kind of fucked up dream was that?!"
+
+# game/code/d03p/d03s14.rpy:311
+translate portuguese replay_d03s14_d32008c4:
+
+    # mc "Okay, this was literally amazing!"
+    mc "Okay, this was literally amazing!"
+
+# game/code/d03p/d03s14.rpy:313
+translate portuguese replay_d03s14_0de032b3:
+
+    # tm "Vesna, I guess I owe you..."
+    tm "Vesna, I guess I owe you..."
+
+# game/code/d03p/d03s14.rpy:314
+translate portuguese replay_d03s14_3d656795:
+
+    # mkfl "Nothing. You owe me nothing. Nothing happened."
+    mkfl "Nothing. You owe me nothing. Nothing happened."
+
+# game/code/d03p/d03s14.rpy:315
+translate portuguese replay_d03s14_3e91a5b4:
+
+    # mc "My balls are nearly exploding!"
+    mc "My balls are nearly exploding!"
+
+# game/code/d03p/d03s14.rpy:317
+translate portuguese replay_d03s14_b90bae6d:
+
+    # tm "Really?"
+    tm "Really?"
+
+# game/code/d03p/d03s14.rpy:318
+translate portuguese replay_d03s14_100611e3:
+
+    # mkfl "Well, if you want to make it up to me..."
+    mkfl "Well, if you want to make it up to me..."
+
+# game/code/d03p/d03s14.rpy:319
+translate portuguese replay_d03s14_e15b25a7:
+
+    # mct "I need to go find some release... or a cold shower..."
+    mct "I need to go find some release... or a cold shower..."
+

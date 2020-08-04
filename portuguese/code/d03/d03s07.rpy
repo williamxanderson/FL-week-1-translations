@@ -1,394 +1,394 @@
-﻿# TODO: Translation updated at 2020-01-21 12:56
+﻿# TODO: Translation updated at 2020-08-05 01:51
 
-# game/d03/d03s07.rpy:13
+# game/code/d03/d03s07.rpy:13
 translate portuguese d03s07_44f3d770:
 
     # "04:30 PM"
-    ""
+    "04:30 PM"
 
-# game/d03/d03s07.rpy:25
+# game/code/d03/d03s07.rpy:26
 translate portuguese d03s07_96c3d260:
 
     # pb "Oh, Hey [mcname]. Let me introduce you."
-    pb ""
+    pb "Oh, Hey [mcname]. Let me introduce you."
 
-# game/d03/d03s07.rpy:28
+# game/code/d03/d03s07.rpy:29
 translate portuguese d03s07_bdcbb4bf:
 
     # pb "The lovely lady in front of me is Daisy"
-    pb ""
+    pb "The lovely lady in front of me is Daisy"
 
-# game/d03/d03s07.rpy:30
+# game/code/d03/d03s07.rpy:31
 translate portuguese d03s07_d41ecff0:
 
     # pb "And the beautiful one hiding behind a book is Dahlia."
-    pb ""
+    pb "And the beautiful one hiding behind a book is Dahlia."
 
-# game/d03/d03s07.rpy:37
+# game/code/d03/d03s07.rpy:38
 translate portuguese d03s07_796396fa:
 
     # mct "Oh, there she is! But she introduced herself as Daisy this morning..."
-    mct ""
+    mct "Oh, there she is! But she introduced herself as Daisy this morning..."
 
-# game/d03/d03s07.rpy:41
+# game/code/d03/d03s07.rpy:42
 translate portuguese d03s07_2a82c66a:
 
     # mc "I'm pretty sure you got that backwards."
-    mc ""
+    mc "I'm pretty sure you got that backwards."
 
-# game/d03/d03s07.rpy:43
+# game/code/d03/d03s07.rpy:44
 translate portuguese d03s07_31d40295:
 
     # pb "Huh?"
-    pb ""
+    pb "Huh?"
 
-# game/d03/d03s07.rpy:46
+# game/code/d03/d03s07.rpy:47
 translate portuguese d03s07_3d7128e2:
 
     # mc "Hi Dahlia, nice to meet you."
-    mc ""
+    mc "Hi Dahlia, nice to meet you."
 
-# game/d03/d03s07.rpy:48
+# game/code/d03/d03s07.rpy:49
 translate portuguese d03s07_f4860966:
 
     # mc "Hey there Daisy, pleasure to see you again."
-    mc ""
+    mc "Hey there Daisy, pleasure to see you again."
 
-# game/d03/d03s07.rpy:50
+# game/code/d03/d03s07.rpy:51
 translate portuguese d03s07_ad4d3adf:
 
     # dd "Hey there!"
-    dd ""
+    dd "Hey there!"
 
-# game/d03/d03s07.rpy:55
-translate portuguese d03s07_67a73b9d:
+# game/code/d03/d03s07.rpy:56
+translate portuguese d03s07_a207bb0e:
 
-    # pb "Yea right... {w}I told you about them yesterday!"
-    pb ""
+    # pb "Yeah, right... {w}I told you about them yesterday!"
+    pb "Yeah, right... {w}I told you about them yesterday!"
 
-# game/d03/d03s07.rpy:57
+# game/code/d03/d03s07.rpy:58
 translate portuguese d03s07_78465fe7:
 
     # mct "He told me about them? What? {w}I can't remember he telling me about them..."
-    mct ""
+    mct "He told me about them? What? {w}I can't remember he telling me about them..."
 
-# game/d03/d03s07.rpy:58
+# game/code/d03/d03s07.rpy:59
 translate portuguese d03s07_494f3a0b:
 
     # mct "Oh wait is that..."
-    mct ""
+    mct "Oh wait is that..."
 
-# game/d03/d03s07.rpy:67
+# game/code/d03/d03s07.rpy:68
 translate portuguese d03s07_08983d74:
 
     # mct "Fuck! Those girls! So one of them is the blonde that he came on!"
-    mct ""
+    mct "Fuck! Those girls! So one of them is the blonde that he came on!"
 
-# game/d03/d03s07.rpy:73
+# game/code/d03/d03s07.rpy:74
 translate portuguese d03s07_ac13a093:
 
     # mct "They both could qualify as blonde... I wonder which one was it!"
-    mct ""
+    mct "They both could qualify as blonde... I wonder which one was it!"
 
-# game/d03/d03s07.rpy:75
+# game/code/d03/d03s07.rpy:76
 translate portuguese d03s07_77408eb6:
 
     # pb "Yea right... "
-    pb ""
+    pb "Yea right... "
 
-# game/d03/d03s07.rpy:79
+# game/code/d03/d03s07.rpy:80
 translate portuguese d03s07_76809710:
 
     # pb "Oh, well, yeah. Ladies, this is my roommate, [mcname]."
-    pb ""
+    pb "Oh, well, yeah. Ladies, this is my roommate, [mcname]."
 
-# game/d03/d03s07.rpy:80
+# game/code/d03/d03s07.rpy:81
 translate portuguese d03s07_4233b562:
 
     # pb "He's a great guy, you'll like him. He could teach classes on studying women."
-    pb ""
+    pb "He's a great guy, you'll like him. He could teach classes on studying women."
 
-# game/d03/d03s07.rpy:84
+# game/code/d03/d03s07.rpy:85
 translate portuguese d03s07_88f22d05:
 
     # dw "What?"
-    dw ""
+    dw "What?"
 
-# game/d03/d03s07.rpy:86
+# game/code/d03/d03s07.rpy:87
 translate portuguese d03s07_81fa94ec:
 
     # dd "I think he means women's studies."
-    dd ""
+    dd "I think he means women's studies."
 
-# game/d03/d03s07.rpy:88
+# game/code/d03/d03s07.rpy:89
 translate portuguese d03s07_5e2b3f7d:
 
     # mc "I hope so."
-    mc ""
+    mc "I hope so."
 
-# game/d03/d03s07.rpy:94
+# game/code/d03/d03s07.rpy:95
 translate portuguese d03s07_5c1e0c87:
 
     # dw "Oh."
-    dw ""
+    dw "Oh."
 
-# game/d03/d03s07.rpy:97
+# game/code/d03/d03s07.rpy:98
 translate portuguese d03s07_a6f972d2:
 
     # pb "Right, yeah. Women's rights and that sort of thing."
-    pb ""
+    pb "Right, yeah. Women's rights and that sort of thing."
 
-# game/d03/d03s07.rpy:101
+# game/code/d03/d03s07.rpy:102
 translate portuguese d03s07_ab7e3426:
 
     # mc "I actually study business & marketing."
-    mc ""
+    mc "I actually study business & marketing."
 
-# game/d03/d03s07.rpy:104
+# game/code/d03/d03s07.rpy:105
 translate portuguese d03s07_dc7fb0ed:
 
     # pb "I just meant that he's a nice guy, gets along well with women, isn't all alpha."
-    pb ""
+    pb "I just meant that he's a nice guy, gets along well with women, isn't all alpha."
 
-# game/d03/d03s07.rpy:106
+# game/code/d03/d03s07.rpy:107
 translate portuguese d03s07_22d5a102:
 
     # mc "Thanks, I think."
-    mc ""
+    mc "Thanks, I think."
 
-# game/d03/d03s07.rpy:108
+# game/code/d03/d03s07.rpy:109
 translate portuguese d03s07_c168d57e:
 
     # pb "Anyway, that's why I wanted you here."
-    pb ""
+    pb "Anyway, that's why I wanted you here."
 
-# game/d03/d03s07.rpy:112
+# game/code/d03/d03s07.rpy:113
 translate portuguese d03s07_a1b2cca5:
 
     # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
-    pb ""
+    pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
 
-# game/d03/d03s07.rpy:114
+# game/code/d03/d03s07.rpy:115
 translate portuguese d03s07_05500ff6:
 
     # mc "Huh?"
-    mc ""
+    mc "Huh?"
 
-# game/d03/d03s07.rpy:116
+# game/code/d03/d03s07.rpy:117
 translate portuguese d03s07_d917d396:
 
     # dd "She wants a guy to worship her feet."
-    dd ""
+    dd "She wants a guy to worship her feet."
 
-# game/d03/d03s07.rpy:122
+# game/code/d03/d03s07.rpy:123
 translate portuguese d03s07_c070d193:
 
     # dw "What I want is someone who is man enough to serve me as I deserve."
-    dw ""
+    dw "What I want is someone who is man enough to serve me as I deserve."
 
-# game/d03/d03s07.rpy:123
+# game/code/d03/d03s07.rpy:124
 translate portuguese d03s07_1e101516:
 
     # mc "Now I'm confused."
-    mc ""
+    mc "Now I'm confused."
 
-# game/d03/d03s07.rpy:127
+# game/code/d03/d03s07.rpy:128
 translate portuguese d03s07_1f49e749:
 
     # pb "See, Dahlia is a bit of a... What's the word?"
-    pb ""
+    pb "See, Dahlia is a bit of a... What's the word?"
 
-# game/d03/d03s07.rpy:129
+# game/code/d03/d03s07.rpy:130
 translate portuguese d03s07_6176ddf6:
 
     # dd "Dominatrix?"
-    dd ""
+    dd "Dominatrix?"
 
-# game/d03/d03s07.rpy:133
+# game/code/d03/d03s07.rpy:134
 translate portuguese d03s07_09cd35aa:
 
     # pb "Whatever you call it."
-    pb ""
+    pb "Whatever you call it."
 
-# game/d03/d03s07.rpy:135
+# game/code/d03/d03s07.rpy:136
 translate portuguese d03s07_cbf99f55:
 
     # dw "I'm okay with dominatrix."
-    dw ""
+    dw "I'm okay with dominatrix."
 
-# game/d03/d03s07.rpy:138
+# game/code/d03/d03s07.rpy:139
 translate portuguese d03s07_3b921fba:
 
     # pb "So she wants a guy who is willing to lick her shoes, suck her toes, that sort of thing."
-    pb ""
+    pb "So she wants a guy who is willing to lick her shoes, suck her toes, that sort of thing."
 
-# game/d03/d03s07.rpy:140
+# game/code/d03/d03s07.rpy:141
 translate portuguese d03s07_15c82303:
 
     # mc "... and you thought of me."
-    mc ""
+    mc "... and you thought of me."
 
-# game/d03/d03s07.rpy:146
+# game/code/d03/d03s07.rpy:147
 translate portuguese d03s07_e50f9b0a:
 
     # dw "Is he not going to do it?!"
-    dw ""
+    dw "Is he not going to do it?!"
 
-# game/d03/d03s07.rpy:148
+# game/code/d03/d03s07.rpy:149
 translate portuguese d03s07_215c8779:
 
     # pb "I don't know. I just know that he need points, and this would be a great way for him to earn points."
-    pb ""
+    pb "I don't know. I just know that he need points, and this would be a great way for him to earn points."
 
-# game/d03/d03s07.rpy:150
+# game/code/d03/d03s07.rpy:151
 translate portuguese d03s07_3d356494:
 
     # pb "You're willing to do a little foot fetish thing to score some big points, right?"
-    pb ""
+    pb "You're willing to do a little foot fetish thing to score some big points, right?"
 
-# game/d03/d03s07.rpy:153
+# game/code/d03/d03s07.rpy:154
 translate portuguese d03s07_74f01f58:
 
     # mc "It doesn't sound like a little foot fetish thing."
-    mc ""
+    mc "It doesn't sound like a little foot fetish thing."
 
-# game/d03/d03s07.rpy:156
+# game/code/d03/d03s07.rpy:157
 translate portuguese d03s07_3ac027c6:
 
     # dw "No, do it properly or not at all."
-    dw ""
+    dw "No, do it properly or not at all."
 
-# game/d03/d03s07.rpy:158
+# game/code/d03/d03s07.rpy:159
 translate portuguese d03s07_198b9244:
 
     # mc "I need to think about this for a second."
-    mc ""
+    mc "I need to think about this for a second."
 
-# game/d03/d03s07.rpy:162
+# game/code/d03/d03s07.rpy:163
 translate portuguese d03s07_4f67e41f:
 
     # dw "While you're thinking, get down on your knees before me."
-    dw ""
+    dw "While you're thinking, get down on your knees before me."
 
-# game/d03/d03s07.rpy:163
+# game/code/d03/d03s07.rpy:164
 translate portuguese d03s07_6b0ed824:
 
     # mc "Um..."
-    mc ""
+    mc "Um..."
 
-# game/d03/d03s07.rpy:165
+# game/code/d03/d03s07.rpy:166
 translate portuguese d03s07_2d97235f:
 
     # dw "Kneel."
-    dw ""
+    dw "Kneel."
 
-# game/d03/d03s07.rpy:170
+# game/code/d03/d03s07.rpy:171
 translate portuguese d03s07_35dce81c:
 
     # mc "Yes, ma'am."
-    mc ""
+    mc "Yes, ma'am."
 
-# game/d03/d03s07.rpy:174
+# game/code/d03/d03s07.rpy:175
 translate portuguese d03s07_1a51e225:
 
     # mc "Okay, I really do need those points."
-    mc ""
+    mc "Okay, I really do need those points."
 
-# game/d03/d03s07.rpy:176
+# game/code/d03/d03s07.rpy:177
 translate portuguese d03s07_dd58b54a:
 
     # mc "I don't think so. Thanks for thinking of me, but..."
-    mc ""
+    mc "I don't think so. Thanks for thinking of me, but..."
 
-# game/d03/d03s07.rpy:179
+# game/code/d03/d03s07.rpy:180
 translate portuguese d03s07_aa860c93:
 
     # dw "Then fuck off. {w}Get out of here!"
-    dw ""
+    dw "Then fuck off. {w}Get out of here!"
 
-# game/d03/d03s07.rpy:180
+# game/code/d03/d03s07.rpy:181
 translate portuguese d03s07_9c46199b:
 
     # mc "What? This is my room."
-    mc ""
+    mc "What? This is my room."
 
-# game/d03/d03s07.rpy:182
+# game/code/d03/d03s07.rpy:183
 translate portuguese d03s07_770e0a5e:
 
     # dw "Fine."
-    dw ""
+    dw "Fine."
 
-# game/d03/d03s07.rpy:184
+# game/code/d03/d03s07.rpy:185
 translate portuguese d03s07_07eef455:
 
     # mc "Wow!"
-    mc ""
+    mc "Wow!"
 
-# game/d03/d03s07.rpy:187
+# game/code/d03/d03s07.rpy:188
 translate portuguese d03s07_501b7d69:
 
     # pb "Sorry, dude. I thought this would be a good opportunity for you."
-    pb ""
+    pb "Sorry, dude. I thought this would be a good opportunity for you."
 
-# game/d03/d03s07.rpy:199
-translate portuguese d03s07_b7f8d560:
-
-    # dd "Uh oh. Looks like you have a spine."
-    dd ""
-
-# game/d03/d03s07.rpy:201
-translate portuguese d03s07_4ad25f5d:
-
-    # mc "Well, yeah. If one of us is going to kneel it is going to be her."
-    mc ""
-
-# game/d03/d03s07.rpy:203
-translate portuguese d03s07_23b7f41f:
-
-    # dd "Nice. I didn't expect that from you."
-    dd ""
-
-# game/d03/d03s07.rpy:206
-translate portuguese d03s07_a3db918b:
-
-    # dd "I have to say, I like it."
-    dd ""
-
-# game/d03/d03s07.rpy:208
-translate portuguese d03s07_7a726999:
-
-    # dd "You might even bring me to my knees sometime."
-    dd ""
-
-# game/d03/d03s07.rpy:211
-translate portuguese d03s07_06a0e6ea:
-
-    # dd "But right now I've got places to be!"
-    dd ""
-
-# game/d03/d03s07.rpy:213
-translate portuguese d03s07_1fa114d7:
-
-    # dd "See ya' on the party!"
-    dd ""
-
-translate portuguese strings:
-
-    # game/d03/d03s07.rpy:166
-    old "Agree - I want Femdom Foot Worship"
-    new ""
-
-    # game/d03/d03s07.rpy:166
-    old "Agree - I really need the points"
-    new ""
-
-    # game/d03/d03s07.rpy:166
-    old "Refuse. I want to dominate, not to submit"
-    new ""
-
-
-# game/code/d03/d03s07.rpy:188
+# game/code/d03/d03s07.rpy:189
 translate portuguese d03s07_c2c1b417:
 
     # pb "I better go after her."
     pb "I better go after her."
+
+# game/code/d03/d03s07.rpy:200
+translate portuguese d03s07_b7f8d560:
+
+    # dd "Uh oh. Looks like you have a spine."
+    dd "Uh oh. Looks like you have a spine."
+
+# game/code/d03/d03s07.rpy:202
+translate portuguese d03s07_4ad25f5d:
+
+    # mc "Well, yeah. If one of us is going to kneel it is going to be her."
+    mc "Well, yeah. If one of us is going to kneel it is going to be her."
+
+# game/code/d03/d03s07.rpy:204
+translate portuguese d03s07_23b7f41f:
+
+    # dd "Nice. I didn't expect that from you."
+    dd "Nice. I didn't expect that from you."
+
+# game/code/d03/d03s07.rpy:207
+translate portuguese d03s07_a3db918b:
+
+    # dd "I have to say, I like it."
+    dd "I have to say, I like it."
+
+# game/code/d03/d03s07.rpy:209
+translate portuguese d03s07_7a726999:
+
+    # dd "You might even bring me to my knees sometime."
+    dd "You might even bring me to my knees sometime."
+
+# game/code/d03/d03s07.rpy:213
+translate portuguese d03s07_06a0e6ea:
+
+    # dd "But right now I've got places to be!"
+    dd "But right now I've got places to be!"
+
+# game/code/d03/d03s07.rpy:215
+translate portuguese d03s07_1fa114d7:
+
+    # dd "See ya' on the party!"
+    dd "See ya' on the party!"
+
+translate portuguese strings:
+
+    # game/code/d03/d03s07.rpy:167
+    old "Agree - I want Femdom Foot Worship"
+    new "Agree - I want Femdom Foot Worship"
+
+    # game/code/d03/d03s07.rpy:167
+    old "Agree - I really need the points"
+    new "Agree - I really need the points"
+
+    # game/code/d03/d03s07.rpy:167
+    old "Refuse. I want to dominate, not to submit"
+    new "Refuse. I want to dominate, not to submit"
+
