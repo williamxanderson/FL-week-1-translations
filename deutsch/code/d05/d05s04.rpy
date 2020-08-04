@@ -1181,12 +1181,6 @@ translate deutsch strings:
     new "Ich bin dran mit ausziehen & pissen"
 # TODO: Translation updated at 2020-04-25 19:42
 
-# game/code/d05/d05s04.rpy:17
-translate deutsch d05s04_7d9f2829:
-
-    # "11:30 AM"
-    "11:30 AM"
-
 # game/code/d05/d05s04.rpy:25
 translate deutsch d05s04_ebe9775f:
 
@@ -2238,4 +2232,3 @@ translate deutsch replay_d05s04_9694eaa8:
 
     # pw "Hmmmm... Nice!"
     pw "Hmmmm... Nice!"
-

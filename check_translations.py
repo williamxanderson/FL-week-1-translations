@@ -7,7 +7,9 @@ def find_missing_strings(f, fp):
     j = 0
     untranslated_lines = []
     for i in range(len(lines)-1):
-        if lines[i].startswith("    # \""):
+        if lines[i].startswith("    # "):
+            if lines[i].startswith("    # game/"):
+                continue
             if lines[i+1][4:].strip() == lines[i][6:].strip():
                 untranslated_lines.append(i+2)
         elif lines[i].startswith("    old"):

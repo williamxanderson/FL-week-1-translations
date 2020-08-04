@@ -415,12 +415,6 @@ translate deutsch strings:
     new "Du könntest dir Klamotten von mir leihen"
 # TODO: Translation updated at 2020-04-25 19:42
 
-# game/code/d05/d05s07.rpy:13
-translate deutsch d05s07_2bbdcd9b:
-
-    # "10:00 PM"
-    "10:00 PM"
-
 # game/code/d05/d05s07.rpy:35
 translate deutsch d05s07_b38cdc1c:
 
@@ -506,4 +500,3 @@ translate deutsch replay_d05s07_7fd95917:
 
     # mct "I wonder if she's here for Pete or for me."
     mct "Ich frage mich, ob sie wegen mir oder Pete hier ist."
-
