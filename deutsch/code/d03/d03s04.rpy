@@ -1034,12 +1034,6 @@ translate deutsch d03s04_98ec9ca4:
     arj "Ah? {w} Ah! sorry, meine Füße jucken etwas... wahrscheinlich ein Mückenstich."
 # TODO: Translation updated at 2020-01-30 00:15
 
-# game/code/d03/d03s04.rpy:105
-translate deutsch d03s04_b5e530a6:
-
-    # "12:25 AM"
-    "12:25 AM"
-
 # game/code/d03/d03s04.rpy:159
 translate deutsch d03s04_113cf047:
 
@@ -1445,4 +1439,3 @@ translate deutsch d03s04_4a64aca4:
 
     # "12:25 PM"
     "12:25 PM"
-

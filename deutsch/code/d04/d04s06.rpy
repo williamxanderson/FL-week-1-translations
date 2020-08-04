@@ -749,12 +749,6 @@ translate deutsch strings:
     new "Nicht im Moment, aber vielleicht irgendwann mal."
 # TODO: Translation updated at 2020-03-07 22:12
 
-# game/code/d04/d04s06.rpy:9
-translate deutsch d04s06_27bbea47:
-
-    # "4:30 PM"
-    "4:30 PM"
-
 # game/code/d04/d04s06.rpy:44
 translate deutsch d04s06_82a9cd57:
 
@@ -1572,4 +1566,3 @@ translate deutsch replay_d04s06_6059bd11:
 
     # mc "Let's just see what happens."
     mc "Lass uns einfach gucken was passiert."
-

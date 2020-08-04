@@ -124,14 +124,14 @@ translate spanish d01s05b_ba74a0c5:
 translate spanish d01s05b_66c64aa2:
 
     # jfx "Seriously? Huh. {w}So, what do you want some random girl to do - in the park, at night, with you?"
-    jfx "¿En serio? Huh. {w}Entonces, ¿lo que quieres es que alguna chica haga algo contigo en el parque durante la noche?
+    jfx "¿En serio? Huh. {w}Entonces, ¿lo que quieres es que alguna chica haga algo contigo en el parque durante la noche?"
 
 # game/code/d01/extended/s05b.rpy:53
 translate spanish d01s05b_eea5cd43:
 
     # mc "I hadn't thought that far ahead. {w}Today's fetish is..."
     mc "No lo he pensado tanto. {w}El fetiche de hoy es..."
-    
+
 # game/code/d01/extended/s05b.rpy:54
 translate spanish d01s05b_d2cd4919:
 
@@ -148,7 +148,7 @@ translate spanish d01s05b_12ac8667:
 translate spanish d01s05b_862cf183:
 
     # mc "What? No, it would be the guy cumming. It wouldn't need to involve sex or anything like that."
-    mc "¿Qué? No, el chico debe ser el que acaba. No involucra tener sexo o nada de eso
+    mc "¿Qué? No, el chico debe ser el que acaba. No involucra tener sexo o nada de eso"
 
 # game/code/d01/extended/s05b.rpy:59
 translate spanish d01s05b_01632914:
@@ -184,7 +184,7 @@ translate spanish d01s05b_de93e898:
 translate spanish d01s05b_fa578fff:
 
     # mc "Huh? Which part?"
-    mc "¿Huh" ¿Qué parte?"
+    mc "¿Huh? ¿Qué parte?"
 # game/code/d01/extended/s05b.rpy:66
 translate spanish d01s05b_c699a58d:
 
@@ -226,4 +226,3 @@ translate spanish d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "¡¿En qué mierda estaba pensando?! {w}Voy a mi habitación."
-

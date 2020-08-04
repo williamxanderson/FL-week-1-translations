@@ -221,5 +221,4 @@ translate deutsch d04s08_a3cbccca:
 translate deutsch d04s08_46f0d9f2:
 
     # fl "[mcname], I really think I'm entitled to an answer to that question."
-    fl "[mcname]." I denke wirklich ich habe eine Antwort auf diese Frage verdient."
-
+    fl "[mcname], I denke wirklich ich habe eine Antwort auf diese Frage verdient."
