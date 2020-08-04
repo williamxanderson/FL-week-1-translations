@@ -531,5 +531,5 @@ translate deutsch d02s10_c6b69984:
 translate deutsch d02s10_298d7190:
 
     # mct "Okay, let's see what this is about."
-    mct "Okay, let's see what this is about."
+    mct "Okay, mal sehen, worum es geht."
 
