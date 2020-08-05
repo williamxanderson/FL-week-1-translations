@@ -797,41 +797,41 @@ translate portuguese strings:
 translate portuguese d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
+    mct "É uma pena que eu tenha perdido as duas últimas semanas de aula. Deve ter um impacto negativo nas minhas chances de passar pelas provas finais."
 
 # game/code/d01/s01.rpy:43
 translate portuguese d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
+    mct "Antes disso eu estava longe de estar pronto, mas talvez eu precise gastar mais tempo estudando pra conseguir passar."
 
 # game/code/d01/s01.rpy:44
 translate portuguese d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
+    mct "Seria bom demais se eu conseguisse acordar cedo e não chegar atrasado pra aula do Nordin."
 
 # game/code/d01/s01.rpy:48
 translate portuguese d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "I should probably focus on exams now, and worry about the girls later."
+    mct "Eu provavelmente deveria focar nas provas agora e me preocupar com as mulheres depois."
 
 # game/code/d01/s01.rpy:124
 translate portuguese d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
+    mc "Cara... Que merda é essa?! A gente vai se meter em problema! Você não consegue pensar sem ser com a cabeça de baixo?! Você sabe que a gente não pode trazer mulheres aqui."
 
 # game/code/d01/s01.rpy:130
 translate portuguese d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
-    pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
+    pb "Não! Cara, eu só fiquei bebado! A gente chegou aqui umas 4:00 e ela me chupou como uma campeã!"
 
 # game/code/d01/s01.rpy:256
 translate portuguese d01s01_shower_e2f0143d:
 
     # mct "Yeah. She noticed."
-    mct "Yeah. She noticed."
+    mct "Yeah. Ela percebeu."
 
