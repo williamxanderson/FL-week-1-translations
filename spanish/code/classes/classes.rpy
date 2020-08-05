@@ -4,33 +4,33 @@ translate spanish strings:
 
     # game/code/classes/classes.rpy:111
     old "sister"
-    new "sister"
+    new "hermana"
 
     # game/code/classes/classes.rpy:111
     old "best friend{#female}"
-    new "best friend{#female}"
+    new "mejor amiga{#female}"
 
     # game/code/classes/classes.rpy:114
     old "brother"
-    new "brother"
+    new "hermano"
 
     # game/code/classes/classes.rpy:114
     old "best friend{#male}"
-    new "best friend{#male}"
+    new "mejor amigo{#male}"
 
     # game/code/classes/classes.rpy:123
     old "sis"
-    new "sis"
+    new "hermanita"
 
     # game/code/classes/classes.rpy:123
     old "friend{#female}"
-    new "friend{#female}"
+    new "amiga{#female}"
 
     # game/code/classes/classes.rpy:126
     old "bro"
-    new "bro"
+    new "hermanito"
 
     # game/code/classes/classes.rpy:126
     old "friend{#male}"
-    new "friend{#male}"
+    new "amigo{#male}"
 
