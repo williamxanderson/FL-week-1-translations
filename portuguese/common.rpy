@@ -1,10 +1,9 @@
 ﻿# TODO: Translation updated at 2020-08-05 01:51
-
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Self-voicing desativado."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -12,7 +11,7 @@ translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Self-voicing ativado."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -104,7 +103,7 @@ translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:196
     old "Return"
-    new "Return"
+    new "Voltar"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -260,7 +259,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:240
     old "%b %d, %H:%M"
-    new "%b %d, %H:%M"
+    new "%d %b, %H:%M"
 
     # renpy/common/00action_file.rpy:353
     old "Save slot %s: [text]"
@@ -416,27 +415,27 @@ translate portuguese strings:
 
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
-    new "Are you sure?"
+    new "Tem certeza?"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Certeza que deseja deletar este jogo salvo?"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "Certeza que deseja substituir o jogo salvo?"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Carregando, perderá o jogo não salvo. \nCerteza que deseja fazer isso?"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Certeza que deseja sair ?"
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Certeza que deseja voltar para o menu principal?\nPerderá todo jogo não salvo."
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
@@ -444,15 +443,15 @@ translate portuguese strings:
 
     # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "Certeza que deseja começar a pular os dialogos?"
 
     # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "Certeza que deseja pular para a próxima escolha?"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Certeza que deseja pular para o próximo diálogo não visto ou a próxima escolha?"
 
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
@@ -460,11 +459,11 @@ translate portuguese strings:
 
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "Screenshot guardada como %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "Skip Mode"
+    new "Modo skip"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -640,19 +639,19 @@ translate portuguese strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Empty Slot."
+    new "Espaço vazio"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "Previous"
+    new "Anterior"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new "Next"
+    new "Seguinte"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "Mapear Joystick"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
@@ -664,7 +663,7 @@ translate portuguese strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "Reiniciar Jogo (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
@@ -672,15 +671,15 @@ translate portuguese strings:
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "Visualizador de Variáveis"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "Image Location PIcker"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new "Filename List"
+    new "Lista de Arquivos"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
@@ -812,43 +811,43 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "The Ren'Py Updater is not supported on mobile devices."
+    new "O atualizador do Ren'Py não é compatível com dispositivos móveis."
 
     # renpy/common/00updater.rpy:494
     old "An error is being simulated."
-    new "An error is being simulated."
+    new "Um erro foi simulado."
 
     # renpy/common/00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Either this project does not support updating, or the update status file was deleted."
+    new "Ou o projeto não suporta atualizações, ou o arquivo de update status foi deletado."
 
     # renpy/common/00updater.rpy:692
     old "This account does not have permission to perform an update."
-    new "This account does not have permission to perform an update."
+    new "Essa conta não possui permissão para realizar uma atualização."
 
     # renpy/common/00updater.rpy:695
     old "This account does not have permission to write the update log."
-    new "This account does not have permission to write the update log."
+    new "Essa conta não possui permissão para escrever no registro de atualizações."
 
     # renpy/common/00updater.rpy:722
     old "Could not verify update signature."
-    new "Could not verify update signature."
+    new "Não se pode verificar a assinatura da atualização."
 
     # renpy/common/00updater.rpy:997
     old "The update file was not downloaded."
-    new "The update file was not downloaded."
+    new "O arquivo da atualização não foi baixado."
 
     # renpy/common/00updater.rpy:1015
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "The update file does not have the correct digest - it may have been corrupted."
+    new "O arquivo da atualizaçao não possui o 'digest' correto - é possível que esteja danificado."
 
     # renpy/common/00updater.rpy:1071
     old "While unpacking {}, unknown type {}."
-    new "While unpacking {}, unknown type {}."
+    new "Tipo desconhecido {1} ao extrair {0}."
 
     # renpy/common/00updater.rpy:1439
     old "Updater"
-    new "Updater"
+    new "Atualizador"
 
     # renpy/common/00updater.rpy:1446
     old "An error has occured:"
@@ -860,23 +859,23 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1450
     old "This program is up to date."
-    new "This program is up to date."
+    new "Este programa está atualizado."
 
     # renpy/common/00updater.rpy:1452
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] is available. Do you want to install it?"
+    new "[u.version] está disponível. Quer instalá-la?"
 
     # renpy/common/00updater.rpy:1454
     old "Preparing to download the updates."
-    new "Preparing to download the updates."
+    new "Preparando para baixar as atualizações."
 
     # renpy/common/00updater.rpy:1456
     old "Downloading the updates."
-    new "Downloading the updates."
+    new "Baixando as atualizações."
 
     # renpy/common/00updater.rpy:1458
     old "Unpacking the updates."
-    new "Unpacking the updates."
+    new "Extraindo as atualizações."
 
     # renpy/common/00updater.rpy:1460
     old "Finishing up."
@@ -884,15 +883,15 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1462
     old "The updates have been installed. The program will restart."
-    new "The updates have been installed. The program will restart."
+    new "As atualizações foram instaladas. O programa irá reiniciar."
 
     # renpy/common/00updater.rpy:1464
     old "The updates have been installed."
-    new "The updates have been installed."
+    new "As atualizações foram instaladas."
 
     # renpy/common/00updater.rpy:1466
     old "The updates were cancelled."
-    new "The updates were cancelled."
+    new "As atualizaçoes foram canceladas."
 
     # renpy/common/00updater.rpy:1481
     old "Proceed"
@@ -900,7 +899,7 @@ translate portuguese strings:
 
     # renpy/common/00gallery.rpy:592
     old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
+    new "Imagem [index] de [count] bloqueada."
 
     # renpy/common/00gallery.rpy:612
     old "prev"
@@ -908,15 +907,15 @@ translate portuguese strings:
 
     # renpy/common/00gallery.rpy:613
     old "next"
-    new "next"
+    new "seguinte"
 
     # renpy/common/00gallery.rpy:614
     old "slideshow"
-    new "slideshow"
+    new "apresentação"
 
     # renpy/common/00gallery.rpy:615
     old "return"
-    new "return"
+    new "voltar"
 
     # renpy/common/00gltest.rpy:70
     old "Renderer"
@@ -924,19 +923,19 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:74
     old "Automatically Choose"
-    new "Automatically Choose"
+    new "Escolher automaticamente"
 
     # renpy/common/00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new "Force Angle/DirectX Renderer"
+    new "Forçar Angle/DirectX Renderer"
 
     # renpy/common/00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Force OpenGL Renderer"
+    new "Forçar OpenGL Renderer"
 
     # renpy/common/00gltest.rpy:87
     old "Force Software Renderer"
-    new "Force Software Renderer"
+    new "Forçar renderização por software"
 
     # renpy/common/00gltest.rpy:93
     old "NPOT"
@@ -972,67 +971,67 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "Changes will take effect the next time this program is run."
+    new "As mudanças teram efeito na proxima vez que o programa for executado"
 
     # renpy/common/00gltest.rpy:213
     old "Performance Warning"
-    new "Performance Warning"
+    new "Advertência de rendimento"
 
     # renpy/common/00gltest.rpy:218
     old "This computer is using software rendering."
-    new "This computer is using software rendering."
+    new "Este computador usa renderização por software."
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
-    new "This computer is not using shaders."
+    new "Este computador não usa shaders."
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "This computer is displaying graphics slowly."
+    new "Este computador está mostrando gráficos lentamente."
 
     # renpy/common/00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "This computer has a problem displaying graphics: [problem]."
+    new "Este computador possui um problema mostrando gráficos: [problem]."
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "Seus drivers gráficos podem estar desatualizados ou não funcionar corretamente. Isso pode causar lentidão ou erros nos graficos. Atualizar o DirectX pode solucionar este problema."
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "Seus drivers gráficos podem estar desatualizados ou não funcionar corretamente. Isso pode causar lentidão ou erros nos graficos."
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
-    new "Update DirectX"
+    new "Atualizar DirectX"
 
     # renpy/common/00gltest.rpy:242
     old "Continue, Show this warning again"
-    new "Continue, Show this warning again"
+    new "Continuar, Mostrar este aviso outra vez"
 
     # renpy/common/00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new "Continue, Don't show warning again"
+    new "Continuar, Não mostrar este aviso outra vez"
 
     # renpy/common/00gltest.rpy:264
     old "Updating DirectX."
-    new "Updating DirectX."
+    new "Atualizando DirectX."
 
     # renpy/common/00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "DirectX web setup foi iniciado. Ele pode iniciar minimizado na barra de tareas. Por favor siga as instruções para instalar DirectX."
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}Nota:{/b} Programa de instalação web do Microsoft DirectX, por padrão, instala a barra de ferramentas do Bing. Se não quer que instale a barra, desative a opção correspondente."
 
     # renpy/common/00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "When setup finishes, please click below to restart this program."
+    new "Quando terminar a instalação, por favor clique abaixo para reiniciar o programa."
 
     # renpy/common/00gltest.rpy:278
     old "Restart"
-    new "Restart"
+    new "Reiniciar"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
@@ -1064,7 +1063,7 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:540
     old "Opens the traceback.txt file in a text editor."
-    new "Opens the traceback.txt file in a text editor."
+    new "Abre o arquivo traceback.txt em um editor de texto."
 
     # renpy/common/_errorhandling.rpym:542
     old "Copy BBCode"
@@ -1084,35 +1083,35 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:577
     old "An exception has occurred."
-    new "An exception has occurred."
+    new "Uma exceção ocorreu"
 
     # renpy/common/_errorhandling.rpym:597
     old "Rollback"
-    new "Rollback"
+    new "Regressar"
 
     # renpy/common/_errorhandling.rpym:599
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Regressa, permitindo você salvar ou selecionar um escolha diferente."
 
     # renpy/common/_errorhandling.rpym:602
     old "Ignore"
-    new "Ignore"
+    new "Ignorar"
 
     # renpy/common/_errorhandling.rpym:606
     old "Ignores the exception, allowing you to continue."
-    new "Ignores the exception, allowing you to continue."
+    new "Ignorar a exceção, permitindo continuar."
 
     # renpy/common/_errorhandling.rpym:608
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "Ignorar a exceção, permitindo continuar. Isso pode ocasionar erros adicionais."
 
     # renpy/common/_errorhandling.rpym:612
     old "Reload"
-    new "Reload"
+    new "Recarregar"
 
     # renpy/common/_errorhandling.rpym:614
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Reloads the game from disk, saving and restoring game state if possible."
+    new "Recarrega o jogo do disco, salvando e restaurando o estado do jogo, se possível."
 
     # renpy/common/_errorhandling.rpym:617
     old "Console"
@@ -1124,15 +1123,15 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:629
     old "Quits the game."
-    new "Quits the game."
+    new "Sair do jogo."
 
     # renpy/common/_errorhandling.rpym:653
     old "Parsing the script failed."
-    new "Parsing the script failed."
+    new "Analisando os scripts falhos."
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the errors.txt file in a text editor."
-    new "Opens the errors.txt file in a text editor."
+    new "Abre o arquivo errors.txt em um editor de texto."
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
