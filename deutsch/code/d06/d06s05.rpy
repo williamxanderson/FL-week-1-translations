@@ -856,5 +856,5 @@ translate deutsch strings:
 translate deutsch d06s05_mk_tr_37d16c9c:
 
     # fl "[d06s05_points] points were transferred to you from [trfl]'s account."
-    fl "[d06s05_points] points were transferred to you from [trfl]'s account."
+    fl "[d06s05_points] Punkte wurden zu dir von [trfl]'s Account transferiert."
 
