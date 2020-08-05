@@ -338,7 +338,7 @@ translate deutsch d04s08_anus_28edc1f5:
 translate deutsch d04s08_after_ec624f66:
 
     # nk "That was awesome! Thank you!"
-    nk "That was awesome! Thank you!"
+    nk "Das war spitze! Danke dir!"
 
 # game/code/d04/d04s07.rpy:167
 translate deutsch d04s08_after_2ff74e70:

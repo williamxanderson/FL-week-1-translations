@@ -1726,7 +1726,7 @@ translate deutsch replay_d06s07_c6ac44c1:
 translate deutsch replay_d06s07_100dda66:
 
     # nk "O-o-oh! Haven't felt a real cock inside for so long! {w}Can you choke me? Please!"
-    nk "O-o-oh! Haven't felt a real cock inside for so long! {w}Can you choke me? Please!"
+    nk "O-o-oh! Ich habe schon sehr lange keinen echten Schwanz in mir gefühlt {w}Kannst du mich würgen? Bitte!"
 
 # TODO: Translation updated at 2020-07-01 23:25
 
@@ -1734,5 +1734,5 @@ translate deutsch replay_d06s07_100dda66:
 translate deutsch d06s07_22bb9788:
 
     # lc "Thanks! It is [mcname] who made all of this happen!"
-    lc "Thanks! It is [mcname] who made all of this happen!"
+    lc "Danke! Es ist [mcname] der das alles ermöglicht!"
 
