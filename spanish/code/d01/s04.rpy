@@ -136,7 +136,7 @@ translate spanish s04_785ba4a3:
 translate spanish s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "¡Wow! Suena a una buena transformación. ¿Ya no es una aficionada a las computadoras?"
+    pb "¡Guau! Suena a una buena transformación. ¿Ya no es una aficionada a las computadoras?"
 
 # game/code/d01/s04.rpy:213
 translate spanish s04_7407f7c1:
@@ -214,7 +214,7 @@ translate spanish s04_85bba9dd:
 translate spanish s04_015d20de:
 
     # mct "Wow!"
-    mct "¡Wow!"
+    mct "¡Guau!"
 
 # game/code/d01/s04.rpy:251
 translate spanish s04_d20045c6:
@@ -250,7 +250,7 @@ translate spanish s04_a8795464:
 translate spanish s04_546ebee6:
 
     # mc "This used to be {i}my{/i} room ya know."
-    mc "Esta solía ser {i}mii} habitación, sabes."
+    mc "Esta solía ser {i}mii{/i} habitación, ¿sabes?"
 
 # game/code/d01/s04.rpy:285
 translate spanish s04_50ed2d63:
@@ -311,6 +311,7 @@ translate spanish s04_68b5edbe:
 
     # sy "Ahaha! You dumbass."
     sy "¡Jajaja! Estúpido."
+
 # game/code/d01/s04.rpy:301
 translate spanish s04_2b35b6fe:
 
@@ -495,7 +496,7 @@ translate spanish replay_d01s04_dc2d9f45:
 translate spanish replay_d01s04_85581721:
 
     # mct "Holy shit! It's Chloe!"
-    mct "¡Mierda puta ¡Es Chloe!"
+    mct "¡Puta Mierda! ¡Es Chloe!"
 
 # game/code/d01/s04.rpy:389
 translate spanish replay_d01s04_0fcc45f8:
@@ -538,6 +539,7 @@ translate spanish replay_d01s04_67128b74:
 
     # pb "You're gonna have to suck it better bitch!"
     pb "¡Tendrás que chuparlo mejor, puta!"
+
 # game/code/d01/s04.rpy:404
 translate spanish replay_d01s04_96f4cb40:
 
@@ -548,7 +550,7 @@ translate spanish replay_d01s04_96f4cb40:
 translate spanish replay_d01s04_3a55d13a:
 
     # cb "Slurp... Slurp..."
-    cb "Slurp... Slurp..."
+    cb "Chupar... Chupar..."
 
 # game/code/d01/s04.rpy:406
 translate spanish replay_d01s04_f0155650:
@@ -573,6 +575,7 @@ translate spanish replay_d01s04_b4a79b8f:
 
     # pb "Oooh! Yes!"
     pb "¡Oooh! ¡Sí!"
+
 # game/code/d01/s04.rpy:418
 translate spanish replay_d01s04_6524e1f1:
 
@@ -583,13 +586,14 @@ translate spanish replay_d01s04_6524e1f1:
 translate spanish replay_d01s04_015d20de:
 
     # mct "Wow!"
-    mct "¡Wow!"
+    mct "¡Guau!"
 
 # game/code/d01/s04.rpy:424
 translate spanish replay_d01s04_63bfd6e4:
 
     # mct "Of course he knows I'm here!"
     mct "¡Por supuesto que sabe que estoy aquí!"
+
 # game/code/d01/s04.rpy:426
 translate spanish replay_d01s04_47895ca8:
 
@@ -750,7 +754,7 @@ translate spanish replay_d01s04_94cfc009:
 translate spanish replay_d01s04_c6883085:
 
     # mc "Wow the ticket costs 50 points!"
-    mc "¡Wow, el boleto cuesta 50 puntos!"
+    mc "¡Vaya, el boleto cuesta 50 puntos!"
 
 # game/code/d01/s04.rpy:488
 translate spanish replay_d01s04_dbdea09a:
@@ -840,7 +844,7 @@ translate spanish replay_d01s04_2e86dd70:
 translate spanish replay_d01s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "El fetiche de hoy es eyaculación. Por lo que sé, tengo que subir algo relacionado a eso."
+    mct "El fetiche de hoy son Corridas. Por lo que sé, tengo que subir algo relacionado a eso."
 
 # game/code/d01/s04.rpy:519
 translate spanish replay_d01s04_18c318ba:
@@ -858,25 +862,25 @@ translate spanish strings:
 
     # game/code/d01/s04.rpy:252
     old "That is my [game.stacytitle]! Should give her some privacy"
-    new "¡Esa es mi [game.stacytitle]! Debería darle su privacidad."
+    new "¡Esa es mi [game.stacytitle]! Debería darle su privacidad"
 
     # game/code/d01/s04.rpy:252
     old "Should watch more"
-    new "Debería ver más."
+    new "Debería ver más"
 
     # game/code/d01/s04.rpy:431
     old "Take a picture of Chloe"
-    new "Tomar una foto de Chole."
+    new "Tomar una foto de Chole"
 
     # game/code/d01/s04.rpy:431
     old "Or don't do it"
-    new "O no hacerlo."
+    new "O no hacerlo"
 
     # game/code/d01/s04.rpy:523
     old "Go to AmRose as you promised her to see a movie together"
-    new "Ir donde AmRose como prometiste para ver una película con ella."
+    new "Ir donde AmRose como prometiste para ver una película con ella"
 
     # game/code/d01/s04.rpy:523
     old "Don't go to AmRose and try to earn some points"
-    new "No ir donde AmRose e intentar ganar unos puntos."
+    new "No ir donde AmRose e intentar ganar unos puntos"
 
