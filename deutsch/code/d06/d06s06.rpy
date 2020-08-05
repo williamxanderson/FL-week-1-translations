@@ -608,5 +608,5 @@ translate deutsch replay_d06s06_585f4226:
 translate deutsch replay_d06s06_6a4333e0:
 
     # lc "A little nervous. It is not the same as recording for Youtube..."
-    lc "A little nervous. It is not the same as recording for Youtube..."
+    lc "Ein wenig nervös. Es ist nicht dasselbe, wie etwas für Youtube aufzunehmen..."
 
