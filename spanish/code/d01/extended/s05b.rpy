@@ -22,7 +22,7 @@ translate spanish d01s05b_3bca2a98:
 translate spanish d01s05b_94b59505:
 
     # jfx "Huh? What is it?"
-    jfx "¿Huh? ¿Qué ocurre?"
+    jfx "¿Heh? ¿Qué ocurre?"
 
 # game/code/d01/extended/s05b.rpy:22
 translate spanish d01s05b_350ab24d:
@@ -70,7 +70,7 @@ translate spanish d01s05b_a40f25e6:
 translate spanish d01s05b_0ea4b303:
 
     # mc "I was going to ask you... {w}Well, there's this app, and I'm trying to earn points."
-    mc "Iba a preguntarte... {w}Está esta aplicación y estoy intentando ganar puntos."
+    mc "Iba a preguntarte... {w}Bien, es esta aplicación y estoy intentando ganar puntos."
 
 # game/code/d01/extended/s05b.rpy:37
 translate spanish d01s05b_7198b166:
@@ -136,13 +136,13 @@ translate spanish d01s05b_eea5cd43:
 translate spanish d01s05b_d2cd4919:
 
     # mc "Today's fetish is cumshots."
-    mc "El fetiche de hoy es eyaculación."
+    mc "El fetiche de hoy son corridas."
 
 # game/code/d01/extended/s05b.rpy:56
 translate spanish d01s05b_12ac8667:
 
     # jfx "Ha! Wow! Good luck getting random women to cum on your face or whatever."
-    jfx "¡Ja! ¡Wow! Buena suerte en toparte con alguna chica que termine en tu cara o algo así."
+    jfx "¡Ja! ¡Guau! Buena suerte en toparte con alguna chica que termine en tu cara o algo así."
 
 # game/code/d01/extended/s05b.rpy:57
 translate spanish d01s05b_862cf183:
@@ -154,7 +154,7 @@ translate spanish d01s05b_862cf183:
 translate spanish d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "¿Entonces caminabas por el parque y me viste y creíste que te dejaría tomarme fotos mientras te hacía una paja?"
+    jfx "¿Entonces caminabas por el parque y me viste y creíste que te dejaría tomarme fotos mientras te hacías una paja?"
 
 # game/code/d01/extended/s05b.rpy:60
 translate spanish d01s05b_4a1f28ea:
@@ -185,6 +185,7 @@ translate spanish d01s05b_fa578fff:
 
     # mc "Huh? Which part?"
     mc "¿Huh? ¿Qué parte?"
+
 # game/code/d01/extended/s05b.rpy:66
 translate spanish d01s05b_c699a58d:
 
