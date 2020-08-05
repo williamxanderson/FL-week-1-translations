@@ -1004,7 +1004,7 @@ translate deutsch d03s10_back_ace53e16:
 translate deutsch d03s10_back_04c1a37b:
 
     # mct "Now I just go up to her, offer her the drink, and strike up some conversation."
-    mct "Now I just go up to her, offer her the drink, and strike up some conversation."
+    mct "Jetzt gehe ich einfach zu ihr, biete ihr den Drink an und starte ein Gespräch."
 
 # game/code/d03p/d03s10.rpy:424
 translate deutsch d03s10_back_fbdef870:
