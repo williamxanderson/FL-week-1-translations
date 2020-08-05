@@ -223,7 +223,7 @@ translate deutsch strings:
 translate deutsch d05s08_f4d03ddc:
 
     # mct "What the hell? Is she going to the toilet?"
-    mct "What the hell? Is she going to the toilet?"
+    mct "Was zur Hölle? Geht sie auf die Toilette?"
 
 # game/code/d05/d05s08.rpy:106
 translate deutsch d05s08_af52b027:
