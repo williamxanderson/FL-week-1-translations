@@ -10,181 +10,181 @@ translate spanish d02s10_2433015c:
 translate spanish d02s10_c3b2571a:
 
     # mc "It's done. All as you instructed!"
-    mc "It's done. All as you instructed!"
+    mc "Está hecho. ¡Tal como lo indicaste!"
 
 # game/code/d02/d02s10.rpy:56
 translate spanish d02s10_100acbb8:
 
     # pw "Then wait for her to call you!"
-    pw "Then wait for her to call you!"
+    pw "¡Entonces espera a que ella te llame!"
 
 # game/code/d02/d02s10.rpy:57
 translate spanish d02s10_817f412d:
 
     # mct "Okay, let's wait."
-    mct "Okay, let's wait."
+    mct "Okay, esperemos."
 
 # game/code/d02/d02s10.rpy:59
 translate spanish d02s10_d4b702f9:
 
     # mct "How am I going to find some pussy?"
-    mct "How am I going to find some pussy?"
+    mct "¿Como voy a encontrar una vagina?"
 
 # game/code/d02/d02s10.rpy:60
 translate spanish d02s10_f3e99c12:
 
     # mct "I really need those points. I need to get to that party."
-    mct "I really need those points. I need to get to that party."
+    mct "Realmente necesito esos puntos. Tengo que ir a la fiesta"
 
 # game/code/d02/d02s10.rpy:61
 translate spanish d02s10_4a479081:
 
     # mct "Gah! I’m too horny to think straight."
-    mct "Gah! I’m too horny to think straight."
+    mct "¡Gah! Estoy demasiado caliente para pensar con claridád."
 
 # game/code/d02/d02s10.rpy:63
 translate spanish d02s10_6cb69cbf:
 
     # mct "What to do?"
-    mct "What to do?"
+    mct "¿Que hago?"
 
 # game/code/d02/d02s10.rpy:66
 translate spanish d02s10_256c9389:
 
     # mct "What was this website that AmRose was watching?"
-    mct "What was this website that AmRose was watching?"
+    mct "¿Como era el sitio web que AmRose estaba mirando?"
 
 # game/code/d02/d02s10.rpy:67
 translate spanish d02s10_a5e45de9:
 
     # mct "CamPornHub?"
-    mct "CamPornHub?"
+    mct "¿CamPornHub?"
 
 # game/code/d02/d02s10.rpy:68
 translate spanish d02s10_649c1076:
 
     # mct "Cam ... Portal ... Tube?"
-    mct "Cam ... Portal ... Tube?"
+    mct "¿Cam ... Portal ... Tube?"
 
 # game/code/d02/d02s10.rpy:70
 translate spanish d02s10_ee4be931:
 
     # mct "CamTubePortal...{w} yep, that was it... {w} and..."
-    mct "CamTubePortal...{w} yep, that was it... {w} and..."
+    mct "CamTubePortal...{w} sí, ese era... {w} y..."
 
 # game/code/d02/d02s10.rpy:73
 translate spanish d02s10_c5bc4f2a:
 
     # mct "Here it is!"
-    mct "Here it is!"
+    mct "¡Aquí está!"
 
 # game/code/d02/d02s10.rpy:74
 translate spanish d02s10_83072ff9:
 
     # mct "So this is the porn that AmRose is watching?"
-    mct "So this is the porn that AmRose is watching?"
+    mct "¿Asi que este es el porno que AmRose estaba mirando?"
 
 # game/code/d02/d02s10.rpy:75
 translate spanish d02s10_af2b035f:
 
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
-    mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
+    mct "Es muy exitante descubrir los fetiches de alguien más. Como el porno que disfruta alguien a quien conozco muy bien."
 
 # game/code/d02/d02s10.rpy:76
 translate spanish d02s10_6a7be2dd:
 
     # mct "Ohhh! Did my [game.stacytitle] felt the same way when she found my porn?"
-    mct "Ohhh! Did my [game.stacytitle] felt the same way when she found my porn?"
+    mct "Ohhh! ¿Entonces [game.stacytitle] se habrá sentido de la misma manera cuando encontró mi porno?"
 
 # game/code/d02/d02s10.rpy:77
 translate spanish d02s10_b817613b:
 
     # mct "Okay let's see what kind of porn AmRose likes to watch."
-    mct "Okay let's see what kind of porn AmRose likes to watch."
+    mct "Okay, veamos que clase de porno le gusta mirar a AmRose."
 
 # game/code/d02/d02s10.rpy:84
 translate spanish d02s10_171b8316:
 
     # mct "Wait! I know this room!"
-    mct "Wait! I know this room!"
+    mct "¡Espera! ¡Conozco esta habitación!"
 
 # game/code/d02/d02s10.rpy:92
 translate spanish d02s10_0d6549e3:
 
     # mct "I recognize that couch..."
-    mct "I recognize that couch..."
+    mct "Y reconozco ese sofá..."
 
 # game/code/d02/d02s10.rpy:95
 translate spanish d02s10_feb403ef:
 
     # mct "Whoa!{w} There she is...{w} oh shit, that is AmRose!!"
-    mct "Whoa!{w} There she is...{w} oh shit, that is AmRose!!"
+    mct "¡Whoa!{w} Ahí esta ella...{w} ¡¡Oh mierda, esa es AmRose!!"
 
 # game/code/d02/d02s10.rpy:98
 translate spanish d02s10_093143f0:
 
     # mct "I came on her while she was sleeping on that couch."
-    mct "I came on her while she was sleeping on that couch."
+    mct "Me corrí sobre ella cuando se quedó dormida en ese sofá."
 
 # game/code/d02/d02s10.rpy:100
 translate spanish d02s10_b3dd6cca:
 
     # mct "Is she streaming porn?!"
-    mct "Is she streaming porn?!"
+    mct "¡¿Ella está transmitiendo porno?!"
 
 # game/code/d02/d02s10.rpy:102
 translate spanish d02s10_792449e2:
 
     # mct "That is so unlike the shy AmRose I know!"
-    mct "That is so unlike the shy AmRose I know!"
+    mct "¡Esto no se parece en nada a la AmRose que conozco!"
 
 # game/code/d02/d02s10.rpy:109
 translate spanish d02s10_7ce36cb4:
 
     # mct "Wow! AmRose is hot!"
-    mct "Wow! AmRose is hot!"
+    mct "¡Wow! ¡AmRose es candente!"
 
 # game/code/d02/d02s10.rpy:118
 translate spanish d02s10_61695b82:
 
     # mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
-    mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
+    mct "Creo que no haria ningun daño si me masturbo un poco, mientras nadie lo sepa."
 
 # game/code/d02/d02s10.rpy:130
 translate spanish d02s10_d39d18f4:
 
     # mct "That lingerie looks so good on her!"
-    mct "That lingerie looks so good on her!"
+    mct "¡Esa lencería se ve muy bien en ella!"
 
 # game/code/d02/d02s10.rpy:131
 translate spanish d02s10_038df53c:
 
     # mct "She knows how to tease!"
-    mct "She knows how to tease!"
+    mct "¡Ella sabe como provocar!"
 
 # game/code/d02/d02s10.rpy:148
 translate spanish d02s10_154cba3d:
 
     # mct "She's surprised me a lot! I didn't expect that from her!"
-    mct "She's surprised me a lot! I didn't expect that from her!"
+    mct "¡Me ha sorprendido muchisimo! ¡No esperaba eso de ella!"
 
 # game/code/d02/d02s10.rpy:162
 translate spanish d02s10_249ab9d0:
 
     # mct "How far will she go? Will she actually undress?? {w} Will I see her naked?!"
-    mct "How far will she go? Will she actually undress?? {w} Will I see her naked?!"
+    mct "¿Que tan lejos piensa llegar? ¿¿Se quitará todo?? {w} ¡¿La veré desnuda?!"
 
 # game/code/d02/d02s10.rpy:168
 translate spanish d02s10_54153b11:
 
     # mct "Wow, seems like she is going to get rid of this maid costume!"
-    mct "Wow, seems like she is going to get rid of this maid costume!"
+    mct "¡Wow, parece que se deshará del disfraz de mucama!"
 
 # game/code/d02/d02s10.rpy:170
 translate spanish d02s10_f9735392:
 
     # mct "Let’s find something new to watch ... for research purposes."
-    mct "Let’s find something new to watch ... for research purposes."
+    mct "Busquemos algo nuevo para ver ... con propositos de investigación."
 
 # game/code/d02/d02s10.rpy:171
 translate spanish d02s10_151dd328:
@@ -202,31 +202,31 @@ translate spanish d02s10_81ec9765:
 translate spanish d02s10_ef629249:
 
     # mct "Hmm, CamTubePortal... {w}well this one is new to me."
-    mct "Hmm, CamTubePortal... {w}well this one is new to me."
+    mct "Hmm, CamTubePortal... {w}Bueno, este es nuevo para mí."
 
 # game/code/d02/d02s10.rpy:191
 translate spanish d02s10_8c6c2132:
 
     # mct "This girl is nice!"
-    mct "This girl is nice!"
+    mct "¡Esta chica es bonita!"
 
 # game/code/d02/d02s10.rpy:203
 translate spanish d02s10_5820052b:
 
     # mct "She's teasing a lot, without actually undressing!"
-    mct "She's teasing a lot, without actually undressing!"
+    mct "¡Está provocando mucho, y sin quitarse la ropa!"
 
 # game/code/d02/d02s10.rpy:230
 translate spanish d02s10_ab4f697e:
 
     # mct "Whoa!{w} That looks like... {w} no, it isn’t her."
-    mct "Whoa!{w} That looks like... {w} no, it isn’t her."
+    mct "Whoa!{w} Se parece a... {w} no, no puede ser ella."
 
 # game/code/d02/d02s10.rpy:231
 translate spanish d02s10_39515aae:
 
     # mct "For a second there I thought that was AmRose."
-    mct "For a second there I thought that was AmRose."
+    mct "Por un segudo pensé que era AmRose."
 
 # game/code/d02/d02s10.rpy:234
 translate spanish d02s10_0bb04066:
