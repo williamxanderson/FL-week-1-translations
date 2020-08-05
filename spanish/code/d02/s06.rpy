@@ -304,7 +304,7 @@ translate spanish d02s06_45b7e47a:
 translate spanish d02s06_c10b8745:
 
     # mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
-    mc "({i}¡Ahora me arrepiento de dar el 100% de mí ayer!{/i})"
+    mc "({i}¡Ahora me arrepiento de dar el 100%% de mí ayer!{/i})"
 
 # game/code/d02/s06.rpy:157
 translate spanish d02s06_0c8dfce3:
@@ -611,13 +611,13 @@ translate spanish d02s06_c6450146:
 
     # mc "({i}I better keep it to myself.{/i})"
     mc "({i}Mejor me lo dejo para mí.{/i})"
-    
+
 # game/code/d02/s06.rpy:290
 translate spanish d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
     mc "({i}No debería ser peligroso sentarse en una banca del parque. ¡Si no me gusta lo que ofrece puedo tan solo irme!{/i})"
-    
+
 # game/code/d02/s06.rpy:291
 translate spanish d02s06_3aba2a79:
 
@@ -635,7 +635,7 @@ translate spanish d02s06_23b63442:
 
     # mc "({i}Done! Interesting. Who could it be?{/i})"
     mc "({i}¡Listo! Interesante, ¿quién será?{/i})"
-    
+
 # game/code/d02/s06.rpy:295
 translate spanish d02s06_5ff75b01:
 
@@ -659,7 +659,7 @@ translate spanish d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
     mct "¡¿Le importará si le hago un oral?! ¿Seré bueno para eso? Eso cambiaría por completo nuestra amistad."
-    
+
 # game/code/d02/s06.rpy:302
 translate spanish d02s06_83790a4e:
 
@@ -677,7 +677,7 @@ translate spanish d02s06_9db38bfb:
 
     # rn "Okay, let`s have a 15 minute break!"
     rn "¡Okay, tomémonos un receso de 15 minutos!"
-    
+
 # game/code/d02/s06.rpy:307
 translate spanish d02s06_4b30f8fa:
 
@@ -827,4 +827,3 @@ translate spanish strings:
     # game/code/d02/s06.rpy:277
     old "Respond to a stranger on the app"
     new "Responder al anónimo en la aplicación"
-

@@ -46,7 +46,7 @@ translate spanish s03_6224a6c7:
 translate spanish s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Min dando una paja fue increíble.""
+    mct "Min dando una paja fue increíble."
 
 # game/code/d01/s03.rpy:71
 translate spanish s03_dc5397d2_1:
@@ -694,7 +694,7 @@ translate spanish s03_e7dada6b:
 translate spanish s03_4ed6b3bd:
 
     # mc "Ok, let's go. You can give it all back to me before mom and dad get here."
-    mc "Ok, vamos. Puedes devolvérme todo antes de que lleguen mamá y papá.
+    mc "Ok, vamos. Puedes devolvérme todo antes de que lleguen mamá y papá."
 
 # game/code/d01/s03.rpy:304
 translate spanish s03_30c2f9ee:
@@ -1065,4 +1065,3 @@ translate spanish strings:
     # game/code/d01/s03.rpy:316
     old "Push her to return the porn to you"
     new "Obligarla a que te devuelva el porno"
-
