@@ -34,7 +34,7 @@ translate spanish d01s05_dorm_dcf06f7a:
 translate spanish d01s05_dorm_627ab224:
 
     # mct "Okay, now is the time to come up with ideas on how to get points. All hands on deck!"
-    mct "Okay, es hora de idear cómo ganaré puntos. ¡Manos a la obra!"
+    mct "Okay, es hora de idear cómo ganar puntos. ¡Manos a la obra!"
 
 # game/code/d01/s05.rpy:174
 translate spanish d01s05_dorm_153b3343:
@@ -58,7 +58,7 @@ translate spanish d01s05_dorm_16498b72:
 translate spanish d01s05_dorm_e676377d:
 
     # mct "Let's google what kinky stuff I can do for a cumshot fetish."
-    mct "Vamos a googlear que cosas puedo hacer para el fetiche de eyaculación."
+    mct "Vamos a googlear que cosas puedo hacer para el fetiche de Corridas."
 
 # game/code/d01/s05.rpy:183
 translate spanish d01s05_dorm_6fb2fbef:
@@ -184,7 +184,7 @@ translate spanish d01s05_arj_04c3aea8:
 translate spanish d01s05_arj_015d20de:
 
     # mct "Wow!"
-    mct "¡Wow!"
+    mct "¡Guau!"
 
 # game/code/d01/s05.rpy:327
 translate spanish d01s05_arj_3ab9489e:
@@ -262,7 +262,7 @@ translate spanish d01s05_arj_3eb42ff9:
 translate spanish d01s05_arj_e3ceb33b:
 
     # arj "Ah Watchmen! I heard about it! It's supposed to be better than just a comic book movie right?"
-    arj "¡Ah, Watchmen! ¡He eescuchado sobre ella! Se suponde que es mejor que solo una película de un cómic, ¿no?"
+    arj "¡Ah, Watchmen! ¡He escuchado sobre ella! Se suponde que es mejor que solo una película de un cómic, ¿no?"
 
 # game/code/d01/s05.rpy:352
 translate spanish d01s05_arj_2ae326b8:
@@ -292,7 +292,7 @@ translate spanish d01s05_arj_c0e6c23a:
 translate spanish d01s05_arj_5d464138:
 
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
-    arj "YSí, lo recuerdo. ¿Significa eso que no has visto cómo he decorado el lugar desde entonces?"
+    arj "Sí, lo recuerdo. ¿Significa eso que no has visto cómo he decorado el lugar desde entonces?"
 
 # game/code/d01/s05.rpy:364
 translate spanish d01s05_arj_0a84b318:
@@ -310,7 +310,7 @@ translate spanish d01s05_arj_24de17ac:
 translate spanish d01s05_arj_e0588061:
 
     # arj "Then I'd have to move out. Sometimes I feel like I'm missing out on the wild student life. You know ... boys, girls, parties."
-    arj "Enotnces tendría que irme. A veces siento que me pierdo en la loca vida estudiantil. Ya sabes... chicos, chicas, fiestas."
+    arj "Entonces tendría que irme. A veces siento que me pierdo en la loca vida estudiantil. Ya sabes... chicos, chicas, fiestas."
 
 # game/code/d01/s05.rpy:370
 translate spanish d01s05_arj_8b4cf234:
@@ -346,7 +346,7 @@ translate spanish d01s05_arj_a5ce4a4b:
 translate spanish d01s05_arj_544f572b:
 
     # arj "Why? What did he do this time?"
-    arj "¿Por qué? ¿Qué hizo esta vez??"
+    arj "¿Por qué? ¿Qué hizo esta vez?"
 
 # game/code/d01/s05.rpy:386
 translate spanish d01s05_arj_14059e66:
@@ -376,7 +376,7 @@ translate spanish d01s05_arj_fdca16f4:
 translate spanish d01s05_arj_bf4ca335:
 
     # arj "Maybe I'm not that big into the party scene, but I wouldn't mind having a little fun every now and then."
-    arj "Tal vez no soy tan llamativa en las fiestas, pero no me importaría diversión de tanto en tanto."
+    arj "Tal vez no soy tan llamativa en las fiestas, pero no me importaría un poco de diversión de vez en cuando."
 
 # game/code/d01/s05.rpy:398
 translate spanish d01s05_arj_6db1562f:
@@ -442,13 +442,13 @@ translate spanish d01s05_arj_1c656e3c:
 translate spanish d01s05_arj_9be09d5f:
 
     # arjt "He's still really into Lydia. Why did I think that he is over her."
-    arjt "Todavía está enganchado con Lydia. ¿Por qué creí que ya la habría olvidado?."
+    arjt "Todavía está enganchado con Lydia. ¿Por qué creí que ya la había olvidado?."
 
 # game/code/d01/s05.rpy:412
 translate spanish d01s05_arj_0a6677c0:
 
     # mct "She looked kinda sad, when I mentioned Lydia but she knows that I like her. I told her a long time ago."
-    mct "Se veía un poco triste cuando mencioné a Lydia, pero ella sabe que me gusta. Le dije hace tiempo."
+    mct "Se veía un poco triste cuando mencioné a Lydia, pero ella sabe que me gusta. Se lo dije hace tiempo."
 
 # game/code/d01/s05.rpy:415
 translate spanish d01s05_arj_bed3aace:
@@ -478,7 +478,7 @@ translate spanish s05_clap_lights_c8d65698:
 translate spanish s05_clap_lights_7585b764:
 
     # mc "Wow! Nice."
-    mc "¡Wow! Genial."
+    mc "¡Guau! Genial."
 
 # game/code/d01/s05.rpy:423
 translate spanish s05_clap_lights_7ac8e4fd:
@@ -718,7 +718,7 @@ translate spanish replay_d01s05_ccfaa9c8:
 translate spanish replay_d01s05_b4e9fb26:
 
     # mct "I need to move quietly so I don't wake her up."
-    mct "Tengo que mocerme silenciosamente para no despertarla."
+    mct "Tengo que moverme silenciosamente para no despertarla."
 
 # game/code/d01/s05.rpy:536
 translate spanish replay_d01s05_c5976dd7:
@@ -826,7 +826,7 @@ translate spanish replay_d01s05_5e84ced2:
 translate spanish replay_d01s05_8b6b07ae:
 
     # arj "He-he!"
-    arj "¡He-he!"
+    arj "¡Je-je!"
 
 # game/code/d01/s05.rpy:584
 translate spanish replay_d01s05_6bd7d659:
@@ -934,7 +934,7 @@ translate spanish s05_cum_play_challenge_1a153cd7:
 translate spanish s05_cum_play_challenge_ecc83610:
 
     # fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
-    fl "Tienes que eyacular o encontrar una eyaculación y tomar una foto con la aplicación en los próximos 69 segundos!"
+    fl "Tienes que correrte o buscar una corrida y tomar una foto con la aplicación en los próximos 69 segundos!"
 
 # game/code/d01/s05.rpy:640
 translate spanish s05_cum_play_challenge_26a2cae6:
@@ -970,7 +970,7 @@ translate spanish s05_after_cum_challenge_78f41c28:
 translate spanish s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
-    fl "¡Creemos que fue una forma genial de terminar el día de eyaculación. ¡De todas formas le otorgaremos a los participantes unos puntos!"
+    fl "¡Creemos que fue una forma genial de terminar el día de Corridas. ¡De todas formas le otorgaremos a los participantes unos puntos!"
 
 # game/code/d01/s05.rpy:661
 translate spanish s05_after_cum_challenge_d07f8876:
@@ -1032,9 +1032,9 @@ translate spanish strings:
 
     # game/code/d01/s05.rpy:496
     old "Cum on the couch"
-    new "Eyacular en el sofá"
+    new "Venirte en el sofá"
 
     # game/code/d01/s05.rpy:496
     old "Cum on AmRose"
-    new "Eyacular en AmRose"
+    new "Venirte en AmRose"
 
