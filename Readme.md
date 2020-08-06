@@ -1,22 +1,22 @@
 # Summary
 
-- Hey! I'm glad you here!
-- How to work with RenPy
-- - Special symbols
-- - Variables
-- - Quotations
-- How to work with GitHub
-- How translations were done before me?
-- What to translate
+- [Hey! I'm glad you here!](#hey-i-m-glad-you-here)
+- [How to work with RenPy](#how-to-work-with-renpy)
+- - [Special symbols](#special-symbols)
+- - [Variables](#variables)
+- - [Quotations](#quotations)
+- [How to work with GitHub](#how-to-work-with-github)
+- [How translations were done before me?](#how-translations-were-done-before-me)
+- [What to translate](#what-to-translate)
 
-# Hey! I'm glad you here!
+# <a name="hey-i-m-glad-you-here">Hey! I'm glad you here!
 
 I'm really happy that you want to help with translations!
 
 I'm making this document because I'm getting some number of requests like this and although I'm super happy to get you help, I can't manually copy paste all the translated lines. So we have a process and here I'm going to explain how it works.  
 First of all, translation are done with the [Ren'py](https://www.renpy.org/) framework.
 
-# How to work with RenPy
+# <a name="how-to-work-with-renpy"></a>How to work with RenPy
 
 RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".  
 Such file looks like this:
@@ -29,7 +29,7 @@ This example is already a translated file. In the file, you would see all the li
 
 What type of things you might see?
 
-## Special symbols
+## <a name="special-symbols"></a>Special symbols
 
 ![image01](./media/image01.png)  
 
@@ -38,13 +38,13 @@ Also `{i}...{/i}` is to make text cursive.
 
 ![image05](./media/image05.png)
 
-## Variables
+## <a name="variables"></a>Variables
 
 ![image10](./media/image10.png)
 
 Those are used to be replaced with something. In most cases that is character names. (In this case, it will be replaced with the name that player selected for him main character).
 
-## Quotations
+## <a name="quotations"></a>Quotations
 
 ![image04](./media/image04.png)
 
@@ -52,7 +52,7 @@ Those are quotes that need to be escaped to work properly. Be very careful with 
 You can read more about RenPy syntax [here](https://www.renpy.org/dev-doc/html/translations.html).  
 If there is something not clear reach out on our [Discord](https://discord.gg/b6CNu2C) on the #translations channel (ask if you need access). 
 
-# How to work with GitHub
+# <a name="how-to-work-with-github"></a>How to work with GitHub
 
 [Github](https://github.com/) is a code management platform that is using Git.
 
@@ -106,13 +106,13 @@ If you already created a pull request and you want to edit it you still can chan
 
 ![image18](./media/image18.png)
 
-# How translations were done before me?
+# <a name="how-translations-were-done-before-me"></a>How translations were done before me?
 
 If you want to find out how certain things were already translated before you can use search:
 
 ![image03](./media/image03.png)
 
-# What to translate
+# <a name="what-to-translate"></a>What to translate
 
 To find what to translate you can ask on the translating channel or you can check for any file like on the picture to see there the list of untranslated strings:
 
@@ -126,6 +126,6 @@ That means that this file is missing translations. If you want to start working 
 
 If you are doing your first translation please ask someone to check it for you.
 
-# Character names
+# <a name="character-names"></a>Character names
 
 ![image12](./media/image12.png)
