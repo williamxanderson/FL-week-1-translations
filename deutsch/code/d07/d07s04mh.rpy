@@ -64,7 +64,7 @@ translate deutsch replay_d07s04mh_632bdf24:
 translate deutsch replay_d07s04mh_1e7539e3:
 
     # mc "You don't seem the type to hide who you are. You seem really confident all the time."
-    mc "Du wirkst nicht wie der Typ der verheimlicht wer sie ist. Du wirkst sehr selbstbewusst"
+    mc "Du wirkst nicht wie der Typ der verheimlicht wer sie ist. Du wirkst sehr selbstbewusst."
 
 # game/code/d07/d07s04mh.rpy:42
 translate deutsch replay_d07s04mh_fc1c6193:
@@ -148,7 +148,7 @@ translate deutsch replay_d07s04mh_d4d1e01e:
 translate deutsch replay_d07s04mh_80443c92:
 
     # mh "You might need to work on that. It sounds a little rehearsed, and might not be as effective when you get out of school."
-    mh "Du musst daran vielleicht noch arbeiten. Es hört sich ein wenig einstudiert an, und könnte nicht mehr so effektiv sein sobald du aus der Schule bist"
+    mh "Du musst daran vielleicht noch arbeiten. Es hört sich ein wenig einstudiert an, und könnte nicht mehr so effektiv sein sobald du aus der Schule bist."
 
 # game/code/d07/d07s04mh.rpy:64
 translate deutsch replay_d07s04mh_34d8c666:
@@ -274,7 +274,7 @@ translate deutsch replay_d07s04mh_c2f16593:
 translate deutsch replay_d07s04mh_e08709af:
 
     # mc "Nah, I just always found them fun. There's something fascinating about all the different things you can do with a length of rope."
-    mc "Nah, Ich fand sie immer witzig. Da ist was fazinierendes an all den verschiedenen Dingen die man mit einem langen Seil machen kann"
+    mc "Nah, Ich fand sie immer witzig. Da ist was fazinierendes an all den verschiedenen Dingen die man mit einem langen Seil machen kann."
 
 # game/code/d07/d07s04mh.rpy:102
 translate deutsch replay_d07s04mh_4d84d999:
@@ -316,7 +316,7 @@ translate deutsch replay_d07s04mh_ee9c822d:
 translate deutsch replay_d07s04mh_3f2d57b3:
 
     # mh "Is that something that would interest you? Rope bondage?"
-    mh "Ist es was das dich interesiert? Fesselspiele"
+    mh "Ist es was das dich interesiert? Fesselspiele?"
 
 # game/code/d07/d07s04mh.rpy:112
 translate deutsch replay_d07s04mh_57f6b408:
@@ -328,7 +328,7 @@ translate deutsch replay_d07s04mh_57f6b408:
 translate deutsch replay_d07s04mh_a82de4de:
 
     # mc "What do you call it? Stocks? Pillory?"
-    mc "Wie nennt man es? Schandkragen? Pranger"
+    mc "Wie nennt man es? Schandkragen? Pranger?"
 
 # game/code/d07/d07s04mh.rpy:115
 translate deutsch replay_d07s04mh_5a0acb90:
@@ -352,7 +352,7 @@ translate deutsch replay_d07s04mh_44237bed:
 translate deutsch replay_d07s04mh_a37ad25f:
 
     # mc "I guess it's that sense of power. I would never do anything to a woman without her consent."
-    mc "Ich denke es ist dieses Gefühl von Macht. Ich würde niemals etwas mit einer Frau machen womit diese nicht einverstanden ist"
+    mc "Ich denke es ist dieses Gefühl von Macht. Ich würde niemals etwas mit einer Frau machen womit diese nicht einverstanden ist."
 
 # game/code/d07/d07s04mh.rpy:120
 translate deutsch replay_d07s04mh_552705bc:
@@ -376,7 +376,7 @@ translate deutsch replay_d07s04mh_e74dd3b8:
 translate deutsch replay_d07s04mh_592a17f3:
 
     # mc "Looking forward to it."
-    mc "Kann es kaum erwarten
+    mc "Kann es kaum erwarten."
 
 # game/code/d07/d07s04mh.rpy:129
 translate deutsch replay_d07s04mh_e795481c:
