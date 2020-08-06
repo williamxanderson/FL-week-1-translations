@@ -46,7 +46,7 @@ translate deutsch d07s03_8888b650:
 translate deutsch d07s03_ee866a05:
 
     # mct "Yep, I definitely know these ladies!"
-    mct "Yep, Ich kenne difinitiv diese Ladies"
+    mct "Yep, Ich kenne definitiv diese Ladies!"
 
 # game/code/d07/d07s03.rpy:27
 translate deutsch d07s03_015d20de:
@@ -70,7 +70,7 @@ translate deutsch d07s03_a532ace1:
 translate deutsch d07s03_a3b25634:
 
     # vw "Oh hello! I didn't expect to see you here! Are you here for the kayaking competition?"
-    vw "Oh Hallo! Ich hatte dich hier nicht erwartet! Bist du für den Kajak Wettkampf hier"
+    vw "Oh Hallo! Ich hatte dich hier nicht erwartet! Bist du für den Kajak Wettkampf hier?"
 
 # game/code/d07/d07s03.rpy:33
 translate deutsch d07s03_93ed8f02:
@@ -130,7 +130,7 @@ translate deutsch d07s03_c14cc852:
 translate deutsch d07s03_0e194feb:
 
     # mh "We'll be waiting!"
-    mh "Wir werden warten"
+    mh "Wir werden warten!"
 
 # game/code/d07/d07s03.rpy:49
 translate deutsch d07s03_cb59ae32:
@@ -172,7 +172,7 @@ translate deutsch d07s03_1021140a:
 translate deutsch d07s03_e15559da:
 
     # arj "Wow she's quick! {w}I will stay for now, but you can go."
-    arj "Wow sie ist schnell {w}Ich bleibe noch etwas, aber du kannst schon gehen"
+    arj "Wow sie ist schnell {w}Ich bleibe noch etwas, aber du kannst schon gehen."
 
 # game/code/d07/d07s03.rpy:59
 translate deutsch d07s03_7fb0def6:
@@ -220,7 +220,7 @@ translate deutsch d07s03_7244f03b:
 translate deutsch d07s03_10353503:
 
     # mc "I'm fine with just spending time on the beach."
-    mc "Ich finde es in Ordnung wenn wir nur am Strand etwas Zeit verbringen"
+    mc "Ich finde es in Ordnung wenn wir nur am Strand etwas Zeit verbringen."
 
 # game/code/d07/d07s03.rpy:72
 translate deutsch d07s03_faaef226:
