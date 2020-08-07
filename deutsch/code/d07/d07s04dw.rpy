@@ -346,7 +346,7 @@ translate deutsch replay_d07s04dw_c5340e81:
 translate deutsch replay_d07s04dw_25dc2a6c:
 
     # dd "I don't know..."
-    dd "Ich weiß nicht.."
+    dd "Ich weiß nicht..."
 
 # game/code/d07/d07s04dw.rpy:166
 translate deutsch replay_d07s04dw_89a5604c:
