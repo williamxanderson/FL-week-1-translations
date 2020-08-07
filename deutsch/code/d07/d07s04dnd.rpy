@@ -178,7 +178,7 @@ translate deutsch d07s04dnd_3453b3da:
 translate deutsch d07s04dnd_40e6c388:
 
     # dw "We're lucky she didn't go after everyone who voted. She thought she was entitled to be Queen, and sought vengeance upon anyone who got in her way."
-    dw "Wir können uns glücklich schätzen das sie nicht jeden jagd der abgestimmt hat. Sie dachte es sei ihr Recht Köningin zu sein, und Rache an allen zu nehmen das ihr im Weg stand ."
+    dw "Wir können uns glücklich schätzen das sie nicht jeden jagd der abgestimmt hat. Sie dachte es sei ihr Recht Köningin zu sein, und Rache an allen zu nehmen das ihr im Weg stand."
 
 # game/code/d07/d07s04dnd.rpy:62
 translate deutsch d07s04dnd_d43e47cb:
