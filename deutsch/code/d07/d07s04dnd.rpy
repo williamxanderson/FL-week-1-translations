@@ -10,7 +10,7 @@ translate deutsch d07s04dnd_67fab56e:
 translate deutsch d07s04dnd_618a44ae:
 
     # dd "Hey [mcname]! Look at you - emerging from the water looking all like James Bond!"
-    dd "Hey [mcname]!Sieh dich an - steigst aus dem Wasser und siehst aus wie James Bond!"
+    dd "Hey [mcname]! Sieh dich an - steigst aus dem Wasser und siehst aus wie James Bond!"
 
 # game/code/d07/d07s04dnd.rpy:22
 translate deutsch d07s04dnd_a4a4508f:
