@@ -39,6 +39,12 @@ Also `{i}...{/i}` is to make text cursive.
 
 ![image05](./media/image05.png)
 
+And you see "%%" like here:
+
+![image08](./media/image08.png)
+
+It has to be translated like that. "%" is a special character.
+
 ## Variables
 
 ![image10](./media/image10.png)
@@ -50,7 +56,8 @@ Those are used to be replaced with something. In most cases that is character na
 ![image04](./media/image04.png)
 
 Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.  
-You can read more about RenPy syntax [here](https://www.renpy.org/dev-doc/html/translations.html).  
+You can read more about RenPy syntax here:  
+[https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)  
 If there is something not clear reach out on our [Discord](https://discord.gg/b6CNu2C) on the #translations channel (ask if you need access). 
 
 # How to work with GitHub
@@ -112,6 +119,10 @@ If you already created a pull request and you want to edit it you still can chan
 If you want to find out how certain things were already translated before you can use search:
 
 ![image03](./media/image03.png)
+
+and there find already translated file with this word:
+
+![image24](./media/image24.png)
 
 # What to translate
 
