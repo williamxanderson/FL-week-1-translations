@@ -72,7 +72,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new "Reset"
+    new "重置"
 
     # renpy/common/00accessibility.rpy:157
     old "Line Spacing Scaling"
