@@ -544,7 +544,7 @@ translate deutsch replay_d07s04mh_bca0bfe4:
 translate deutsch replay_d07s04mh_3de0bf37:
 
     # mc "I got hard as well. You just saw it, right?"
-    mc Ich wurde auch hart. Du hast es bemerkt, oder?
+    mc "Ich wurde auch hart. Du hast es bemerkt, oder?"
 
 # game/code/d07/d07s04mh.rpy:174
 translate deutsch replay_d07s04mh_e2e05496:
@@ -985,4 +985,3 @@ translate deutsch replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
     mc "Keine ahnung aber sollte schon einiges an Punkten sein!"
-
