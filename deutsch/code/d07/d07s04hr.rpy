@@ -501,7 +501,7 @@ translate deutsch strings:
 
     # game/code/d07/d07s04hr.rpy:139
     old "Don't"
-    new "Versuch es nicht."
+    new "Versuch es nicht"
 
 # TODO: Translation updated at 2020-06-27 22:20
 
