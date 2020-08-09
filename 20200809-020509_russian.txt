@@ -19,6 +19,21 @@ File: ./russian\code/common.rpy
 1043: new "Back (B)"
 1123: new "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
+File: ./russian\code/labels.rpy
+
+137: "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
+143: "Thanks for playing [config.version] version of my game. Please let me know what you think! Your feedback would help me a lot!"
+149: sy "Hey Daisy!"
+155: dd "Yes sweety?"
+161: sy "Do you think he will wait?"
+167: dd "Who?"
+173: sy "Him! The one behind this screen!"
+179: dd "Wait for what?"
+185: sy "Wait for the next game update?"
+191: dd "Oh my dear! Don't you worry!"
+197: dd "He loves you!"
+203: dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+
 File: ./russian\code/d01\s02.rpy
 
 79: "..."
@@ -29,6 +44,11 @@ File: ./russian\code/d01\s02.rpy
 757: arj "..."
 895: arj "..."
 937: arj "..."
+
+File: ./russian\code/d01\s03.rpy
+
+1075: mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+1081: mc "What's this about the points in the app? There was a message that someone won 25 points."
 
 File: ./russian\code/d01\s04.rpy
 
@@ -108,6 +128,22 @@ File: ./russian\code/d07\d07s01.rpy
 File: ./russian\code/d07\d07s02.rpy
 
 433: mc "..."
+770: mc "It seems to have a maximum of about 25 points-"
+
+File: ./russian\code/d07\d07s04hr.rpy
+
+1004: hr "Do you want to see what I found?"
+1010: mc "Fine, show me!"
+1016: hr "Very well."
+1022: hr "Come here."
+1028: hr "Take a seat."
+1034: hr "This is one of the videos I pulled from his phone. {w} I'll let you watch it alone."
+1040: new "Yes, I want to know"
+1044: new "No, I have no interest in that"
+
+File: ./russian\code/d07\d07s04mh.rpy
+
+1714: mc "Don't know, but it should be a fair number of points!"
 
 File: ./russian\code/data\extended\extra_gallery.rpy
 
@@ -127,6 +163,16 @@ File: ./russian\code/screens\screens.rpy
 259: new "Page Up"
 267: new "Page Down"
 323: new "Start, Guide"
+347: new "(set a name before saving your progress)"
+351: new "Taboo mode"
+355: new "Enabled"
+359: new "Disabled"
+
+File: ./russian\code/screens\screens_fl.rpy
+
+27: new "How do you want to name your save?"
+31: new "How do you want to rename this page?"
+35: new "Undo"
 
 File: ./russian\code/screens\extended\screens_fl.rpy
 

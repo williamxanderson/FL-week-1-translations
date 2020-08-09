@@ -744,12 +744,6 @@ translate deutsch s04_2e86dd70:
     # mct "The party's in two days. I don't have much time to earn the points."
     mct "Die Party steigt in zwei Tagen. Ich habe nicht viel Zeit die Punkte zu verdienen."
 
-# game/d01/s04.rpy:502
-translate deutsch s04_681c2673:
-
-    # mct "Today's fetish is Cum Play. As far as I understood it, I have to submit something related to that."
-    mct "Der heutige Fetisch des Tages lautet Spermaspiele. So wie ich es verstehe, muss ich etwas hochladen das damit zu tun hat."
-
 # game/d01/s04.rpy:503
 translate deutsch s04_18c318ba:
 
@@ -873,14 +867,6 @@ translate deutsch s04_015d20de_1:
 
     # mct "Wow!"
     mct "Wow!"
-
-# TODO: Translation updated at 2020-03-07 22:12
-
-# game/code/d01/s04.rpy:502
-translate deutsch s04_bdaff425:
-
-    # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "Der heutige Fetish ist Cumshot. So wie ich es verstehe muss ich etwas das damit zusammen hängt einsenden."
 
 # TODO: Translation updated at 2020-06-09 02:20
 
@@ -1326,7 +1312,7 @@ translate deutsch replay_d01s04_2e86dd70:
 translate deutsch replay_d01s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
+    mct "Der heutige Fetish ist Cumshot. So wie ich es verstehe muss ich etwas das damit zusammen hängt einsenden."
 
 # game/code/d01/s04.rpy:517
 translate deutsch replay_d01s04_18c318ba:
@@ -1378,4 +1364,3 @@ translate deutsch replay_d01s04_ad5ec6e0:
 
     # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
     mct "Was zur Hölle?! Er weiß das ich gerade ins Klo bin. Hat er absichtlich Mädchen hier reingeschickt?"
-

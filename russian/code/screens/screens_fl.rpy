@@ -18,3 +18,19 @@ translate russian strings:
     old "points: "
     new "Очки: "
 
+# TODO: Translation updated at 2020-08-09 02:04
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:210
+    old "How do you want to name your save?"
+    new "How do you want to name your save?"
+
+    # game/code/screens/screens_fl.rpy:210
+    old "How do you want to rename this page?"
+    new "How do you want to rename this page?"
+
+    # game/code/screens/screens_fl.rpy:241
+    old "Undo"
+    new "Undo"
+

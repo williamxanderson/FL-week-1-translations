@@ -240,12 +240,6 @@ translate russian s03_82ad7de8:
     # mc "I checked it out a little bit. Looks unusual."
     mc "Я посмотрел его. Выглядит необычно."
 
-# game/code/d01/s03.rpy:145
-translate russian s03_c7daa34b:
-
-    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 50 points."
-    mc "Что это за очки, которые нужны для приложения? Тут сообщалось, что кто-то выиграл 25 очков."
-
 # game/code/d01/s03.rpy:147
 translate russian s03_4b2f6a12:
 
@@ -1066,3 +1060,16 @@ translate russian strings:
     old "Push her to return the porn to you"
     new "Заставить ее вернуть тебе порно"
 
+# TODO: Translation updated at 2020-08-09 02:04
+
+# game/code/d01/s03.rpy:145
+translate russian s03_e0d4ae87:
+
+    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "Что это за очки, которые нужны для приложения? Тут сообщалось, что кто-то выиграл 25 очков."
+
+# game/code/d01/s03.rpy:147
+translate russian s03_512c71de:
+
+    # mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "Что это за очки, которые нужны для приложения? Тут сообщалось, что кто-то выиграл 25 очков."

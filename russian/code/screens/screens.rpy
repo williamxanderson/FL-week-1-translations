@@ -338,3 +338,23 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
+# TODO: Translation updated at 2020-08-09 02:04
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:660
+    old "(set a name before saving your progress)"
+    new "(set a name before saving your progress)"
+
+    # game/code/screens/screens.rpy:828
+    old "Taboo mode"
+    new "Taboo mode"
+
+    # game/code/screens/screens.rpy:829
+    old "Enabled"
+    new "Enabled"
+
+    # game/code/screens/screens.rpy:830
+    old "Disabled"
+    new "Disabled"
+

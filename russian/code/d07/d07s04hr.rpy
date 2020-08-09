@@ -715,283 +715,330 @@ translate russian replay_d07s04hr_e2da9fe2:
     hr "И что?"
 
 # game/code/d07/d07s04hr.rpy:79
-translate russian replay_d07s04hr_284b3e90:
+translate russian d07s04hr_part_2_284b3e90:
 
     # mc "This is crazy. Who the fuck are you?"
     mc "Это просто сумасшествие. Да кто ты такая, черт возьми?"
 
 # game/code/d07/d07s04hr.rpy:81
-translate russian replay_d07s04hr_3c6af36a:
+translate russian d07s04hr_part_2_3c6af36a:
 
     # hr "I'm... {w}Look, someone close to me got tricked into the retention program. I'm going to get her free from this, and make sure no one else gets hurt."
     hr "Я... {w}Послушай, кое-кто из моих близких был втянут в программу удержания. Я собираюсь освободить ее от этого и убедиться, что больше никто не пострадает."
 
 # game/code/d07/d07s04hr.rpy:83
-translate russian replay_d07s04hr_1bd803ce:
+translate russian d07s04hr_part_2_1bd803ce:
 
     # mc "That sounds very noble, but..."
     mc "Это звучит очень благородно, но..."
 
 # game/code/d07/d07s04hr.rpy:85
-translate russian replay_d07s04hr_47398d41:
+translate russian d07s04hr_part_2_47398d41:
 
     # hr "Fine. I'm a journalism major who wants to make a name for herself before I graduate and end up working in some mailroom."
     hr "Хорошо. Я специализируюсь на журналистике, и хочу сделать себе имя до того, как закончу школу и попаду на работу в какой-нибудь почтовый отдел."
 
 # game/code/d07/d07s04hr.rpy:87
-translate russian replay_d07s04hr_f3a069d2:
+translate russian d07s04hr_part_2_f3a069d2:
 
     # mc "Your first story was better."
     mc "Твоя первая история была лучше."
 
 # game/code/d07/d07s04hr.rpy:89
-translate russian replay_d07s04hr_11935428:
+translate russian d07s04hr_part_2_11935428:
 
     # hr "It doesn't matter who I am. I'm your best chance of getting free from the retention program's blackmail. How's that?"
     hr "Неважно, кто я. Я твой лучший шанс освободиться от шантажа программы удержания. Как тебе такое?"
 
 # game/code/d07/d07s04hr.rpy:91
-translate russian replay_d07s04hr_28ef734e:
+translate russian d07s04hr_part_2_28ef734e:
 
     # mc "Why are you telling me this? What do you need from me?"
     mc "Зачем ты мне это говоришь? Что тебе от меня нужно?"
 
 # game/code/d07/d07s04hr.rpy:93
-translate russian replay_d07s04hr_86d2294d:
+translate russian d07s04hr_part_2_86d2294d:
 
     # hr "You're Pete's roommate. You have access to his room, his stuff, his laptop..."
     hr "Ты - сосед Пита. У тебя есть доступ к его комнате, его вещам, ноутбуку..."
 
 # game/code/d07/d07s04hr.rpy:95
-translate russian replay_d07s04hr_5290aa08:
+translate russian d07s04hr_part_2_5290aa08:
 
     # mc "I don't like where this is going."
     mc "Мне не нравится, к чему ты ведёшь."
 
 # game/code/d07/d07s04hr.rpy:97
-translate russian replay_d07s04hr_045aca7c:
+translate russian d07s04hr_part_2_045aca7c:
 
     # hr "You think I liked sucking that prick off?"
     hr "Думаешь, мне нравилось сосать этому козлу?"
 
 # game/code/d07/d07s04hr.rpy:98
-translate russian replay_d07s04hr_f800bed0:
+translate russian d07s04hr_part_2_f800bed0:
 
     # mc "Yes."
     mc "Да."
 
 # game/code/d07/d07s04hr.rpy:100
-translate russian replay_d07s04hr_8de6204c:
+translate russian d07s04hr_part_2_8de6204c:
 
     # hr "Fuck you. I need you to figure out the password to his laptop."
     hr "Да пошёл ты. Мне нужно, чтобы ты выяснил пароль к его ноутбуку."
 
 # game/code/d07/d07s04hr.rpy:102
-translate russian replay_d07s04hr_4ec0ae09:
+translate russian d07s04hr_part_2_4ec0ae09:
 
     # mc "Why don't I just let you into our room, and you can do it yourself?"
     mc "Почему бы мне просто не пустить тебя в нашу комнату, чтобы ты могла сделать это сама?"
 
 # game/code/d07/d07s04hr.rpy:104
-translate russian replay_d07s04hr_72127501:
+translate russian d07s04hr_part_2_72127501:
 
     # hr "Because too many wrong entries in a day will lock the device down, and he'll know someone was messing with it."
     hr "Потому что слишком много неправильных вводов паролей заблокируют устройство, и он узнает, что кто-то возился с ним."
 
 # game/code/d07/d07s04hr.rpy:106
-translate russian replay_d07s04hr_516f7c20:
+translate russian d07s04hr_part_2_516f7c20:
 
     # hr "I need you to try one password a day until you find the right one."
     hr "Мне нужно, чтобы ты пробовал один пароль в день, пока не найдешь правильный."
 
 # game/code/d07/d07s04hr.rpy:108
-translate russian replay_d07s04hr_644bce1b:
+translate russian d07s04hr_part_2_644bce1b:
 
     # mc "Sure, fine. I'll start with 12345 and keep going until the end of the universe."
     mc "Да, конечно. Я начну с 12345 и буду продолжать вводить пароли до конца существования вселенной."
 
 # game/code/d07/d07s04hr.rpy:110
-translate russian replay_d07s04hr_c68f0c66:
+translate russian d07s04hr_part_2_c68f0c66:
 
     # hr "I have a list. I know it is one of five possibilities. I need you to memorize this."
     hr "У меня уже есть готовый список. Я уверена, что один из пяти вариантов подойдёт. Мне нужно, чтобы ты запомнил его."
 
 # game/code/d07/d07s04hr.rpy:112
-translate russian replay_d07s04hr_d882e2e7:
+translate russian d07s04hr_part_2_d882e2e7:
 
     # mc "Memorize? I'm not great at-"
     mc "Запомнить? У меня это не очень хорошо получается..."
 
 # game/code/d07/d07s04hr.rpy:114
-translate russian replay_d07s04hr_ccc45533:
+translate russian d07s04hr_part_2_ccc45533:
 
     # hr "Do you think I can just email it to you? Your electronic devices have been compromised."
     hr "Ты что, хочешь чтобы я отправила список тебе по электронной почте? Твой телефон был взломан."
 
 # game/code/d07/d07s04hr.rpy:116
-translate russian replay_d07s04hr_67657d9a:
+translate russian d07s04hr_part_2_67657d9a:
 
     # mc "Why not just write it on a piece of paper?"
     mc "Почему бы просто не записать на листке бумаги?"
 
 # game/code/d07/d07s04hr.rpy:118
-translate russian replay_d07s04hr_5db6a2c7:
+translate russian d07s04hr_part_2_5db6a2c7:
 
     # hr "You are going swimming, remember?"
     hr "Ты же посреди моря, помнишь?"
 
 # game/code/d07/d07s04hr.rpy:120
-translate russian replay_d07s04hr_f8f48f8a:
+translate russian d07s04hr_part_2_f8f48f8a:
 
     # mc "You go running every afternoon. Tomorrow I'll be in the park. You pass me the piece of paper..."
     mc "Ты бегаешь каждый день после обеда. Завтра я буду в парке. Ты передашь мне листок бумаги..."
 
 # game/code/d07/d07s04hr.rpy:122
-translate russian replay_d07s04hr_728cae01:
+translate russian d07s04hr_part_2_728cae01:
 
     # hr "That could work, but it means you won't get to start trying passwords until tomorrow."
     hr "Это может сработать, но это означает, что ты не сможешь начать пробовать пароли до завтрашнего дня."
 
 # game/code/d07/d07s04hr.rpy:124
-translate russian replay_d07s04hr_c78c5bca:
+translate russian d07s04hr_part_2_c78c5bca:
 
     # mc "Well, I can try memorizing them, but I doubt it will do any good."
     mc "Ну, я могу попытаться запомнить их, но сомневаюсь, что из этого что-то получится."
 
 # game/code/d07/d07s04hr.rpy:126
-translate russian replay_d07s04hr_6610c340:
+translate russian d07s04hr_part_2_6610c340:
 
     # hr "You're really not that bright, huh?"
     hr "Ты действительно не самый умный, да?"
 
 # game/code/d07/d07s04hr.rpy:128
-translate russian replay_d07s04hr_773b0ff4:
+translate russian d07s04hr_part_2_773b0ff4:
 
     # mc "I'm clever. I'm adaptive. I'm a lot of things... I'm just shitty at memorizing stuff."
     mc "Я очень умный. Я адаптивный. Я - ещё много чего... Просто я плохо запоминаю вещи."
 
 # game/code/d07/d07s04hr.rpy:130
-translate russian replay_d07s04hr_fb93285e:
+translate russian d07s04hr_part_2_fb93285e:
 
     # hr "What happens when Pete finds the list?"
     hr "А что будет, если Пит найдет список?"
 
 # game/code/d07/d07s04hr.rpy:132
-translate russian replay_d07s04hr_880f57e8:
+translate russian d07s04hr_part_2_880f57e8:
 
     # mc "If Pete finds the list, I blame it on Samiya."
     mc "Если Пит найдет список, я обвиню в этом Самию."
 
 # game/code/d07/d07s04hr.rpy:134
-translate russian replay_d07s04hr_a46304c8:
+translate russian d07s04hr_part_2_a46304c8:
 
     # hr "What's Samiya?"
     hr "Что за Самия?"
 
 # game/code/d07/d07s04hr.rpy:136
-translate russian replay_d07s04hr_961e5e85:
+translate russian d07s04hr_part_2_961e5e85:
 
     # mc "She's some slut thief that Pete fucked and fell asleep on."
     mc "Она шлюха-воровка, которую Пит трахал и заснул на ней."
 
 # game/code/d07/d07s04hr.rpy:138
-translate russian replay_d07s04hr_1e337853:
+translate russian d07s04hr_part_2_1e337853:
 
     # hr "Okay. That will work."
     hr "Ладно. Это может сработать."
 
 # game/code/d07/d07s04hr.rpy:143
-translate russian replay_d07s04hr_ded2d35e:
+translate russian d07s04hr_part_2_ded2d35e:
 
     # hr "Fine. Alright, I'll drop you back off-"
     hr "Ладно. Тогда я отвезу тебя обратно..."
 
 # game/code/d07/d07s04hr.rpy:144
-translate russian replay_d07s04hr_a3acc06f:
+translate russian d07s04hr_part_2_a3acc06f:
 
     # mc "Wait. I'm helping you, so why don't you help me..."
     mc "Подожди. Я помогаю тебе, так почему бы тебе не помочь мне..."
 
 # game/code/d07/d07s04hr.rpy:146
-translate russian replay_d07s04hr_92460e18:
+translate russian d07s04hr_part_2_92460e18:
 
     # hr "Are you kidding me? You're being blackmailed. I am helping you."
     hr "Ты что, издеваешься? Тебя шантажируют. Это я помогаю тебе."
 
 # game/code/d07/d07s04hr.rpy:147
-translate russian replay_d07s04hr_002a8881:
+translate russian d07s04hr_part_2_002a8881:
 
     # mc "Are you really going to leave me standing here with blue balls?"
     mc "Ты действительно собираешься оставить меня с синими яйцами?"
 
 # game/code/d07/d07s04hr.rpy:150
-translate russian replay_d07s04hr_0e1fb0b7:
+translate russian d07s04hr_part_2_0e1fb0b7:
 
     # hr "You know what... {w}I've changed my mind..."
     hr "Знаешь что... {w}Я передумала..."
 
 # game/code/d07/d07s04hr.rpy:154
-translate russian replay_d07s04hr_32f02821:
+translate russian d07s04hr_part_2_32f02821:
 
     # hr "I think you can swim back to shore from here."
     hr "Думаю, что отсюда ты вполне сам сможешь доплыть до берега."
 
 # game/code/d07/d07s04hr.rpy:157
-translate russian replay_d07s04hr_4915f862:
+translate russian d07s04hr_part_2_4915f862:
 
     # hr "Think of this as a cold shower!"
     hr "Думай об этом, как о холодном душе!"
 
 # game/code/d07/d07s04hr.rpy:163
-translate russian replay_d07s04hr_ded2d35e_1:
+translate russian d07s04hr_part_2_ded2d35e_1:
 
     # hr "Fine. Alright, I'll drop you back off-"
     hr "Ладно. Тогда я отвезу тебя обратно..."
 
 # game/code/d07/d07s04hr.rpy:164
-translate russian replay_d07s04hr_def0ad19:
+translate russian d07s04hr_part_2_def0ad19:
 
     # mc "What is it?"
     mc "Что это?"
 
 # game/code/d07/d07s04hr.rpy:166
-translate russian replay_d07s04hr_d0a338f1:
+translate russian d07s04hr_part_2_d0a338f1:
 
     # hr "Change of plans. Can you swim to shore from here?"
     hr "Изменение планов. Ты сможешь доплыть отсюда до берега?"
 
 # game/code/d07/d07s04hr.rpy:167
-translate russian replay_d07s04hr_38dbc20b:
+translate russian d07s04hr_part_2_38dbc20b:
 
     # mc "You really don't want to be seen with me."
     mc "Не хочешь, чтобы тебя видели со мной."
 
 # game/code/d07/d07s04hr.rpy:168
-translate russian replay_d07s04hr_cd73084d:
+translate russian d07s04hr_part_2_cd73084d:
 
     # hr "Pretty much. It's not far - you can see the beach."
     hr "В основном да. Это недалеко - отсюда виден пляж."
 
 # game/code/d07/d07s04hr.rpy:169
-translate russian replay_d07s04hr_e49434bd:
+translate russian d07s04hr_part_2_e49434bd:
 
     # mc "Alright. I'll see you in the park tomorrow."
     mc "Хорошо. Увидимся завтра в парке."
 
 # game/code/d07/d07s04hr.rpy:171
-translate russian replay_d07s04hr_5a7b6d0f:
+translate russian d07s04hr_part_2_5a7b6d0f:
 
     # hr "Hey [mcname]. {w}One last look before you go."
     hr "Эй, [mcname]. {w}Последний взгляд перед уходом."
 
 # game/code/d07/d07s04hr.rpy:173
-translate russian replay_d07s04hr_0a91564c:
+translate russian d07s04hr_part_2_0a91564c:
 
     # hr "Now swim!"
     hr "Теперь плыви!"
 
 # game/code/d07/d07s04hr.rpy:178
-translate russian replay_d07s04hr_80b24180:
+translate russian d07s04hr_part_2_80b24180:
 
     # mct "Sometimes, my life is really awesome."
     mct "Иногда моя жизнь действительно потрясающая."
+# TODO: Translation updated at 2020-08-09 02:04
+
+# game/code/d07/d07s04hr.rpy:88
+translate russian replay_d07s04hr_2d3fc1ab:
+
+    # hr "Do you want to see what I found?"
+    hr "Ты хочешь увидеть что я нашла?"
+
+# game/code/d07/d07s04hr.rpy:92
+translate russian replay_d07s04hr_6c1772d7:
+
+    # mc "Fine, show me!"
+    mc "Хорошо, покажи мне!"
+
+# game/code/d07/d07s04hr.rpy:94
+translate russian replay_d07s04hr_80748694:
+
+    # hr "Very well."
+    hr "Замечательно."
+
+# game/code/d07/d07s04hr.rpy:96
+translate russian replay_d07s04hr_525bb10d:
+
+    # hr "Come here."
+    hr "За мной."
+
+# game/code/d07/d07s04hr.rpy:100
+translate russian replay_d07s04hr_8d914147:
+
+    # hr "Take a seat."
+    hr "Садись."
+
+# game/code/d07/d07s04hr.rpy:102
+translate russian replay_d07s04hr_db374e28:
+
+    # hr "This is one of the videos I pulled from his phone. {w} I'll let you watch it alone."
+    hr "Это одно из тех видео, что я получила с его телефона. {w} Пожалуй я оставлю тебя смотреть это одному."
+
+translate russian strings:
+
+    # game/code/d07/d07s04hr.rpy:89
+    old "Yes, I want to know"
+    new "Да, я хочу знать"
+
+    # game/code/d07/d07s04hr.rpy:89
+    old "No, I have no interest in that"
+    new "Нет, мне это не интересно"

@@ -761,3 +761,10 @@ translate russian d07s02_26739c3d:
 
     # arj "Hey guys! Look! We are almost there!"
     arj "Эй, ребята! Смотрите! Мы уже почти на месте!"
+# TODO: Translation updated at 2020-08-09 02:04
+
+# game/code/d07/d07s02.rpy:227
+translate russian d07s02_7ba196e0:
+
+    # mc "It seems to have a maximum of about 25 points-"
+    mc "Кажется, что есть максимум в 25 очков..."

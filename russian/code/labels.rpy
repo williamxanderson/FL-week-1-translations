@@ -128,3 +128,76 @@ translate russian strings:
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
     new "Введите имя вашего персонажа: (По умолчанию - Майк)"
+# TODO: Translation updated at 2020-08-09 02:04
+
+# game/code/labels.rpy:61
+translate russian game_over_dbc7b4ac:
+
+    # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
+    "Похоже что это конец игры. Попробуйте сыграть снова с использованием большего количества фетишей или принимая другие решения."
+
+# game/code/labels.rpy:76
+translate russian end_6e873223:
+
+    # "Thanks for playing [config.version] version of my game. Please let me know what you think! Your feedback would help me a lot!"
+    "Спасибо, что попробовали [config.version] версию моей игры. Дайте мне знать как вам понравилось! Ваш отзыв будет очень полезен для меня!"
+
+# game/code/labels.rpy:139
+translate russian coming_next_19d946e7:
+
+    # sy "Hey Daisy!"
+    sy "Хей, Дейзи!"
+
+# game/code/labels.rpy:143
+translate russian coming_next_f51b448d:
+
+    # dd "Yes sweety?"
+    dd "Да, дорогая?"
+
+# game/code/labels.rpy:147
+translate russian coming_next_cc767eb3:
+
+    # sy "Do you think he will wait?"
+    sy "Ты думаешь он будет ждать?"
+
+# game/code/labels.rpy:151
+translate russian coming_next_41e42ee3:
+
+    # dd "Who?"
+    dd "Кто?"
+
+# game/code/labels.rpy:155
+translate russian coming_next_d98a7c41:
+
+    # sy "Him! The one behind this screen!"
+    sy "Он! Тот кто за этим экраном!"
+
+# game/code/labels.rpy:158
+translate russian coming_next_9d34f57d:
+
+    # dd "Wait for what?"
+    dd "Ждать чего?"
+
+# game/code/labels.rpy:162
+translate russian coming_next_8e181c56:
+
+    # sy "Wait for the next game update?"
+    sy "Ждать следующую часть игры?"
+
+# game/code/labels.rpy:165
+translate russian coming_next_57289a79:
+
+    # dd "Oh my dear! Don't you worry!"
+    dd "О моя дорогая! Не волнуйся!"
+
+# game/code/labels.rpy:168
+translate russian coming_next_15bd04e6:
+
+    # dd "He loves you!"
+    dd "Он обожает тебя!"
+
+# game/code/labels.rpy:171
+translate russian coming_next_c98f9c86:
+
+    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    dd "И я уверена, что он будет счастлив играть дальше когда вторая неделя выйдет в 2021 году!"

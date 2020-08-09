@@ -1705,3 +1705,11 @@ translate russian replay_d07s04mh_a90d40b8:
 
     # mh "Do it again!"
     mh "Сделай это еще раз!"
+# TODO: Translation updated at 2020-08-09 02:04
+
+# game/code/d07/d07s04mh.rpy:204
+translate russian replay_d07s04mh_80a1113c:
+
+    # mc "Don't know, but it should be a fair number of points!"
+    mc "Don't know, but it should be a fair number of points!"
+
