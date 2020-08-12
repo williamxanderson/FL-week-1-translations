@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-19 01:53
+﻿# TODO: Translation updated at 2020-08-12 14:12
 
 translate french strings:
 
@@ -101,6 +101,10 @@ translate french strings:
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+
+    # renpy/common/00accessibility.rpy:196
+    old "Return"
+    new "Return"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -282,6 +286,18 @@ translate french strings:
     old "File page [text]"
     new "File page [text]"
 
+    # renpy/common/00action_file.rpy:631
+    old "Page {}"
+    new "Page {}"
+
+    # renpy/common/00action_file.rpy:631
+    old "Automatic saves"
+    new "Automatic saves"
+
+    # renpy/common/00action_file.rpy:631
+    old "Quick saves"
+    new "Quick saves"
+
     # renpy/common/00action_file.rpy:772
     old "Next file page."
     new "Next file page."
@@ -302,7 +318,7 @@ translate french strings:
     old "Quick load."
     new "Quick load."
 
-    # renpy/common/00action_other.rpy:355
+    # renpy/common/00action_other.rpy:375
     old "Language [text]"
     new "Language [text]"
 
@@ -398,43 +414,43 @@ translate french strings:
     old "Audio Filename:"
     new "Audio Filename:"
 
-    # renpy/common/00gui.rpy:371
+    # renpy/common/00gui.rpy:374
     old "Are you sure?"
     new "Are you sure?"
 
-    # renpy/common/00gui.rpy:372
+    # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
     new "Are you sure you want to delete this save?"
 
-    # renpy/common/00gui.rpy:373
+    # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
     new "Are you sure you want to overwrite your save?"
 
-    # renpy/common/00gui.rpy:374
+    # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
 
-    # renpy/common/00gui.rpy:375
+    # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
     new "Are you sure you want to quit?"
 
-    # renpy/common/00gui.rpy:376
+    # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
 
-    # renpy/common/00gui.rpy:377
+    # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
     new "Are you sure you want to end the replay?"
 
-    # renpy/common/00gui.rpy:378
+    # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
     new "Are you sure you want to begin skipping?"
 
-    # renpy/common/00gui.rpy:379
+    # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
     new "Are you sure you want to skip to the next choice?"
 
-    # renpy/common/00gui.rpy:380
+    # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Are you sure you want to skip unseen dialogue to the next choice?"
 
