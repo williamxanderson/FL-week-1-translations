@@ -34,7 +34,7 @@ translate spanish d02s11b_f56219c8:
 translate spanish d02s11b_548e3b64:
 
     # mes "You keep your eyes down - don't look at me. We pose for 3 photos:{w} one with your tongue on my clit{w}, one with your tongue in my cunt{w}, and one with your mouth wide open covering my entire slit."
-    mes "Mantén tus ojos abajo - no me mires. Posamos para 3 fotos:{w} una con tu lengua en mi clítoris{w}, (otra con tu lengua en mi coño{w}, y otra con tu boca abierta cubriendo toda mi raja"
+    mes "Mantén tus ojos abajo - no me mires. Posamos para 3 fotos:{w} una con tu lengua en mi clítoris{w}, otra con tu lengua en mi coño{w}, y otra con tu boca abierta cubriendo toda mi raja."
 
 # game/code/d02/d02s11b.rpy:74
 translate spanish d02s11b_c8070e56:
@@ -52,7 +52,7 @@ translate spanish d02s11b_6092e371:
 translate spanish d02s11b_68cc6999:
 
     # mc "Understood. I have one question."
-    mc "Entendido. pero tengo una pregunta."
+    mc "Entendido, pero tengo una pregunta."
 
 # game/code/d02/d02s11b.rpy:79
 translate spanish d02s11b_322dc2a1:
@@ -258,7 +258,6 @@ translate spanish replay_d02s11b_2dad8ed4:
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
     "[mcname] presionó su lengua contra su clítoris. En el momento de este toque [mcname] fue capaz de sentir una pequeña temblor en los músculos de Min estremeciéndose, quitándole el placer de estar concentrado."
 
-
 # game/code/d02/d02s11b.rpy:209
 translate spanish replay_d02s11b_8acf1586:
 
@@ -311,7 +310,7 @@ translate spanish replay_d02s11b_d9521958:
 translate spanish replay_d02s11b_a89139dc:
 
     # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Huh, Que tal sí pruebo un poco de sangre.{w} Sabe a hierro...{w} ¿Por qué sé a qué sabe el hierro?"
+    mct "Huh, que tal sí pruebo un poco de sangre.{w} Sabe a hierro...{w} ¿Por qué sé a qué sabe el hierro?"
 
 # game/code/d02/d02s11b.rpy:242
 translate spanish replay_d02s11b_33f8dab7:
@@ -329,7 +328,7 @@ translate spanish replay_d02s11b_32df4632:
 translate spanish replay_d02s11b_e5cb2ce8:
 
     # mes "YES! OH YES! PLEASE LET ME CUM!!"
-    mes "SI! ¡OH, SÍ! ¡¡POR FAVOR, DÉJAME CORRERME!!"
+    mes "SÍ! ¡OH, SÍ! ¡¡POR FAVOR, DÉJAME CORRERME!!"
 
 # game/code/d02/d02s11b.rpy:248
 translate spanish replay_d02s11b_957fef2f:
@@ -366,7 +365,7 @@ translate spanish replay_d02s11b_60314aff:
 translate spanish replay_d02s11b_41e24afe:
 
     # mc "I'm glad we could help each other out, with this challenge."
-    mc "Me alegro de que podamos ayudarnos mutuamente, con este desafío"
+    mc "Me alegro de que podamos ayudarnos mutuamente, con este desafío."
 
 # game/code/d02/d02s11b.rpy:266
 translate spanish replay_d02s11b_b66575e4:
@@ -480,7 +479,7 @@ translate spanish strings:
 
     # game/code/d02/d02s11b.rpy:225
     old "She didn't say I {i}have{/i} to stop"
-    new "Ella no dijo que {i}Tengo{/i} que parar"
+    new "Ella no dijo que {i}tengo{/i} que parar"
 
     # game/code/d02/d02s11b.rpy:271
     old "Leave quietly"

@@ -232,7 +232,7 @@ translate spanish replay_d02s12_41830349:
 translate spanish replay_d02s12_146e4232:
 
     # pw "I would say that you were a lesbian."
-    pw "Diría que eres lesbiana"
+    pw "Diría que eres lesbiana."
 
 # game/code/d02/d02s12.rpy:234
 translate spanish replay_d02s12_62798c5e:
