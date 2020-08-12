@@ -580,7 +580,7 @@ translate chinese d01s02_75652096:
 translate chinese d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
-    mc 当然，在那见面，对了，谢谢你告诉我这个软件，我会好好看看的."
+    mc "当然，在那见面，对了，谢谢你告诉我这个软件，我会好好看看的."
 
 # game/code/d01/s02.rpy:294
 translate chinese d01s02_9ea2f78c:
@@ -604,7 +604,7 @@ translate chinese replay_d01s02_4cd44184:
 translate chinese replay_d01s02_f3b3d28f:
 
     # mc "What's wrong?"
-    mc "怎么了
+    mc "怎么了?"
 
 # game/code/d01/s02.rpy:301
 translate chinese replay_d01s02_b199b51f:

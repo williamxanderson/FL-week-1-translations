@@ -70,7 +70,7 @@ translate spanish d02s11b_2d6b93d8:
 translate spanish d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "Mr.D1cky tiene miedo de un poco de sangre o algo así. No quiere "montar \"la ola roja\" ni siquiera por mí.{w} Ni siquiera para los desafíos de FL".
+    mes "Mr.D1cky tiene miedo de un poco de sangre o algo así. No quiere montar \"la ola roja\" ni siquiera por mí.{w} Ni siquiera para los desafíos de FL."
 
 # game/code/d02/d02s11b.rpy:84
 translate spanish d02s11b_432f3c5e:
@@ -130,7 +130,7 @@ translate spanish replay_d02s11b_c71d7213:
 translate spanish replay_d02s11b_4b0eff93:
 
     # mct "Beautiful. Looks like she lost the skirt."
-    mct "Hermosa. Parece que ha perdido la falda".
+    mct "Hermosa. Parece que ha perdido la falda."
 
 # game/code/d02/d02s11b.rpy:121
 translate spanish replay_d02s11b_e22e1c14:
@@ -244,7 +244,7 @@ translate spanish replay_d02s11b_6be4487b:
 translate spanish replay_d02s11b_c4cccedc:
 
     # mes "Maybe you will quit staring?"
-    mes ¿Quizás deberías dejar mirar?"
+    mes "¿Quizás deberías dejar mirar?"
 
 # game/code/d02/d02s11b.rpy:198
 translate spanish replay_d02s11b_bff1902c:
@@ -317,7 +317,7 @@ translate spanish replay_d02s11b_a89139dc:
 translate spanish replay_d02s11b_33f8dab7:
 
     # "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
-    ""Las acciones de [mcname] llevaron a una excitada Min a la cima de su placer. ¡Su coño anhelaba tanta atención!"
+    "Las acciones de [mcname] llevaron a una excitada Min a la cima de su placer. ¡Su coño anhelaba tanta atención!"
 
 # game/code/d02/d02s11b.rpy:243
 translate spanish replay_d02s11b_32df4632:
