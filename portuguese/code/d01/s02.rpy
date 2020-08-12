@@ -95,7 +95,7 @@ translate portuguese d01s02_f9a2df6c:
 translate portuguese d01s02_74e404bd:
 
     # mc "Managed to get a detention today."
-    mc "Consegui arranjar detenção hoje."
+    mc "Consegui arranjar uma detenção hoje."
 
 # game/d01/s02.rpy:127
 translate portuguese d01s02_bb801ea7:
@@ -1147,37 +1147,37 @@ translate portuguese strings:
 translate portuguese d01s02_94ba6d1d:
 
     # mc "Yeah, I heard them talking about some kind of party."
-    mc "Yeah, I heard them talking about some kind of party."
+    mc "Aham, Eu ouvi eles falarem sobre uma festa."
 
 # game/code/d01/s02.rpy:191
 translate portuguese d01s02_ed823cb2:
 
     # kb "Yeah, she is doing great!"
-    kb "Yeah, she is doing great!"
+    kb "Simm, Ela está otima!"
 
 # game/code/d01/s02.rpy:247
 translate portuguese d01s02_fcbe40cd:
 
     # fl "Do you like Cumshot fetish?"
-    fl "Do you like Cumshot fetish?"
+    fl "Você gosta de fetish de gozada? (Cumshot)"
 
 # game/code/d01/s02.rpy:256
 translate portuguese d01s02_f6203809:
 
     # kb "About Cumshot?"
-    kb "About Cumshot?"
+    kb "Sobre gozada? (Cumshot)"
 
 # game/code/d01/s02.rpy:264
 translate portuguese d01s02_cdd73384:
 
     # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-    kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
+    kb "Simm, Funciona de um jeito um pouco diferente e o aplicativo ta sempre mudando. Algumas vezes, aparecem umas paradas bizarras. Você vai ver."
 
 # game/code/d01/s02.rpy:280
 translate portuguese d01s02_025dccec:
 
     # "A couple minutes later."
-    "A couple minutes later."
+    "Alguns minutos depois."
 
 # game/code/d01/s02.rpy:297
 translate portuguese replay_d01s02_699878f6:
@@ -1195,13 +1195,13 @@ translate portuguese replay_d01s02_4cd44184:
 translate portuguese replay_d01s02_f3b3d28f:
 
     # mc "What's wrong?"
-    mc "What's wrong?"
+    mc "Qual o problema?"
 
 # game/code/d01/s02.rpy:301
 translate portuguese replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "You were gone for two weeks and when you get back you don't even say Hi!"
+    arj "Você ficou fora por duas semanas e agora que volta, não da nem um Oi!"
 
 # game/code/d01/s02.rpy:303
 translate portuguese replay_d01s02_ed0f5321:
@@ -1213,13 +1213,13 @@ translate portuguese replay_d01s02_ed0f5321:
 translate portuguese replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-    arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
+    arj "Aham, você tava tão distraido tentando ouvir o que estavam falando sobre a Lydia."
 
 # game/code/d01/s02.rpy:307
 translate portuguese replay_d01s02_507086ef:
 
     # mc "Oh, that. Sorry."
-    mc "Oh, that. Sorry."
+    mc "Ah, isso. Desculpa."
 
 # game/code/d01/s02.rpy:311
 translate portuguese replay_d01s02_015d20de:
@@ -1231,38 +1231,38 @@ translate portuguese replay_d01s02_015d20de:
 translate portuguese replay_d01s02_632ff841:
 
     # mct "Holy shit!"
-    mct "Holy shit!"
+    mct "Caraalho!"
 
 # game/code/d01/s02.rpy:313
 translate portuguese replay_d01s02_ab7d5066:
 
     # mct "I knew something was going on!"
-    mct "I knew something was going on!"
+    mct "Sabia que tinha alguma coisa acontecendo!"
 
 # game/code/d01/s02.rpy:316
 translate portuguese replay_d01s02_dbccc912:
 
     # arj "Are you distracted again?"
-    arj "Are you distracted again?"
+    arj "Você ta distraído de novo?"
 
 # game/code/d01/s02.rpy:318
 translate portuguese replay_d01s02_ed592207:
 
     # mc "No! Just trying to listen to the lecture, you know?"
-    mc "No! Just trying to listen to the lecture, you know?"
+    mc "Não! Só tentando ouvir a aula, ta ligada?" 
 
 # game/code/d01/s02.rpy:320
 translate portuguese replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
-    arj "C'mon, like, you never listen in history class."
+    arj "Nem vem, tipo, você nunca ouve a aula de história."
 
 # game/code/d01/s02.rpy:322
 translate portuguese replay_d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-
+    mc "Verdade, mas não precisa ficar puta. Eu trouxe um filme, você vai gostar."
+    
 # game/code/d01/s02.rpy:324
 translate portuguese replay_d01s02_84a64c74:
 
@@ -1273,73 +1273,73 @@ translate portuguese replay_d01s02_84a64c74:
 translate portuguese replay_d01s02_eaf4eca4:
 
     # arj "You know how to get out of trouble."
-    arj "You know how to get out of trouble."
+    arj "Você sabe como se livrar de um problema."
 
 # game/code/d01/s02.rpy:327
 translate portuguese replay_d01s02_80c2ad2e:
 
     # arj "What kind of movie is it?"
-    arj "What kind of movie is it?"
+    arj "Que tipo de filme que é?"
 
 # game/code/d01/s02.rpy:330
 translate portuguese replay_d01s02_0e7f0158:
 
     # mct "Damn!"
-    mct "Damn!"
+    mct "PQP!"
 
 # game/code/d01/s02.rpy:331
 translate portuguese replay_d01s02_9f24c4a8:
 
     # mct "I need to focus on what AmRose saying... {w}But I can't!"
-    mct "I need to focus on what AmRose saying... {w}But I can't!"
+    mct "Eu preciso focar no que a AmRose ta dizendo... {w}Mas eu não consigo!"
 
 # game/code/d01/s02.rpy:334
 translate portuguese replay_d01s02_7ab8cb7f:
 
     # arj "Are you there?!"
-    arj "Are you there?!"
+    arj "Você ta ai?!"
 
 # game/code/d01/s02.rpy:336
 translate portuguese replay_d01s02_ee6bbee0:
 
     # mc "Yeah! Sure."
-    mc "Yeah! Sure."
+    mc "Sim! Claro."
 
 # game/code/d01/s02.rpy:338
 translate portuguese replay_d01s02_3c7c87f9:
 
     # arj "What did I just ask you?"
-    arj "What did I just ask you?"
+    arj "O que que eu acabei de te perguntar?"
 
 # game/code/d01/s02.rpy:344
 translate portuguese replay_d01s02_b5006555:
 
     # mc "You asked about the movie!"
-    mc "You asked about the movie!"
+    mc "Você me perguntou sobre o filme!"
 
 # game/code/d01/s02.rpy:345
 translate portuguese replay_d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
-    mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
+    mc "E eu não vou te falar sobre o que é. Você vai gostar, tenho certeza."
 
 # game/code/d01/s02.rpy:349
 translate portuguese replay_d01s02_7bb488f1:
 
     # mc "You were talking about me not listening History lectures?"
-    mc "You were talking about me not listening History lectures?"
+    mc "Você tava falando sobre eu não prestar atenção nas aulas de História?"
 
 # game/code/d01/s02.rpy:353
 translate portuguese replay_d01s02_37f824cb:
 
     # mc "Me not being here for two weeks?"
-    mc "Me not being here for two weeks?"
+    mc "Sobre eu não estar por aqui nas ultimas duas semanas?"
 
 # game/code/d01/s02.rpy:356
 translate portuguese replay_d01s02_71b6273b:
 
     # arj "No! That's not what I asked."
-    arj "No! That's not what I asked."
+    arj "Não! Não foi isso que eu perguntei."
 
 # game/code/d01/s02.rpy:358
 translate portuguese replay_d01s02_4cd44184_1:
@@ -1351,133 +1351,133 @@ translate portuguese replay_d01s02_4cd44184_1:
 translate portuguese replay_d01s02_968cf464:
 
     # mct "Seems like I really pissed her off."
-    mct "Seems like I really pissed her off."
+    mct "Parece que eu realmente irritei ela."
 
 # game/code/d01/s02.rpy:363
 translate portuguese replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    arj "Hmmm. I might forgive you ... but only if we watch it together!"
+    arj "Hmmm. Eu posso até te perdoar ... mas só se a gente assistir juntos!"
 
 # game/code/d01/s02.rpy:365
 translate portuguese replay_d01s02_15f6a903:
 
     # mc "Sure, we can do that!"
-    mc "Sure, we can do that!"
+    mc "Claro, a gente pode fazer isso!"
 
 # game/code/d01/s02.rpy:368
 translate portuguese replay_d01s02_cf97b7f3:
 
     # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
-    mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
+    mct "Como será que eu sou o único que está vendo isso?! Eles tão fazendo na primeira fileira!"
 
 # game/code/d01/s02.rpy:369
 translate portuguese replay_d01s02_bb084984:
 
     # mct "She going faster and faster."
-    mct "She going faster and faster."
+    mct "Ela vai cada vez mais rapido."
 
 # game/code/d01/s02.rpy:370
 translate portuguese replay_d01s02_018ed043:
 
     # mct "How much longer can Antony last?"
-    mct "How much longer can Antony last?"
+    mct "Quanto tempo ainda sera que o Antony vai aguentar?"
 
 # game/code/d01/s02.rpy:373
 translate portuguese replay_d01s02_918fea83:
 
     # mc "I'm sorry."
-    mc "I'm sorry."
+    mc "Me desculpa."
 
 # game/code/d01/s02.rpy:374
 translate portuguese replay_d01s02_786a7cd7:
 
     # mct "Looks like she isn't going to talk to me anymore."
-    mct "Looks like she isn't going to talk to me anymore."
+    mct "Parece que ela não vai mais falar comigo."
 
 # game/code/d01/s02.rpy:378
 translate portuguese replay_d01s02_5c581103:
 
     # arj "Then it's a deal! We'll watch it tonight."
-    arj "Then it's a deal! We'll watch it tonight."
+    arj "Fechado então! A gente assiste hoje a noite."
 
 # game/code/d01/s02.rpy:380
 translate portuguese replay_d01s02_1e1e3d11:
 
     # mc "Tonight may be complicated ..."
-    mc "Tonight may be complicated ..."
+    mc "Hoje a nooite pode ser um pouco complicado ..."
 
 # game/code/d01/s02.rpy:382
 translate portuguese replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-    mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-
+    mc "Eu tenho que botar o lixo pra fora depois do jogo de basquete porque a Srta. Waller viu uma garota saindo do nosso quarto hoje cedo."
+    
 # game/code/d01/s02.rpy:384
 translate portuguese replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
-    arj "You brought a girl to your room?!"
+    arj "Você levou uma garota pro seu quarto?!"
 
 # game/code/d01/s02.rpy:386
 translate portuguese replay_d01s02_3a95b93e:
 
     # mc "No! Pete did."
-    mc "No! Pete did."
+    mc "Não! O Pete levou."
 
 # game/code/d01/s02.rpy:388
 translate portuguese replay_d01s02_d527faec:
 
     # arj "Then why did you get in trouble?"
-    arj "Then why did you get in trouble?"
+    arj "Então por que você que se meteu em problema?"
 
 # game/code/d01/s02.rpy:391
 translate portuguese replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
+    mc "Nós dois nos encrencamos. Mas a Srta. Waller não liga pra quem é responsável. Ela disse que como dividimos o quarto, dividimos a responsabilidade." 
 
 # game/code/d01/s02.rpy:393
 translate portuguese replay_d01s02_23b83d84:
 
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
-    mc "I was just put in a bad spot and it isn't cool to rat out your friends."
+    mc "Eu só estava no lugar e na hora errada, não é legal dedurar um amigo."
 
 # game/code/d01/s02.rpy:395
 translate portuguese replay_d01s02_bbfa59bc:
 
     # arj "Oh, so you're just being a good friend."
-    arj "Oh, so you're just being a good friend."
+    arj "Ahh, você só estava sendo um bom amigo então."
 
 # game/code/d01/s02.rpy:397
 translate portuguese replay_d01s02_46c4606b:
 
     # mc "I promised to hang with Pete tonight."
-    mc "I promised to hang with Pete tonight."
+    mc "Eu prometi que ia sair com o Pete hoje a noite."
 
 # game/code/d01/s02.rpy:399
 translate portuguese replay_d01s02_ccc69cb6:
 
     # arj "Hmmm. I see."
-    arj "Hmmm. I see."
+    arj "Hmmm. Entendo."
 
 # game/code/d01/s02.rpy:402
 translate portuguese replay_d01s02_3f29ebba:
 
     # mct "Is he gonna to finish now?!"
-    mct "Is he gonna to finish now?!"
+    mct "Ele vai gozar agora?!"
 
 # game/code/d01/s02.rpy:406
 translate portuguese replay_d01s02_91b13306:
 
     # mct "Oh my God! He just came in her hand!"
-    mct "Oh my God! He just came in her hand!"
+    mct "Meeu Deus! Ele acabou de gozar na mão dela!"
 
 # game/code/d01/s02.rpy:407
 translate portuguese replay_d01s02_1ec6e58e:
 
     # mct "That's actually really hot!"
-    mct "That's actually really hot!"
+    mct "Isso é muito sexy!"
 
 # game/code/d01/s02.rpy:412
 translate portuguese replay_d01s02_4cd44184_2:
@@ -1489,37 +1489,37 @@ translate portuguese replay_d01s02_4cd44184_2:
 translate portuguese replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
-    mc "But we can watch it later ... after I'm finished."
+    mc "Mas a gente pode assistir depois ... Depois de eu ter terminado."
 
 # game/code/d01/s02.rpy:420
 translate portuguese replay_d01s02_b065aa01:
 
     # arj "Okay. that sounds cool."
-    arj "Okay. that sounds cool."
+    arj "Okay. Tranquilo então."
 
 # game/code/d01/s02.rpy:423
 translate portuguese replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "I already saw it anyway. I just wanted you to see it."
+    mc "De qualquer jeito eu já vi ele. Eu queria era que você assistisse."
 
 # game/code/d01/s02.rpy:426
 translate portuguese replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
+    arj "Eu acho que devia ficar feliz só pelo fato de você ter trazido alguma coisa pra mim né. Eu esperava era fazer alguma coisa junto com você."
 
 # game/code/d01/s02.rpy:427
 translate portuguese replay_d01s02_ca5f0fd9:
 
     # mct "Damn! She's acting so different! Does she wanna go out?!"
-    mct "Damn! She's acting so different! Does she wanna go out?!"
+    mct "Poutz! Ela ta agindo tão diferente! Sera que ela quer um encontro?!"
 
 # game/code/d01/s02.rpy:428
 translate portuguese replay_d01s02_ad429af8:
 
     # mct "Her body language is definitely flirtatious!"
-    mct "Her body language is definitely flirtatious!"
+    mct "A linguagem corporal dela com certeza é de quem está flertando!"
 
 # game/code/d01/s02.rpy:431
 translate portuguese replay_d01s02_4cd44184_3:
@@ -1531,7 +1531,7 @@ translate portuguese replay_d01s02_4cd44184_3:
 translate portuguese replay_d01s02_578606f6:
 
     # mct "Did she just swallow his whole load?"
-    mct "Did she just swallow his whole load?"
+    mct "Ela simplesmente engoliu toda aquela porra?"
 
 # game/code/d01/s02.rpy:436
 translate portuguese replay_d01s02_015d20de_1:
@@ -1543,55 +1543,55 @@ translate portuguese replay_d01s02_015d20de_1:
 translate portuguese replay_d01s02_27953c55:
 
     # mct "That's ..."
-    mct "That's ..."
+    mct "Aquilo ..."
 
 # game/code/d01/s02.rpy:438
 translate portuguese replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
-    mct "That's probably the hottest thing I've seen in my life!"
+    mct "Provavelmente é a coisa mais sexy que eu já vi na minha vida!"
 
 # game/code/d01/s02.rpy:444
 translate portuguese replay_d01s02_3090eac0:
 
     # arj "So, are you distracted again?"
-    arj "So, are you distracted again?"
+    arj "Então, você ta distraido de novo?"
 
 # game/code/d01/s02.rpy:448
 translate portuguese replay_d01s02_ee89dd2b:
 
     # mc "Sorry AmRose, I have to study for the exams."
-    mc "Sorry AmRose, I have to study for the exams."
+    mc "Desculpa AmRose, Eu preciso estudar pras provas."
 
 # game/code/d01/s02.rpy:451
 translate portuguese replay_d01s02_39681987:
 
     # arj "Okay. Sure, I understand."
-    arj "Okay. Sure, I understand."
+    arj "Okay. Tudo bem, Eu entendo."
 
 # game/code/d01/s02.rpy:456
 translate portuguese replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
+    mc "Hmmm. Eu não sabia que você podia ser tão persuasivo! Fechado, vamos hoje assistir hoje a noite."
 
 # game/code/d01/s02.rpy:457
 translate portuguese replay_d01s02_8ba3d6f6:
 
     # arj "That sounds great."
-    arj "That sounds great."
+    arj "Perfeito."
 
 # game/code/d01/s02.rpy:459
 translate portuguese replay_d01s02_a879797f:
 
     # mct "Okay. Seems like the lecture is almost over ..."
-    mct "Okay. Seems like the lecture is almost over ..."
+    mct "Okay. Parece que a aula ta quase acabando ..."
 
 # game/code/d01/s02.rpy:460
 translate portuguese replay_d01s02_300e3d8a:
 
     # mct "just a little longer."
-    mct "just a little longer."
+    mct "só mais um tempinho."
 
 # game/code/d01/s02.rpy:465
 translate portuguese replay_d01s02_5c98fad5:
@@ -1603,7 +1603,7 @@ translate portuguese replay_d01s02_5c98fad5:
 translate portuguese replay_d01s02_015d87b4:
 
     # arjt "What?!"
-    arjt "What?!"
+    arjt "O que?!"
 
 # game/code/d01/s02.rpy:469
 translate portuguese replay_d01s02_de6c46e2:
@@ -1615,55 +1615,55 @@ translate portuguese replay_d01s02_de6c46e2:
 translate portuguese replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
+    arjt "[mcname] teve uma ereção! Eu esperava que ele quisesse ver o filme comigo, mas será que ele ta esperando algo a mais do que só um filme?!"
 
 # game/code/d01/s02.rpy:472
 translate portuguese replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
-    arjt "I'm sure he is. He just got super hard when I invited him."
+    arjt "Eu tenho certeza que sim! Ele ficou super duro quando eu convidei ele."
 
 # game/code/d01/s02.rpy:476
 translate portuguese replay_d01s02_ae5cc99b:
 
     # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    arjt "What should I do?! We were friends for so long. He never showed any interest in me."
+    arjt "O que sera que eu faço? A gente é amigo por tanto tempo. Ele nunca demonstrou nenhum interesse em mim."
 
 # game/code/d01/s02.rpy:477
 translate portuguese replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
+    arjt "E ele é {b}TÃO{/b} afim da Lydia! Ele realmente esqueceu sobre ela?! Eu to {b}TÃO{/b} confusa."
 
 # game/code/d01/s02.rpy:480
 translate portuguese replay_d01s02_55d3d3cd:
 
     # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
+    mct "PQP! Eu to tão duro depois de ver a Min engolir toda aquela porra do Antony!"
 
 # game/code/d01/s02.rpy:482
 translate portuguese replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
-    mct "Oh man! I'm so hard after I saw Min jerking Antony off."
+    mct "PQP! Eu to tão duro depois de ver a Min batendo aquela punheta pro Antony."
 
 # game/code/d01/s02.rpy:483
 translate portuguese replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
-    mct "I hope I can walk out of class without someone noticing my hard dick."
+    mct "Espero que eu consiga sair andando da sala sem ninguém perceber que eu to de pau duro."
 
 # game/code/d01/s02.rpy:487
 translate portuguese replay_d01s02_9096c34d:
 
     # mc "See ya tonight!"
-    mc "See ya tonight!"
+    mc "Até anoite então!"
 
 # game/code/d01/s02.rpy:489
 translate portuguese replay_d01s02_4c85d272:
 
     # mc "See ya!"
-    mc "See ya!"
+    mc "Até!"
 
 # game/code/d01/s02.rpy:492
 translate portuguese replay_d01s02_c484e8d4:
@@ -1675,9 +1675,9 @@ translate portuguese strings:
 
     # game/code/d01/s02.rpy:270
     old "Yes, I like Cumshots"
-    new "Yes, I like Cumshots"
+    new "Sim, Eu gosto de gozadas (Cumshots)"
 
     # game/code/d01/s02.rpy:270
     old "No, Cumshot is not my fetish"
-    new "No, Cumshot is not my fetish"
+    new "Não, Gozadas (cumshot) não são meu Fetish"
 
