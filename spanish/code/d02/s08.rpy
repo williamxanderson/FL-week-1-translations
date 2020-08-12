@@ -154,7 +154,7 @@ translate spanish d02s08_62046bc5:
 translate spanish d02s08_02110e2b:
 
     # mct "But it seems I'm not waiting here for her."
-    mct "Pero parece que no la estoy esperando a ella"
+    mct "Pero parece que no la estoy esperando a ella."
 
 # game/code/d02/s08.rpy:99
 translate spanish d02s08_28d847c4:

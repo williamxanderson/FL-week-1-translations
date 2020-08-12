@@ -292,7 +292,7 @@ translate spanish replay_d02s07_66f66cf3:
 translate spanish replay_d02s07_af60218e:
 
     # mct "I pee in the shower too. But should I watch how she does it?"
-    mct "Yo también orino en la ducha, ¿pero debería verla?"
+    mct "Yo también orino en la ducha. ¿Pero debería verla?"
 
 # game/code/d02/s07.rpy:243
 translate spanish replay_d02s07_a7b96636:

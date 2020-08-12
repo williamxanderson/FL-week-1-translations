@@ -413,7 +413,7 @@ translate spanish d02s09_e0a09915:
 
     # mc "Well think about it! You can make a discount for couples to have more students to come here for dates. Or even open a blind date club to attract everyone!"
     mc "¡Solo piénsalo! Puedes hacer descuentos para parejas y así tener más estudiantes que vengan y tengan citas. ¡O incluso abrir un club de citas a ciegas para atraer a todo el mundo!"
-
+z
 # game/code/d02/d02s09.rpy:169
 translate spanish d02s09_c16403b5:
 
@@ -460,7 +460,7 @@ translate spanish d02s09_87a9b2ca:
 translate spanish d02s09_9a6dd376:
 
     # nk "Wow! Yeah I thought so. {w}I'm flattered and it has been a while...{w} Maybe even a long time... {w}And you are kind of cute! But I don’t do ..."
-    nk "¡Wow! Lo sabía. {w}Estoy halagada y ha pasado tiempo...{w} Tal vez mucho tiempo... {w}¡Y eres lindo y tiernp! Pero no lo sé..."
+    nk "¡Wow! Lo sabía. {w}Estoy halagada y ha pasado tiempo...{w} Tal vez mucho tiempo... {w}¡Y eres lindo y tierno! Pero no lo sé..."
 
 # game/code/d02/d02s09.rpy:184
 translate spanish d02s09_dfd57158:
