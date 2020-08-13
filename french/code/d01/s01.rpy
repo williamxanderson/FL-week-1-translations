@@ -34,8 +34,8 @@ translate french d01s01_8b232835:
 translate french d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "C'est ma seconde année d'étude en administiration des affaires. Je ne suis pas sûr d'aimer ça mais au moins je suis doué."
-                                                                      
+    mct "C'est ma seconde année d'étude en administration des affaires. Je ne suis pas sûr d'aimer ça mais au moins je suis doué."
+
 # game/code/d01/s01.rpy:39
 translate french d01s01_308f75bc:
 
@@ -58,7 +58,7 @@ translate french d01s01_16024863:
 translate french d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "Avant ça j'étais loin d'être prêt, du coup je devrais passer plus de temps à étudier pour réussir."                                        
+    mct "Avant ça j'étais loin d'être prêt, du coup je devrais passer plus de temps à étudier pour réussir."
 
 # game/code/d01/s01.rpy:44
 translate french d01s01_74274f26:
@@ -202,7 +202,7 @@ translate french d01s01_6dc48fae:
 translate french d01s01_44fd0ea8:
 
     # "Girl" "What the fuck?!"
-    "Girl" "C'est quoi ce bordel?!"
+    "Fille" "C'est quoi ce bordel?!"
 
 # game/code/d01/s01.rpy:94
 translate french d01s01_72057db8:
@@ -214,7 +214,7 @@ translate french d01s01_72057db8:
 translate french d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "Girl" "T'es {i}qui{/i} putain?!"
+    "Fille" "T'es {i}qui{/i} putain?!"
 
 # game/code/d01/s01.rpy:98
 translate french d01s01_e514adfa:
@@ -262,7 +262,7 @@ translate french d01s01_6e61b5a0:
 translate french d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "Girl" "Ouais? {i}CONNARD!{/i} Tu te souviens même pas de mon nom?!"
+    "Fille" "Ouais? {i}CONNARD!{/i} Tu te souviens même pas de mon nom?!"
 
 # game/code/d01/s01.rpy:109
 translate french d01s01_54356a5f:
@@ -280,13 +280,13 @@ translate french d01s01_6778a0fc:
 translate french d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "Girl" "VA TE FAIRE FOUTRE! Qu'est-ce que je croyais?! T'es un enfoiré! Tu voulais juste une bonne baise!"
+    "Fille" "VA TE FAIRE FOUTRE! Qu'est-ce que je croyais?! T'es un enfoiré! Tu voulais juste une bonne baise!"
 
 # game/code/d01/s01.rpy:117
 translate french d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "Girl" "Et toi aussi va te faire foutre! Pervers!"
+    "Fille" "Et toi aussi va te faire foutre! Pervers!"
 
 # game/code/d01/s01.rpy:119
 translate french d01s01_fec04e89:
@@ -688,7 +688,7 @@ translate french d01s01_shower_e2f0143d:
 translate french d01s01_shower_aeb373b5:
 
     # zw "You know that girls aren't allowed to be in the boys dorm after midnight!"
-    zw "Vous savez que les filles ne sont pas autorisées dans les dortoires des garçons après minuit!"
+    zw "Vous savez que les filles ne sont pas autorisées dans les dortoirs des garçons après minuit!"
 
 # game/code/d01/s01.rpy:258
 translate french d01s01_shower_1883b0c1:

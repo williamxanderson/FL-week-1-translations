@@ -130,7 +130,7 @@ translate french d01s02_3a75ee50:
 translate french d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "Je me suis réveillé ce matin et la première chose devant moi a été une fille super canon...à l'autre bout de la chambre! T'arrives à y croire toi?!"
+    mc "Je me suis réveillé ce matin et la première chose devant moi a été une fille super canon... à l'autre bout de la chambre! T'arrives à y croire toi?!"
 
 # game/code/d01/s02.rpy:140
 translate french d01s02_28e2321d:
@@ -142,7 +142,7 @@ translate french d01s02_28e2321d:
 translate french d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "Si seulement c'était la mienne. Pete l'a ramenée dans notre chambre...et tu sais comment c'est risqué avec notre conseillère de la résidence!"
+    mc "Si seulement c'était la mienne. Pete l'a ramenée dans notre chambre... et tu sais comment c'est risqué avec notre conseillère de la résidence!"
 
 # game/code/d01/s02.rpy:144
 translate french d01s02_b11c099d:
@@ -184,7 +184,7 @@ translate french d01s02_0bd30138:
 translate french d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Ma [game.stacytitle] soeur va venir étudier ici. Je suis retourné à la maison pour l'aider à faire ses valises, puis suis tombé malade, et j'ai dû rester jusqu'à me sentir assez bien pour voyager à nouveau."
+    mc "Ma [game.stacytitle] va venir étudier ici. Je suis retourné à la maison pour l'aider à faire ses valises, puis suis tombé malade, et j'ai dû rester jusqu'à me sentir assez bien pour voyager à nouveau."
 
 # game/code/d01/s02.rpy:158
 translate french d01s02_b2a40943:
@@ -226,7 +226,7 @@ translate french d01s02_d8095c2a:
 translate french d01s02_4bc28f05:
 
     # kb "Hmm...maybe they want to throw a party to celebrate the fact they're back together?"
-    kb "Hmm...peut-être qu'ils organisent une fête pour célébrer le fait qu'ils sortent de novueau ensemble?"
+    kb "Hmm... peut-être qu'ils organisent une fête pour célébrer le fait qu'ils sortent de novueau ensemble?"
 
 # game/code/d01/s02.rpy:171
 translate french d01s02_0999e95f:
@@ -262,7 +262,7 @@ translate french d01s02_3d70f645:
 translate french d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "J'étais tellement fatigué que j'aurais pu dormir pendant un tremblement de terre {i}...et c'est probablement ce que j'ai fait{/i} après avoir étudié. J'ai même pas entendu Pete baiser cette meuf!"
+    mc "J'étais tellement fatigué que j'aurais pu dormir pendant un tremblement de terre {i}... et c'est probablement ce que j'ai fait{/i} après avoir étudié. J'ai même pas entendu Pete baiser cette meuf!"
 
 # game/code/d01/s02.rpy:182
 translate french d01s02_680a44d1:
@@ -286,7 +286,7 @@ translate french d01s02_57555de8:
 translate french d01s02_26e102ad:
 
     # kb "We went out with Chloe...had some fun."
-    kb "On est sorti avec Chloe...on s'est amusé."
+    kb "On est sorti avec Chloe... on s'est amusé."
 
 # game/code/d01/s02.rpy:189
 translate french d01s02_34948fd5:
@@ -346,7 +346,7 @@ translate french d01s02_88853ef5:
 translate french d01s02_770c683b:
 
     # mc "Hmm...aren't \"looking for sex\" apps mostly dudes? And all the girls fake?"
-    mc "Hmm...les applications \"pour trouver du cul\" ne sont pas principalement remplies de mecs? Et les filles sont toutes fausses?"
+    mc "Hmm... les applications \"pour trouver du cul\" ne sont pas principalement remplies de mecs? Et les filles sont toutes fausses?"
 
 # game/code/d01/s02.rpy:209
 translate french d01s02_e8a9d7ec:
@@ -484,7 +484,7 @@ translate french d01s02_2c28bb2f:
 translate french d01s02_f6203809:
 
     # kb "About Cumshot?"
-    kb "A propos de l'éjaculation?"
+    kb "À propos de l'éjaculation?"
 
 # game/code/d01/s02.rpy:258
 translate french d01s02_786856f5:
@@ -520,13 +520,13 @@ translate french d01s02_4076254e:
 translate french d01s02_30d051be:
 
     # mct "Hmmm ... how should I answer?"
-    mct "Hmmm ... comment devrais-je répondre?"
+    mct "Hmmm... comment devrais-je répondre?"
 
 # game/code/d01/s02.rpy:277
 translate french d01s02_2d4947fa:
 
     # mct "Hmmm ... it's not showing or doing anything."
-    mct "Hmmm ... rien ne se passe."
+    mct "Hmmm... rien ne se passe."
 
 # game/code/d01/s02.rpy:279
 translate french d01s02_91e0cd29_1:
@@ -766,7 +766,7 @@ translate french replay_d01s02_968cf464:
 translate french replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    arj "Hmmm. Je pourrais te pardonner ... mais seulement si on le regarde ensemble!"
+    arj "Hmmm. Je pourrais te pardonner... mais seulement si on le regarde ensemble!"
 
 # game/code/d01/s02.rpy:365
 translate french replay_d01s02_15f6a903:
@@ -838,13 +838,13 @@ translate french replay_d01s02_3a95b93e:
 translate french replay_d01s02_d527faec:
 
     # arj "Then why did you get in trouble?"
-    arj "Alors pourquoi es-tu punni?"
+    arj "Alors pourquoi es-tu puni?"
 
 # game/code/d01/s02.rpy:391
 translate french replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "On est tous les deux punnis. Madame Waller s'en foutait de savoir qui était responsable. Elle a dit que comme on partage la chambre, on partage les reponsabilités."
+    mc "On est tous les deux punis. Madame Waller s'en foutait de savoir qui était responsable. Elle a dit que comme on partage la chambre, on partage les responsabilités."
 
 # game/code/d01/s02.rpy:393
 translate french replay_d01s02_23b83d84:
@@ -1072,7 +1072,7 @@ translate french replay_d01s02_9096c34d:
 translate french replay_d01s02_4c85d272:
 
     # mc "See ya!"
-    mc "A toute!"
+    mc "À toute!"
 
 # game/code/d01/s02.rpy:492
 translate french replay_d01s02_c484e8d4:

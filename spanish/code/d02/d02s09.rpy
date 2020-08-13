@@ -413,7 +413,7 @@ translate spanish d02s09_e0a09915:
 
     # mc "Well think about it! You can make a discount for couples to have more students to come here for dates. Or even open a blind date club to attract everyone!"
     mc "¡Solo piénsalo! Puedes hacer descuentos para parejas y así tener más estudiantes que vengan y tengan citas. ¡O incluso abrir un club de citas a ciegas para atraer a todo el mundo!"
-z
+
 # game/code/d02/d02s09.rpy:169
 translate spanish d02s09_c16403b5:
 
