@@ -244,7 +244,7 @@ translate spanish d02s10_73d1f4ff:
 translate spanish d02s10_300e628c:
 
     # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
-    mct "Eso es raro, ¿Cierto?{w} No me cogeria a AmRose y tampoco me cogeria a esta modelo de cam."
+    mct "Eso es raro, ¿Cierto?{w} No me follaría a AmRose y tampoco me follaría a esta modelo de cam."
 
 # game/code/d02/d02s10.rpy:238
 translate spanish d02s10_e00ea774:
@@ -256,7 +256,7 @@ translate spanish d02s10_e00ea774:
 translate spanish d02s10_5ad60719:
 
     # mct "I even kinda want to fap a bit to this forbidden fruit."
-    mct "Estoy sintiendo ganas de masturbarme un poco con este fruto prohibído."
+    mct "Estoy sintiendo ganas de masturbarme un poco con esta fruta prohibída."
 
 # game/code/d02/d02s10.rpy:244
 translate spanish d02s10_eb520b40:
@@ -268,19 +268,19 @@ translate spanish d02s10_eb520b40:
 translate spanish d02s10_57f84374:
 
     # nk "Alright, I’m curious."
-    nk "Esta bien, soy curioso."
+    nk "Esta bien, soy curiosa."
 
 # game/code/d02/d02s10.rpy:249
 translate spanish d02s10_9030ce95:
 
     # mc "Curious about what?"
-    mc "¿Curioso acerca de qué?"
+    mc "¿Curiosa acerca de qué?"
 
 # game/code/d02/d02s10.rpy:250
 translate spanish d02s10_e1de5357:
 
     # nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
-    nk "Quiero decir, estoy de acuerdo. Cerraré el café por 15 minutos cuando llegues aquí."
+    nk "Quiero decir, estoy de acuerdo. Cerraré el Café por 15 minutos cuando llegues aquí."
 
 # game/code/d02/d02s10.rpy:251
 translate spanish d02s10_4db16bed:
@@ -292,7 +292,7 @@ translate spanish d02s10_4db16bed:
 translate spanish d02s10_4f0160a8:
 
     # mc "You can trust me. I’ll be there soon."
-    mc "Puedes confiar en mí. Estaré allí pronto."
+    mc "Puedes confiar en mí. Estaré allí enseguida."
 
 # game/code/d02/d02s10.rpy:254
 translate spanish d02s10_d8fb6f82:
@@ -304,7 +304,7 @@ translate spanish d02s10_d8fb6f82:
 translate spanish d02s10_716148c3:
 
     # mc "Nora agreed. Meet me outside the cafe asap."
-    mc "Nora accedió. Encuentrame afuera del café lo mas rápido posible."
+    mc "Nora accedió. Encuentrame afuera del Café lo mas rápido posible."
 
 # game/code/d02/d02s10.rpy:261
 translate spanish d02s10_7300ceda:
@@ -382,7 +382,7 @@ translate spanish d02s10_b1649fc1:
 translate spanish d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
-    mct "¡Wow! ¿La ganadora de ayer quiere que le coma su vagina?"
+    mct "¡Wow! ¿La ganadora de ayer quiere que le coma la vagina?"
 
 # game/code/d02/d02s10.rpy:286
 translate spanish d02s10_6f34c44b:
@@ -430,13 +430,13 @@ translate spanish d02s10_7ab3ab7d:
 translate spanish d02s10_563cb6d9:
 
     # mct "Let's check how AmRose's stream is going before I go."
-    mct "Veamos como viene el stream de AmRose antes de irme."
+    mct "Veamos como va la transmisión de AmRose antes de irme."
 
 # game/code/d02/d02s10.rpy:300
 translate spanish d02s10_a635648f:
 
     # mct "Let's see how is the girl on the cam-stream is doing."
-    mct "Veamos que esta haciendo la modelo de cam en su stream."
+    mct "Veamos que esta haciendo la modelo de cam en su transmisión."
 
 # game/code/d02/d02s10.rpy:305
 translate spanish d02s10_e948966c:
@@ -454,7 +454,7 @@ translate spanish d02s10_57a81f8b:
 translate spanish d02s10_58714ac6:
 
     # mct "I would love to see how far AmRose will go with her stream..."
-    mct "Me encantara ver que tan lejos llega AmRose en su stream..."
+    mct "Me encantara ver que tan lejos llega AmRose en su transmisión..."
 
 # game/code/d02/d02s10.rpy:311
 translate spanish d02s10_d5f9896f:
@@ -498,7 +498,7 @@ translate spanish strings:
 
     # game/code/d02/d02s10.rpy:312
     old "Go meet & munch Squizzle"
-    new "Ir a conocer y chuparsela a Squizzle"
+    new "Ir a conocer a Squizzle, y chuparsela"
 
     # game/code/d02/d02s10.rpy:312
     old "No Thanks - Do Something Else"
