@@ -406,7 +406,7 @@ translate spanish d02s10_cb43c6ca:
 translate spanish d02s10_c87fcc7e:
 
     # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
-    mct "Min, por otro lado, suena a que quiere ir directo a la acción"
+    mct "Min, por otro lado, suena a que quiere ir directo a la acción."
 
 # game/code/d02/d02s10.rpy:292
 translate spanish d02s10_9c85c14c:
