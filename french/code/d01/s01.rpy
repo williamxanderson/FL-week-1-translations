@@ -4,79 +4,79 @@
 translate french d01s01_e830540f:
 
     # "Day 1"
-    "Day 1"
+    "Jour 1"
 
 # game/code/d01/s01.rpy:31
 translate french d01s01_c294ff8d:
 
     # "6:00 AM"
-    "6:00 AM"
+    "06h00"
 
 # game/code/d01/s01.rpy:33
 translate french d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
+    mct "\"Le meilleur jour de votre vie ne commence jamais avec un réveil.\"{w} Je suis sûr que quelqu'un de très intélligent a dit cela."
 
 # game/code/d01/s01.rpy:35
 translate french d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "But today is not one of those days..."
+    mct "Mais aujourd'hui ce n'est pas l'un de ces jours..."
 
 # game/code/d01/s01.rpy:36
 translate french d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "I never got good grades in school. It was very hard for me to even get into college."
+    mct "Je n'ai jamais eu de bonnes notes à l'école. Ça a même été très dur pour moi d'entrer à l'université."
 
 # game/code/d01/s01.rpy:38
 translate french d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-
+    mct "C'est ma seconde année d'étude en administiration des affaires. Je ne suis pas sûr d'aimer ça mais au moins je suis doué."
+                                                                      
 # game/code/d01/s01.rpy:39
 translate french d01s01_308f75bc:
 
     # mct "It's better to have a diploma than nothing."
-    mct "It's better to have a diploma than nothing."
+    mct "C'est mieux d'avoir un diplôme que rien."
 
 # game/code/d01/s01.rpy:40
 translate french d01s01_5c531e30:
 
     # mct "It's Monday; three weeks left 'til exams."
-    mct "It's Monday; three weeks left 'til exams."
+    mct "On est lundi; trois semaines avant le début des examens."
 
 # game/code/d01/s01.rpy:42
 translate french d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
+    mct "C'est vraiment dommage d'avoir raté les dernières semaines de cours. Ça pourrait avoir un impacte négatif sur mes chances de réussir mon année."
 
 # game/code/d01/s01.rpy:43
 translate french d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
+    mct "Avant ça j'étais loin d'être prêt, du coup je devrais passer plus de temps à étudier pour réussir."                                        
 
 # game/code/d01/s01.rpy:44
 translate french d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
+    mct "Ce serait bien si je pouvais me lever plus tôt pour pas être en retard au cours de Nordin."
 
 # game/code/d01/s01.rpy:46
 translate french d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "And I still don't have a girlfriend."
+    mct "Et en plus j'ai toujours pas de petite amie."
 
 # game/code/d01/s01.rpy:47
 translate french d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "This bothers me more than the fact that I'm completely unprepared for finals."
+    mct "Ça, ça m'ennuie encore plus que le fait d'être complètement désemparé pour mes examens."
 
 # game/code/d01/s01.rpy:48
 translate french d01s01_9a9a27f1:
