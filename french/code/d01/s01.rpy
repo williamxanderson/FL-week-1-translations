@@ -80,7 +80,7 @@ translate french d01s01_74c9f86d:
 
 # game/code/d01/s01.rpy:48
 translate french d01s01_9a9a27f1:
-#DEBUT
+
     # mct "I should probably focus on exams now, and worry about the girls later."
     mct "Je devrais probablement me concentrer sur mes examens maintenant, et m'intéresser aux filles plus tard."
 
