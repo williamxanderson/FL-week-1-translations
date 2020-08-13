@@ -232,275 +232,275 @@ translate spanish d02s10_39515aae:
 translate spanish d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
+    mct "No es que encuentre atractiva a AmRose...{w} esta modelo de cam tampoco lo es."
 
 # game/code/d02/d02s10.rpy:235
 translate spanish d02s10_73d1f4ff:
 
     # mct "But it is kinda hot imagining that could be AmRose."
-    mct "But it is kinda hot imagining that could be AmRose."
+    mct "Pero es un poco exitante imaginar que podría ser AmRose."
 
 # game/code/d02/d02s10.rpy:237
 translate spanish d02s10_300e628c:
 
     # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
-    mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
+    mct "Eso es raro, ¿Cierto?{w} No me cogeria a AmRose y tampoco me cogeria a esta modelo de cam."
 
 # game/code/d02/d02s10.rpy:238
 translate spanish d02s10_e00ea774:
 
     # mct "But I just can’t stop watching this camgirl and thinking it might be AmRose."
-    mct "But I just can’t stop watching this camgirl and thinking it might be AmRose."
+    mct "Pero no puedo para de mirar a esta chica y pensar que podría ser AmRose."
 
 # game/code/d02/d02s10.rpy:239
 translate spanish d02s10_5ad60719:
 
     # mct "I even kinda want to fap a bit to this forbidden fruit."
-    mct "I even kinda want to fap a bit to this forbidden fruit."
+    mct "Estoy sintiendo ganas de masturbarme un poco con este fruto prohibído."
 
 # game/code/d02/d02s10.rpy:244
 translate spanish d02s10_eb520b40:
 
     # mct "Wait, where is my phone?"
-    mct "Wait, where is my phone?"
+    mct "¿Esperá, donde ésta mi teléfono??"
 
 # game/code/d02/d02s10.rpy:248
 translate spanish d02s10_57f84374:
 
     # nk "Alright, I’m curious."
-    nk "Alright, I’m curious."
+    nk "Esta bien, soy curioso."
 
 # game/code/d02/d02s10.rpy:249
 translate spanish d02s10_9030ce95:
 
     # mc "Curious about what?"
-    mc "Curious about what?"
+    mc "¿Curioso acerca de qué?"
 
 # game/code/d02/d02s10.rpy:250
 translate spanish d02s10_e1de5357:
 
     # nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
-    nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
+    nk "Quiero decir, estoy de acuerdo. Cerraré el café por 15 minutos cuando llegues aquí."
 
 # game/code/d02/d02s10.rpy:251
 translate spanish d02s10_4db16bed:
 
     # nk "Not one minute longer. Don’t try anything funny."
-    nk "Not one minute longer. Don’t try anything funny."
+    nk "Ni un minuto mas. No intentes nada gracioso."
 
 # game/code/d02/d02s10.rpy:252
 translate spanish d02s10_4f0160a8:
 
     # mc "You can trust me. I’ll be there soon."
-    mc "You can trust me. I’ll be there soon."
+    mc "Puedes confiar en mí. Estaré allí pronto."
 
 # game/code/d02/d02s10.rpy:254
 translate spanish d02s10_d8fb6f82:
 
     # mct "Okay great. I need to tell Polly about this!"
-    mct "Okay great. I need to tell Polly about this!"
+    mct "Okay grandioso. ¡Necesito decirle a Polly acerca de esto!"
 
 # game/code/d02/d02s10.rpy:259
 translate spanish d02s10_716148c3:
 
     # mc "Nora agreed. Meet me outside the cafe asap."
-    mc "Nora agreed. Meet me outside the cafe asap."
+    mc "Nora accedió. Encuentrame afuera del café lo mas rápido posible."
 
 # game/code/d02/d02s10.rpy:261
 translate spanish d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
-    mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
+    mct "¡Okay! ¡Parece que hoy estoy cerca de obtener algunos puntos! Vayamos y hagamos que ocurra esta cita a ciegas."
 
 # game/code/d02/d02s10.rpy:268
 translate spanish d02s10_c940c105:
 
     # mct "What’s this? Fetish Locator direct message from Squizzle? {w}With image?!"
-    mct "What’s this? Fetish Locator direct message from Squizzle? {w}With image?!"
+    mct "¿Qué es esto? ¿Un mensaje directo de Squizzle en Fetish Locator? {w}¡¿Con una foto?!"
 
 # game/code/d02/d02s10.rpy:269
 translate spanish d02s10_b49e91c3:
 
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
-    mct "Right, I posted the ad earlier today. I almost forgot about it!"
+    mct "Cierto, hoy temprano puse el anuncio. ¡Casi me olvido de eso!"
 
 # game/code/d02/d02s10.rpy:270
 translate spanish d02s10_a4abe6c9:
 
     # mct "Okay, let's see what is this about."
-    mct "Okay, let's see what is this about."
+    mct "Okay, veamos de que se trata esto."
 
 # game/code/d02/d02s10.rpy:273
 translate spanish d02s10_c6cfe8c3:
 
     # mesfl "Hey there! I like your sexy lips! Let's put them to use! I have a pussy that needs some attention! Meet me in the sport hall corridor in 15 minutes."
-    mesfl "Hey there! I like your sexy lips! Let's put them to use! I have a pussy that needs some attention! Meet me in the sport hall corridor in 15 minutes."
+    mesfl "¡Hola! ¡Me gustan tus sensuales labios! ¡Pongamoslos a trabajar! ¡Tengo una vagina que necesita algo de atención! ¡Encuentrame en el corredor del hall de deportes en 15 minutos."
 
 # game/code/d02/d02s10.rpy:274
 translate spanish d02s10_015d20de:
 
     # mct "Wow!"
-    mct "Wow!"
+    mct "¡Wow!"
 
 # game/code/d02/d02s10.rpy:277
 translate spanish d02s10_e01aaeca:
 
     # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
-    mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
+    mct "Squizzle... {w}esa no es...{w} sí, es el usuario de Min."
 
 # game/code/d02/d02s10.rpy:278
 translate spanish d02s10_cacb2632:
 
     # mct "I saw her username as the daily challenge winner yesterday."
-    mct "I saw her username as the daily challenge winner yesterday."
+    mct "Ví su usuario en los ganadores del desafío diario de ayer."
 
 # game/code/d02/d02s10.rpy:279
 translate spanish d02s10_6e3d0e46:
 
     # mct "So that’s what Min looks like under the skirt."
-    mct "So that’s what Min looks like under the skirt."
+    mct "Asi que así es como se ve Min debajo de la falda."
 
 # game/code/d02/d02s10.rpy:280
 translate spanish d02s10_5b5acf3d:
 
     # mct "I wonder why she couldn’t just get Antony to munch her carpet."
-    mct "I wonder why she couldn’t just get Antony to munch her carpet."
+    mct "Me pregunto, ¿Por que simplemente no hace que Antony le limpe su alfombra?"
 
 # game/code/d02/d02s10.rpy:282
 translate spanish d02s10_de4eb655:
 
     # mct "I saw this name somewhere."
-    mct "I saw this name somewhere."
+    mct "He visto este nombre en algún lado."
 
 # game/code/d02/d02s10.rpy:283
 translate spanish d02s10_b1649fc1:
 
     # mct "Right! It was announced as the winner of the challenge yesterday!"
-    mct "Right! It was announced as the winner of the challenge yesterday!"
+    mct "Cierto! ¡Fué el ganador del desafio diario de ayer!"
 
 # game/code/d02/d02s10.rpy:284
 translate spanish d02s10_a1d5445a:
 
     # mct "Wow! Yesterday's winner wants me to eat her pussy?"
-    mct "Wow! Yesterday's winner wants me to eat her pussy?"
+    mct "¡Wow! ¿La ganadora de ayer quiere que le coma su vagina?"
 
 # game/code/d02/d02s10.rpy:286
 translate spanish d02s10_6f34c44b:
 
     # mct "At least she talking business here!"
-    mct "At least she talking business here!"
+    mct "¡Al menos acá, ella esta hablando de negocios!"
 
 # game/code/d02/d02s10.rpy:287
 translate spanish d02s10_6ddf750f:
 
     # mct "Polly wants my help with Nora. But what if she bails on me in the end?"
-    mct "Polly wants my help with Nora. But what if she bails on me in the end?"
+    mct "Polly necesita mi ayuda con Nora. ¿Que pasa si ella al final me burla?"
 
 # game/code/d02/d02s10.rpy:288
 translate spanish d02s10_cb43c6ca:
 
     # mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
-    mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
+    mct "O si la cita a ciegas vá mal. ¿Cuales son realmente mis chances de conseguir una vagina?"
 
 # game/code/d02/d02s10.rpy:290
 translate spanish d02s10_c87fcc7e:
 
     # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
-    mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
+    mct "Min, por otro lado, suena a que quiere ir directo a la acción"
 
 # game/code/d02/d02s10.rpy:292
 translate spanish d02s10_9c85c14c:
 
     # mct "This Squizzle seems to be ready to jump right into the action!"
-    mct "This Squizzle seems to be ready to jump right into the action!"
+    mct "Esta Squizzle parece que está lista para saltar a la acción!"
 
 # game/code/d02/d02s10.rpy:293
 translate spanish d02s10_ef12aa0d:
 
     # mct "But I don't have time to do both!"
-    mct "But I don't have time to do both!"
+    mct "¡Pero no tengo tiempo de hacer las dos cosas!"
 
 # game/code/d02/d02s10.rpy:294
 translate spanish d02s10_7ab3ab7d:
 
     # mct "I will have to choose one!"
-    mct "I will have to choose one!"
+    mct "¡Tengo que decidirme por una!"
 
 # game/code/d02/d02s10.rpy:298
 translate spanish d02s10_563cb6d9:
 
     # mct "Let's check how AmRose's stream is going before I go."
-    mct "Let's check how AmRose's stream is going before I go."
+    mct "Veamos como viene el stream de AmRose antes de irme."
 
 # game/code/d02/d02s10.rpy:300
 translate spanish d02s10_a635648f:
 
     # mct "Let's see how is the girl on the cam-stream is doing."
-    mct "Let's see how is the girl on the cam-stream is doing."
+    mct "Veamos que esta haciendo la modelo de cam en su stream."
 
 # game/code/d02/d02s10.rpy:305
 translate spanish d02s10_e948966c:
 
     # mct "Wow! Nice!!"
-    mct "Wow! Nice!!"
+    mct "¡Wow! ¡¡Bien!!"
 
 # game/code/d02/d02s10.rpy:307
 translate spanish d02s10_57a81f8b:
 
     # mct "If I want to get any points today it is time to go!"
-    mct "If I want to get any points today it is time to go!"
+    mct "¡Si hoy quiero conseguir algún punto, es hora de irme!"
 
 # game/code/d02/d02s10.rpy:309
 translate spanish d02s10_58714ac6:
 
     # mct "I would love to see how far AmRose will go with her stream..."
-    mct "I would love to see how far AmRose will go with her stream..."
+    mct "Me encantara ver que tan lejos llega AmRose en su stream..."
 
 # game/code/d02/d02s10.rpy:311
 translate spanish d02s10_d5f9896f:
 
     # mct "Would love to see more. Maybe another time."
-    mct "Would love to see more. Maybe another time."
+    mct "Me encantaria ver mas. Quizas en otra ocasión."
 
 # game/code/d02/d02s10.rpy:331
 translate spanish d02s10_ed4c984e:
 
     # mct "No way. I don’t need the points that badly."
-    mct "No way. I don’t need the points that badly."
+    mct "Ni de broma. No estoy tan desesperado por los puntos."
 
 # game/code/d02/d02s10.rpy:332
 translate spanish d02s10_a0421dca:
 
     # "A few hours later ..."
-    "A few hours later ..."
+    "Un par de horas despues ..."
 
 # game/code/d02/d02s10.rpy:333
 translate spanish d02s10_f1a5f9e3:
 
     # mct "Damn. I got nothing."
-    mct "Damn. I got nothing."
+    mct "Demonios. No obtuve nada."
 
 # game/code/d02/d02s10.rpy:334
 translate spanish d02s10_ba528765:
 
     # mc "Maybe I will go for a walk to clear my mind."
-    mc "Maybe I will go for a walk to clear my mind."
+    mc "Quizas salga a caminar para despejar mi mente."
 
 translate spanish strings:
 
     # game/code/d02/d02s10.rpy:312
     old "Go to the Cafe"
-    new "Go to the Cafe"
+    new "Ir al Café"
 
     # game/code/d02/d02s10.rpy:312
     old "Ditch Polly to munch Squizzle"
-    new "Ditch Polly to munch Squizzle"
+    new "Abandonar a Polly para chuparsela a Squizzle"
 
     # game/code/d02/d02s10.rpy:312
     old "Go meet & munch Squizzle"
-    new "Go meet & munch Squizzle"
+    new "Ir a conocer y chuparsela a Squizzle"
 
     # game/code/d02/d02s10.rpy:312
     old "No Thanks - Do Something Else"
-    new "No Thanks - Do Something Else"
+    new "No gracias - Hacer alguna otra cosa"
 
