@@ -2236,7 +2236,7 @@ translate italian d04s04p2_c355acd5:
 translate italian d04s04p2_f3aca901:
 
     # lc "We could grab some lunch at the cafeteria before it closes."
-    lc "Potremmo passare in caffetteria prima che chiuda e prenderci qualcosa da portare per pranzo."
+    lc "Potremmo passare in mensa prima che chiuda e prenderci qualcosa da portare per pranzo."
 
 # game/code/d04/d04s04.rpy:610
 translate italian d04s04p2_531c785c:

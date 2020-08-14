@@ -10,7 +10,7 @@ translate italian d06s03_ce6bbf32:
 translate italian d06s03_4698867a:
 
     # mct "We've just dropped Stacy's stuff at my dorm room and will now have a quick lunch at the cafeteria."
-    mct "Bene, ora che abbiamo mollato la roba di Stacy al dormitorio, c'è tutto il tempo di fare uno spuntino in caffetteria."
+    mct "Bene, ora che abbiamo mollato la roba di Stacy al dormitorio, c'è tutto il tempo di fare uno spuntino alla mensa."
 
 # game/code/d06/d06s03.rpy:15
 translate italian d06s03_7fb05d4a:
@@ -286,7 +286,7 @@ translate italian d06s03_ce282fdc:
 translate italian d06s03_2c9540d5:
 
     # sy "Mmmmm... that was good for cafeteria food."
-    sy "Uhm... Per essere stato fatto in caffetteria, non era male."
+    sy "Uhm... Per essere cibo della mensa, non era male."
 
 # game/code/d06/d06s03.rpy:99
 translate italian d06s03_ddbfc196:
@@ -1084,7 +1084,7 @@ translate italian replay_d06s03k_23d118ce:
 translate italian replay_d06s03k_2c9540d5:
 
     # sy "Mmmmm... that was good for cafeteria food."
-    sy "Uhm... Per essere stato fatto in caffetteria, non era male."
+    sy "Uhm... Per essere cibo della mensa, non era male."
 
 # game/code/d06/d06s03.rpy:218
 translate italian replay_d06s03k_ddbfc196:

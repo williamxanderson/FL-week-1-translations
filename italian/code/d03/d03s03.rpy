@@ -280,7 +280,7 @@ translate italian d03s03_c44637b6:
 translate italian d03s03_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "Almeno così non arriverò tardi all'appuntamento con AmRose alla caffetteria."
+    mct "Almeno così non arriverò tardi all'appuntamento con AmRose alla mensa."
 
 # game/code/d03/d03s03.rpy:161
 translate italian d03s03_d6e81c94:
@@ -502,7 +502,7 @@ translate italian d03s03_74493ad1:
 translate italian d03s03_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
-    mc "Certo...{w} Mi troverai in caffetteria."
+    mc "Certo...{w} Mi troverai alla mensa."
 
 # game/code/d03/d03s03.rpy:247
 translate italian d03s03_9715d5cd:
@@ -586,7 +586,7 @@ translate italian d03s03_d15ddc27:
 translate italian d03s03_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
-    mc "Certo...{w} Mi troverai in caffetteria."
+    mc "Certo...{w} Mi troverai alla mensa."
 
 # game/code/d03/d03s03.rpy:276
 translate italian d03s03_9715d5cd_1:
@@ -874,7 +874,7 @@ translate italian replay_d03s03a_c44637b6:
 translate italian replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "Almeno così non arriverò tardi all'appuntamento con AmRose alla caffetteria."
+    mct "Almeno così non arriverò tardi all'appuntamento con AmRose alla mensa."
 
 # game/code/d03/d03s03.rpy:165
 translate italian replay_d03s03a_d6e81c94:
@@ -1096,7 +1096,7 @@ translate italian replay_d03s03a_74493ad1:
 translate italian replay_d03s03a_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
-    mc "Certo...{w} Mi troverai in caffetteria."
+    mc "Certo...{w} Mi troverai alla mensa."
 
 # game/code/d03/d03s03.rpy:251
 translate italian replay_d03s03a_9715d5cd:
@@ -1180,7 +1180,7 @@ translate italian replay_d03s03a_d15ddc27:
 translate italian replay_d03s03a_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
-    mc "Certo...{w} Mi troverai in caffetteria."
+    mc "Certo...{w} Mi troverai alla mensa."
 
 # game/code/d03/d03s03.rpy:280
 translate italian replay_d03s03a_9715d5cd_1:

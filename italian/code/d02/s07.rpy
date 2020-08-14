@@ -10,7 +10,7 @@ translate italian d02s07_19452b15:
 translate italian d02s07_ccc6009a:
 
     # "[mcname] arrives at the cafeteria. After a short queue he gets a single banana."
-    "[mcname] arriva alla caffetteria. Al termine di una breve fila, compra una singola banana."
+    "[mcname] arriva alla sala mensa. Al termine di una breve fila, compra una singola banana."
 
 # game/code/d02/s07.rpy:101
 translate italian d02s07_1b4a430c:

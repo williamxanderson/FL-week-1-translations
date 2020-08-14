@@ -160,7 +160,7 @@ translate italian d04s01_61414f9a:
 translate italian d04s01_855e0f06:
 
     # lc "Where? Like at the cafeteria?"
-    lc "Dove? Tipo alla caffetteria?"
+    lc "Dove? Tipo alla mensa?"
 
 # game/code/d04/d04s01.rpy:58
 translate italian d04s01_024b9e89:

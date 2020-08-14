@@ -10,7 +10,7 @@ translate italian d03s10_c62dfeb9:
 translate italian d03s10_17b543df:
 
     # mct "Wow this house is huge! Seems like I came to the right place!"
-    mct "... Ecco, credo che il posto sia questo... Wow, ma questa casa è immensa! !"
+    mct "... Ecco, credo che il posto sia questo... Wow, ma questa casa è immensa!"
 
 # game/code/d03p/d03s10.rpy:86
 translate italian d03s10_a34ee9d0:
@@ -850,7 +850,7 @@ translate italian d03s10_1463d069:
 translate italian d03s10_b3b0b724:
 
     # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "Pare lo stesso gruppetto della caffetteria! Min, Cynthia e Lydia!"
+    mct "Pare lo stesso gruppetto che stava alla mensa! Min, Cynthia e Lydia!"
 
 # game/code/d03p/d03s10.rpy:435
 translate italian d03s10_96472a7f:
@@ -1036,7 +1036,7 @@ translate italian d03s10_back_1463d069:
 translate italian d03s10_back_b3b0b724:
 
     # mct "That looks like the same group as in the cafeteria! Min, Cynthia, and Lydia!"
-    mct "Pare lo stesso gruppetto della caffetteria! Min, Cynthia e Lydia!"
+    mct "Pare lo stesso gruppetto che stava alla mensa! Min, Cynthia e Lydia!"
 
 # game/code/d03p/d03s10.rpy:456
 translate italian d03s10_back_96472a7f:

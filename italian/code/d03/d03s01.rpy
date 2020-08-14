@@ -316,7 +316,7 @@ translate italian d03s01_36818793:
 translate italian d03s01_ca07b7af:
 
     # arj "Do you want to meet in the cafeteria?"
-    arj "Ti va di incontrarci in caffetteria?"
+    arj "Ti va di incontrarci alla mensa?"
 
 # game/code/d03/d03s01.rpy:221
 translate italian d03s01_4381bfed:
@@ -340,7 +340,7 @@ translate italian d03s01_eb06e7c3:
 translate italian d03s01_329073c7:
 
     # arj "Hey. Sorry I've been a bit harsh with you. Do you want to talk in the cafeteria after the first class?"
-    arj "Ehi. Scusa se sono stata un po' rude con te. Ti va di fare una chiacchierata in caffetteria dopo la prima lezione?"
+    arj "Ehi. Scusa se sono stata un po' rude con te. Ti va di fare una chiacchierata alla mensa dopo la prima lezione?"
 
 # game/code/d03/d03s01.rpy:228
 translate italian d03s01_109df485:

@@ -778,7 +778,7 @@ translate italian d03s04_c17ef8ec:
 translate italian d03s04_4388253e:
 
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "Un ragazzo che avesse un'erezione incontrollabile, seduto in caffetteria all'ora di pranzo."
+    arj "Un ragazzo che avesse un'erezione incontrollabile, seduto alla mensa all'ora di pranzo."
 
 # game/code/d03/d03s04.rpy:533
 translate italian d03s04_2ec2fd28:
@@ -1156,7 +1156,7 @@ translate italian replay_d03s04_c17ef8ec:
 translate italian replay_d03s04_4388253e:
 
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "Un ragazzo che avesse un'erezione incontrollabile, seduto in caffetteria all'ora di pranzo."
+    arj "Un ragazzo che avesse un'erezione incontrollabile, seduto alla mensa all'ora di pranzo."
 
 # game/code/d03/d03s04.rpy:535
 translate italian replay_d03s04_2ec2fd28:

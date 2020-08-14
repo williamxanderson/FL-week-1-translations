@@ -682,7 +682,7 @@ translate italian d02s06_83790a4e:
 translate italian d02s06_00db0acd:
 
     # mc "({i}I should sneak out of the lecture and go to the cafeteria to look for one.{/i})"
-    mct "Devo sgattaiolare fuori dall'aula e andare in caffetteria a cercarne una."
+    mct "Devo sgattaiolare fuori dall'aula e andare alla mensa a cercarne una."
 
 # game/code/d02/s06.rpy:294
 translate italian d02s06_9db38bfb:
@@ -760,7 +760,7 @@ translate italian d02s06_c7ff8a2f:
 translate italian d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
-    "[mcname] si sta recando in caffetteria...{w} quando improvvisamente vede..."
+    "[mcname] si sta recando alla sala mensa...{w} quando improvvisamente vede..."
 
 # game/code/d02/s06.rpy:332
 translate italian d02s06_354c4361:
