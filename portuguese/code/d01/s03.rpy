@@ -70,7 +70,7 @@ translate portuguese s03_0f54bf1c:
 translate portuguese s03_f2774c64:
 
     # fl "Mr. D1cky and Squizzle just completed the cum play challenge. They both get 50 points. Stay tuned for the next challenge tomorrow!"
-    fl "Sr. P4uzudo e Apertadinha acabaram de completar o desafio do sêmen. Eles recebem 50 pontos cada um. Fiquem ligados no próximo desafio amanhã!"
+    fl "Sr. P4uzudo e Apertadinha acabaram de completar o desafio da gozada. Eles recebem 50 pontos cada um. Fiquem ligados no próximo desafio amanhã!"
 
 # game/d01/s03.rpy:73
 translate portuguese s03_c65e5cc5:
@@ -1076,7 +1076,7 @@ translate portuguese s03_64a6e728:
 translate portuguese s03_f7effced:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cum play fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "Será que isso tem a ver com o aplicativo Fetish Locator? Logo antes disso, ele perguntou sobre o fetiche de sêmen e alguns minutos depois eu vi a Min engolindo a porra do Antony."
+    mct "Será que isso tem a ver com o aplicativo Fetish Locator? Pouco antes disso, ele perguntou sobre o fetiche de esporrada (cumshot) e uns minutos depois eu vi a Min engolindo a porra toda do Antony."
 
 # game/code/d01/s03.rpy:84
 translate portuguese s03_4fc128f8:
@@ -1095,67 +1095,67 @@ translate portuguese s03_0065676a:
 translate portuguese s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "Looks like I'm the first one here."
+    mct "Parece que eu sou o primeiro por aqui"
 
 # game/code/d01/s03.rpy:67
 translate portuguese s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
+    mct "Eu me pergunto se isso tem a ver com o app do Fetish Locator. Pouco antes disso, ele perguntou sobre o fetiche de esporrada (cumshot) e uns minutos depois eu vi a Min engolindo a porra toda do Antony."
 
 # game/code/d01/s03.rpy:71
 translate portuguese s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "É muito mais excitanto ver alguém que você conhece, do que simplesmente assistir um porno".
 
 # game/code/d01/s03.rpy:75
 translate portuguese s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
+    fl "Sr. P4uzudo e Apertadinha acabaram de completar o desafio da gozada (cumshot). Os dois receberam 25 pontos cada. Fiquem ligados para o desafio de amanhã!"
 
 # game/code/d01/s03.rpy:145
 translate portuguese s03_e0d4ae87:
 
     # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
-    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "Que que é isso sobre pontos que você pode ganhar se fizer algumas coisas no app? Teve uma mensagem sobre alguém que ganhou 25 pontos."
 
 # game/code/d01/s03.rpy:147
 translate portuguese s03_512c71de:
 
     # mc "What's this about the points in the app? There was a message that someone won 25 points."
-    mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "O que é isso sobre os pontos no app? Tem uma mensagem que alguém ganhou 25 pontos."
 
 # game/code/d01/s03.rpy:171
 translate portuguese s03_71858fb4:
 
     # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
-    mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+    mct "Ei, olha a Chloe lá! Estranho ela perder os primeiros 10 minutos do jogo."
 
 # game/code/d01/s03.rpy:199
 translate portuguese s03_f549b1a7:
 
     # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
-    mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+    mc "Pelo menos nas ultimas duas semanas, a gente teve a chance de nos atualizar sobre a vida um do outro."
 
 # game/code/d01/s03.rpy:328
 translate portuguese s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+    mct "Droga! Quando ela ficou tão inteligente e agressiva? O que aconteceu com a minha pequena gordinha fofinha [game.stacytitle]?"
 
 translate portuguese strings:
 
     # game/code/d01/s03.rpy:82
     old "See the cumshot challenge results"
-    new "See the cumshot challenge results"
+    new "Ver o resultado do desafio da gozada (Cumshot)"
 
     # game/code/d01/s03.rpy:94
     old "Yes"
-    new "Yes"
+    new "Sim"
 
     # game/code/d01/s03.rpy:94
     old "No"
-    new "No"
+    new "Não"
 
