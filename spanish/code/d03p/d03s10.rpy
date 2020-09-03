@@ -418,7 +418,7 @@ translate spanish d03s10_390f5f47:
 translate spanish d03s10_fde05df5:
 
     # mc "You're my tour guide to a clothing-optional fetish party; I think you can say 'penis'."
-    mc "Eres mi guía en una fiesta de fetichismo de ropa opcional; creo que puedes decir ¨pene¨."
+    mc "Eres mi guía en una fiesta de fetichismo de ropa opcional; creo que puedes decir \"pene\"."
 
 # game/code/d03p/d03s10.rpy:237
 translate spanish d03s10_d70591a0:
