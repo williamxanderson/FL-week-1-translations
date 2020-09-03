@@ -694,7 +694,7 @@ translate spanish d03s10_468ffa40:
 translate spanish d03s10_c633e448:
 
     # mkfl "No kidding, I've known her for years. She's 100%% heterosexual, not a lesbian bone in her body."
-    mkfl "No bromeo, la conozco desde hace años. Es 100% heterosexual, no hay ni un hueso de lesbiana en su cuerpo."
+    mkfl "No bromeo, la conozco desde hace años. Es 100%% heterosexual, no hay ni un hueso de lesbiana en su cuerpo."
 
 # game/code/d03p/d03s10.rpy:380
 translate spanish d03s10_4ddaee1b:
