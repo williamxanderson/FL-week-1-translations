@@ -837,8 +837,8 @@ translate spanish d03s10_back_d5ba8f63:
 # game/code/d03p/d03s10.rpy:446
 translate spanish d03s10_back_e02a82be:
 
-    # mct "Oh! That is the "not yours" tattoo girl that slept with Pete the other day!"
-    mct "¡Oh! ¡Esa es la chica del tatuaje ¨no soy tuya¨ que se acostó con Pete el otro día!"
+    # mct "Oh! That is the \"not yours\" tattoo girl that slept with Pete the other day!"
+    mct "¡Oh! ¡Esa es la chica del tatuaje \"no soy tuya\" que se acostó con Pete el otro día!"
 
 # game/code/d03p/d03s10.rpy:447
 translate spanish d03s10_back_104b5ede:
