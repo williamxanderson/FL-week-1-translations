@@ -460,7 +460,7 @@ translate spanish d03s05_28d50e44:
 translate spanish d03s05_3000661f:
 
     # mc "What's that saying? "Your kink isn't my kink, but that's okay.""
-    mc "¿Qué es lo que dice? ¨Tu fetiche no es mi fetiche, pero está bien.¨"
+    mc "¿Qué es lo que dice? \"Tu fetiche no es mi fetiche, pero está bien.\""
 
 # game/code/d03/d03s05.rpy:188
 translate spanish d03s05_11006ad4:
