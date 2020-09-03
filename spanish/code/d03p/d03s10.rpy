@@ -447,8 +447,8 @@ translate spanish d03s10_fa9ea78c:
 # game/code/d03p/d03s10.rpy:249
 translate spanish d03s10_26659a4e:
 
-    # aw "LGBTQIA. Lesbian, Gay, Bi, Trans, Queer, Intersex... and is it "Asexual" or "Allies"...?"
-    aw "LGBTQIA. Lesbianas, Gays, Bi, Trans, Queer, Intersexuales... ¿y es ¨Asexual¨ o ¨Aliados¨...?"
+    # aw "LGBTQIA. Lesbian, Gay, Bi, Trans, Queer, Intersex... and is it \"Asexual\" or \"Allies\"...?"
+    aw "LGBTQIA. Lesbianas, Gays, Bi, Trans, Queer, Intersexuales... ¿y es \"Asexual\" o \"Aliados\"...?"
 
 # game/code/d03p/d03s10.rpy:252
 translate spanish d03s10_40b235c3:
