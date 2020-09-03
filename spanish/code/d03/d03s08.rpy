@@ -81,8 +81,8 @@ translate spanish replay_d03s08_cfb40a80:
 # game/code/d03/d03s08.rpy:91
 translate spanish replay_d03s08_1fa85a17:
 
-    # dw "What do you mean, "No"?"
-    dw "¿Qué quieres decir con ¨no¨?"
+    # dw "What do you mean, \"No\"?"
+    dw "¿Qué quieres decir con \"no\"?"
 
 # game/code/d03/d03s08.rpy:93
 translate spanish replay_d03s08_cc5a6a44:
