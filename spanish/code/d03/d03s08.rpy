@@ -3,8 +3,8 @@
 # game/code/d03/d03s08.rpy:42
 translate spanish replay_d03s08_dff3938e:
 
-    # dw "First, some ground rules: {w}You will refer to me as "Mistress" as in "Yes, Mistress" or "No, Mistress". Understood?"
-    dw "Primero, algunas reglas básicas: {w}Te referirás a mí como ¨Señora¨, así como ¨Sí, Señora¨ o ¨No, Señora¨. ¿Entendido?"
+    # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
+    dw "Primero, algunas reglas básicas: {w}Te referirás a mí como \"Señora\", así como \"Sí, Señora\" o \"No, Señora\". ¿Entendido?"
 
 # game/code/d03/d03s08.rpy:49
 translate spanish replay_d03s08_7fd3a623:
