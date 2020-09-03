@@ -502,7 +502,7 @@ translate spanish d04s01_66213e4a:
 translate spanish d04s01_a7759475:
 
     # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
-    mes "No soy tímida... ¡sólo odio perder! ¡{w}Y me vendría bien tu ayuda para asegurarme de que eso no vuelva a suceder!"
+    mes "No soy tímida... ¡sólo odio perder! {w}¡Y me vendría bien tu ayuda para asegurarme de que eso no vuelva a suceder!"
 
 # game/code/d04/d04s01.rpy:149
 translate spanish d04s01_978c8108:
