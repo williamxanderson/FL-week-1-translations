@@ -358,7 +358,7 @@ translate spanish d04s01_1bc6db19:
 translate spanish d04s01_fead1c4c:
 
     # aw "Who were "we"?"
-    aw "¿Quiénes eran ¨nosotros¨?"
+    aw "¿Quiénes eran \"nosotros\"?"
 
 # game/code/d04/d04s01.rpy:113
 translate spanish d04s01_098a0ba3:
