@@ -532,7 +532,7 @@ translate spanish d04s02_message_a1361921:
 translate spanish d04s02_message_dc223cec:
 
     # mct "Damn, I have a class now..."
-    mct "demonios, Tengo clase ahorita..."
+    mct "Demonios, Tengo clase ahorita..."
 
 # game/code/d04/d04s02.rpy:285
 translate spanish d04s02_message_96863f49:
