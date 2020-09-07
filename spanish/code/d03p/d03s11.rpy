@@ -220,7 +220,7 @@ translate spanish replay_d03s11_3a238daf:
 translate spanish replay_d03s11_ec5d1db6:
 
     # mh "Ok... Is that your dick?"
-    mh "Ok ... ¿Es esta tu verga?"
+    mh "Ok... ¿Es esta tu verga?"
 
 # game/code/d03p/d03s11.rpy:144
 translate spanish replay_d03s11_7542faa2:
@@ -526,7 +526,7 @@ translate spanish replay_d03s11_94ad77e4:
 translate spanish replay_d03s11_9ae3d8ca:
 
     # mh "You know what? Sure, take a look!"
-    mh "¿Sabes qué? Claro, echa un vistazo!"
+    mh "¿Sabes qué? ¡Claro, echa un vistazo!"
 
 # game/code/d03p/d03s11.rpy:286
 translate spanish replay_d03s11_9d9cf38e:
@@ -568,7 +568,7 @@ translate spanish replay_d03s11_dbf187e2:
 translate spanish replay_d03s11_b4153938:
 
     # mct "She looks like the hottest girl! {w}She even talks and moves like girl... {w}Or he? {w}Daaamn..."
-    mct "¡Parece la chica más sexy! Incluso habla y se mueve como una chica... ¿O él? {w}Diablosss..."
+    mct "¡Parece la chica más sexy! Incluso habla y se mueve como una chica... {w}¿O él? {w}Diablosss..."
 
 translate spanish strings:
 
