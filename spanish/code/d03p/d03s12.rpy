@@ -304,7 +304,7 @@ translate spanish replay_d03s12_de3bfcfe:
 translate spanish replay_d03s12_c4bca2bf:
 
     # cb "Ha! or "Lecho"!"
-    cb "¡Ja! ¡o \"LEcho\"."
+    cb "¡Ja! ¡o \"Lecho\"."
 
 # game/code/d03p/d03s12.rpy:126
 translate spanish replay_d03s12_6572da95:
