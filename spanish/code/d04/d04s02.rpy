@@ -364,203 +364,203 @@ translate spanish d04s02_blowjob_d430d393:
 translate spanish d04s02_handjob_660b684a:
 
     # mc "Oh, I..."
-    mc "Oh, I..."
+    mc "Oh, Yo..."
 
 # game/code/d04/d04s02.rpy:205
 translate spanish d04s02_handjob_79fe33e1:
 
     # dd "Did you go through that entire party without getting any?"
-    dd "Did you go through that entire party without getting any?"
+    dd "¿Pasaste toda la fiesta sin correrte?"
 
 # game/code/d04/d04s02.rpy:206
 translate spanish d04s02_handjob_92ebca3f:
 
     # mc "Well... I got close a few times..."
-    mc "Well... I got close a few times..."
+    mc "Bueno... Estuve cerca algunas veces..."
 
 # game/code/d04/d04s02.rpy:208
 translate spanish d04s02_handjob_5b05f1bb:
 
     # dd "Don't feel bad. I didn't cum last night either..."
-    dd "Don't feel bad. I didn't cum last night either..."
+    dd "No te sientas mal. Yo tampoco me vine aoche..."
 
 # game/code/d04/d04s02.rpy:209
 translate spanish d04s02_handjob_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "¿Enserio?"
 
 # game/code/d04/d04s02.rpy:210
 translate spanish d04s02_handjob_5bb3d714:
 
     # dd "Seriously! I mean, just look at me!"
-    dd "Seriously! I mean, just look at me!"
+    dd "¡Enserio! Digo, ¡Solo mírame!"
 
 # game/code/d04/d04s02.rpy:211
 translate spanish d04s02_handjob_c49cf2fc:
 
     # mc "I am... {w}and I like what I see."
-    mc "I am... {w}and I like what I see."
+    mc "Eso hago... {w}y me gusta lo que veo."
 
 # game/code/d04/d04s02.rpy:212
 translate spanish d04s02_handjob_e2b16bd3:
 
     # dd "Really?"
-    dd "Really?"
+    dd "¿Enserio?"
 
 # game/code/d04/d04s02.rpy:213
 translate spanish d04s02_handjob_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "Claro que sí."
 
 # game/code/d04/d04s02.rpy:215
 translate spanish d04s02_handjob_e1fa27d7:
 
     # dd "You know, we could do something about that."
-    dd "You know, we could do something about that."
+    dd "Sabes, podríamos hacer algo sobre eso."
 
 # game/code/d04/d04s02.rpy:216
 translate spanish d04s02_handjob_2b58880e:
 
     # mc "Mmm... I like that idea..."
-    mc "Mmm... I like that idea..."
+    mc "Mmm... me gusta esa idea..."
 
 # game/code/d04/d04s02.rpy:221
 translate spanish d04s02_handjob_part_2_70c78278:
 
     # dd "Come here!"
-    dd "Come here!"
+    dd "¡Ven acá!"
 
 # game/code/d04/d04s02.rpy:223
 translate spanish d04s02_handjob_part_2_dcafc32b:
 
     # dd "Here you go!"
-    dd "Here you go!"
+    dd "¡Eso es!"
 
 # game/code/d04/d04s02.rpy:226
 translate spanish d04s02_handjob_part_2_09e61f10:
 
     # dd "Mmm! What a wonderful taste!"
-    dd "Mmm! What a wonderful taste!"
+    dd "Mmm! ¡Que grandioso sabor!"
 
 # game/code/d04/d04s02.rpy:228
 translate spanish d04s02_handjob_part_2_5c3d2240:
 
     # dd "Grind against my ass!"
-    dd "Grind against my ass!"
+    dd "¡Frotalo contra mi trasero!"
 
 # game/code/d04/d04s02.rpy:231
 translate spanish d04s02_handjob_part_2_deb2ee9f:
 
     # dd "There you go!"
-    dd "There you go!"
+    dd "¡Eso es!"
 
 # game/code/d04/d04s02.rpy:237
 translate spanish d04s02_handjob_part_2_a39e1698:
 
     # dd "Cum all over my ass!"
-    dd "Cum all over my ass!"
+    dd "¡Correte sobre mi trasero!"
 
 # game/code/d04/d04s02.rpy:245
 translate spanish d04s02_handjob_part_2_232c3f6d:
 
     # mc "O-o-oh!"
-    mc "O-o-oh!"
+    mc "¡O-o-oh!"
 
 # game/code/d04/d04s02.rpy:249
 translate spanish d04s02_handjob_part_2_c4af3686:
 
     # dd "That was fun! Nothing starts a morning like a cum shower!"
-    dd "That was fun! Nothing starts a morning like a cum shower!"
+    dd "¡Eso fue divertido! ¡No hay nada mejor que empezar el día con un baño de semen!"
 
 # game/code/d04/d04s02.rpy:250
 translate spanish d04s02_handjob_part_2_8e627502:
 
     # dd "Now I need another shower... {w}the regular kind, with water!"
-    dd "Now I need another shower... {w}the regular kind, with water!"
+    dd "Ahora necesitootro tipo de ducha... {w}¡Una normal, con agua!"
 
 # game/code/d04/d04s02.rpy:262
 translate spanish d04s02_end_c0a5cd53:
 
     # dd "So, this was a lot of fun..."
-    dd "So, this was a lot of fun..."
+    dd "Entonces, esto fue muy divertido..."
 
 # game/code/d04/d04s02.rpy:263
 translate spanish d04s02_end_fece55d2:
 
     # mc "Agreed, we should do it again sometime, but..."
-    mc "Agreed, we should do it again sometime, but..."
+    mc "Confirmo,deberíamos hacerlo de nuevo, pero..."
 
 # game/code/d04/d04s02.rpy:265
 translate spanish d04s02_end_5beaa5c2:
 
     # dd "Exactly. I'm not really looking for..."
-    dd "Exactly. I'm not really looking for..."
+    dd "Exacto. No estoy realmente buscando..."
 
 # game/code/d04/d04s02.rpy:266
 translate spanish d04s02_end_7f3ac096:
 
     # mc "And if I'm honest, I'm kinda trying to hook up with someone else..."
-    mc "And if I'm honest, I'm kinda trying to hook up with someone else..."
+    mc "Y si soy honesto, estoy tratando de liguarme a alguien mas..."
 
 # game/code/d04/d04s02.rpy:268
 translate spanish d04s02_end_9eab46ca:
 
     # dd "Go [mcname]! You are going to rock her world."
-    dd "Go [mcname]! You are going to rock her world."
+    dd "¡Eso es [mcname]! Vas a sacudir su mundo."
 
 # game/code/d04/d04s02.rpy:269
 translate spanish d04s02_end_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "¿Eso crees?"
 
 # game/code/d04/d04s02.rpy:271
 translate spanish d04s02_end_fea9b55c:
 
     # dd "Definitely."
-    dd "Definitely."
+    dd "Definitivamente."
 
 # game/code/d04/d04s02.rpy:283
 translate spanish d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
+    lc "Hey, mi clase fue cancelada. ¿Quieres ir por un café?"
 
 # game/code/d04/d04s02.rpy:284
 translate spanish d04s02_message_dc223cec:
 
     # mct "Damn, I have a class now..."
-    mct "Damn, I have a class now..."
+    mct "demonios, Tengo clase ahorita..."
 
 # game/code/d04/d04s02.rpy:285
 translate spanish d04s02_message_96863f49:
 
     # mct "But there is no way I'm missing this opportunity! I'm on my way!"
-    mct "But there is no way I'm missing this opportunity! I'm on my way!"
+    mct "¡Pero no hay forma de que me pierda esta oportunidad! ¡Estoy en camino!"
 
 # game/code/d04/d04s02.rpy:286
 translate spanish d04s02_message_ba035b79:
 
     # mc "(whistles) We don't need no education..."
-    mc "(whistles) We don't need no education..."
+    mc "(Chifla) No necesitamos educación..."
 
 translate spanish strings:
 
     # game/code/d04/d04s02.rpy:61
     old "Command Daisy to Blow You"
-    new "Command Daisy to Blow You"
+    new "Ordenarle a Daisy que te la chupe"
 
     # game/code/d04/d04s02.rpy:61
     old "Ask Daisy Blow You"
-    new "Ask Daisy Blow You"
+    new "Pedirle a Daisy que te la chupe"
 
     # game/code/d04/d04s02.rpy:61
     old "Get a Handjob"
-    new "Get a Handjob"
+    new "Obten una paja"
 
     # game/code/d04/d04s02.rpy:61
     old "Just shower and leave"
-    new "Just shower and leave"
+    new "Solo bañate y vete"
 
