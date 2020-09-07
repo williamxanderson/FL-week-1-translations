@@ -112,7 +112,7 @@ translate spanish replay_d03s12_72c76a09:
 translate spanish replay_d03s12_7d6cb27a:
 
     # hrfl "Oh, duh. Of course. I didn't even think of that."
-    hrfl "Oh,. Por supuesto. Ni siquiera pensé en eso."
+    hrfl "Oh, Por supuesto. Ni siquiera pensé en eso."
 
 # game/code/d03p/d03s12.rpy:55
 translate spanish replay_d03s12_d0946214:
@@ -298,25 +298,25 @@ translate spanish replay_d03s12_50c2514c:
 translate spanish replay_d03s12_de3bfcfe:
 
     # mc "Well, it's almost an anagram. I guess "Echo L" would be too obvious."
-    mc "Bueno, es casi un anagrama. Supongo que ¨Echo L¨ sería demasiado obvio."
+    mc "Bueno, es casi un anagrama. Supongo que \"Echo\" L sería demasiado obvio."
 
 # game/code/d03p/d03s12.rpy:125
 translate spanish replay_d03s12_c4bca2bf:
 
     # cb "Ha! or "Lecho"!"
-    cb "¡Ja! ¡o ¨LEcho¨."
+    cb "¡Ja! ¡o \"LEcho\"."
 
 # game/code/d03p/d03s12.rpy:126
 translate spanish replay_d03s12_6572da95:
 
     # mc "Alright, I'll see ya' "El Hoc""
-    mc "Muy bien, nos vemos en ¨El Hoc¨."
+    mc "Muy bien, nos vemos en \"El Hoc\"."
 
 # game/code/d03p/d03s12.rpy:128
 translate spanish replay_d03s12_b13c77c2:
 
     # cb "Sure. See ya', [mclogin]. {w}Oh wait!"
-    cb "Claro. Nos vemos, [mclogin]. ¡Oh, espera!"
+    cb "Claro. Nos vemos, [mclogin]. {w}¡Oh, espera!"
 
 # game/code/d03p/d03s12.rpy:129
 translate spanish replay_d03s12_191559e1:
