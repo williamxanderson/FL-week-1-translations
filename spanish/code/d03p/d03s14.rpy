@@ -532,7 +532,7 @@ translate spanish replay_d03s14_14526143:
 translate spanish replay_d03s14_2b807ce6:
 
     # mkfl "Oh-h-h! {w}I...{w} I think I do!"
-    mkfl "¡Ohhh! Yo...{w} ¡Creo que sí!"
+    mkfl "¡Ohhh! {w}Yo...{w} ¡Creo que sí!"
 
 # game/code/d03p/d03s14.rpy:261
 translate spanish replay_d03s14_99890904:
