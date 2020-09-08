@@ -424,7 +424,7 @@ translate spanish replay_d03s13_be0a90cd:
 translate spanish replay_d03s13_e88aed8d:
 
     # dd "And I will be judging from here!"
-    dd "Y yo estaré juzgando desde aquí!"
+    dd "¡Y yo estaré juzgando desde aquí!"
 
 # game/code/d03p/d03s13.rpy:246
 translate spanish replay_d03s13_9f510937:
@@ -496,7 +496,7 @@ translate spanish replay_d03s13_33bcb18b:
 translate spanish replay_d03s13_3a3a5d4b:
 
     # dd "[mesfl] has started, but will it be enough..."
-    dd "[mesfl]  Ha comenzado, pero será suficiente..."
+    dd "[mesfl] Ha comenzado, pero será suficiente..."
 
 # game/code/d03p/d03s13.rpy:288
 translate spanish replay_d03s13_43a86b51:
@@ -610,7 +610,7 @@ translate spanish replay_d03s13_170fcf0e:
 translate spanish replay_d03s13_808f30fb:
 
     # dd "[mcname] don't be gross. I just watched you pee from that thing."
-    dd "[mcname]  No seas asqueroso. Acabo de verte orinar desde esa cosa."
+    dd "[mcname] No seas asqueroso. Acabo de verte orinar desde esa cosa."
 
 # game/code/d03p/d03s13.rpy:350
 translate spanish replay_d03s13_ec4950d4:
@@ -652,7 +652,7 @@ translate spanish replay_d03s13_89accabd:
 translate spanish replay_d03s13_5b04b019:
 
     # mc "Our bowls have the same volume... {w} But!"
-    mc "Nuestros tazones tienen el mismo volumen... {w} ¡Pero!"
+    mc "Nuestros tazones tienen el mismo volumen...{w} ¡Pero!"
 
 # game/code/d03p/d03s13.rpy:369
 translate spanish replay_d03s13_82b192e4:
@@ -688,7 +688,7 @@ translate spanish replay_d03s13_af5560e0:
 translate spanish replay_d03s13_890fc4c9:
 
     # dd "Oh {w}my {w}gosh."
-    dd "Oh, Dios mío."
+    dd "Oh, {w}Dios {w}mío."
 
 # game/code/d03p/d03s13.rpy:388
 translate spanish replay_d03s13_806956a1:
@@ -760,7 +760,7 @@ translate spanish replay_d03s13_79ed1fb0:
 translate spanish replay_d03s13_16a3af30:
 
     # mest "This bowl is so warm! {w}It is just a juice..."
-    mest "¡Este tazón está tan caliente! Es sólo un zumo..."
+    mest "¡Este tazón está tan caliente! {w}Es sólo un zumo..."
 
 # game/code/d03p/d03s13.rpy:419
 translate spanish replay_d03s13_e1df2347:
@@ -898,7 +898,7 @@ translate spanish replay_d03s13_9849049c:
 translate spanish replay_d03s13_972f4ffc:
 
     # mes "No, you stay. {w}Let me remove this first..."
-    mes "No, quédate. Déjame quitarte esto primero..."
+    mes "No, quédate. {w}Déjame quitarte esto primero..."
 
 # game/code/d03p/d03s13.rpy:475
 translate spanish replay_d03s13_efae2267:
@@ -916,13 +916,13 @@ translate spanish replay_d03s13_aaed64e5:
 translate spanish replay_d03s13_9a3b5c6c:
 
     # mes "I bet you want my mouth{w} ...or my cunt{w}"
-    mes "Apuesto a que quieres mi boca{w} ... o mi culo{w}."
+    mes "Apuesto a que quieres mi boca{w} ... o mi vagina{w}"
 
 # game/code/d03p/d03s13.rpy:483
 translate spanish replay_d03s13_dc9ef5e7:
 
     # mes "...or maybe my ass..."
-    mes "...o tal vez mi vagina..."
+    mes "...o tal vez mi culo..."
 
 # game/code/d03p/d03s13.rpy:485
 translate spanish replay_d03s13_938b3d39:
