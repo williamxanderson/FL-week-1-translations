@@ -136,7 +136,7 @@ translate spanish d03s11b_9a364fd1:
 translate spanish d03s11b_8c25a92d:
 
     # jfx "Well, it started as my first blowjob... {w}then it became something else."
-    jfx "Bueno, empezó como mi primera mamada... ...{w}y luego se convirtió en otra cosa."
+    jfx "Bueno, empezó como mi primera mamada... {w}y luego se convirtió en otra cosa."
 
 # game/code/d03p/extended/d03s11b.rpy:78
 translate spanish d03s11b_f8737522:
