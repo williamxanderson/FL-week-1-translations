@@ -166,7 +166,7 @@ translate spanish d04s05_friend_31aaeafa:
 translate spanish d04s05_friend_915f75eb:
 
     # arj "Right. {w}Can't drown if I'm singing."
-    arj "Claro que sí. No puedo ahogarme si estoy cantando."
+    arj "Claro que sí. {w}No puedo ahogarme si estoy cantando."
 
 # game/code/d04/d04s05.rpy:103
 translate spanish d04s05_friend_b770b1a3:
@@ -274,7 +274,7 @@ translate spanish d04s05_friend_2c3129e1:
 translate spanish d04s05_friend_25a4de97:
 
     # arj "oh... {w}still... {w}I'm naked in here."
-    arj "Oh... {w}todavía... Estoy desnuda aquí."
+    arj "Oh... {w}todavía... {w}Estoy desnuda aquí."
 
 # game/code/d04/d04s05.rpy:133
 translate spanish d04s05_friend_f60cae3e:
@@ -310,7 +310,7 @@ translate spanish d04s05_friend_8d94668e:
 translate spanish d04s05_friend_b36742de:
 
     # arj "No... I... {w}I'm sorry, [mcname]. This has all gotten out of control."
-    arj "No... yo... {w}Lo siento. Todo esto se ha salido de control."
+    arj "No... yo... {w}Lo siento, [mcname]. Todo esto se ha salido de control."
 
 # game/code/d04/d04s05.rpy:144
 translate spanish d04s05_friend_7a772215:
