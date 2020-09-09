@@ -334,7 +334,7 @@ translate spanish d03s17_32c5c8ff:
 translate spanish d03s17_aa7d9e06:
 
     # lc "Okay, but those "developed female characters" were all written by a guy..."
-    lc "Vale, pero esos "/personajes femeninos desarrollados"/ fueron escritos por un chico..."
+    lc "Vale, pero esos \"personajes femeninos desarrollados\" fueron escritos por un chico..."
 
 # game/code/d03p2/d03s17.rpy:177
 translate spanish d03s17_33a46fdf:
