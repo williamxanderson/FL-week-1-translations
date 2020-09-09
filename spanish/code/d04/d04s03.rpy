@@ -664,13 +664,13 @@ translate spanish d04s03_a38c39bb:
 translate spanish d04s03_4e125b79:
 
     # sy "I didn't mean... {w}you're going to make some women happy some day."
-    sy "No quise decir... ...{w}que vas a hacer feliz a algunas mujeres algún día."
+    sy "No quise decir... {w}que vas a hacer feliz a algunas mujeres algún día."
 
 # game/code/d04/d04s03.rpy:211
 translate spanish d04s03_f8209249:
 
     # mct "Wait - did she just say "women"?"
-    mct "Espera, ¿acaba de decir ¨mujeres¨?"
+    mct "Espera, ¿acaba de decir \"mujeres\"?"
 
 # game/code/d04/d04s03.rpy:212
 translate spanish d04s03_0049b5f7:
@@ -736,7 +736,7 @@ translate spanish d04s03_end_1658e15d:
 translate spanish d04s03_end_63ea06eb:
 
     # mc "I'm really happy for you. {w}And I'm glad that you are happy with yourself."
-    mc "Me alegro mucho por ti. Y me alegro de que estés feliz contigo misma."
+    mc "Me alegro mucho por ti. {w}Y me alegro de que estés feliz contigo misma."
 
 # game/code/d04/d04s03.rpy:237
 translate spanish d04s03_end_544a9c2d:
