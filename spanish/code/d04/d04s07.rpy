@@ -238,7 +238,7 @@ translate spanish d04s08_after_2ff74e70:
 translate spanish d04s08_after_7808a659:
 
     # nk "Okay, okay. "It's not me." {w}I'll see you on Saturday, right?"
-    nk "Está bien, está bien. \"No soy yo\". Te veré el sábado, ¿verdad?"
+    nk "Está bien, está bien. \"No soy yo\". {w}Te veré el sábado, ¿verdad?"
 
 # game/code/d04/d04s07.rpy:171
 translate spanish d04s08_after_ca234c63:
