@@ -16,7 +16,7 @@ translate spanish d05s03_13b8c16a:
 translate spanish d05s03_8cd5f968:
 
     # arj "YOU go around telling people about YOUR HETERO WHORE who WILL DO ANYTHING FOR POINTS"
-        arj "VAS por ahí diciendo a la gente sobre TU PUTA HETEROSEXUAL QUE HARIA CUALQUIER COSA POR PUNTOS"
+    arj "VAS por ahí diciendo a la gente sobre TU PUTA HETEROSEXUAL QUE HARIA CUALQUIER COSA POR PUNTOS"
 
 # game/code/d05/d05s03.rpy:15
 translate spanish d05s03_9fa6b2b5:
