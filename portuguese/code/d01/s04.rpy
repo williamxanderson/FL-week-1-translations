@@ -1329,7 +1329,7 @@ translate portuguese replay_d01s04_7a9ceb96:
 translate portuguese replay_d01s04_bb29afd0:
 
     # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "Sim, então esse é o plano - você usa o app, pega o ingresso e encontra a Lydia na festa."
+    pb "Sim, então esse é o plano... você usa o app, pega o ingresso e encontra a Lydia na festa."
 
 # game/code/d01/s04.rpy:505
 translate portuguese replay_d01s04_fb2526d3:
