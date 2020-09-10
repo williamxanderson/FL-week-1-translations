@@ -886,7 +886,7 @@ translate spanish replay_d05s04_028c75c2:
 translate spanish replay_d05s04_b157cd74:
 
     # pw "Where are you going to... {w}oh, nice."
-    pw "¿A dónde vas... Oh, genial."
+    pw "¿A dónde vas... {w}Oh, genial."
 
 # game/code/d05/d05s04.rpy:279
 translate spanish replay_d05s04_d6f3438c:
@@ -1186,7 +1186,7 @@ translate spanish d05s04_end_cd0782e9:
 translate spanish d05s04_end_25b3b52f:
 
     # pw "You're no Nora, but... {w}you're a nice guy."
-    pw "No eres Nora, pero... eres un buen tipo."
+    pw "No eres Nora, pero... {w}eres un buen tipo."
 
 # game/code/d05/d05s04.rpy:377
 translate spanish d05s04_end_5fc235ac:
