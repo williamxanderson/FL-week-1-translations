@@ -286,7 +286,7 @@ translate spanish replay_d05s06_348925bb:
 translate spanish replay_d05s06_40f2d569:
 
     # mc "So not, "Ladies first"?"
-    mc "¿Entonces no, "\Damas primero"\?"
+    mc "¿Entonces no, \"Damas primero\"?"
 
 # game/code/d05/d05s06.rpy:95
 translate spanish replay_d05s06_4eeb2475:
@@ -370,7 +370,7 @@ translate spanish replay_d05s06_101bb320:
 translate spanish replay_d05s06_32e1a81e:
 
     # mc "Sure. Okay. I'll drink your "fluid", but just understand that I'm doing this for you."
-    mc "Por supuesto. Bueno. Beberé tu "\líquido"\, pero entiendo que estoy haciendo esto por ti."
+    mc "Por supuesto. Bueno. Beberé tu \"líquido\", pero entiendo que estoy haciendo esto por ti."
 
 # game/code/d05/d05s06.rpy:117
 translate spanish replay_d05s06_b07c0ada:
@@ -718,7 +718,7 @@ translate spanish replay_d05s06_812d8797:
 translate spanish replay_d05s06_ebe6cf89:
 
     # mc "So, does that mean "stop this action" or "stop this whole thing"?"
-    mc "Entonces, ¿eso significa "\detener esta acción"\ o "\detener todo esto"\?"
+    mc "Entonces, ¿eso significa \"detener esta acción\" o \"detener todo esto\"?"
 
 # game/code/d05/d05s06.rpy:246
 translate spanish replay_d05s06_22d03b34:
