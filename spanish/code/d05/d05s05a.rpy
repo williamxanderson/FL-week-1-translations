@@ -220,7 +220,7 @@ translate spanish d05s05_1b4f110f:
 translate spanish d05s05_b9c116f4:
 
     # arj "Yeah, we do. {w}What are you proposing?"
-    arj "Sí, lo tenemos {w}¿Qué estás proponiendo?"
+    arj "Sí, lo tenemos. {w}¿Qué estás proponiendo?"
 
 # game/code/d05/d05s05a.rpy:87
 translate spanish d05s05_48514ba3:
@@ -814,7 +814,7 @@ translate spanish d05s05_apt1_b585e9cc:
 translate spanish d05s05_apt1_0f6dffd9:
 
     # mc "Huh, "URLittlePony". I didn't even know this screen existed."
-    mc "Eh, "\TuPequeñoPony"\. Ni siquiera sabía que existía esta pantalla."
+    mc "Eh, \"TuPequeñoPony\". Ni siquiera sabía que existía esta pantalla."
 
 # game/code/d05/d05s05a.rpy:276
 translate spanish d05s05_apt1_7766093c:
