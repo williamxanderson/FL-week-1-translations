@@ -262,7 +262,7 @@ translate spanish replay_d06s11_45dadce3:
 translate spanish replay_d06s11_8afdff94:
 
     # mc "Ah... Okay..."
-    mc "Ah bien..."
+    mc "Ah... bien..."
 
 # game/code/d06/extended/d06s11.rpy:102
 translate spanish replay_d06s11_a59f142d:
@@ -274,7 +274,7 @@ translate spanish replay_d06s11_a59f142d:
 translate spanish replay_d06s11_98c26da4:
 
     # mct "That sounds promising!"
-    mct "Eso suena prometedor!"
+    mct "¡Eso suena prometedor!"
 
 # game/code/d06/extended/d06s11.rpy:110
 translate spanish replay_d06s11_3f98ca49:
@@ -298,7 +298,7 @@ translate spanish replay_d06s11_7bddc44a:
 translate spanish replay_d06s11_c96eb87a:
 
     # mct "She is so close! It is time to kiss her!"
-    mct "Ella está muy cerca! ¡Es hora de besarla!"
+    mct "¡Ella está muy cerca! ¡Es hora de besarla!"
 
 # game/code/d06/extended/d06s11.rpy:123
 translate spanish replay_d06s11_b558fcb2:
@@ -328,7 +328,7 @@ translate spanish replay_d06s11_060a5729:
 translate spanish replay_d06s11_691dcc92:
 
     # jf "...eeeeeeeeeep!"
-    jf "... eeeeeeeeeep!"
+    jf "...eeeeeeeeeep!"
 
 # game/code/d06/extended/d06s11.rpy:138
 translate spanish replay_d06s11_bd76742c:
