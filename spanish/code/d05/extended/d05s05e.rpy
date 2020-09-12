@@ -4,7 +4,7 @@
 translate spanish d05s05e_c6b28873:
 
     # mct "But this girl at the trashed place..."
-    mct "Pero esa chica en el lugar basura..."
+    mct "Pero esta chica en el lugar de la basura..."
 
 # game/code/d05/extended/d05s05e.rpy:8
 translate spanish d05s05e_2f99c654:
@@ -94,7 +94,7 @@ translate spanish d05s05e_47b37da6:
 translate spanish d05s05e_759ce6da:
 
     # mct "Nah... I would rather keep 5 points!"
-    mct "Nah... ¡preferiría mantener 5 puntos!"
+    mct "Nah... ¡preferiría mantener mis 5 puntos!"
 
 # game/code/d05/extended/d05s05e.rpy:64
 translate spanish d05s05e_abeca518:
@@ -142,7 +142,7 @@ translate spanish d05s05e_84a584c0:
 translate spanish d05s05e_638c98ce:
 
     # jffl "Oh, it's you. I'm not sure if I should be relieved or scared."
-    jffl "Oh, eres tú. No estoy seguro de si debería sentir alivio o miedo."
+    jffl "Oh, eres tú. No estoy segura de si debería sentir alivio o miedo."
 
 # game/code/d05/extended/d05s05e.rpy:78
 translate spanish d05s05e_ccb3278c:
@@ -244,9 +244,9 @@ translate spanish strings:
 
     # game/code/d05/extended/d05s05e.rpy:55
     old "Contact URLittlePony"
-    new "Contactar TuPequeñoPony"
+    new "Contactar a TuPequeñoPony"
 
     # game/code/d05/extended/d05s05e.rpy:55
     old "Forget about her. Not interested in URLittlePony"
-    new "Olvídate de ella. No estoy interesado en TuPequeñoPony"
+    new "Olvídate de ella. No estas interesado en TuPequeñoPony"
 
