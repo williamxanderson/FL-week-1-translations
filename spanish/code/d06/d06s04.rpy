@@ -82,7 +82,7 @@ translate spanish d06s04_0c1ad4f6:
 translate spanish d06s04_21323252:
 
     # nk "Oh! Lydia my precious angel!! Look how busy I am!"
-    nk "¡Oh! ¡¡Lydia mi ángel precioso! ¡Mira lo ocupada que estoy!"
+    nk "¡Oh! ¡Lydia mi ángel precioso! ¡Mira lo ocupada que estoy!"
 
 # game/code/d06/d06s04.rpy:46
 translate spanish d06s04_ec5d91f7:
