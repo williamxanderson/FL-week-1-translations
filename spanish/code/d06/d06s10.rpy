@@ -40,7 +40,7 @@ translate spanish replay_d06s10_499af60e:
 translate spanish replay_d06s10_66205701:
 
     # "female voice" "What? Shhhh."
-    "Voz Femenina" "¿Qué? Shhhh"
+    "Voz Femenina" "¿Qué? Shhhh."
 
 # game/code/d06/d06s10.rpy:23
 translate spanish replay_d06s10_63666237:
@@ -52,7 +52,7 @@ translate spanish replay_d06s10_63666237:
 translate spanish replay_d06s10_392cca71:
 
     # "female voice" "We won't be testing that.{w}.. tonight."
-    "Voz Femenina" "No vamos a probar eso. {w}.. esta noche."
+    "Voz Femenina" "No vamos a probar eso... {w}esta noche."
 
 # game/code/d06/d06s10.rpy:25
 translate spanish replay_d06s10_e013177b:
