@@ -46,7 +46,7 @@ translate spanish d06s08_c4357a5f:
 translate spanish d06s08_e16c2926:
 
     # mh "That's my name. Melissa Harris. "Lyssa" is just a nickname that friends call me."
-    mh "Ese es mi nombre. Melissa Harris \"Lyssa\" es solo un apodo que los amigos me llaman."
+    mh "Ese es mi nombre. Melissa Harris. \"Lyssa\" es solo un apodo que los amigos me llaman."
 
 # game/code/d06/d06s08.rpy:47
 translate spanish d06s08_7dbe79ed:
