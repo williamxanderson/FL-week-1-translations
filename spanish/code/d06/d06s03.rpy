@@ -46,7 +46,7 @@ translate spanish d06s03_2edc6c80:
 translate spanish d06s03_aa572cc0:
 
     # arj "[mcname]! And is this the famous Stacy that I've been talking to!?"
-    arj "[mcname]! ¿Y esta es la famosa Stacy con la que he estado hablando?"
+    arj "¡[mcname]! ¿Y esta es la famosa Stacy con la que he estado hablando?"
 
 # game/code/d06/d06s03.rpy:44
 translate spanish d06s03_5d8497ee:
@@ -64,7 +64,7 @@ translate spanish d06s03_513ee280:
 translate spanish d06s03_6ebec084:
 
     # arj "Holy Hotness! Stacy - you look fantastic!"
-    arj "¡Santo cielo! Stacy: ¡te ves fantástica!"
+    arj "¡Santo cielo! Stacy... ¡te ves fantástica!"
 
 # game/code/d06/d06s03.rpy:49
 translate spanish d06s03_85f46a5d:
@@ -472,7 +472,7 @@ translate spanish replay_d06s03k_3c0dcbb8:
 translate spanish replay_d06s03k_7e3425fb:
 
     # sy "The cat pooped in your sheets?! LOL!"
-    sy "¿El gato cagaba en tus sábanas? ¡LOL¡"
+    sy "¿El gato cagaba en tus sábanas? ¡LOL!"
 
 # game/code/d06/d06s03.rpy:280
 translate spanish replay_d06s03k_afcee962:
@@ -502,7 +502,7 @@ translate spanish replay_d06s03k_2b3de270:
 translate spanish replay_d06s03k_b53b15a4:
 
     # sy "LOL!"
-    sy "¡LOL¡"
+    sy "¡LOL!"
 
 # game/code/d06/d06s03.rpy:288
 translate spanish replay_d06s03k_547a9a31:
