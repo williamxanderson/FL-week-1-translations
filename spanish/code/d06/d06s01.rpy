@@ -148,7 +148,7 @@ translate spanish replay_d06s01_349e5fa1:
 translate spanish replay_d06s01_3f04f4bf:
 
     # dd "I promise! {w}Did you say "Next time"?"
-    dd "¡Lo prometo! {w}¿Dijiste \"La próxima vez\"?"
+    dd "¡Lo prometo! {w}¿Dijiste "/La próxima vez"/?"
 
 # game/code/d06/d06s01.rpy:123
 translate spanish replay_d06s01_56e81d56:
