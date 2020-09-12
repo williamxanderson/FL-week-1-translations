@@ -22,7 +22,7 @@ translate spanish d07s01_d3ec48b3:
 translate spanish d07s01_6aac446e:
 
     # sy "Where's my bag?"
-    sy "¿Dónde está mi equipaje?"
+    sy "¿Dónde está mi bolso?"
 
 # game/code/d07/d07s01.rpy:21
 translate spanish d07s01_11455b53:
@@ -34,7 +34,7 @@ translate spanish d07s01_11455b53:
 translate spanish d07s01_5c356dc3:
 
     # sy "My bag. My luggage. Where did you put it?"
-    sy "Mi bolsa. Mi equipaje. ¿Donde lo pusiste?"
+    sy "Mi bolso. Mi equipaje. ¿Donde la pusiste?"
 
 # game/code/d07/d07s01.rpy:24
 translate spanish d07s01_3ea30463:
@@ -70,7 +70,7 @@ translate spanish d07s01_b4edf22d:
 translate spanish d07s01_078b78cb:
 
     # sy "Good. Now where's my bag?"
-    sy "Bueno. Ahora ¿donde esta mi bolso?"
+    sy "Bueno. Ahora ¿donde esta mi equipaje?"
 
 # game/code/d07/d07s01.rpy:33
 translate spanish d07s01_77f7978a:
@@ -142,7 +142,7 @@ translate spanish d07s01_9f95afcb:
 translate spanish d07s01_bb4d8e38:
 
     # pb "Oh, hi chica. {w}Nice towel."
-    pb "Oh hola chica {w}Bonita toalla."
+    pb "Oh, hola chica {w}Bonita toalla."
 
 # game/code/d07/d07s01.rpy:53
 translate spanish d07s01_23cfb5d2:
@@ -196,7 +196,7 @@ translate spanish d07s01_b9b090ae:
 translate spanish d07s01_fe0048d2:
 
     # pb "Are you now or have you ever been a... what is it?"
-    pb "¿Eres ahora o has sido alguna vez... qué es?"
+    pb "¿Eres ahora o has sido alguna vez... qué sería?"
 
 # game/code/d07/d07s01.rpy:63
 translate spanish d07s01_4b7c3cc5:
@@ -220,7 +220,7 @@ translate spanish d07s01_313b6153:
 translate spanish d07s01_b6d689a7:
 
     # mc "The slut you fucked last night. Did you see when she left?"
-    mc "La zorra que te cogiste anoche. ¿Viste cuando ella se fue?"
+    mc "La puta que te cogiste anoche. ¿Viste cuando ella se fue?"
 
 # game/code/d07/d07s01.rpy:69
 translate spanish d07s01_cfa33474:
@@ -232,7 +232,7 @@ translate spanish d07s01_cfa33474:
 translate spanish d07s01_90f33375:
 
     # mc "Dammit, Pete. What the hell, dude?"
-    mc "Maldita sea, Pete. ¿Qué demonios, amigo?"
+    mc "Maldita sea, Pete. ¿Qué demonios amigo?"
 
 # game/code/d07/d07s01.rpy:71
 translate spanish d07s01_cebc4657:
@@ -250,7 +250,7 @@ translate spanish d07s01_53ef3ab0:
 translate spanish d07s01_13c8f2c6:
 
     # mc "The slut took your bag. Pete was out cold."
-    mc "La zorra se llevó tu bolso. Pete estaba fuera de sí."
+    mc "La puta se llevó tu bolso. Pete estaba fuera de sí."
 
 # game/code/d07/d07s01.rpy:77
 translate spanish d07s01_cc14cc1b:
@@ -424,7 +424,7 @@ translate spanish d07s01_1d953399:
 translate spanish d07s01_252ef6f2:
 
     # pb "She's hot as fuck, shit in the sack, and Dahlia hates her."
-    pb "Está caliente como la mierda, y Dahlia la odia."
+    pb "Está jodidamente ardiente, y Dahlia la odia."
 
 # game/code/d07/d07s01.rpy:130
 translate spanish d07s01_5fec4902:
