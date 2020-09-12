@@ -64,7 +64,7 @@ translate spanish d07s02_923b0afb:
 translate spanish d07s02_6a658699:
 
     # sy "It was weird. To be honest, I was pretty uncomfortable."
-    sy "Fue raro. Para ser sincera, estaba bastante incómodo."
+    sy "Fue raro. Para ser sincera, estaba bastante incómoda."
 
 # game/code/d07/d07s02.rpy:41
 translate spanish d07s02_918fea83:
@@ -412,7 +412,7 @@ translate spanish d07s02_283a2d7f:
 translate spanish d07s02_4e71a064:
 
     # sy "Uh huh. Well, [mcname] is lying badly. Would you like to try, AmRose?"
-    sy "Uh huh. Bueno, [mcname] miente mal. ¿Te gustaría probar, AmRose?"
+    sy "Uh huh. Bueno, [mcname] mientes muy mal. ¿Te gustaría probar, AmRose?"
 
 # game/code/d07/d07s02.rpy:187
 translate spanish d07s02_9bb34315:
@@ -436,7 +436,7 @@ translate spanish d07s02_2b35b6fe:
 translate spanish d07s02_fbbe0523:
 
     # arj "Or maybe you want someone else to tell her about it? Somebody she doesn't know, who uses it to try to get her to do things?"
-    arj "¿O tal vez quieres que alguien más le cuente al respecto? Alguien que no conoce, ¿quién lo usa para tratar de hacer que haga cosas?"
+    arj "¿O tal vez quieres que alguien más le cuente al respecto? Alguien que no conoce, ¿quién la usa para tratar de hacer que haga cosas?"
 
 # game/code/d07/d07s02.rpy:193
 translate spanish d07s02_937a8c5a:
