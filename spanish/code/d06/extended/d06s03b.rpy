@@ -10,13 +10,13 @@ translate spanish d06s03b_31b26680:
 translate spanish d06s03b_797ed68c:
 
     # mc "We never met properly. I'm [mcname]."
-    mc "Nunca nos conocimos correctamente. Soy [mcname]"
+    mc "Nunca nos conocimos correctamente. Soy [mcname]."
 
 # game/code/d06/extended/d06s03b.rpy:7
 translate spanish d06s03b_1402c2c5:
 
     # jfx "Oh... I'm Jessie. I guess."
-    jfx "Oh ... soy Jessie Supongo."
+    jfx "Oh... soy Jessie Supongo."
 
 # game/code/d06/extended/d06s03b.rpy:8
 translate spanish d06s03b_c7eaad42:
@@ -28,7 +28,7 @@ translate spanish d06s03b_c7eaad42:
 translate spanish d06s03b_6c68d3c6:
 
     # jf "I'm... {w}Yes, I am okay."
-    jf "Estoy ... {w}Sí, estoy bien."
+    jf "Estoy... {w}Sí, estoy bien."
 
 # game/code/d06/extended/d06s03b.rpy:12
 translate spanish d06s03b_f40136cf:
