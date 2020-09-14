@@ -100,7 +100,7 @@ translate spanish d07s01_1886fe71:
 translate spanish d07s01_e9bad4f4:
 
     # mc "Hey Pete."
-    mc "Hola Pete"
+    mc "Hola Pete."
 
 # game/code/d07/d07s01.rpy:41
 translate spanish d07s01_2d5348dd:
@@ -142,7 +142,7 @@ translate spanish d07s01_9f95afcb:
 translate spanish d07s01_bb4d8e38:
 
     # pb "Oh, hi chica. {w}Nice towel."
-    pb "Oh, hola chica {w}Bonita toalla."
+    pb "Oh, hola chica. {w}Bonita toalla."
 
 # game/code/d07/d07s01.rpy:53
 translate spanish d07s01_23cfb5d2:
