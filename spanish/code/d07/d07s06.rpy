@@ -112,7 +112,7 @@ translate spanish d07s06_aac624fd:
 translate spanish d07s06_9811c46f:
 
     # mesfl "{i}Hey, [mclogin]! When can we continue my training?{/i}"
-    mesfl "{i}¡Hola,[mclogin]! ¿Cuándo podemos continuar mi entrenamiento?{/i}"
+    mesfl "{i}¡Hola, [mclogin]! ¿Cuándo podemos continuar mi entrenamiento?{/i}"
 
 # game/code/d07/d07s06.rpy:65
 translate spanish d07s06_8f5ec3a5:
@@ -280,7 +280,7 @@ translate spanish d07s06_fca65595:
 translate spanish d07s06_808d101c:
 
     # pw "{i}Don't worry - My lips are sealed.{/i}"
-    pw "{i}No te preocupes: mis labios están sellados.{/i}"
+    pw "{i}No te preocupes... mis labios están sellados.{/i}"
 
 # game/code/d07/d07s06.rpy:120
 translate spanish d07s06_efcc6b36:
@@ -328,7 +328,7 @@ translate spanish d07s06_7116c168:
 translate spanish d07s06_4a0b1cc6:
 
     # mc "{i}Would love nothing more!{/i}"
-    mc "¡{i}no amaría nada más!{/i}"
+    mc "{i}¡No amaría nada más!{/i}"
 
 # game/code/d07/d07s06.rpy:148
 translate spanish d07s06_a8747462:
@@ -520,7 +520,7 @@ translate spanish d07s06_later_ff8c7592:
 translate spanish d07s06_gameover_5ee2d666:
 
     # "Narrator" "...And so it was that [mcname]'s adventures with Fetish Locator came to an end."
-    "Narrador" "... Y así fue que las aventuras de [mcname] con Fetish Locator llegaron a su fin."
+    "Narrador" "...Y así fue que las aventuras de [mcname] con Fetish Locator llegaron a su fin."
 
 # game/code/d07/d07s06.rpy:274
 translate spanish d07s06_gameover_412a6c9d:
