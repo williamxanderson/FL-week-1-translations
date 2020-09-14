@@ -129,7 +129,7 @@ translate spanish replay_d07s04dd_4a90afe5:
 # game/code/d07/d07s04dd.rpy:78
 translate spanish replay_d07s04dd_0ace07d7:
 
-    # mc "Daisy! Daisy, wak¿e up!"
+    # mc "Daisy! Daisy, wake up!"
     mc " ¡Daisy! ¡Daisy, despierta!"
 
 # game/code/d07/d07s04dd.rpy:85
