@@ -604,7 +604,7 @@ translate spanish replay_d07s04mh_2e9df3de:
 translate spanish replay_d07s04mh_a76eadc6:
 
     # mc "I'm fascinated by... {w}By all of you!"
-    mc "Estoy fascinado por... {w} ¡Por todo lo tuyo!"
+    mc "Estoy fascinado por... {w}¡Por todo lo tuyo!"
 
 # game/code/d07/d07s04mh.rpy:194
 translate spanish replay_d07s04mh_ebe7f5ad:
@@ -968,7 +968,7 @@ translate spanish strings:
 
     # game/code/d07/d07s04mh.rpy:214
     old "That would make me uncomfortable"
-    new "Eso me incomodaría"
+    new "Eso me incomodaría."
 
     # game/code/d07/d07s04mh.rpy:242
     old "Slap her again"
