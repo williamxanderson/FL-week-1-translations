@@ -4,7 +4,7 @@
 translate spanish end_of_week_302f1a70:
 
     # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Tu primera semana en {i}Fetish Locator{/i} termina aquí. {w}\nGuarda ahora para poder comenzar el día 8 sin perder todo tu progreso. {w}\nSi estás jugando varios caminos, crea guardados separados y da ellos diferentes nombres."
+    "Tu primera semana en {i}Fetish Locator{/i} termina aquí.{w}\nGuarda ahora para poder comenzar el día 8 sin perder todo tu progreso.{w}\nSi estás jugando varios caminos, crea guardados separados y da ellos diferentes nombres."
 
 # game/code/labels.rpy:44
 translate spanish end_of_week_f457ab7a:
@@ -16,7 +16,7 @@ translate spanish end_of_week_f457ab7a:
 translate spanish failed_mp_5d0c3fdc:
 
     # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Su dispositivo no puede guardar el progreso del juego en diferentes semanas.\NPor favor, permita que FL escriba en el almacenamiento externo."
+    "Su dispositivo no puede guardar el progreso del juego en diferentes semanas.\nPor favor, permita que FL escriba en el almacenamiento externo."
 
 # game/code/labels.rpy:52
 translate spanish failed_mp_d50e830d:
@@ -34,7 +34,7 @@ translate spanish game_over_dbc7b4ac:
 translate spanish end_860ea407:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
-    "Gracias por jugar la versión [config.version] de mi juego. ¡Por favor déjame saber qué piensas! ¡Tus comentarios me ayudarían mucho! Apoyo en Patreon - {a=https://www.patreon.com/fetishlocator} www.patreon.com/fetishlocator{/a}"
+    "Gracias por jugar la versión [config.version] de mi juego. ¡Por favor déjame saber qué piensas! ¡Tus comentarios me ayudarían mucho! Apoyo en Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
 
 # game/code/labels.rpy:69
 translate spanish end_0d108dc9:
