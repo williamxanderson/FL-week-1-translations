@@ -124,7 +124,7 @@ translate spanish replay_d07s05_79a9111e:
 translate spanish replay_d07s05_c66ddfd2:
 
     # mc "Huh. I guess I can understand that."
-    mc "Huh Supongo que puedo entender eso."
+    mc "Huh, Supongo que puedo entender eso."
 
 # game/code/d07/d07s05.rpy:77
 translate spanish replay_d07s05_63189e84:
@@ -556,7 +556,7 @@ translate spanish d07s05_decision_cd89a15d:
 translate spanish d07s05_sexscene_romance_df808fe2:
 
     # mc "AmRose - I don't want you just to be my friend and someone that I fuck."
-    mc "AmRose - No quiero que solo seas mi amiga y alguien a quien cojo."
+    mc "AmRose... No quiero que solo seas mi amiga y alguien a quien cojo."
 
 # game/code/d07/d07s05.rpy:243
 translate spanish d07s05_sexscene_romance_60d21864:
@@ -610,7 +610,7 @@ translate spanish d07s05_sexscene_romance_e5cdf5ea:
 translate spanish d07s05_sexscene_sexslave_195c39ac:
 
     # mc "Let me see if I understand this - you want to be my sex slave and fuck slut."
-    mc "Déjame ver si entiendo esto: quieres ser mi esclava sexual y follar como puta."
+    mc "Déjame ver si entiendo esto... quieres ser mi esclava sexual y follar como puta."
 
 # game/code/d07/d07s05.rpy:271
 translate spanish d07s05_sexscene_sexslave_a6422911:
@@ -922,7 +922,7 @@ translate spanish d07s05_cum_57cfe96e:
 translate spanish d07s05_cum_4bd436b8:
 
     # "*gulp* {w}*gulp* {w}*gulp*"
-    "*trago* {w} *trago* {w}*trago*"
+    "*trago* {w}*trago* {w}*trago*"
 
 # game/code/d07/d07s05.rpy:554
 translate spanish d07s05_cum_52a5a485:
