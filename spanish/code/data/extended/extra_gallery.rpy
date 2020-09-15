@@ -161,4 +161,3 @@ translate spanish strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "Día 7: AmRose"
-    
