@@ -52,7 +52,7 @@ translate spanish d04s04_2f1cb095:
 translate spanish d04s04_0ecba6ca:
 
     # nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
-    nk "Hablando de citas - realmente disfruté la cita a ciegas de la otra noche..."
+    nk "Hablando de citas... realmente disfruté la cita a ciegas de la otra noche..."
 
 # game/code/d04/d04s04.rpy:32
 translate spanish d04s04_39623dfe:
@@ -130,7 +130,7 @@ translate spanish d04s04_94cd8a33:
 translate spanish d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "Mira, no me importa lo que hayas echo o como pensabas que ésto iba a ir, pero no va haber más citas para mí - a ciegas o no - hasta que mi negocio haga una ganancia."
+    nk "Mira, no me importa lo que hayas echo o como pensabas que ésto iba a ir, pero no va haber más citas para mí... a ciegas o no... hasta que mi negocio haga una ganancia."
 
 # game/code/d04/d04s04.rpy:53
 translate spanish d04s04_26ef33a0:
@@ -250,7 +250,7 @@ translate spanish d04s04_f3aa3590:
 translate spanish d04s04_5c6eb4f8:
 
     # fl "Today's fetish - Enema! Ready your asses!"
-    fl "¡Fetiche de hoy - Enema! ¡Preparen sus traseros!"
+    fl "¡Fetiche de hoy... Enema! ¡Preparen sus traseros!"
 
 # game/code/d04/d04s04.rpy:94
 translate spanish d04s04_930de9ee:
@@ -478,7 +478,7 @@ translate spanish d04s04p2_35ab8f09:
 translate spanish d04s04p2_4917a43a:
 
     # lc "You attended {i}that{/i} party, and instead of hooking up with someone - or several someones - you spent the night talking to me."
-    lc "Atendiste a {i}esa{/i} fiesta, y en vez de ligar con alguien más - o varios alguien- pasaste la noche hablando conmigo."
+    lc "Atendiste a {i}esa{/i} fiesta, y en vez de ligar con alguien más... o varios alguien- pasaste la noche hablando conmigo."
 
 # game/code/d04/d04s04.rpy:160
 translate spanish d04s04p2_f5701c94:
@@ -784,7 +784,7 @@ translate spanish d04s04p2_12eea058:
 translate spanish d04s04p2_58f7ce65:
 
     # lc "She's... excitable."
-    lc   " Ella es.... energética."
+    lc "Ella es.... energética."
 
 # game/code/d04/d04s04.rpy:253
 translate spanish d04s04p2_598e3a16:
@@ -946,7 +946,7 @@ translate spanish d04s04p2_cbc1fc6f:
 translate spanish d04s04p2_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh..."
+    mc "Oh?"
 
 # game/code/d04/d04s04.rpy:295
 translate spanish d04s04p2_45c35c36:
@@ -1840,7 +1840,7 @@ translate spanish d04s04p2_2dce1b90:
 translate spanish d04s04p2_51ecce7c:
 
     # mc "Yeah, there is a terrific energy in this space... {w}as if a million voices cried out at once... {w}and were served delicious coffee beverages."
-    mc "Sí, hay una gran energía en este espacio... como si un millón de voces gritaran a la vez... {w}y se les sirvieran deliciosas bebidas de café."
+    mc "Sí, hay una gran energía en este espacio... {w}como si un millón de voces gritaran a la vez... {w}y se les sirvieran deliciosas bebidas de café."
 
 # game/code/d04/d04s04.rpy:524
 translate spanish d04s04p2_c7e78627:
@@ -2098,7 +2098,7 @@ translate spanish d04s04p2_454cea9e:
 translate spanish d04s04p2_628af882:
 
     # lc "Sure."
-    lc "...claro."
+    lc "Claro."
 
 # game/code/d04/d04s04.rpy:592
 translate spanish d04s04p2_623c1c05:
