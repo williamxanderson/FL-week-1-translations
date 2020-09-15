@@ -36,7 +36,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 3: Min"
-    new "Día 3: Min."
+    new "Día 3: Min"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You must have made Min cum on day 2"
