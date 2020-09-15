@@ -130,7 +130,7 @@ translate spanish replay_d07s04pw_9a1b7298:
 translate spanish replay_d07s04pw_fc952754:
 
     # pw "Hmm? {w}Oh, hey [mcname]!"
-    pw "Hmm? {w} ¡Oh, hola [mcname]!"
+    pw "Hmm? {w}¡Oh, hola [mcname]!"
 
 # game/code/d07/d07s04pw.rpy:59
 translate spanish replay_d07s04pw_7e7a5d3e:
@@ -388,7 +388,7 @@ translate spanish replay_d07s04pw_4809dae5:
 translate spanish replay_d07s04pw_56608ae8:
 
     # mc "Hmm... maybe another time."
-    mc "Hmm ... tal vez en otro momento."
+    mc "Hmm... tal vez en otro momento."
 
 # game/code/d07/d07s04pw.rpy:150
 translate spanish replay_d07s04pw_0f41a2be:
@@ -658,7 +658,7 @@ translate spanish d07s04_pw_end_eadc9456:
 translate spanish d07s04_pw_end_fe95ef33:
 
     # mc "Are you going to be okay alone out here? Should I-"
-    mc "¿Vas a estar bien sola aquí? Debería-"
+    mc "¿Vas a estar bien sola aquí? Debería..."
 
 # game/code/d07/d07s04pw.rpy:270
 translate spanish d07s04_pw_end_77a93e55:
