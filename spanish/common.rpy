@@ -1,6 +1,18 @@
 # TODO: Translation updated at 2020-06-27 21:23
 
 translate spanish strings:
+    # game/code/screens/screens_fl.rpy:210
+    old "How do you want to name your save?"
+    new "¿Cómo quieres nombrar tu guardado?"
+
+    # game/code/screens/screens_fl.rpy:210
+    old "How do you want to rename this page?"
+    new "¿Cómo desea cambiar el nombre de esta página?"
+
+    # game/code/screens/screens_fl.rpy:241
+    old "Undo"
+    new "Deshacer"
+    
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
     new "(establezca un nombre antes de guardar su progreso)"
