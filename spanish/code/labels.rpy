@@ -125,4 +125,7 @@ translate spanish strings:
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
     new "¿Cuál es tu nombre? (Nombre predeterminado - Mike)"
-
+    
+    #game/code/d01/s02.rpy:232
+    old "What is your name in Fetish Locator app?"
+    new "¿Cómo te llamas en la aplicación Fetish Locator?"
