@@ -1,6 +1,21 @@
 # TODO: Translation updated at 2020-06-27 21:23
 
 translate spanish strings:
+    # game/code/screens/extended/screens_fl.rpy:23
+    old "Bonus Content"
+    new "Contenido extra"
+
+    # game/code/screens/screens.rpy:828
+    old "Taboo mode"
+    new "Modo tabú"
+
+    # game/code/screens/screens.rpy:829
+    old "Enabled"
+    new "Habilitar"
+
+    # game/code/screens/screens.rpy:830
+    old "Disabled"
+    new "Discapacitado"
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
