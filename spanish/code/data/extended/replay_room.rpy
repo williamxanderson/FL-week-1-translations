@@ -184,7 +184,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Nora"
-    new "Creampie Nora"
+    new "Creampie a Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Polly & Nora"
