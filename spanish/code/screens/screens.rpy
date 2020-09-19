@@ -48,23 +48,23 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:331
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "Continuar desde la semana [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:335
     old "Preferences"
-    new "Preferences"
+    new "Configuración"
 
     # game/code/screens/screens.rpy:339
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "Apoyar en Patreon"
 
     # game/code/screens/screens.rpy:343
     old "Join Discord"
-    new "Join Discord"
+    new "Únete al Discord"
 
     # game/code/screens/screens.rpy:347
     old "Switch Language"
-    new "Switch Language"
+    new "Cambiar el Idioma"
 
     # game/code/screens/screens.rpy:362
     old "End Replay"
@@ -92,11 +92,11 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:650
     old "(type the save name here)"
-    new "(type the save name here)"
+    new "(Escribe el nombre del guardado aquí)"
 
     # game/code/screens/screens.rpy:680
     old "Current save name:"
-    new "Current save name:"
+    new "Nombre del guardado actual:"
 
     # game/code/screens/screens.rpy:718
     old "{#file_time}%A, %B %d %Y, %H:%M"
