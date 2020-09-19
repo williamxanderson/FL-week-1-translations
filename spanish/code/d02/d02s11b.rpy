@@ -298,7 +298,7 @@ translate spanish replay_d02s11b_f1a64d64:
 translate spanish replay_d02s11b_7a19cf07:
 
     # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
+    mct "Esto no sabe nada mal. Antony no sabe lo que se está perdiendo."
 
 # game/code/d02/d02s11b.rpy:239
 translate spanish replay_d02s11b_d9521958:
