@@ -826,7 +826,7 @@ translate spanish d04s04p2_de5879c1:
 translate spanish d04s04p2_cd9f6d67:
 
     # lc "Oh, people come up to me all the time to tell me how much they love my parents..."
-    lc "Oh, people come up to me all the time to tell me how much they love my parents..."
+    lc "Oh, la gente se me acerca todo el tiempo para decirme cuánto admiran a mis padres..."
 
 # game/code/d04/d04s04.rpy:266
 translate spanish d04s04p2_96570627:
