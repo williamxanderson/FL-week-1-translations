@@ -364,7 +364,7 @@ translate spanish replay_d02s12_5d8da468:
 translate spanish replay_d02s12_9d996558:
 
     # mct "Okay looks like I'm not getting any points here."
-    mct "Okay looks like I'm not getting any points here."
+    mct "Vale, parece que no estoy consiguiendo ningún punto aquí."
 
 # game/code/d02/d02s12.rpy:298
 translate spanish replay_d02s12_33b7cacb:
