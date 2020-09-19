@@ -124,5 +124,5 @@ translate spanish strings:
 
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
-    new "¿Cuál es tu nombre? (Nombre predeterminado - Miguel)"
+    new "¿Cuál es tu nombre? (Nombre predeterminado - Mike)"
 
