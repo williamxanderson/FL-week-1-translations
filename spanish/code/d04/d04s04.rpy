@@ -541,7 +541,7 @@ translate spanish d04s04p2_c8be3c38:
     mc "(risa) Eso es verdad."
 
 # game/code/d04/d04s04.rpy:175
-translate spanish d04s04p2_e6b7ba86
+translate spanish d04s04p2_e6b7ba86:
 
     # lc "I mean, even then, you really swept in and saved the day."
     lc "Digo, incluso ahí, realmente llegaste a salvar el día."
