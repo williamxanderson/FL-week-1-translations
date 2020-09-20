@@ -7,7 +7,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:210
     old "How do you want to rename this page?"
-    new "¿Cómo desea cambiar el nombre de esta página?"
+    new "¿Cómo deseas cambiar el nombre de esta página?"
 
     # game/code/screens/screens_fl.rpy:241
     old "Undo"
@@ -27,11 +27,11 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:829
     old "Enabled"
-    new "Habilitar"
+    new "Habilitado"
 
     # game/code/screens/screens.rpy:830
     old "Disabled"
-    new "Discapacitado"
+    new "Deshabilitado"
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
