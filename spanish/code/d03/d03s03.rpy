@@ -613,5 +613,5 @@ translate spanish strings:
     new "Hacer una distracción y salvar a Kevin y Chloe de ser atrapados"
 
     # game/code/d03/d03s03.rpy:207
-    old "Just let them be caught by miss Waller"
+    old "Just let them be caught by Miss Waller"
     new "Deja que los atrape la Srta. Waller"
