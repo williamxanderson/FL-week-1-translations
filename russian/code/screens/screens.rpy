@@ -56,7 +56,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:340
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "Поддержи нас на Patreon"
 
     # game/code/screens/screens.rpy:344
     old "Join Discord"
