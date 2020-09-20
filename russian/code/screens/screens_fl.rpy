@@ -24,13 +24,12 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:210
     old "How do you want to name your save?"
-    new "How do you want to name your save?"
+    new "Как вы хотети назвать сохранение?"
 
     # game/code/screens/screens_fl.rpy:210
     old "How do you want to rename this page?"
-    new "How do you want to rename this page?"
+    new "Как вы хотете переименовать страницу?"
 
     # game/code/screens/screens_fl.rpy:241
     old "Undo"
-    new "Undo"
-
+    new "Отменить"

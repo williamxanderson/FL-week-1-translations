@@ -344,17 +344,16 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
-    new "(set a name before saving your progress)"
+    new "(Выберите имя до сохранения)"
 
     # game/code/screens/screens.rpy:828
     old "Taboo mode"
-    new "Taboo mode"
+    new "Табу режим"
 
     # game/code/screens/screens.rpy:829
     old "Enabled"
-    new "Enabled"
+    new "Включено"
 
     # game/code/screens/screens.rpy:830
     old "Disabled"
-    new "Disabled"
-
+    new "Выключено"
