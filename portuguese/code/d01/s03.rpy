@@ -1107,7 +1107,7 @@ translate portuguese s03_ffb1c17a:
 translate portuguese s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "É muito mais excitanto ver alguém que você conhece, do que simplesmente assistir um porno".
+    mct "É muito mais excitanto ver alguém que você conhece, do que simplesmente assistir um porno."
 
 # game/code/d01/s03.rpy:75
 translate portuguese s03_c33e016e:
@@ -1158,4 +1158,3 @@ translate portuguese strings:
     # game/code/d01/s03.rpy:94
     old "No"
     new "Não"
-

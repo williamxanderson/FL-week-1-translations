@@ -915,7 +915,7 @@ translate portuguese s04_bb29afd0:
 translate portuguese s04_5ea01134:
 
     # mc "Thanks! We'll finish this a lot quicker together."
-    mc "Obrigado! A gente vai terminar isso muito mais rápidojuntos.""
+    mc "Obrigado! A gente vai terminar isso muito mais rápidojuntos."
 
 # game/code/d01/s04.rpy:292
 translate portuguese s04_5bfce982:
@@ -1384,4 +1384,3 @@ translate portuguese replay_d01s04_325c4b97:
 
     # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
     mct "Eu prometi assistir o filme com a AmRose. Eu preciso fazer algo pra ganhar pontos. Mas se eu não for pra AmRose ela vai ficar muito puta."
-
