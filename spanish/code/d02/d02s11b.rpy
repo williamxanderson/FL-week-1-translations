@@ -353,7 +353,7 @@ translate spanish replay_d02s11b_b1cfa47b:
 translate spanish replay_d02s11b_3929faa5:
 
     # mes "Oh, Fuck!{w} I Have NEVER ...{w} You are extremely talented."
-    mes "¡Oh, mierda!{w} NUNCA he tenido...{W} Eres extremadamente talentoso."
+    mes "¡Oh, mierda!{w} NUNCA he tenido...{w} Eres extremadamente talentoso."
 
 # game/code/d02/d02s11b.rpy:263
 translate spanish replay_d02s11b_60314aff:
