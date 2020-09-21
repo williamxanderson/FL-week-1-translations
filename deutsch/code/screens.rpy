@@ -650,5 +650,5 @@ translate deutsch strings:
 
     # game/screens.rpy:322
     old "Gallery"
-    new "Gallery"
+    new "Galerie"
 
