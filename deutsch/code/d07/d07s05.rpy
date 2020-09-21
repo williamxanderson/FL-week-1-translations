@@ -966,7 +966,7 @@ translate deutsch strings:
 
     # game/code/d07/d07s05.rpy:317
     old "Spank"
-    new "Spank"
+    new "Versohlen"
 
     # game/code/d07/d07s05.rpy:317
     old "Cum"
