@@ -16,7 +16,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Keep watching Stacy"
-    new "Schau weiter zu"
+    new "Schau weiter zu Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 1: AmRose"
