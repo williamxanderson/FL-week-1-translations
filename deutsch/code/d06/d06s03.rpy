@@ -556,7 +556,7 @@ translate deutsch d06s03_2e833067:
 translate deutsch d06s03_790de301:
 
     # sy "No way."
-    sy "No way."
+    sy "Auf keinen Fall."
 
 # game/code/d06/d06s03.rpy:175
 translate deutsch d06s03_1884434d:
