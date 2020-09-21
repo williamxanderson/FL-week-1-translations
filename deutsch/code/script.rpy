@@ -141,7 +141,7 @@ translate deutsch strings:
 
     # game/script.rpy:167
     old "{font=DejaVuSans.ttf}Back{/font}"
-    new "{font=DejaVuSans.ttf}Back{/font}"
+    new "{font=DejaVuSans.ttf}Zurück{/font}"
 
     # game/script.rpy:23
     old "best friend{#female}"
