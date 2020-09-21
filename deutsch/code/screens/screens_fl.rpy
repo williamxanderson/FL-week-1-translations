@@ -8,9 +8,9 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:85
     old "Date"
-    new "Date"
+    new "Datum"
 
     # game/code/screens/screens_fl.rpy:121
     old "No save from week [FLSS.week.prev] has been detected"
-    new "No save from week [FLSS.week.prev] has been detected"
+    new "Es wurde keine Speicherstand von Woche [FLSS.week.prev] gefunden"
 
