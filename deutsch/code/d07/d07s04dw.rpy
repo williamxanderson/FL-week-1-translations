@@ -452,4 +452,4 @@ translate deutsch strings:
 
     # game/code/d07/d07s04dw.rpy:154
     old "Sorry, Mistress!"
-    new "Sorry, Mistress!"
+    new "Entschuldigung, Mistress!"
