@@ -88,7 +88,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do whatever it takes to win"
-    new "Do whatever it takes to win"
+    new "Tu alles, um zu gewinnen"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Mr.D1cky's event"
