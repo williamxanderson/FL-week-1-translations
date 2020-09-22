@@ -69,3 +69,63 @@ translate deutsch end_1ca2a080:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
     "Danke für das spielen von [config.version] version des Spieles. Bitte lass mich wissen was du von dem Spiel denkst! Dein Feedback hilft mir sehr! Unterstütze uns auf Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
+    
+    # game/code/labels.rpy:139
+translate deutsch coming_next_19d946e7:
+
+    # sy "Hey Daisy!"
+    sy "Hey Daisy!"
+
+# game/code/labels.rpy:143
+translate deutsch coming_next_f51b448d:
+
+    # dd "Yes sweety?"
+    dd "Ja süße?"
+
+# game/code/labels.rpy:147
+translate deutsch coming_next_cc767eb3:
+
+    # sy "Do you think he will wait?"
+    sy "Glaubst du er wird warten?"
+
+# game/code/labels.rpy:151
+translate deutsch coming_next_41e42ee3:
+
+    # dd "Who?"
+    dd "Who?"
+
+# game/code/labels.rpy:155
+translate deutsch coming_next_d98a7c41:
+
+    # sy "Him! The one behind this screen!"
+    sy "Er! Der hinter dem Bildschirm hier!"
+
+# game/code/labels.rpy:158
+translate deutsch coming_next_9d34f57d:
+
+    # dd "Wait for what?"
+    dd "Worauf warten?"
+
+# game/code/labels.rpy:162
+translate deutsch coming_next_8e181c56:
+
+    # sy "Wait for the next game update?"
+    sy "Auf das nächste Spiel-Update?"
+
+# game/code/labels.rpy:165
+translate deutsch coming_next_57289a79:
+
+    # dd "Oh my dear! Don't you worry!"
+    dd "Oh Kleine! Mach dir keine Sorgen!"
+
+# game/code/labels.rpy:168
+translate deutsch coming_next_15bd04e6:
+
+    # dd "He loves you!"
+    dd "Er liebt dich!"
+
+# game/code/labels.rpy:171
+translate deutsch coming_next_c98f9c86:
+
+    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    dd "Und ich bin sicher er wird gerne mehr spielen, sobald die zweite Woche 2021 veröffentlicht wird!"
