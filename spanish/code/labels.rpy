@@ -119,6 +119,66 @@ translate spanish knockknock_a3fe61f9:
 
     # "Knock knock"
     "Toc Toc"
+    
+# game/code/labels.rpy:139
+translate spanish coming_next_19d946e7:
+
+    # sy "Hey Daisy!"
+    sy "¡Hola Daisy!"
+
+# game/code/labels.rpy:143
+translate spanish coming_next_f51b448d:
+
+    # dd "Yes sweety?"
+    dd "¿Si cariño?"
+
+# game/code/labels.rpy:147
+translate spanish coming_next_cc767eb3:
+
+    # sy "Do you think he will wait?"
+    sy "¿Crees que esperará?"
+
+# game/code/labels.rpy:151
+translate spanish coming_next_41e42ee3:
+
+    # dd "Who?"
+    dd "¿Quien?"
+
+# game/code/labels.rpy:155
+translate spanish coming_next_d98a7c41:
+
+    # sy "Him! The one behind this screen!"
+    sy "¡Él! ¡El que está detrás de esta pantalla!"
+
+# game/code/labels.rpy:158
+translate spanish coming_next_9d34f57d:
+
+    # dd "Wait for what?"
+    dd "¿Esperará que?"
+
+# game/code/labels.rpy:162
+translate spanish coming_next_8e181c56:
+
+    # sy "Wait for the next game update?"
+    sy "¿La próxima actualización del juego?"
+
+# game/code/labels.rpy:165
+translate spanish coming_next_57289a79:
+
+    # dd "Oh my dear! Don't you worry!"
+    dd "¡Oh mi pequeña! ¡No te preocupes!"
+
+# game/code/labels.rpy:168
+translate spanish coming_next_15bd04e6:
+
+    # dd "He loves you!"
+    dd "¡Él te ama!"
+
+# game/code/labels.rpy:171
+translate spanish coming_next_c98f9c86:
+
+    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    dd "¡Y estoy segura de que estará feliz de jugar más una vez que la semana 2 se estrene en el 2021!"
 
 translate spanish strings:
 
