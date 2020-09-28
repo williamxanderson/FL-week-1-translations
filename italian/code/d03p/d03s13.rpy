@@ -1306,7 +1306,7 @@ translate italian replay_d03s13_836c33c8:
 translate italian replay_d03s13_b62e8c69:
 
     # dd "But I lost."
-    dd "But I lost."
+    dd "Ma ho perso."
 
 # game/code/d03p/d03s13.rpy:159
 translate italian replay_d03s13_1611d8c9:
@@ -1318,7 +1318,7 @@ translate italian replay_d03s13_1611d8c9:
 translate italian replay_d03s13_2f415ada:
 
     # dd "But... I lost. The game is over."
-    dd "But... I lost. The game is over."
+    dd "Ma... Ho perso. La sfida è finita."
 
 # game/code/d03p/d03s13.rpy:163
 translate italian replay_d03s13_b8de06d3:
