@@ -1444,7 +1444,7 @@ translate italian replay_d04s05_82d7d6e1:
 translate italian d04s05_confession_2bd45108:
 
     # arj "It was something really stupid, something I had never done, and then I did it."
-    arj "It was something really stupid, something I had never done, and then I did it."
+    arj "È stato qualcosa di veramente stupido, che non avevo mai provato prima. E l'ho fatto."
 
 translate italian strings:
 
