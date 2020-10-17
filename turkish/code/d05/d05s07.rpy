@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d05/d05s07.rpy:13
 translate turkish replay_d05s07_2bbdcd9b:
