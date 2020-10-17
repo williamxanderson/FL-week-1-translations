@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 translate turkish strings:
 
@@ -165,4 +165,12 @@ translate turkish strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "Day 7: AmRose"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Stacy in hell"
+    new "Stacy in hell"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Disappoint Stacy"
+    new "Disappoint Stacy"
 
