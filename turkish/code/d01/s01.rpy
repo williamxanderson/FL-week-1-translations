@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d01/s01.rpy:30
 translate turkish d01s01_e830540f:
@@ -133,10 +133,10 @@ translate turkish d01s01_c7996105:
     mct "She is beautiful!"
 
 # game/code/d01/s01.rpy:65
-translate turkish d01s01_0ace8bbf:
+translate turkish d01s01_dc5dd433:
 
-    # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "She looks like an interesting person... {w}I would love to date her."
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "She looks like an interesting person... {w}I would love to date a girl like her."
 
 # game/code/d01/s01.rpy:66
 translate turkish d01s01_f3a9ab90:
