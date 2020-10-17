@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d03p2/d03s16.rpy:27
 translate turkish d03s16_9fc736db:
@@ -936,43 +936,43 @@ translate turkish replay_d03s16_cb9ed72e:
     # mct "Oh, I guess it is to cover up if she screams."
     mct "Oh, I guess it is to cover up if she screams."
 
-# game/code/d03p2/d03s16.rpy:394
+# game/code/d03p2/d03s16.rpy:395
 translate turkish replay_d03s16_ce002718:
 
     # mct "This is the perfect view."
     mct "This is the perfect view."
 
-# game/code/d03p2/d03s16.rpy:403
+# game/code/d03p2/d03s16.rpy:406
 translate turkish replay_d03s16_7ecff610:
 
     # mct "It is very dark, but everyone seems to be enjoying the show!"
     mct "It is very dark, but everyone seems to be enjoying the show!"
 
-# game/code/d03p2/d03s16.rpy:423
+# game/code/d03p2/d03s16.rpy:426
 translate turkish replay_d03s16_4204b396:
 
     # mct "Seems like Lydia and this dude are arguing. That is good right?"
     mct "Seems like Lydia and this dude are arguing. That is good right?"
 
-# game/code/d03p2/d03s16.rpy:425
+# game/code/d03p2/d03s16.rpy:428
 translate turkish replay_d03s16_5dd4e805:
 
     # mesfl "Faster!"
     mesfl "Faster!"
 
-# game/code/d03p2/d03s16.rpy:440
+# game/code/d03p2/d03s16.rpy:446
 translate turkish replay_d03s16_d1e009d7:
 
     # mct "Wow! What the fuck?! What the fuck is he doing?!"
     mct "Wow! What the fuck?! What the fuck is he doing?!"
 
-# game/code/d03p2/d03s16.rpy:443
+# game/code/d03p2/d03s16.rpy:449
 translate turkish replay_d03s16_1ef56dad:
 
     # mct "Son-of-a-bitch. I'm going to kill him!"
     mct "Son-of-a-bitch. I'm going to kill him!"
 
-# game/code/d03p2/d03s16.rpy:444
+# game/code/d03p2/d03s16.rpy:450
 translate turkish replay_d03s16_fb8a9aaf:
 
     # mct "I gotta get up there before something happens."
