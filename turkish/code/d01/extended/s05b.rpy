@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d01/extended/s05b.rpy:8
 translate turkish d01s05b_8139b175:
