@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d02/s07.rpy:99
 translate turkish d02s07_19452b15:
@@ -252,241 +252,241 @@ translate turkish replay_d02s07_cf1cd28e:
     # mc "({i}What should I do?!{/i})"
     mc "({i}What should I do?!{/i})"
 
-# game/code/d02/s07.rpy:210
+# game/code/d02/s07.rpy:211
 translate turkish replay_d02s07_db0389aa:
 
     # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
     mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
 
-# game/code/d02/s07.rpy:213
+# game/code/d02/s07.rpy:214
 translate turkish replay_d02s07_f9ea10f1:
 
     # mct "I will just open the door a little bit more!"
     mct "I will just open the door a little bit more!"
 
-# game/code/d02/s07.rpy:216
+# game/code/d02/s07.rpy:217
 translate turkish replay_d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
     mct "Wow! I see Stacy naked!"
 
-# game/code/d02/s07.rpy:217
+# game/code/d02/s07.rpy:218
 translate turkish replay_d02s07_a2c85cd6:
 
     # mc "({i}I will watch just a little bit more!{/i})"
     mc "({i}I will watch just a little bit more!{/i})"
 
-# game/code/d02/s07.rpy:237
+# game/code/d02/s07.rpy:238
 translate turkish replay_d02s07_a18006d4:
 
     # mct "And now she’s turned off the shower! I should leave now!"
     mct "And now she’s turned off the shower! I should leave now!"
 
-# game/code/d02/s07.rpy:238
+# game/code/d02/s07.rpy:239
 translate turkish replay_d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
     mct "Oh! Is she about to do what I think?"
 
-# game/code/d02/s07.rpy:239
+# game/code/d02/s07.rpy:240
 translate turkish replay_d02s07_af60218e:
 
     # mct "I pee in the shower too. But should I watch how she does it?"
     mct "I pee in the shower too. But should I watch how she does it?"
 
-# game/code/d02/s07.rpy:243
+# game/code/d02/s07.rpy:244
 translate turkish replay_d02s07_a7b96636:
 
     # mct "Will she actually pee?"
     mct "Will she actually pee?"
 
-# game/code/d02/s07.rpy:244
+# game/code/d02/s07.rpy:245
 translate turkish replay_d02s07_a8656b26:
 
     # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
     mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
 
-# game/code/d02/s07.rpy:245
+# game/code/d02/s07.rpy:246
 translate turkish replay_d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
     mct "Why am I so aroused by that thought?"
 
-# game/code/d02/s07.rpy:251
+# game/code/d02/s07.rpy:252
 translate turkish replay_d02s07_22fa5f40:
 
     # mct "She is actually pissing now!"
     mct "She is actually pissing now!"
 
-# game/code/d02/s07.rpy:252
+# game/code/d02/s07.rpy:253
 translate turkish replay_d02s07_a13dfa49:
 
     # mct "I'm watching my naked [game.stacytitle] pee!"
     mct "I'm watching my naked [game.stacytitle] pee!"
 
-# game/code/d02/s07.rpy:265
+# game/code/d02/s07.rpy:266
 translate turkish replay_d02s07_6d530174:
 
     # mct "Wow! Wait! What is she doing?!"
     mct "Wow! Wait! What is she doing?!"
 
-# game/code/d02/s07.rpy:266
+# game/code/d02/s07.rpy:267
 translate turkish replay_d02s07_04cfb5d9:
 
     # mct "Is she masturbating while peeing? {w} Or she is peeing while masturbating!?"
     mct "Is she masturbating while peeing? {w} Or she is peeing while masturbating!?"
 
-# game/code/d02/s07.rpy:270
+# game/code/d02/s07.rpy:271
 translate turkish replay_d02s07_b0a5fdcf:
 
     # sy "Mmmh"
     sy "Mmmh"
 
-# game/code/d02/s07.rpy:273
+# game/code/d02/s07.rpy:274
 translate turkish replay_d02s07_21301221:
 
     # sy "Yeah"
     sy "Yeah"
 
-# game/code/d02/s07.rpy:275
+# game/code/d02/s07.rpy:276
 translate turkish replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
     mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
 
-# game/code/d02/s07.rpy:277
+# game/code/d02/s07.rpy:278
 translate turkish replay_d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
     mc "({i}And last time I spied on her I got caught!{/i})"
 
-# game/code/d02/s07.rpy:278
+# game/code/d02/s07.rpy:279
 translate turkish replay_d02s07_e99614ac:
 
     # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
     mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
 
-# game/code/d02/s07.rpy:281
+# game/code/d02/s07.rpy:282
 translate turkish replay_d02s07_72bdd4f1:
 
     # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
     "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
 
-# game/code/d02/s07.rpy:282
+# game/code/d02/s07.rpy:283
 translate turkish replay_d02s07_859c321f:
 
     # mct "Looks like she is going to need another shower soon."
     mct "Looks like she is going to need another shower soon."
 
-# game/code/d02/s07.rpy:284
+# game/code/d02/s07.rpy:285
 translate turkish replay_d02s07_f71e9b49:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
     "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
 
-# game/code/d02/s07.rpy:289
+# game/code/d02/s07.rpy:290
 translate turkish replay_d02s07_1a8deaac:
 
     # "Stacy starts to collapse backwards."
     "Stacy starts to collapse backwards."
 
-# game/code/d02/s07.rpy:292
+# game/code/d02/s07.rpy:293
 translate turkish replay_d02s07_919f3d91:
 
     # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
     "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
 
-# game/code/d02/s07.rpy:293
+# game/code/d02/s07.rpy:294
 translate turkish replay_d02s07_9731f864:
 
     # sy "A-a-a-h"
     sy "A-a-a-h"
 
-# game/code/d02/s07.rpy:297
+# game/code/d02/s07.rpy:298
 translate turkish replay_d02s07_ae0e3462:
 
     # "Stacy’s body starts to shake in orgasmic spasms!"
     "Stacy’s body starts to shake in orgasmic spasms!"
 
-# game/code/d02/s07.rpy:304
+# game/code/d02/s07.rpy:305
 translate turkish replay_d02s07_5c25b3ee:
 
     # sy "O-o-o-h"
     sy "O-o-o-h"
 
-# game/code/d02/s07.rpy:305
+# game/code/d02/s07.rpy:306
 translate turkish replay_d02s07_2d8f6d5d:
 
     # "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
     "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
 
-# game/code/d02/s07.rpy:326
+# game/code/d02/s07.rpy:327
 translate turkish replay_d02s07_d7f7bcb2:
 
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
     mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
 
-# game/code/d02/s07.rpy:340
+# game/code/d02/s07.rpy:341
 translate turkish replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
     mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
 
-# game/code/d02/s07.rpy:341
+# game/code/d02/s07.rpy:342
 translate turkish replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
     mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
 
-# game/code/d02/s07.rpy:342
+# game/code/d02/s07.rpy:343
 translate turkish replay_d02s07_b7389156:
 
     # mc "({i}Or am I actually just jealous?!{/i})"
     mc "({i}Or am I actually just jealous?!{/i})"
 
-# game/code/d02/s07.rpy:344
+# game/code/d02/s07.rpy:345
 translate turkish replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
     mc "({i}Time to find out what the deal is with this banana.{/i})"
 
-# game/code/d02/s07.rpy:358
+# game/code/d02/s07.rpy:359
 translate turkish d01s07_pete_about_girls_fcc1b776:
 
     # pb "Hmmm, what was I talking about?"
     pb "Hmmm, what was I talking about?"
 
-# game/code/d02/s07.rpy:359
+# game/code/d02/s07.rpy:360
 translate turkish d01s07_pete_about_girls_16af2776:
 
     # mc "The party."
     mc "The party."
 
-# game/code/d02/s07.rpy:364
+# game/code/d02/s07.rpy:365
 translate turkish d01s07_pete_about_girls_2854182f:
 
     # pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
     pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
 
-# game/code/d02/s07.rpy:375
+# game/code/d02/s07.rpy:376
 translate turkish d01s07_pete_about_girls_2_cd0e4703:
 
     # pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
     pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
 
-# game/code/d02/s07.rpy:376
+# game/code/d02/s07.rpy:377
 translate turkish d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
     pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
 
-# game/code/d02/s07.rpy:378
+# game/code/d02/s07.rpy:379
 translate turkish d01s07_pete_about_girls_2_0741f128:
 
     # pb "Right on her pretty blond hair! Can you believe that?! It was epic!"
     pb "Right on her pretty blond hair! Can you believe that?! It was epic!"
 
-# game/code/d02/s07.rpy:380
+# game/code/d02/s07.rpy:381
 translate turkish d01s07_pete_about_girls_2_5b5eb208:
 
     # pb "Got 25 points for that!"
@@ -502,11 +502,11 @@ translate turkish strings:
     old "Stop spying on your [game.stacytitle]"
     new "Stop spying on your [game.stacytitle]"
 
-    # game/code/d02/s07.rpy:240
+    # game/code/d02/s07.rpy:241
     old "Continue watching [game.stacytitle]"
     new "Continue watching [game.stacytitle]"
 
-    # game/code/d02/s07.rpy:240
+    # game/code/d02/s07.rpy:241
     old "Let’s have some boundaries and leave"
     new "Let’s have some boundaries and leave"
 

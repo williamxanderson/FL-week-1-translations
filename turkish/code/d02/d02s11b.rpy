@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d02/d02s11b.rpy:54
 translate turkish d02s11b_d7ef9abe:

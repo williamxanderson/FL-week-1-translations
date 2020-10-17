@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d02/s06.rpy:20
 translate turkish d02s06_d141bee8:
@@ -726,85 +726,85 @@ translate turkish d02s06_e13fab6e:
     # mct "Well they haven't done it yet. Watching them isn’t enough of a reason to stay for another hour. I need to find a pussy to eat for myself!"
     mct "Well they haven't done it yet. Watching them isn’t enough of a reason to stay for another hour. I need to find a pussy to eat for myself!"
 
-# game/code/d02/s06.rpy:327
+# game/code/d02/s06.rpy:324
 translate turkish d02s06_3e11c097:
 
     # arjt "Oh! [mcname] just left."
     arjt "Oh! [mcname] just left."
 
-# game/code/d02/s06.rpy:328
+# game/code/d02/s06.rpy:325
 translate turkish d02s06_cba77ca9:
 
     # arjt "But I guess it is good since I will be leaving any moment too."
     arjt "But I guess it is good since I will be leaving any moment too."
 
-# game/code/d02/s06.rpy:335
+# game/code/d02/s06.rpy:332
 translate turkish d02s06_c7ff8a2f:
 
     # arjt "Oh. Looks like it is time for me to go."
     arjt "Oh. Looks like it is time for me to go."
 
-# game/code/d02/s06.rpy:339
+# game/code/d02/s06.rpy:336
 translate turkish d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
     "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
 
-# game/code/d02/s06.rpy:344
+# game/code/d02/s06.rpy:341
 translate turkish d02s06_354c4361:
 
     # mct "Damn! There is Lydia!"
     mct "Damn! There is Lydia!"
 
-# game/code/d02/s06.rpy:345
+# game/code/d02/s06.rpy:342
 translate turkish d02s06_9a7faac9:
 
     # mc "({i}Problem is that she doesn't know that I exist yet. But I'm working on that!{/i})"
     mc "({i}Problem is that she doesn't know that I exist yet. But I'm working on that!{/i})"
 
-# game/code/d02/s06.rpy:346
+# game/code/d02/s06.rpy:343
 translate turkish d02s06_b2d0e7e2:
 
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
     mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
 
-# game/code/d02/s06.rpy:348
+# game/code/d02/s06.rpy:345
 translate turkish d02s06_cdfee642:
 
     # mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
     mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
 
-# game/code/d02/s06.rpy:349
+# game/code/d02/s06.rpy:346
 translate turkish d02s06_7122e018:
 
     # mc "({i}I'm not going to risk it! I need her to know the real me!{/i})"
     mc "({i}I'm not going to risk it! I need her to know the real me!{/i})"
 
-# game/code/d02/s06.rpy:352
+# game/code/d02/s06.rpy:349
 translate turkish d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
     mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
 
-# game/code/d02/s06.rpy:353
+# game/code/d02/s06.rpy:350
 translate turkish d02s06_121c2921:
 
     # mc "({i}After all she should be at the private party from the app.{/i})"
     mc "({i}After all she should be at the private party from the app.{/i})"
 
-# game/code/d02/s06.rpy:354
+# game/code/d02/s06.rpy:351
 translate turkish d02s06_0d03ebf6:
 
     # mc "({i}Noo! That isn't possible! I can't imagine her letting someone random lick her pussy for points!{/i})"
     mc "({i}Noo! That isn't possible! I can't imagine her letting someone random lick her pussy for points!{/i})"
 
-# game/code/d02/s06.rpy:355
+# game/code/d02/s06.rpy:352
 translate turkish d02s06_fd4ab1b9:
 
     # mc "({i}But what if it is her? What if she comes there and joins me on that bench?! How should I react?!{/i})"
     mc "({i}But what if it is her? What if she comes there and joins me on that bench?! How should I react?!{/i})"
 
-# game/code/d02/s06.rpy:357
+# game/code/d02/s06.rpy:354
 translate turkish d02s06_c701655e:
 
     # mc "({i}It is probably pointless to stress about that. I should just go and find that fucking banana!{/i})"
