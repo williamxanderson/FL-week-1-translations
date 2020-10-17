@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d04/d04s03.rpy:11
 translate turkish d04s03_0fc36193:
@@ -169,10 +169,10 @@ translate turkish d04s03_856c693a:
     sy "Sure. You drink; I'll talk."
 
 # game/code/d04/d04s03.rpy:61
-translate turkish d04s03_c8e6b390:
+translate turkish d04s03_9be2bfa9:
 
-    # sy "It's kinda a long story."
-    sy "It's kinda a long story."
+    # sy "It's kind of a long story."
+    sy "It's kind of a long story."
 
 # game/code/d04/d04s03.rpy:62
 translate turkish d04s03_76adb53a:

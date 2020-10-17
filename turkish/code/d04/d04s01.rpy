@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d04/d04s01.rpy:11
 translate turkish d04s01_2ff326bf:
@@ -259,10 +259,10 @@ translate turkish d04s01_9f4c2e3a:
     aw "Just take a look!"
 
 # game/code/d04/d04s01.rpy:87
-translate turkish d04s01_c940b127:
+translate turkish d04s01_0746823b:
 
-    # mes "Is someone is sleeping in my bushes?"
-    mes "Is someone is sleeping in my bushes?"
+    # mes "Is someone sleeping in my bushes?"
+    mes "Is someone sleeping in my bushes?"
 
 # game/code/d04/d04s01.rpy:88
 translate turkish d04s01_8c8a89b7:
