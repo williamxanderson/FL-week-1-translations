@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d03p/extended/d03s11b.rpy:24
 translate turkish d03s11b_74397485:
