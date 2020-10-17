@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-29 01:00
+﻿# TODO: Translation updated at 2020-10-17 23:20
 
 # game/code/d06/extended/d06s11.rpy:7
 translate turkish replay_d06s11_dfad3a9c:
