@@ -1655,3 +1655,23 @@ translate deutsch replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
     mct "Ich hoffe ich komme aus der Klasse ohne das jemand meinen Ständer bemerkt."
+
+## New #####################################################################
+
+# game/code/d01/s02.rpy:92
+translate deutsch d01s02_ccff9ce5:
+
+    # mct "They broke up over the winter break..."
+    mct "Sie haben sich während der Winterferien getrennt...."
+
+# game/code/d01/s02.rpy:94
+translate deutsch d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "Vor ein paar Wochen haben sie sich noch gehasst."
+
+# game/code/d01/s02.rpy:96
+translate deutsch d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "Und guck sie dir jetzt an. Sind sie wieder zusammen?"
