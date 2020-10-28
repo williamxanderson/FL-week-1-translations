@@ -1119,3 +1119,22 @@ translate spanish strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "¡Cambio de planes! Ver la película con AmRose"
 
+## New #####################################################################
+
+# game/code/d01/s02.rpy:92
+translate spanish d01s02_ccff9ce5:
+
+    # mct "They broke up over the winter break..."
+    mct "Rompieron durante las vacaciones de invierno...."
+
+# game/code/d01/s02.rpy:94
+translate spanish d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "Hace un par de semanas todavía se odiaban."
+
+# game/code/d01/s02.rpy:96
+translate spanish d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "Míralos ahora. ¿Están saliendo de nuevo?"
