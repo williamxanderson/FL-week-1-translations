@@ -1619,3 +1619,23 @@ translate italian strings:
     # game/d01/s02.rpy:436
     old "Change of plans! Let's see a movie with AmRose"
     new "Cambio di piano! Si va a vedere il film con AmRose"
+
+## New #####################################################################
+
+# game/code/d01/s02.rpy:92
+translate italian d01s02_ccff9ce5:
+
+    # mct "They broke up over the winter break..."
+    mct "Ma se si erano mollati durante le feste di Natale...."
+
+# game/code/d01/s02.rpy:94
+translate italian d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "Fino a un paio di settimane fa nemmeno potevano vedersi."
+
+# game/code/d01/s02.rpy:96
+translate italian d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "E ora guardali. Si saranno rimessi insieme?"
