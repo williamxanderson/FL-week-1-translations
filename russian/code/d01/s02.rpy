@@ -1118,3 +1118,22 @@ translate russian strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Изменение планов! Давай посмотрим фильм с АмРоуз"
 
+## New #####################################################################
+
+# game/code/d01/s02.rpy:92
+translate russian d01s02_ccff9ce5:
+
+    # mct "They broke up over the winter break..."
+    mct "Они же расстались во время зимних каникул...."
+
+# game/code/d01/s02.rpy:94
+translate russian d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "Пару недель назад они все еще ненавидели друг друга."
+
+# game/code/d01/s02.rpy:96
+translate russian d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "И посмотрите на них сейчас. Они снова встречаются?"
