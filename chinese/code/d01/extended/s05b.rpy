@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d01/extended/s05b.rpy:8
 translate chinese d01s05b_8139b175:
