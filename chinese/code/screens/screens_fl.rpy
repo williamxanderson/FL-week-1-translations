@@ -1,32 +1,32 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 translate chinese strings:
 
-    # game/code/screens/screens_fl.rpy:93
+    # game/code/screens/screens_fl.rpy:101
     old "Name"
     new "Name"
 
-    # game/code/screens/screens_fl.rpy:96
+    # game/code/screens/screens_fl.rpy:104
     old "Date"
     new "Date"
 
-    # game/code/screens/screens_fl.rpy:132
+    # game/code/screens/screens_fl.rpy:140
     old "No save from week [FLSS.week.prev] has been detected"
     new "No save from week [FLSS.week.prev] has been detected"
 
-    # game/code/screens/screens_fl.rpy:195
+    # game/code/screens/screens_fl.rpy:203
     old "points: "
     new "points: "
 
-    # game/code/screens/screens_fl.rpy:210
+    # game/code/screens/screens_fl.rpy:218
     old "How do you want to name your save?"
     new "How do you want to name your save?"
 
-    # game/code/screens/screens_fl.rpy:210
+    # game/code/screens/screens_fl.rpy:218
     old "How do you want to rename this page?"
     new "How do you want to rename this page?"
 
-    # game/code/screens/screens_fl.rpy:241
+    # game/code/screens/screens_fl.rpy:249
     old "Undo"
     new "Undo"
 

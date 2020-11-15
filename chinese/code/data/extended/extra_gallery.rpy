@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 translate chinese strings:
 
@@ -165,4 +165,28 @@ translate chinese strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 7: AmRose"
     new "Day 7: AmRose"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Stacy in hell"
+    new "Stacy in hell"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Disappoint Stacy"
+    new "Disappoint Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Stacy"
+    new "Halloween Bonus - Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Special"
+    new "Halloween Special"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Jessie"
+    new "Halloween Bonus - Jessie"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Samiya"
+    new "Halloween Bonus - Samiya"
 

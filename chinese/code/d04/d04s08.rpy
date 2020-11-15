@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d04/d04s08.rpy:14
 translate chinese d04s08_ea528ae2:

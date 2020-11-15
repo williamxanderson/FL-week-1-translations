@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d05/extended/d05s05e.rpy:7
 translate chinese d05s05e_c6b28873:

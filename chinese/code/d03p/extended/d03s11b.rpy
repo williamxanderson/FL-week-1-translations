@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d03p/extended/d03s11b.rpy:24
 translate chinese d03s11b_74397485:

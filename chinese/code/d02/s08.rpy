@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d02/s08.rpy:34
 translate chinese d02s08_ce6bbf32:
@@ -49,10 +49,10 @@ translate chinese d02s08_72e19a6d:
     mct "Where is she?"
 
 # game/code/d02/s08.rpy:54
-translate chinese d02s08_b0661108:
+translate chinese d02s08_a5d6c8c8:
 
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
 
 # game/code/d02/s08.rpy:56
 translate chinese d02s08_e27f8da1:

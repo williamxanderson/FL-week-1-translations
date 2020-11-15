@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-08 12:25
+﻿# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/data/extended/labels.rpy:7
 translate chinese extended_game_over_5d5a9fa8:
