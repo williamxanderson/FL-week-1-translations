@@ -760,5 +760,4 @@ translate french strings:
 
     # game/code/d01/s01.rpy:262
     old "Tell her it is Pete's girl and you had no idea she was in the room"
-    new "Lui dire que c'est Pete qui a ramené la fille et que vous n'étidez pas au courant de sa présence"
-
+    new "Lui dire que c'est Pete qui a ramené la fille et que vous n'étiez pas au courant de sa présence"
