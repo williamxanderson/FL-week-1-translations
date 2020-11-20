@@ -174,10 +174,10 @@ translate spanish coming_next_15bd04e6:
     # dd "He loves you!"
     dd "¡Él te ama!"
 
-# game/code/labels.rpy:171
-translate spanish coming_next_c98f9c86:
+# game/code/labels.rpy:167
+translate spanish coming_next_7c16ea83:
 
-    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "¡Y estoy segura de que estará feliz de jugar más una vez que la semana 2 se estrene en el 2021!"
 
 translate spanish strings:
