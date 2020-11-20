@@ -174,10 +174,10 @@ translate french coming_next_15bd04e6:
     # dd "He loves you!"
     dd "He loves you!"
 
-# game/code/labels.rpy:171
-translate french coming_next_c98f9c86:
+# game/code/labels.rpy:167
+translate french coming_next_7c16ea83:
 
-    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
 
 # game/code/labels.rpy:200
