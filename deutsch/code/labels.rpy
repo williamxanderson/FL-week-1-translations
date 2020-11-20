@@ -124,8 +124,8 @@ translate deutsch coming_next_15bd04e6:
     # dd "He loves you!"
     dd "Er liebt dich!"
 
-# game/code/labels.rpy:171
-translate deutsch coming_next_c98f9c86:
+# game/code/labels.rpy:167
+translate deutsch coming_next_7c16ea83:
 
-    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "Und ich bin sicher er wird gerne mehr spielen, sobald die zweite Woche 2021 veröffentlicht wird!"
