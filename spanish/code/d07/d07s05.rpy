@@ -253,9 +253,9 @@ translate spanish replay_d07s05_eab594af:
     mc "Mierda. Lo siento. Era muy desconsiderado en ese entonces, ¿no?"
 
 # game/code/d07/d07s05.rpy:108
-translate spanish replay_d07s05_18d8ba48:
+translate spanish replay_d07s05_f8efdefe:
 
-    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I just envious back then."
+    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I was just envious back then."
     arj "Bueno, no es como si me hubiera unido a ustedes. La cosa es que, no sé que solo tenía envidia en ese entonces."
 
 # game/code/d07/d07s05.rpy:109
