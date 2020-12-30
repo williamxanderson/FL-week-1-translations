@@ -1227,9 +1227,9 @@ translate russian replay_d07s05_eab594af:
     mc "Дерьмо. Извини. Я был тогда очень невнимателен, верно?"
 
 # game/code/d07/d07s05.rpy:106
-translate russian replay_d07s05_18d8ba48:
+translate russian replay_d07s05_f8efdefe:
 
-    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I just envious back then."
+    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I was just envious back then."
     arj "Ну, я бы точно не присоединилась к вам. Дело в том, что я не только завидовала тогда."
 
 # game/code/d07/d07s05.rpy:107
