@@ -253,9 +253,9 @@ translate deutsch replay_d07s05_eab594af:
     mc "Shit. Tut mir leid. Ich war damals wohl ziemlich rücksichtslos was?"
 
 # game/code/d07/d07s05.rpy:106
-translate deutsch replay_d07s05_18d8ba48:
+translate deutsch replay_d07s05_f8efdefe:
 
-    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I just envious back then."
+    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I was just envious back then."
     arj "Naja, es ist ja nicht so dass ich damals mitmachen hätte wollen. Das Ding ist, Ich wusste damals nicht einmal dass ich neidisch war."
 
 # game/code/d07/d07s05.rpy:107
