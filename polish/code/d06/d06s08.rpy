@@ -1,78 +1,78 @@
-﻿# TODO: Translation updated at 2020-05-18 15:13
+﻿# TODO: Translation updated at 2020-12-30 20:46
 
-# game/code/d06/d06s08.rpy:29
+# game/code/d06/d06s08.rpy:27
 translate polish d06s08_d3569a36:
 
     # mh "Would you mind walking a girl home?"
     mh "Would you mind walking a girl home?"
 
-# game/code/d06/d06s08.rpy:33
+# game/code/d06/d06s08.rpy:31
 translate polish d06s08_d2113854:
 
     # mc "Sure... no problem."
     mc "Sure... no problem."
 
-# game/code/d06/d06s08.rpy:34
+# game/code/d06/d06s08.rpy:32
 translate polish d06s08_ffc6a815:
 
     # mh "Thank you."
     mh "Thank you."
 
-# game/code/d06/d06s08.rpy:36
+# game/code/d06/d06s08.rpy:34
 translate polish d06s08_d00523e6:
 
     # mc "Sorry. I have other plans."
     mc "Sorry. I have other plans."
 
-# game/code/d06/d06s08.rpy:38
+# game/code/d06/d06s08.rpy:37
 translate polish d06s08_4337ac36:
 
     # mh "Oh well, maybe another time."
     mh "Oh well, maybe another time."
 
-# game/code/d06/d06s08.rpy:39
+# game/code/d06/d06s08.rpy:38
 translate polish d06s08_cfe2745a:
 
     # mct "Probably not."
     mct "Probably not."
 
-# game/code/d06/d06s08.rpy:44
+# game/code/d06/d06s08.rpy:43
 translate polish d06s08_c4357a5f:
 
     # mc "Why does Vanessa call you \"Harris\"?"
     mc "Why does Vanessa call you \"Harris\"?"
 
-# game/code/d06/d06s08.rpy:45
+# game/code/d06/d06s08.rpy:44
 translate polish d06s08_e16c2926:
 
     # mh "That's my name. Melissa Harris. \"Lyssa\" is just a nickname that friends call me."
     mh "That's my name. Melissa Harris. \"Lyssa\" is just a nickname that friends call me."
 
-# game/code/d06/d06s08.rpy:46
+# game/code/d06/d06s08.rpy:45
 translate polish d06s08_7dbe79ed:
 
     # mc "Oh, shit. I didn't even think of that. I forgot people used other names at that Party."
     mc "Oh, shit. I didn't even think of that. I forgot people used other names at that Party."
 
-# game/code/d06/d06s08.rpy:48
+# game/code/d06/d06s08.rpy:47
 translate polish d06s08_2df2db34:
 
     # mh "No worries, but be careful. I imagine most people at that Party don't want to be outed."
     mh "No worries, but be careful. I imagine most people at that Party don't want to be outed."
 
-# game/code/d06/d06s08.rpy:49
+# game/code/d06/d06s08.rpy:48
 translate polish d06s08_ec7cb799:
 
     # mc "How did you get there anyway? I didn't think anybody other than college kids would be there."
     mc "How did you get there anyway? I didn't think anybody other than college kids would be there."
 
-# game/code/d06/d06s08.rpy:51
+# game/code/d06/d06s08.rpy:50
 translate polish d06s08_a388375c:
 
     # mh "Allison, of course. You met Allison, right?"
     mh "Allison, of course. You met Allison, right?"
 
-# game/code/d06/d06s08.rpy:52
+# game/code/d06/d06s08.rpy:51
 translate polish d06s08_0adfef3d:
 
     # mc "Definitely. She's kinda unforgettable. You're friends with her?"
@@ -180,709 +180,709 @@ translate polish d06s08_7a55569d:
     # mc "It could have cum as more of a surprise later."
     mc "It could have cum as more of a surprise later."
 
-# game/code/d06/d06s08.rpy:84
+# game/code/d06/d06s08.rpy:85
 translate polish d06s08_b4c8c727:
 
     # mh "Ha!"
     mh "Ha!"
 
-# game/code/d06/d06s08.rpy:85
+# game/code/d06/d06s08.rpy:86
 translate polish d06s08_8e7bb50d:
 
     # mc "Anyway, you were saying... you keep yourself busy with lots of stuff..."
     mc "Anyway, you were saying... you keep yourself busy with lots of stuff..."
 
-# game/code/d06/d06s08.rpy:87
+# game/code/d06/d06s08.rpy:89
 translate polish d06s08_dc9ebf37:
 
     # mc "Actually, I kinda have to meet some people soon."
     mc "Actually, I kinda have to meet some people soon."
 
-# game/code/d06/d06s08.rpy:89
+# game/code/d06/d06s08.rpy:92
 translate polish d06s08_dae783e5:
 
     # mh "Oh, yeah. Of course."
     mh "Oh, yeah. Of course."
 
-# game/code/d06/d06s08.rpy:90
+# game/code/d06/d06s08.rpy:93
 translate polish d06s08_94152cee:
 
     # mc "Maybe we can do this some other time?"
     mc "Maybe we can do this some other time?"
 
-# game/code/d06/d06s08.rpy:92
+# game/code/d06/d06s08.rpy:95
 translate polish d06s08_34fc6a2b:
 
     # mh "Sure, it's not far. I'll be fine on my own."
     mh "Sure, it's not far. I'll be fine on my own."
 
-# game/code/d06/d06s08.rpy:93
+# game/code/d06/d06s08.rpy:96
 translate polish d06s08_19643143:
 
     # mc "I'm sorry. Thanks for understanding. {w}Take care."
     mc "I'm sorry. Thanks for understanding. {w}Take care."
 
-# game/code/d06/d06s08.rpy:95
+# game/code/d06/d06s08.rpy:98
 translate polish d06s08_a8c9e846:
 
     # mh "You too. I'll see you around, maybe."
     mh "You too. I'll see you around, maybe."
 
-# game/code/d06/d06s08.rpy:99
+# game/code/d06/d06s08.rpy:102
 translate polish d06s08_fb3c8ad0:
 
     # mh "So I don't have much free time. I don't do relationships, they require too much."
     mh "So I don't have much free time. I don't do relationships, they require too much."
 
-# game/code/d06/d06s08.rpy:101
+# game/code/d06/d06s08.rpy:104
 translate polish d06s08_e9976f94:
 
     # mc "Is that a reason or an excuse?"
     mc "Is that a reason or an excuse?"
 
-# game/code/d06/d06s08.rpy:103
+# game/code/d06/d06s08.rpy:106
 translate polish d06s08_eaa64057:
 
     # mh "I have goals, and these goals come first. There will be time for relationships later."
     mh "I have goals, and these goals come first. There will be time for relationships later."
 
-# game/code/d06/d06s08.rpy:105
+# game/code/d06/d06s08.rpy:108
 translate polish d06s08_c52ed918:
 
     # mc "Okay, so what do you do when you have downtime?"
     mc "Okay, so what do you do when you have downtime?"
 
-# game/code/d06/d06s08.rpy:107
+# game/code/d06/d06s08.rpy:110
 translate polish d06s08_30a58ee6:
 
     # mh "I try to use that efficiently. I work hard, I play hard."
     mh "I try to use that efficiently. I work hard, I play hard."
 
-# game/code/d06/d06s08.rpy:109
+# game/code/d06/d06s08.rpy:112
 translate polish d06s08_db450a23:
 
     # mc "I bet."
     mc "I bet."
 
-# game/code/d06/d06s08.rpy:111
+# game/code/d06/d06s08.rpy:114
 translate polish d06s08_f0ad870b:
 
     # mh "Allison and I met when I had some free time and swiped right."
     mh "Allison and I met when I had some free time and swiped right."
 
-# game/code/d06/d06s08.rpy:113
+# game/code/d06/d06s08.rpy:116
 translate polish d06s08_d5824656:
 
     # mh "I guess we hit it off."
     mh "I guess we hit it off."
 
-# game/code/d06/d06s08.rpy:115
+# game/code/d06/d06s08.rpy:118
 translate polish d06s08_8b01d0c0:
 
     # mh "She's in college, has a flexible schedule, so she let me know that whenever I had free time she'd be there for me."
     mh "She's in college, has a flexible schedule, so she let me know that whenever I had free time she'd be there for me."
 
-# game/code/d06/d06s08.rpy:117
+# game/code/d06/d06s08.rpy:120
 translate polish d06s08_06d3c7c0:
 
     # mc "Aww, that's sweet."
     mc "Aww, that's sweet."
 
-# game/code/d06/d06s08.rpy:119
+# game/code/d06/d06s08.rpy:122
 translate polish d06s08_3fb7609a:
 
     # mh "At first it was just snuggling and fucking, but after a year or so..."
     mh "At first it was just snuggling and fucking, but after a year or so..."
 
-# game/code/d06/d06s08.rpy:121
+# game/code/d06/d06s08.rpy:125
 translate polish d06s08_07eef455:
 
     # mc "Wow!"
     mc "Wow!"
 
-# game/code/d06/d06s08.rpy:123
+# game/code/d06/d06s08.rpy:127
 translate polish d06s08_783a5b69:
 
     # mh "Wow, what?"
     mh "Wow, what?"
 
-# game/code/d06/d06s08.rpy:124
+# game/code/d06/d06s08.rpy:128
 translate polish d06s08_6e4b2f18:
 
     # mc "I'm just surprised. I didn't think of either of you as the \"year or so\" in the same relationship kinda women."
     mc "I'm just surprised. I didn't think of either of you as the \"year or so\" in the same relationship kinda women."
 
-# game/code/d06/d06s08.rpy:126
+# game/code/d06/d06s08.rpy:130
 translate polish d06s08_1555cab4:
 
     # mh "What's that supposed to mean?"
     mh "What's that supposed to mean?"
 
-# game/code/d06/d06s08.rpy:128
+# game/code/d06/d06s08.rpy:132
 translate polish d06s08_2afd806a:
 
     # mc "Nothing bad, just... aside from Allison, what's the longest time you've been with one person."
     mc "Nothing bad, just... aside from Allison, what's the longest time you've been with one person."
 
-# game/code/d06/d06s08.rpy:130
+# game/code/d06/d06s08.rpy:134
 translate polish d06s08_0ee8f509:
 
     # mh "Fair point. Anyway, we slowly discovered that while we're sexually compatible, we prefer not fucking each other."
     mh "Fair point. Anyway, we slowly discovered that while we're sexually compatible, we prefer not fucking each other."
 
-# game/code/d06/d06s08.rpy:132
+# game/code/d06/d06s08.rpy:136
 translate polish d06s08_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/d06/d06s08.rpy:134
+# game/code/d06/d06s08.rpy:138
 translate polish d06s08_ad968c2c:
 
     # mh "Netflix and popcorn, instead of Netflix and Chill."
     mh "Netflix and popcorn, instead of Netflix and Chill."
 
-# game/code/d06/d06s08.rpy:136
+# game/code/d06/d06s08.rpy:140
 translate polish d06s08_8bb46f36:
 
     # mc "Oh. Weird."
     mc "Oh. Weird."
 
-# game/code/d06/d06s08.rpy:138
+# game/code/d06/d06s08.rpy:142
 translate polish d06s08_53bff60a:
 
     # mh "Yeah, so anyway, it's been something of a dry spell for me."
     mh "Yeah, so anyway, it's been something of a dry spell for me."
 
-# game/code/d06/d06s08.rpy:139
+# game/code/d06/d06s08.rpy:143
 translate polish d06s08_a31340dd:
 
     # mc "Really?"
     mc "Really?"
 
-# game/code/d06/d06s08.rpy:141
+# game/code/d06/d06s08.rpy:145
 translate polish d06s08_5122335c:
 
     # mh "I spend all my free time hanging out with my best friend instead of hooking up with people."
     mh "I spend all my free time hanging out with my best friend instead of hooking up with people."
 
-# game/code/d06/d06s08.rpy:143
+# game/code/d06/d06s08.rpy:147
 translate polish d06s08_d239ada4:
 
     # mc "Oh, good point."
     mc "Oh, good point."
 
-# game/code/d06/d06s08.rpy:145
+# game/code/d06/d06s08.rpy:149
 translate polish d06s08_aca38414:
 
     # mh "I'm sure Allison is still having a lot of fun hooking up with people. We talk about it when we get together."
     mh "I'm sure Allison is still having a lot of fun hooking up with people. We talk about it when we get together."
 
-# game/code/d06/d06s08.rpy:147
+# game/code/d06/d06s08.rpy:151
 translate polish d06s08_e8d757a1:
 
     # mc "That doesn't make you jealous?"
     mc "That doesn't make you jealous?"
 
-# game/code/d06/d06s08.rpy:149
+# game/code/d06/d06s08.rpy:153
 translate polish d06s08_3e21bed5:
 
     # mh "Of course not! Are you jealous when your best friend gets laid?"
     mh "Of course not! Are you jealous when your best friend gets laid?"
 
-# game/code/d06/d06s08.rpy:151
+# game/code/d06/d06s08.rpy:155
 translate polish d06s08_15b4eafb:
 
     # mc "No, probably not."
     mc "No, probably not."
 
-# game/code/d06/d06s08.rpy:153
+# game/code/d06/d06s08.rpy:157
 translate polish d06s08_d4394141:
 
     # mh "Anyway. That's why Allison invited me to that Party."
     mh "Anyway. That's why Allison invited me to that Party."
 
-# game/code/d06/d06s08.rpy:155
+# game/code/d06/d06s08.rpy:159
 translate polish d06s08_7bf2ce19:
 
     # mc "It sounds like you need to budget more free time into your schedule."
     mc "It sounds like you need to budget more free time into your schedule."
 
-# game/code/d06/d06s08.rpy:156
+# game/code/d06/d06s08.rpy:160
 translate polish d06s08_e513116e:
 
     # mc "Your goals won't succeed if you burn yourself out."
     mc "Your goals won't succeed if you burn yourself out."
 
-# game/code/d06/d06s08.rpy:158
+# game/code/d06/d06s08.rpy:162
 translate polish d06s08_91be3f6c:
 
     # mh "Yeah, you're probably right."
     mh "Yeah, you're probably right."
 
-# game/code/d06/d06s08.rpy:161
-translate polish d06s08_700ef009:
+# game/code/d06/d06s08.rpy:166
+translate polish replay_d06s08_700ef009:
 
     # mh "You're a nice guy, you know that?"
     mh "You're a nice guy, you know that?"
 
-# game/code/d06/d06s08.rpy:162
-translate polish d06s08_3a6e7871:
+# game/code/d06/d06s08.rpy:168
+translate polish replay_d06s08_3a6e7871:
 
     # mct "Gah!"
     mct "Gah!"
 
-# game/code/d06/d06s08.rpy:164
-translate polish d06s08_10bd6226:
+# game/code/d06/d06s08.rpy:170
+translate polish replay_d06s08_10bd6226:
 
     # mh "What is it?"
     mh "What is it?"
 
-# game/code/d06/d06s08.rpy:165
-translate polish d06s08_ed37fce1:
+# game/code/d06/d06s08.rpy:171
+translate polish replay_d06s08_ed37fce1:
 
     # mc "I really hate that word..."
     mc "I really hate that word..."
 
-# game/code/d06/d06s08.rpy:167
-translate polish d06s08_d67a8604:
+# game/code/d06/d06s08.rpy:173
+translate polish replay_d06s08_d67a8604:
 
     # mh "Nice?"
     mh "Nice?"
 
-# game/code/d06/d06s08.rpy:168
-translate polish d06s08_ba82002e:
+# game/code/d06/d06s08.rpy:174
+translate polish replay_d06s08_ba82002e:
 
     # mct "Hmm. What kind of relationship do I want to have with Lyssa?"
     mct "Hmm. What kind of relationship do I want to have with Lyssa?"
 
-# game/code/d06/d06s08.rpy:169
-translate polish d06s08_4702ffc1:
+# game/code/d06/d06s08.rpy:175
+translate polish replay_d06s08_4702ffc1:
 
     # mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
     mct "Do I want to pursue her romantically, and I'm afraid that \"nice\" means I'm being friendzoned?"
 
-# game/code/d06/d06s08.rpy:170
-translate polish d06s08_8d19f43e:
+# game/code/d06/d06s08.rpy:176
+translate polish replay_d06s08_8d19f43e:
 
     # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
     mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
 
-# game/code/d06/d06s08.rpy:180
+# game/code/d06/d06s08.rpy:188
 translate polish d06s08_bdsm_99a23e43:
 
     # mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
     mc "Yeah. Who wants to be \"nice\"? Nice guys get friendzoned. Nice guys are losers. \"Winners go home and fuck the prom queen.\""
 
-# game/code/d06/d06s08.rpy:182
+# game/code/d06/d06s08.rpy:192
 translate polish d06s08_bdsm_f8da9238:
 
     # mh "Is that so?"
     mh "Is that so?"
 
-# game/code/d06/d06s08.rpy:184
+# game/code/d06/d06s08.rpy:194
 translate polish d06s08_bdsm_536799a9:
 
     # mc "If they get a girl, nice guys spend their life eating pussy and never get their dick sucked."
     mc "If they get a girl, nice guys spend their life eating pussy and never get their dick sucked."
 
-# game/code/d06/d06s08.rpy:186
+# game/code/d06/d06s08.rpy:196
 translate polish d06s08_bdsm_7993defc:
 
     # mh "You want to get your dick sucked?"
     mh "You want to get your dick sucked?"
 
-# game/code/d06/d06s08.rpy:187
+# game/code/d06/d06s08.rpy:197
 translate polish d06s08_bdsm_99347e65:
 
     # mc "From you? No, I don't think I need another case of blue balls."
     mc "From you? No, I don't think I need another case of blue balls."
 
-# game/code/d06/d06s08.rpy:189
+# game/code/d06/d06s08.rpy:199
 translate polish d06s08_bdsm_66f6d541:
 
     # mh "Oh yeah? What if I drain your balls until you can barely walk?"
     mh "Oh yeah? What if I drain your balls until you can barely walk?"
 
-# game/code/d06/d06s08.rpy:190
+# game/code/d06/d06s08.rpy:200
 translate polish d06s08_bdsm_a478ece7:
 
     # mc "Are we talking hypothetically or-"
     mc "Are we talking hypothetically or-"
 
-# game/code/d06/d06s08.rpy:192
+# game/code/d06/d06s08.rpy:202
 translate polish d06s08_bdsm_36de1667:
 
     # mh "Is that a \"Yes\" or a \"No\"?"
     mh "Is that a \"Yes\" or a \"No\"?"
 
-# game/code/d06/d06s08.rpy:194
+# game/code/d06/d06s08.rpy:204
 translate polish d06s08_bdsm_acd70953:
 
     # mc "Alright. Let's see what you can do."
     mc "Alright. Let's see what you can do."
 
-# game/code/d06/d06s08.rpy:196
+# game/code/d06/d06s08.rpy:206
 translate polish d06s08_bdsm_bbf94cb4:
 
     # mh "Tell me that you want it."
     mh "Tell me that you want it."
 
-# game/code/d06/d06s08.rpy:197
+# game/code/d06/d06s08.rpy:207
 translate polish d06s08_bdsm_a7abea2e:
 
     # mc "I want it."
     mc "I want it."
 
-# game/code/d06/d06s08.rpy:199
+# game/code/d06/d06s08.rpy:209
 translate polish d06s08_bdsm_7a2bce56:
 
     # mh "Are you going to be a nice guy? Or are you going to tell me what you really want?"
     mh "Are you going to be a nice guy? Or are you going to tell me what you really want?"
 
-# game/code/d06/d06s08.rpy:201
+# game/code/d06/d06s08.rpy:211
 translate polish d06s08_bdsm_c72843ae:
 
     # mc "My cock is still dirty from fucking Nora. Suck it clean, Lyssa."
     mc "My cock is still dirty from fucking Nora. Suck it clean, Lyssa."
 
-# game/code/d06/d06s08.rpy:203
+# game/code/d06/d06s08.rpy:213
 translate polish d06s08_bdsm_736003f3:
 
     # mc "Suck my dick, Lyssa. Don't stop until my balls are empty."
     mc "Suck my dick, Lyssa. Don't stop until my balls are empty."
 
-# game/code/d06/d06s08.rpy:205
+# game/code/d06/d06s08.rpy:216
 translate polish d06s08_bdsm_55cd799c:
 
     # mh "Yes, sir."
     mh "Yes, sir."
 
-# game/code/d06/d06s08.rpy:206
+# game/code/d06/d06s08.rpy:218
 translate polish d06s08_bdsm_25a6ab44:
 
     # mh "I hope it is as tasty as the last time!"
     mh "I hope it is as tasty as the last time!"
 
-# game/code/d06/d06s08.rpy:208
+# game/code/d06/d06s08.rpy:220
 translate polish d06s08_bdsm_23308242:
 
     # mc "There is only one way to find out!"
     mc "There is only one way to find out!"
 
-# game/code/d06/d06s08.rpy:212
+# game/code/d06/d06s08.rpy:225
 translate polish d06s08_bdsm_7f8d461e:
 
     # mh "Yea, still delicious!"
     mh "Yea, still delicious!"
 
-# game/code/d06/d06s08.rpy:223
+# game/code/d06/d06s08.rpy:238
 translate polish d06s08_bdsm_17928847:
 
     # mh "Do you mind if I jerk off?"
     mh "Do you mind if I jerk off?"
 
-# game/code/d06/d06s08.rpy:224
+# game/code/d06/d06s08.rpy:239
 translate polish d06s08_bdsm_a4b877ad:
 
     # mc "What did you say, slut?"
     mc "What did you say, slut?"
 
-# game/code/d06/d06s08.rpy:226
+# game/code/d06/d06s08.rpy:241
 translate polish d06s08_bdsm_55da087f:
 
     # mh "May I please jerk off, sir?"
     mh "May I please jerk off, sir?"
 
-# game/code/d06/d06s08.rpy:230
+# game/code/d06/d06s08.rpy:245
 translate polish d06s08_bdsm_6e9f654f:
 
     # mc "You have my permission. {w}But don't you dare to cum before me!"
     mc "You have my permission. {w}But don't you dare to cum before me!"
 
-# game/code/d06/d06s08.rpy:238
+# game/code/d06/d06s08.rpy:254
 translate polish d06s08_bdsm_5e5f20a8:
 
     # mh "Thank you, sir!"
     mh "Thank you, sir!"
 
-# game/code/d06/d06s08.rpy:264
+# game/code/d06/d06s08.rpy:287
 translate polish d06s08_bdsm_ccd75c35:
 
     # mc "No way! You need to earn the right for that pleasure!"
     mc "No way! You need to earn the right for that pleasure!"
 
-# game/code/d06/d06s08.rpy:265
+# game/code/d06/d06s08.rpy:288
 translate polish d06s08_bdsm_57bd43f0:
 
     # mh "Yes, sir!"
     mh "Yes, sir!"
 
-# game/code/d06/d06s08.rpy:285
+# game/code/d06/d06s08.rpy:315
 translate polish d06s08_bdsm_4fcc96c5:
 
     # mh "Please cum for me!"
     mh "Please cum for me!"
 
-# game/code/d06/d06s08.rpy:286
+# game/code/d06/d06s08.rpy:316
 translate polish d06s08_bdsm_b326c5d3:
 
     # mc "I'm going to cum, slut!"
     mc "I'm going to cum, slut!"
 
-# game/code/d06/d06s08.rpy:287
+# game/code/d06/d06s08.rpy:317
 translate polish d06s08_bdsm_92870834:
 
     # mh "Yes!"
     mh "Yes!"
 
-# game/code/d06/d06s08.rpy:298
+# game/code/d06/d06s08.rpy:329
 translate polish d06s08_bdsm_e9297b38:
 
     # mc "Ye-e-ah!"
     mc "Ye-e-ah!"
 
-# game/code/d06/d06s08.rpy:308
+# game/code/d06/d06s08.rpy:341
 translate polish d06s08_bdsm_4a5cc28a:
 
     # mc "There's still a little bit left."
     mc "There's still a little bit left."
 
-# game/code/d06/d06s08.rpy:310
+# game/code/d06/d06s08.rpy:343
 translate polish d06s08_bdsm_be0f6a9c:
 
     # mh "Oh, let me clean that up for you."
     mh "Oh, let me clean that up for you."
 
-# game/code/d06/d06s08.rpy:325
+# game/code/d06/d06s08.rpy:361
 translate polish d06s08_bdsm_4a5cc28a_1:
 
     # mc "There's still a little bit left."
     mc "There's still a little bit left."
 
-# game/code/d06/d06s08.rpy:328
+# game/code/d06/d06s08.rpy:364
 translate polish d06s08_bdsm_be0f6a9c_1:
 
     # mh "Oh, let me clean that up for you."
     mh "Oh, let me clean that up for you."
 
-# game/code/d06/d06s08.rpy:332
+# game/code/d06/d06s08.rpy:369
 translate polish d06s08_romance_f204bade:
 
     # mc "Yeah, well. I don't mind being nice. I just don't like the way girls say it."
     mc "Yeah, well. I don't mind being nice. I just don't like the way girls say it."
 
-# game/code/d06/d06s08.rpy:334
+# game/code/d06/d06s08.rpy:372
 translate polish d06s08_romance_2c77340b:
 
     # mh "How is that?"
     mh "How is that?"
 
-# game/code/d06/d06s08.rpy:335
+# game/code/d06/d06s08.rpy:373
 translate polish d06s08_romance_be48c8a4:
 
     # mc "It sounds like I'm being friendzoned."
     mc "It sounds like I'm being friendzoned."
 
-# game/code/d06/d06s08.rpy:337
+# game/code/d06/d06s08.rpy:375
 translate polish d06s08_romance_58ddd19a:
 
     # mh "I like nice."
     mh "I like nice."
 
-# game/code/d06/d06s08.rpy:338
+# game/code/d06/d06s08.rpy:376
 translate polish d06s08_romance_09f2de35:
 
     # mc "Is that so?"
     mc "Is that so?"
 
-# game/code/d06/d06s08.rpy:340
+# game/code/d06/d06s08.rpy:378
 translate polish d06s08_romance_0ac30693:
 
     # mh "Let me put it this way - if I were going to friendzone you, would I blow you in this dirty alley?"
     mh "Let me put it this way - if I were going to friendzone you, would I blow you in this dirty alley?"
 
-# game/code/d06/d06s08.rpy:341
+# game/code/d06/d06s08.rpy:379
 translate polish d06s08_romance_7a8f601d:
 
     # mc "No. Is that something you want to do?"
     mc "No. Is that something you want to do?"
 
-# game/code/d06/d06s08.rpy:343
+# game/code/d06/d06s08.rpy:381
 translate polish d06s08_romance_75d437d9:
 
     # mh "I don't just want to."
     mh "I don't just want to."
 
-# game/code/d06/d06s08.rpy:344
+# game/code/d06/d06s08.rpy:382
 translate polish d06s08_romance_63b530be:
 
     # mc "Wait, are you setting me up for another case of blue balls?"
     mc "Wait, are you setting me up for another case of blue balls?"
 
-# game/code/d06/d06s08.rpy:346
+# game/code/d06/d06s08.rpy:384
 translate polish d06s08_romance_24a1d2e8:
 
     # mh "Only one way to find out. Come a little closer."
     mh "Only one way to find out. Come a little closer."
 
-# game/code/d06/d06s08.rpy:351
+# game/code/d06/d06s08.rpy:390
 translate polish d06s08_romance_25a6ab44:
 
     # mh "I hope it is as tasty as the last time!"
     mh "I hope it is as tasty as the last time!"
 
-# game/code/d06/d06s08.rpy:353
+# game/code/d06/d06s08.rpy:392
 translate polish d06s08_romance_23308242:
 
     # mc "There is only one way to find out!"
     mc "There is only one way to find out!"
 
-# game/code/d06/d06s08.rpy:355
+# game/code/d06/d06s08.rpy:394
 translate polish d06s08_romance_112e59c0:
 
     # mh "Back at me huh? {w}Okay, let's see!"
     mh "Back at me huh? {w}Okay, let's see!"
 
-# game/code/d06/d06s08.rpy:360
+# game/code/d06/d06s08.rpy:401
 translate polish d06s08_romance_648965b9:
 
     # mh "Mmmm... I can still taste Nora's juices on you."
     mh "Mmmm... I can still taste Nora's juices on you."
 
-# game/code/d06/d06s08.rpy:362
+# game/code/d06/d06s08.rpy:403
 translate polish d06s08_romance_7f8d461e:
 
     # mh "Yea, still delicious!"
     mh "Yea, still delicious!"
 
-# game/code/d06/d06s08.rpy:373
+# game/code/d06/d06s08.rpy:416
 translate polish d06s08_romance_17928847:
 
     # mh "Do you mind if I jerk off?"
     mh "Do you mind if I jerk off?"
 
-# game/code/d06/d06s08.rpy:375
+# game/code/d06/d06s08.rpy:418
 translate polish d06s08_romance_5a1e4338:
 
     # mc "Go ahead, if you want to."
     mc "Go ahead, if you want to."
 
-# game/code/d06/d06s08.rpy:383
+# game/code/d06/d06s08.rpy:427
 translate polish d06s08_romance_4d30b1ae:
 
     # mh "Usually that is a turn off for most boys."
     mh "Usually that is a turn off for most boys."
 
-# game/code/d06/d06s08.rpy:384
+# game/code/d06/d06s08.rpy:428
 translate polish d06s08_romance_dcfe9d31:
 
     # mc "Is that why you dated a girl?"
     mc "Is that why you dated a girl?"
 
-# game/code/d06/d06s08.rpy:385
+# game/code/d06/d06s08.rpy:429
 translate polish d06s08_romance_2d6cf871:
 
     # mh "I never thought of it this way. It just sort of happened."
     mh "I never thought of it this way. It just sort of happened."
 
-# game/code/d06/d06s08.rpy:387
+# game/code/d06/d06s08.rpy:431
 translate polish d06s08_romance_b9c2bc04:
 
     # mh "You sure you are ok with me having a dick and stroking it in front of you?"
     mh "You sure you are ok with me having a dick and stroking it in front of you?"
 
-# game/code/d06/d06s08.rpy:388
+# game/code/d06/d06s08.rpy:432
 translate polish d06s08_romance_d5cd3c07:
 
     # mc "I find you beautiful, Lyssa. All of you!"
     mc "I find you beautiful, Lyssa. All of you!"
 
-# game/code/d06/d06s08.rpy:411
+# game/code/d06/d06s08.rpy:462
 translate polish d06s08_romance_89c87fc3:
 
     # mh "M-m-mh! I'm close! Are you?"
     mh "M-m-mh! I'm close! Are you?"
 
-# game/code/d06/d06s08.rpy:413
+# game/code/d06/d06s08.rpy:464
 translate polish d06s08_romance_c1db86cf:
 
     # mc "I'm almost there as well!"
     mc "I'm almost there as well!"
 
-# game/code/d06/d06s08.rpy:418
+# game/code/d06/d06s08.rpy:470
 translate polish d06s08_romance_8dd8f5e3:
 
     # mh "Cum with me!"
     mh "Cum with me!"
 
-# game/code/d06/d06s08.rpy:425
+# game/code/d06/d06s08.rpy:479
 translate polish d06s08_romance_e054ce99:
 
     # mc "I'm going to cum!"
     mc "I'm going to cum!"
 
-# game/code/d06/d06s08.rpy:426
+# game/code/d06/d06s08.rpy:480
 translate polish d06s08_romance_68269260:
 
     # mh "Me too!"
     mh "Me too!"
 
-# game/code/d06/d06s08.rpy:440
+# game/code/d06/d06s08.rpy:495
 translate polish d06s08_romance_df17b47e:
 
     # mh "It was so good to cum at the same time!"
     mh "It was so good to cum at the same time!"
 
-# game/code/d06/d06s08.rpy:442
+# game/code/d06/d06s08.rpy:497
 translate polish d06s08_romance_d0abebad:
 
     # mh "It is a great feeling to have two pulsating dicks in my hands!"
     mh "It is a great feeling to have two pulsating dicks in my hands!"
 
-# game/code/d06/d06s08.rpy:444
+# game/code/d06/d06s08.rpy:500
 translate polish d06s08_romance_53682ec2:
 
     # mh "Oh, there's a little bit left."
     mh "Oh, there's a little bit left."
 
-# game/code/d06/d06s08.rpy:445
+# game/code/d06/d06s08.rpy:501
 translate polish d06s08_romance_c2c431b5:
 
     # mct "I guess I'm not in the friendzone."
     mct "I guess I'm not in the friendzone."
 
-# game/code/d06/d06s08.rpy:453
+# game/code/d06/d06s08.rpy:509
 translate polish d06s08_end_93cfef74:
 
     # mh "That was fun. Maybe next time you can cum on me."
     mh "That was fun. Maybe next time you can cum on me."
 
-# game/code/d06/d06s08.rpy:454
+# game/code/d06/d06s08.rpy:510
 translate polish d06s08_end_4faf9934:
 
     # mc "Or maybe in you."
     mc "Or maybe in you."
 
-# game/code/d06/d06s08.rpy:455
+# game/code/d06/d06s08.rpy:511
 translate polish d06s08_end_fdbef890:
 
     # mh "Perhaps..."
     mh "Perhaps..."
 
-# game/code/d06/d06s08.rpy:456
+# game/code/d06/d06s08.rpy:512
 translate polish d06s08_end_c4a00684:
 
     # mc "I'm guessing you don't live down this alley."
     mc "I'm guessing you don't live down this alley."
 
-# game/code/d06/d06s08.rpy:458
+# game/code/d06/d06s08.rpy:514
 translate polish d06s08_end_35ef989d:
 
     # mh "Nah, we walked past my place. I just took you down here for this."
     mh "Nah, we walked past my place. I just took you down here for this."
 
-# game/code/d06/d06s08.rpy:459
+# game/code/d06/d06s08.rpy:515
 translate polish d06s08_end_9068bea5:
 
     # mc "Nice. Alright, let's get you home."
@@ -890,11 +890,11 @@ translate polish d06s08_end_9068bea5:
 
 translate polish strings:
 
-    # game/code/d06/d06s08.rpy:30
+    # game/code/d06/d06s08.rpy:28
     old "Walk Lyssa home"
     new "Walk Lyssa home"
 
-    # game/code/d06/d06s08.rpy:30
+    # game/code/d06/d06s08.rpy:28
     old "Let her walk home alone"
     new "Let her walk home alone"
 
@@ -906,19 +906,19 @@ translate polish strings:
     old "No - I want to back out before this gets more intimate"
     new "No - I want to back out before this gets more intimate"
 
-    # game/code/d06/d06s08.rpy:171
+    # game/code/d06/d06s08.rpy:177
     old "I don't want to be friendzoned"
     new "I don't want to be friendzoned"
 
-    # game/code/d06/d06s08.rpy:171
+    # game/code/d06/d06s08.rpy:177
     old "I don't want to be \"nice\""
     new "I don't want to be \"nice\""
 
-    # game/code/d06/d06s08.rpy:227
+    # game/code/d06/d06s08.rpy:242
     old "I want to see that"
     new "I want to see that"
 
-    # game/code/d06/d06s08.rpy:227
+    # game/code/d06/d06s08.rpy:242
     old "No. You didn't let me cum last time"
     new "No. You didn't let me cum last time"
 

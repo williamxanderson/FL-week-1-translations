@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-05-18 15:13
+﻿# TODO: Translation updated at 2020-12-30 20:46
 
 translate polish strings:
 
@@ -7,6 +7,6 @@ translate polish strings:
     new "Fetish Locator"
 
     # game/code/options.rpy:32
-    old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
-    new "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
+    old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
+    new "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
 
