@@ -1183,9 +1183,9 @@ translate italian replay_d07s05_eab594af:
     mc "Cazzo, mi spiace. Il tatto non era il mio forte all'epoca, eh?"
 
 # game/code/d07/d07s05.rpy:106
-translate italian replay_d07s05_18d8ba48:
+translate italian replay_d07s05_f8efdefe:
 
-    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I just envious back then."
+    # arj "Well, it's not like I would have joined you guys. The thing is, I don't know that I was just envious back then."
     arj "Beh, non è che io potessi unirmi a voi. Il fatto è che all'epoca nemmeno mi ero resa conto di essere invidiosa."
 
 # game/code/d07/d07s05.rpy:107
