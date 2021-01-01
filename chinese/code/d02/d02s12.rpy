@@ -4,7 +4,7 @@
 translate chinese replay_d02s12_a1e025fa:
 
     # "09:00 PM"
-    "下午9点"
+    "晚上9点"
 
 # game/code/d02/d02s12.rpy:130
 translate chinese replay_d02s12_8004a886:
@@ -64,7 +64,7 @@ translate chinese replay_d02s12_cf86b33c:
 translate chinese replay_d02s12_9b9a20a3:
 
     # mc "HERE?!"
-    mc "在这里吗？！"
+    mc "这里？！"
 
 # game/code/d02/d02s12.rpy:159
 translate chinese replay_d02s12_d363e118:
@@ -382,9 +382,9 @@ translate chinese strings:
 
     # game/code/d02/d02s12.rpy:216
     old "Put a finger in her ass"
-    new "把手指插进她的屁股里。"
+    new "把手指插进她的屁股里"
 
     # game/code/d02/d02s12.rpy:216
     old "Refuse to do it"
-    new "拒绝这么做。"
+    new "拒绝这么做"
 
