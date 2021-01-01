@@ -40,7 +40,7 @@ translate chinese replay_d02s12_b151f3c0:
 translate chinese replay_d02s12_e667be42:
 
     # mc "She enjoyed being blindfolded and forbidden to move."
-    mc "她享受蒙住眼睛，被禁锢的感觉。"
+    mc "她享受蒙住眼睛以及被禁锢的感觉。"
 
 # game/code/d02/d02s12.rpy:148
 translate chinese replay_d02s12_9f02f01f:
@@ -52,13 +52,13 @@ translate chinese replay_d02s12_9f02f01f:
 translate chinese replay_d02s12_da6c63c4:
 
     # mc "Maybe next time..."
-    mc "也许下回可以尝试一下..."
+    mc "或许下回可以尝试一下..."
 
 # game/code/d02/d02s12.rpy:155
 translate chinese replay_d02s12_cf86b33c:
 
     # pw "I am horny.{w} Now."
-    pw "我好想做爱。{w}就在此时此刻。"
+    pw "我好想做爱。{w} 就在此时此刻。"
 
 # game/code/d02/d02s12.rpy:158
 translate chinese replay_d02s12_9b9a20a3:
@@ -136,13 +136,13 @@ translate chinese replay_d02s12_9a3cb987:
 translate chinese replay_d02s12_409ce19f:
 
     # pw "Come here!"
-    pw "到这里来！"
+    pw "到我这里来！"
 
 # game/code/d02/d02s12.rpy:192
 translate chinese replay_d02s12_b9aa9ae9:
 
     # pw "I want you to put your tongue in my pussy."
-    pw "我想要你把舌头伸进我的小妹妹中来。"
+    pw "我想要你把舌头伸进我的小妹妹。"
 
 # game/code/d02/d02s12.rpy:194
 translate chinese replay_d02s12_98765082:
@@ -178,7 +178,7 @@ translate chinese replay_d02s12_6f8b1ff5:
 translate chinese replay_d02s12_8fe77697:
 
     # pw "The way your breath caught when I touched you..."
-    pw "当我抚摸你时你美妙的喘息声..."
+    pw "当我抚摸你时你那美妙的喘息声..."
 
 # game/code/d02/d02s12.rpy:210
 translate chinese replay_d02s12_30003be5:
@@ -196,13 +196,13 @@ translate chinese replay_d02s12_93abdd78:
 translate chinese replay_d02s12_195b53e0:
 
     # pw "... NORA!!! {w}Please! I want to cum!"
-    pw "...NORA！！！{w}天呐，我要射了！"
+    pw "...NORA！！！{w}天呐！我要射了！"
 
 # game/code/d02/d02s12.rpy:215
 translate chinese replay_d02s12_4e51beaf:
 
     # pw "Please! {w}I need... {w}Put your finger in my ass! Quick!"
-    pw "求求你！{w}我想要... {w}把你的手指插进我的屁股里！快点！"
+    pw "求求你！{w}我想要你... {w}把你的手指插进我的屁股里！快点！"
 
 # game/code/d02/d02s12.rpy:220
 translate chinese replay_d02s12_237370b9:
@@ -238,7 +238,7 @@ translate chinese replay_d02s12_146e4232:
 translate chinese replay_d02s12_62798c5e:
 
     # pw "That was... {w}(panting){w} Very satisfying!"
-    pw "真的是... {w}(喘息声){w} 太爽了！"
+    pw "真的是... {w}(喘息){w} 太爽了！"
 
 # game/code/d02/d02s12.rpy:237
 translate chinese replay_d02s12_3995d758:
@@ -358,7 +358,7 @@ translate chinese replay_d02s12_b4ee38b4_1:
 translate chinese replay_d02s12_5d8da468:
 
     # mct "Who is that?! {w}Echo and Bravo? Do I know any military brats?"
-    mct "这两个人是谁？！ {w}Echo和Bravo？我好像不认识这两个人吧？{w}不管怎样，我获得了12分！"
+    mct "这两个人是谁？！ {w}Echo和Bravo是哪个？我认识这些人吗？"
 
 # game/code/d02/d02s12.rpy:298
 translate chinese replay_d02s12_9d996558:
