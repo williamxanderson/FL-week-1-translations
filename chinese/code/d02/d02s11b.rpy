@@ -64,7 +64,7 @@ translate chinese d02s11b_322dc2a1:
 translate chinese d02s11b_2d6b93d8:
 
     # mes "That is two questions. You're really bad at this.{w} If you must know...{w} I'm on my period."
-    mes "你这是两个问题好吧。你确实不擅长这个。{w}如果你一定要知道…{w}我来月经了。"
+    mes "你这是两个问题好吧。你确实不擅长这个。{w}如果你一定要知道...{w} 我来月经了。"
 
 # game/code/d02/d02s11b.rpy:75
 translate chinese d02s11b_2a4db930:
@@ -154,7 +154,7 @@ translate chinese replay_d02s11b_7b6946f5:
 translate chinese replay_d02s11b_99ad7141:
 
     # mct "I am going to lose. Min is extremely competitive...{w} But maybe I can win after all."
-    mct "我要输了。Min竞争意识很强…{w}但是也许我最终会赢。"
+    mct "我要输了。Min竞争意识很强...{w} 但是也许我最终会赢。"
 
 # game/code/d02/d02s11b.rpy:130
 translate chinese replay_d02s11b_b6b8c63d:
