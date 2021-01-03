@@ -7,11 +7,11 @@ translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Área de transferência de manifestar habilitado. "
+    new "Área de transferência de voz habilitado. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Auto-expressar habilitado. "
+    new "Auto-Voz habilitado. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -83,7 +83,7 @@ translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:173
     old "Off"
-    new "Fora"
+    new "Desligado"
 
     # renpy/common/00accessibility.rpy:177
     old "Text-to-speech"
@@ -151,7 +151,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}a Sex."
+    new "{#weekday_short}Sex."
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
@@ -159,7 +159,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sol"
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -179,7 +179,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}Pode"
+    new "{#month}Maio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
@@ -227,7 +227,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}Pode"
+    new "{#month_short}Mai"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
@@ -311,11 +311,11 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:924
     old "Quick save."
-    new "Gravação rápida."
+    new "Salvar Rápido."
 
     # renpy/common/00action_file.rpy:943
     old "Quick load."
-    new "Carga rápida."
+    new "Carregar Rápido."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
@@ -411,23 +411,23 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new "De Arquivo De Áudio:"
+    new "Arquivo De Áudio:"
 
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
-    new "Tem a certeza?"
+    new "Tem certeza?"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new "Tem certeza de que deseja excluir esta salvar?"
+    new "Tem certeza de que deseja excluir este Save?"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new "Tem certeza de que deseja substituir o salvar?"
+    new "Tem certeza de que deseja substituir o save?"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "O carregamento não salvos serão perdidos progresso.\ntem certeza de que deseja fazer isso?"
+    new "O carregamento não salvos serão perdidos progresso.tem certeza de que deseja fazer isso?"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
@@ -447,7 +447,7 @@ translate portuguese strings:
 
     # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
-    new "Tem certeza de que deseja para pular para a próxima escolha?"
+    new "Tem certeza de que deseja pular para a próxima escolha?"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
@@ -519,7 +519,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:303
     old "after choices"
-    new "depois de opções"
+    new "depois das opções"
 
     # renpy/common/00preferences.rpy:310
     old "skip after choices"
@@ -527,11 +527,11 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:312
     old "auto-forward time"
-    new "auto-encaminhar tempo"
+    new "auto-avançar o Tempo"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward"
-    new "auto-encaminhar"
+    new "auto-avançar"
 
     # renpy/common/00preferences.rpy:333
     old "Auto forward"
@@ -539,11 +539,11 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:336
     old "auto-forward after click"
-    new "encaminhar automaticamente, após um click"
+    new "Avançar automaticamente, após um click"
 
     # renpy/common/00preferences.rpy:345
     old "automatic move"
-    new "passagem automática"
+    new "Movimento automático"
 
     # renpy/common/00preferences.rpy:354
     old "wait for voice"
@@ -563,7 +563,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:390
     old "debug voicing"
-    new "depuração expressar"
+    new "depuração de Voz"
 
     # renpy/common/00preferences.rpy:399
     old "emphasize audio"
@@ -599,15 +599,15 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:460
     old "music volume"
-    new "o volume da música"
+    new "volume da música"
 
     # renpy/common/00preferences.rpy:461
     old "sound volume"
-    new "o volume do som"
+    new "volume do som"
 
     # renpy/common/00preferences.rpy:462
     old "voice volume"
-    new "o volume de voz"
+    new "volume de voz"
 
     # renpy/common/00preferences.rpy:463
     old "mute music"
@@ -615,7 +615,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:464
     old "mute sound"
-    new "para silenciar o som"
+    new "silenciar o som"
 
     # renpy/common/00preferences.rpy:465
     old "mute voice"
@@ -623,7 +623,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:466
     old "mute all"
-    new "silenciar todos os"
+    new "silenciar todos"
 
     # renpy/common/00preferences.rpy:547
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
@@ -655,7 +655,7 @@ translate portuguese strings:
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Desenvolvedor De Menu"
+    new "Menu de Desenvolvedor"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -671,7 +671,7 @@ translate portuguese strings:
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variável Viewer"
+    new "Visualisar Variavel"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
@@ -875,7 +875,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1458
     old "Unpacking the updates."
-    new "A desempacotar as atualizações."
+    new "A extrair as atualizações."
 
     # renpy/common/00updater.rpy:1460
     old "Finishing up."
@@ -891,7 +891,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1466
     old "The updates were cancelled."
-    new "As atualizações foram cancelados."
+    new "As atualizações foram canceladas."
 
     # renpy/common/00updater.rpy:1481
     old "Proceed"
@@ -943,7 +943,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:97
     old "Enable"
-    new "Activar"
+    new "Ativar"
 
     # renpy/common/00gltest.rpy:131
     old "Powersave"
@@ -987,7 +987,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "Este computador é apresentar gráficos lentamente."
+    new "Este computador Esta a apresentar gráficos lentos."
 
     # renpy/common/00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
@@ -995,7 +995,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Seus gráficos drivers podem estar desatualizados, ou não, a funcionar correctamente. Isso pode levar a diminuir ou incorreto de exibição de gráficos. Atualizando o DirectX pode corrigir este problema."
+    new "Seus drivers grâficos  podem estar desatualizados, ou não, a funcionar correctamente. Isso pode levar a diminuir ou incorreto de exibição de gráficos. Atualizando o DirectX pode corrigir este problema."
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1015,7 +1015,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:264
     old "Updating DirectX."
-    new "Atualizar O DirectX."
+    new "Atualizaando O DirectX."
 
     # renpy/common/00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
@@ -1039,11 +1039,11 @@ translate portuguese strings:
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new "Não Gamepads Disponível"
+    new "Não a controles Disponível"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrar [name] ([i]/[total])"
+    new "Calibrando [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
@@ -1051,11 +1051,11 @@ translate portuguese strings:
 
     # renpy/common/00gamepad.rpy:66
     old "Skip (A)"
-    new "Skip (A)"
+    new "Pular (A)"
 
     # renpy/common/00gamepad.rpy:69
     old "Back (B)"
-    new "De Volta (B)"
+    new "Voltar (B)"
 
     # renpy/common/_errorhandling.rpym:538
     old "Open"
