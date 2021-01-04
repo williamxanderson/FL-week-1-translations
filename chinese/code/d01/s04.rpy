@@ -4,7 +4,7 @@
 translate chinese s04_2433015c:
 
     # "6:00 PM"
-    "6:00 PM"
+    "下午六点"
 
 # game/code/d01/s04.rpy:162
 translate chinese s04_0afa175b:
