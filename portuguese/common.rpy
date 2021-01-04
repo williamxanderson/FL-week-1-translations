@@ -3,7 +3,7 @@ translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Auto-expressar deficientes."
+    new "Auto-Voz disabilitadas."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -295,19 +295,19 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:631
     old "Quick saves"
-    new "Rápida salva"
+    new "Salvamento Rapido"
 
     # renpy/common/00action_file.rpy:772
     old "Next file page."
-    new "O ficheiro seguinte página."
+    new "Proximo Ficheiro."
 
     # renpy/common/00action_file.rpy:845
     old "Previous file page."
-    new "Anterior página de arquivo."
+    new " Ficheiro Anterior."
 
     # renpy/common/00action_file.rpy:906
     old "Quick save complete."
-    new "Rápida salvar completa."
+    new "Salvamento Rápido completo."
 
     # renpy/common/00action_file.rpy:924
     old "Quick save."
@@ -459,11 +459,11 @@ translate portuguese strings:
 
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
-    new "Captura de tela como %s."
+    new "Capturar de tela como %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "Ignore O Modo De"
+    new "Ignorar O Modo"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -491,21 +491,12 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:274
     old "text speed"
-    new "texto de velocidade"
+    new "Velocidade de Texto"
 
-    # renpy/common/00preferences.rpy:282
+    # renpy/common/00preferences.rpy:282  
     old "joystick"
-    new "joystick"
-
-    # renpy/common/00preferences.rpy:282
-    old "joystick..."
-    new "joystick..."
-
-    # renpy/common/00preferences.rpy:289
-    old "skip"
-    new "pular"
-
-    # renpy/common/00preferences.rpy:292
+    new "Controle"
+    
     old "skip unseen [text]"
     new "pular invisível [text]"
 
@@ -523,7 +514,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:310
     old "skip after choices"
-    new "pular depois de opções"
+    new "pular depois das opções"
 
     # renpy/common/00preferences.rpy:312
     old "auto-forward time"
@@ -547,7 +538,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:354
     old "wait for voice"
-    new "aguarde voz"
+    new "aguarde pela voz"
 
     # renpy/common/00preferences.rpy:363
     old "voice sustain"
@@ -823,7 +814,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:692
     old "This account does not have permission to perform an update."
-    new "Esta conta não tem permissão para executar uma atualização."
+    new "Esta conta não tem permissão para executar essa atualização."
 
     # renpy/common/00updater.rpy:695
     old "This account does not have permission to write the update log."
@@ -855,7 +846,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1448
     old "Checking for updates."
-    new "A verificação de atualizações."
+    new "Verificando atualizações."
 
     # renpy/common/00updater.rpy:1450
     old "This program is up to date."
@@ -931,7 +922,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Força OpenGL Renderer"
+    new "Forçar OpenGL Renderer"
 
     # renpy/common/00gltest.rpy:87
     old "Force Software Renderer"
@@ -979,7 +970,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:218
     old "This computer is using software rendering."
-    new "Este computador está a utilizar composição de software."
+    new "Este computador está a usando composição de software."
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
@@ -1127,7 +1118,7 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:653
     old "Parsing the script failed."
-    new "Analisar o script falha."
+    new "Falha a analisar Script."
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the errors.txt file in a text editor."
@@ -1139,5 +1130,5 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "Copia o errors.txt arquivo para a área de transferência como Markdown para a Discórdia."
+    new "Copia o errors.txt arquivo para a área de transferência como Markdown para o Discord."
 
