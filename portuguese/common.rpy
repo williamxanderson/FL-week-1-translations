@@ -303,7 +303,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:845
     old "Previous file page."
-    new " Ficheiro Anterior."
+    new "Ficheiro Anterior."
 
     # renpy/common/00action_file.rpy:906
     old "Quick save complete."
