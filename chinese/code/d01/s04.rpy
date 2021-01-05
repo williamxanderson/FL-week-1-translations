@@ -10,43 +10,43 @@ translate chinese s04_2433015c:
 translate chinese s04_0afa175b:
 
     # mct "There's Pete."
-    mct "There's Pete."
+    mct "Pete来了."
 
 # game/code/d01/s04.rpy:163
 translate chinese s04_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "嘿！"
 
 # game/code/d01/s04.rpy:168
 translate chinese s04_e0ad8b16:
 
     # pb "Hey, there you are."
-    pb "Hey, there you are."
+    pb "嗨, 你在这儿啊."
 
 # game/code/d01/s04.rpy:171
 translate chinese s04_a60fb28f:
 
     # mc "Hey! Nice game! Congrats!"
-    mc "Hey! Nice game! Congrats!"
+    mc "嘿，比赛不错！恭喜了!"
 
 # game/code/d01/s04.rpy:173
 translate chinese s04_dd8f8ec0:
 
     # pb "Thanks. It was easy but the next game is gonna be a lot harder."
-    pb "Thanks. It was easy but the next game is gonna be a lot harder."
+    pb "谢啦. 这场算容易的，下一场会更难."
 
 # game/code/d01/s04.rpy:175
 translate chinese s04_7671f8f6:
 
     # mc "Then good luck with the next one."
-    mc "Then good luck with the next one."
+    mc "那祝你下次好运了."
 
 # game/code/d01/s04.rpy:179
 translate chinese s04_723a5c65:
 
     # mc "I'm gonna start cleaning up. I wanna to finish this as quick as possible."
-    mc "I'm gonna start cleaning up. I wanna to finish this as quick as possible."
+    mc "我要开始打扫了。我想尽快把这事做完."
 
 # game/code/d01/s04.rpy:181
 translate chinese s04_589977f4:
