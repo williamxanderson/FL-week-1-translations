@@ -136,7 +136,7 @@ translate chinese s04_785ba4a3:
 translate chinese s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "Wow! 听起来变得很不错。她不是电脑呆子了？"
+    pb "哇！听起来变得很不错。她不是电脑呆子了？"
 
 # game/code/d01/s04.rpy:213
 translate chinese s04_7407f7c1:
@@ -202,7 +202,7 @@ translate chinese s04_57bcb3d0:
 translate chinese s04_bf4b3c03:
 
     # mct "It was a nice morning. Hung out with all my friends that are still in the city."
-    mct "一个相当美好的早晨。和我还在城里的朋友一起出去玩。"
+    mct "一个相当美好的早晨。我和还在城里的朋友一起出去玩。"
 
 # game/code/d01/s04.rpy:241
 translate chinese s04_85bba9dd:
@@ -574,7 +574,7 @@ translate chinese replay_d01s04_fc3ddb94:
 translate chinese replay_d01s04_b4a79b8f:
 
     # pb "Oooh! Yes!"
-    pb "哦呼，来了！"
+    pb "哦呼！来了！"
 
 # game/code/d01/s04.rpy:418
 translate chinese replay_d01s04_6524e1f1:
@@ -604,13 +604,13 @@ translate chinese replay_d01s04_47895ca8:
 translate chinese replay_d01s04_a651910b:
 
     # mct "She wants a picture. This is for the challenge on the app."
-    mct "她想拍张照。这应该是为了那个软件上的挑战。"
+    mct "她想拍张照。这应该是为了那个软件的挑战。"
 
 # game/code/d01/s04.rpy:429
 translate chinese replay_d01s04_2b354a63:
 
     # mct "Pete's taking a picture. I can take one too. Should I do it?"
-    mct "Pete在拍照。我也可以拍一张，可以的吧？"
+    mct "Pete在拍照。我也可以拍一张哎，要不要拍照呢？"
 
 # game/code/d01/s04.rpy:434
 translate chinese replay_d01s04_3bb39644:
@@ -622,7 +622,7 @@ translate chinese replay_d01s04_3bb39644:
 translate chinese replay_d01s04_5030c35c:
 
     # mct "Nice. Maybe I can use this in the future."
-    mct "不错哎，也许我以后可以用这个。"
+    mct "不错哎，也许我以后会用到这个。"
 
 # game/code/d01/s04.rpy:441
 translate chinese replay_d01s04_7dc3ebcb:
@@ -712,7 +712,7 @@ translate chinese replay_d01s04_81737331:
 translate chinese replay_d01s04_c001942c:
 
     # pb "Well not only that. If you open the app there's a shop with stuff you can buy for points."
-    pb "也不止吧。你打开应用的话，会有一个商店，里面的东西你可以用积分购买。"
+    pb "也不止吧。你打开应用的话，会有一个商店，你可以用积分购买里面的东西。"
 
 # game/code/d01/s04.rpy:474
 translate chinese replay_d01s04_d18429d4:
@@ -802,7 +802,7 @@ translate chinese replay_d01s04_7a9ceb96:
 translate chinese replay_d01s04_bb29afd0:
 
     # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "嗯哼，所以计划是这样--你来用软件，拿到票，然后在派对上见到Lydia。"
+    pb "嗯哼，所以计划是这样--你来用软件，拿到票，然后去派对见Lydia。"
 
 # game/code/d01/s04.rpy:505
 translate chinese replay_d01s04_fb2526d3:
@@ -832,7 +832,7 @@ translate chinese replay_d01s04_16a73af2:
 translate chinese replay_d01s04_ff2ff749:
 
     # mct "This plan is stupid, but what do I have to lose for trying?"
-    mct "这个计划是有点蠢，但我尝试一下又有什么损失呢?"
+    mct "这个计划是有点蠢，但尝试一下我又有什么损失呢?"
 
 # game/code/d01/s04.rpy:516
 translate chinese replay_d01s04_2e86dd70:
