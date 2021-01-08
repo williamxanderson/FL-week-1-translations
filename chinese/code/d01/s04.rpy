@@ -478,7 +478,7 @@ translate chinese replay_d01s04_1a227f42:
 translate chinese replay_d01s04_289df95c:
 
     # "Girl voice" "Umgh..."
-    "女孩的声音" "哦……"
+    "女孩的声音" "哦..."
 
 # game/code/d01/s04.rpy:378
 translate chinese replay_d01s04_1c3e2998:
@@ -850,7 +850,7 @@ translate chinese replay_d01s04_bdaff425:
 translate chinese replay_d01s04_18c318ba:
 
     # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "只是在洗澡时打飞机是不行的。感觉需要来点......令人印象深刻的东西。"
+    mct "只是在洗澡时打飞机是不行的。感觉需要来点... 令人印象深刻的东西。"
 
 # game/code/d01/s04.rpy:522
 translate chinese replay_d01s04_325c4b97:
