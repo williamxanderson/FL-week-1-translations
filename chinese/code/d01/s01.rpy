@@ -292,91 +292,91 @@ translate chinese d01s01_c796b1e5:
 translate chinese d01s01_fec04e89:
 
     # mct "She grabbed her clothes off the floor and left without even putting them on."
-    mct "她把在地上的衣服捡起来，甚至没穿上它们就走出去了."
+    mct "她把地上的衣服捡起来，甚至没穿上它们就走出去了。"
 
 # game/code/d01/s01.rpy:121
 translate chinese d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "好吧，至少我尝试猜她的名字了. 在我眼里, 她的名字就是 \"那个口活比吸尘器还好的女孩\"."
+    pb "好吧，至少我尝试猜她的名字了。在我眼里，她的名字就是 \"那个口活比吸尘器还好的女孩\"。"
 
 # game/code/d01/s01.rpy:122
 translate chinese d01s01_c0d577fc:
 
     # pb "If I called her that, it'd probably would be even worse. What do you think? Or maybe she'd like it?"
-    pb "如果我刚才叫了她这个, 事情估计还会变得更糟. 你说呢? 又或许她还喜欢这个称呼呢?"
+    pb "如果我刚才这样叫她了，事情估计还会变得更糟。你说呢？又或许她还喜欢这个称呼呢？"
 
 # game/code/d01/s01.rpy:124
 translate chinese d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "老兄... 什么鬼啊?! 我们会陷入麻烦的! 你能不能别用你裤裆里那玩意想东西了?! 你明知道我们是不被允许带女性来这里的."
+    mc "老兄... 什么鬼啊?! 我们会有麻烦的！你能不能别用你裤裆里那玩意想东西了?! 你明知道我们不能带女生进来的。"
 
 # game/code/d01/s01.rpy:126
 translate chinese d01s01_a32766e9:
 
     # pb "Man. Relax. It's going to be Okay. Don't stress about it!"
-    pb "放轻松老兄. 不会有事的. 别为这担心了!"
+    pb "放轻松老兄，不会有事的。别为这担心了！"
 
 # game/code/d01/s01.rpy:128
 translate chinese d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
-    mc "说到紧张...你的眼神是怎么一回事?! 你不会也吸毒了吧?"
+    mc "说到担心...你的眼神是怎么回事?! 你不会还吸毒了吧?"
 
 # game/code/d01/s01.rpy:130
 translate chinese d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
-    pb "没啊老哥, 我就是喝酒了而已! 我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下!"
+    pb "没啊老哥，我就是喝酒了而已！我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下！"
 
 # game/code/d01/s01.rpy:132
 translate chinese d01s01_afe63ae9:
 
     # mc "Whatever. I'm gonna go shower."
-    mc "随便吧，我去洗个澡."
+    mc "随便吧，我去洗个澡。"
 
 # game/code/d01/s01.rpy:140
 translate chinese d01s01_shower_d9943ca5:
 
     # mct "Pete treats women like shit and still gets tons of pussy."
-    mct "Pete经常对女孩这样，然后居然每次都能钓到美女."
+    mct "Pete经常对女孩这样，然后居然每次都能钓到美女。"
 
 # game/code/d01/s01.rpy:141
 translate chinese d01s01_shower_257b9106:
 
     # mct "I probably should try to learn how he does it."
-    mct "我或许应该学学他是怎么做的."
+    mct "我或许应该学学他是怎么做的。"
 
 # game/code/d01/s01.rpy:142
 translate chinese d01s01_shower_538449c8:
 
     # mct "But SHE isn't like that."
-    mct "但是，她可不是这样的."
+    mct "不过，她可不是这样的。"
 
 # game/code/d01/s01.rpy:144
 translate chinese d01s01_shower_89e84dfc:
 
     # mct "I need to come up with a plan to ask her out."
-    mct "我得想个计划来约她出去."
+    mct "我得想个计划来约她出去。"
 
 # game/code/d01/s01.rpy:145
 translate chinese d01s01_shower_30b83c14:
 
     # mct "I've been so into her from the first minute I laid eyes on her."
-    mct "从我见到她的第一刻起，我的眼睛就离不开她了."
+    mct "我看到她时，第一眼就被迷住了。"
 
 # game/code/d01/s01.rpy:147
 translate chinese d01s01_shower_d474ca7b:
 
     # mct "I get a hard-on any time I think about her."
-    mct "只是想着她，我的弟弟就硬了."
+    mct "只是想着她，我的弟弟就硬了。"
 
 # game/code/d01/s01.rpy:148
 translate chinese d01s01_shower_96ace72c:
 
     # mct "Maybe I have time to think about her a little more..."
-    mct "或许我还有时间来想想她..."
+    mct "或许我还有时间来想想她……"
 
 # game/code/d01/s01.rpy:156
 translate chinese d01s01_shower_7e49cb06:
@@ -394,37 +394,37 @@ translate chinese d01s01_shower_12c49418:
 translate chinese d01s01_shower_ecc2d11a:
 
     # mct "That was quick!"
-    mct "有点快啊刚才!"
+    mct "有点快啊刚才！"
 
 # game/code/d01/s01.rpy:169
 translate chinese d01s01_shower_45ebb90e:
 
     # mct "There goes my plan to not think about girls today..."
-    mct "好吧好吧，之前那个不想任何女孩的计划失败了..."
+    mct "好吧好吧，之前那个不想任何女孩的计划泡汤了……"
 
 # game/code/d01/s01.rpy:170
 translate chinese d01s01_shower_2fe21fba:
 
     # mct "Okay, I have a lot of studying to do. Time to get started."
-    mct "我还有好多东西要学，是时候开始了."
+    mct "我还有好多东西要学，是时候开始了。"
 
 # game/code/d01/s01.rpy:179
 translate chinese d01s01_shower_4676c4c2:
 
     # pb "Morning! Man, you missed a fine piece of ass! She just left the room."
-    pb "早上好啊老兄，你不知道你刚才错过了什么，她刚才离开了房间."
+    pb "早上好啊老兄，你不知道你刚才错过了什么，她刚离开房间。"
 
 # game/code/d01/s01.rpy:180
 translate chinese d01s01_shower_ffedf8f5:
 
     # pb "She was so hot last night! Her lips were like a pair of sweet cherries around my cock."
-    pb "她昨晚真的好火辣，她那性感的嘴唇在给我的大屌口的时候就像一对甜樱桃一样."
+    pb "她昨晚真的太惹火了！那性感的嘴唇给我的大屌口的时候就像一对甜樱桃。"
 
 # game/code/d01/s01.rpy:181
 translate chinese d01s01_shower_cc16de3d:
 
     # pb "It was pure heaven!"
-    pb "就像是天堂一样!"
+    pb "简直是天堂！"
 
 # game/code/d01/s01.rpy:182
 translate chinese d01s01_shower_ebf93a86:
@@ -436,49 +436,49 @@ translate chinese d01s01_shower_ebf93a86:
 translate chinese d01s01_shower_6b72f665:
 
     # pb "Anyway, how's your morning?"
-    pb "不管咋说，你早上过得怎么样?"
+    pb "不管咋说，你早上过得怎么样？"
 
 # game/code/d01/s01.rpy:185
 translate chinese d01s01_shower_11d92a3a:
 
     # mc "Dude! Really?"
-    mc "认真的吗老兄?"
+    mc "认真的吗老兄？"
 
 # game/code/d01/s01.rpy:187
 translate chinese d01s01_shower_03be7f07:
 
     # pb "Sorry man, I know we can get in trouble with Miss Waller."
-    pb "对不起奥, 我知道这可能会导致我们跟Miss Waller有麻烦."
+    pb "对不起喔，我知道Waller老师会来找我们麻烦。"
 
 # game/code/d01/s01.rpy:188
 translate chinese d01s01_shower_129a8fc6:
 
     # pb "I just had no place else to fuck her."
-    pb "我只是没有别的地方跟她鱼水之欢了."
+    pb "只是我没有别的地方跟她鱼水之欢了。"
 
 # game/code/d01/s01.rpy:189
 translate chinese d01s01_shower_57fa9222:
 
     # pb "She was so into me!I couldn't turn her down."
-    pb "她是如此的喜欢我! 我可不能拒绝她."
+    pb "她又那么喜欢我！我没法拒绝呀。"
 
 # game/code/d01/s01.rpy:190
 translate chinese d01s01_shower_0e59eaaa:
 
     # pb "And you were sleeping like a rock...{w} didn't even blink an eye."
-    pb "而且你睡得就像死猪一样...{w} 甚至眼睛都没眨一下."
+    pb "而且你睡得就跟死猪一样……{w}连眼睛都没眨一下。"
 
 # game/code/d01/s01.rpy:192
 translate chinese d01s01_shower_09d9eada:
 
     # pb "You know what? Let me make it up to you. How about I help you to ask that girl out..."
-    pb "你知道吗，我有个想法来弥补你，我来帮助你找机会跟那个女孩一起出去怎么样..."
+    pb "你知道吗，我有个想法可以补偿你，我来帮你找机会跟那个女孩一起出去怎么样……"
 
 # game/code/d01/s01.rpy:194
 translate chinese d01s01_shower_b616feb3:
 
     # pb "What was her name?"
-    pb "她叫啥来着?"
+    pb "她叫啥来着？"
 
 # game/code/d01/s01.rpy:197
 translate chinese d01s01_shower_c10a1144:
@@ -490,103 +490,103 @@ translate chinese d01s01_shower_c10a1144:
 translate chinese d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "对对，没错! 就是这个! 我想帮助你，老兄. I我可不喜欢你在大学里就这么浪费时间."
+    pb "对对，没错！就是她！我想帮你，老兄。我可不想你在大学里就这么浪费时间。"
 
 # game/code/d01/s01.rpy:201
 translate chinese d01s01_shower_edd8bfa0:
 
     # pb "Tonight we'll talk about a plan. Cool?"
-    pb "今天晚上让我们来想个计划，怎么样?"
+    pb "今天晚上我们来想个计划，怎么样？"
 
 # game/code/d01/s01.rpy:203
 translate chinese d01s01_shower_b16bfc1e:
 
     # mc "Okay, whatever."
-    mc "好吧好吧，随便你."
+    mc "好吧好吧，随便你。"
 
 # game/code/d01/s01.rpy:204
 translate chinese d01s01_shower_3b6f8a08:
 
     # mc "Hey, what is wrong with your eyes dude? Did you do drugs too?"
-    mc "喂，你眼神怎么样，你不会是吸毒了吧?"
+    mc "喂，你眼神怎么这样，不会是吸毒了吧?"
 
 # game/code/d01/s01.rpy:206
 translate chinese d01s01_shower_9e90b292:
 
     # pb "No! Just alcohol, dude. We got here around 4 AM and then the girl sucked the life out of my dick."
-    pb "没，就是喝了点酒，我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下!."
+    pb "没，就是喝了点酒，我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下！"
 
 # game/code/d01/s01.rpy:207
 translate chinese d01s01_shower_353193e5:
 
     # pb "I have to get going. No time for a shower."
-    pb "我现在得走了，没时间洗澡了."
+    pb "我现在得走了，没时间洗澡了。"
 
 # game/code/d01/s01.rpy:210
 translate chinese d01s01_shower_243d4f8c:
 
     # "Pete dressed very quickly and went to the door."
-    "Pete很快就穿好了衣服，然后向门走去."
+    "Pete很快就穿好了衣服，然后向门口走去。"
 
 # game/code/d01/s01.rpy:212
 translate chinese d01s01_shower_aa1a9227:
 
     # pb "I need to get going. See you tonight!"
-    pb "我现在得走了，晚上见!"
+    pb "我得走了，晚上见！"
 
 # game/code/d01/s01.rpy:214
 translate chinese d01s01_shower_ebb2498f:
 
     # zw "Peter Butler! I just saw a naked girl coming out of your room! You're in serious trouble, mister!"
-    zw "Peter Butler! 我看见一个裸体的女孩从你房间出来! 先生，你陷入了不小的麻烦!"
+    zw "Peter Butler! 我看见一个女孩从你房间裸着出来！这位先生，你有大麻烦了！"
 
 # game/code/d01/s01.rpy:216
 translate chinese d01s01_shower_a00c613f:
 
     # pb "Damn."
-    pb "可恶."
+    pb "可恶。"
 
 # game/code/d01/s01.rpy:217
 translate chinese d01s01_shower_4b55edea:
 
     # zw "If you weren't on the team, you'd be cleaning the whole gym tonight."
-    zw "如果你不是篮球队的医院的话，今天晚上你就得一直清理体育馆了."
+    zw "要不是你是篮球队的，今天你就得在体育馆打扫一晚上了。"
 
 # game/code/d01/s01.rpy:218
 translate chinese d01s01_shower_f9708cb5:
 
     # zw "Consider yourself very lucky! This is your last chance Butler."
-    zw "看看你的多么幸运啊，这可是你最后的机会了!."
+    zw "看你多幸运啊，这可是你最后的机会了！"
 
 # game/code/d01/s01.rpy:221
 translate chinese d01s01_shower_bdeb0236:
 
     # mc "Oh, Pete is sooo lucky."
-    mc "他可真真真真幸运."
+    mc "他可真真真幸运。"
 
 # game/code/d01/s01.rpy:223
 translate chinese d01s01_shower_30659904:
 
     # mc "Message from Pete."
-    mc "Pete发来的信息."
+    mc "Pete发来的信息。"
 
 # game/code/d01/s01.rpy:225
 translate chinese d01s01_shower_a3f6f954:
 
     # pb "Damn that was close. Miss Waller almost got me!"
-    pb "我去刚才可真险，她差点就逮到我了!"
+    pb "我去刚才可真险，Waller老师差点就逮到我了！"
 
 # game/code/d01/s01.rpy:226
 translate chinese d01s01_shower_91e81bee:
 
     # pb "Come to the game tonight. We'll talk about Lydia."
-    pb "今天晚上来看比赛，倒是候我们谈谈关于Lydia的计划."
+    pb "今晚来看比赛吧。我们到时候谈谈关于Lydia的计划。"
 
 # game/code/d01/s01.rpy:227
 translate chinese d01s01_shower_8b58817a:
 
     # pb "Hot stuff, right?"
-    pb "这可是好东西，对吧?"
+    pb "这可是好东西，对吧？"
 
 # game/code/d01/s01.rpy:230
 translate chinese d01s01_shower_286b2c18:
@@ -598,13 +598,13 @@ translate chinese d01s01_shower_286b2c18:
 translate chinese d01s01_shower_e7a7b4fa:
 
     # mct "Lucky bastard. I would really like to wake up with a chick like her."
-    mct "啧啧，幸运的混蛋，我真想跟他一样醒来有个美女在身边."
+    mct "这家伙真幸运，我真想跟他一样醒来有个美女在身边。"
     
 # game/code/d01/s01.rpy:233
 translate chinese d01s01_shower_6225202e:
 
     # mct "She has a really hot body...{w} but it'd be even better if I could wake up next to Lydia."
-    mct "她的身材真的火辣...{w} 如果我能在Lydia身边醒来就更好了."
+    mct "她身材真的很惹火……{w}要是我能在Lydia身边醒来就更好了。"
 
 # game/code/d01/s01.rpy:236
 translate chinese d01s01_shower_577f33b3:
@@ -616,31 +616,31 @@ translate chinese d01s01_shower_577f33b3:
 translate chinese d01s01_shower_2b2c3ecd:
 
     # mct "That would be heaven."
-    mct "啧啧，就像做梦一样."
+    mct "啧啧，就像做梦一样。"
 
 # game/code/d01/s01.rpy:241
 translate chinese d01s01_shower_1dec4448:
 
     # mct "Huh, message from Pete."
-    mct "Pete发来的信息."
+    mct "Pete发来的信息。"
 
 # game/code/d01/s01.rpy:243
 translate chinese d01s01_shower_3b636b20:
 
     # pb "Hey, sorry I had to run."
-    pb "Yo，抱歉啊我已经先走了."
+    pb "Yo，抱歉啊我已经先走了。"
 
 # game/code/d01/s01.rpy:244
 translate chinese d01s01_shower_19408e01:
 
     # pb "No time for shower."
-    pb "没有洗澡的时间."
+    pb "没有洗澡的时间了。"
 
 # game/code/d01/s01.rpy:245
 translate chinese d01s01_shower_70651338:
 
     # pb "Come to our game tonight. We'll talk about Lydia."
-    pb "今天晚上来看比赛，倒是候我们谈谈关于Lydia的计划."
+    pb "今晚来看比赛吧。我们到时候谈谈关于Lydia的计划。"
 
 # game/code/d01/s01.rpy:246
 translate chinese d01s01_shower_32fc5c2a:
@@ -652,97 +652,97 @@ translate chinese d01s01_shower_32fc5c2a:
 translate chinese d01s01_shower_d2b4df8b:
 
     # mc "Time to go."
-    mc "该走了."
+    mc "该走了。"
 
 # game/code/d01/s01.rpy:249
 translate chinese d01s01_shower_427f6db0:
 
     # "[mcname] was on his way out when..."
-    "[mcname] 正在出去，直到..."
+    "[mcname]正要出去的时候……"
 
 # game/code/d01/s01.rpy:252
 translate chinese d01s01_shower_f5b311bf:
 
     # mct "Oh, shit! It's Miss Waller."
-    mct "卧槽，是Miss Waller."
+    mct "卧槽，是Waller老师。"
 
 # game/code/d01/s01.rpy:253
 translate chinese d01s01_shower_91124666:
 
     # mct "Maybe she didn't notice the girl leaving our room?"
-    mct "或许她没有发现那个女孩从我们这出去呢?"
+    mct "也许她没注意到那个女孩从我们这出去呢？"
 
 # game/code/d01/s01.rpy:255
 translate chinese d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "Mr. Young! 我看见一个裸体的女孩从你房间出来! 先生，你陷入了不小的麻烦!!"
+    zw "Mr. Young! 我看见一个女孩从你房间裸着出来! 这位先生，你麻烦大了!"
 
 # game/code/d01/s01.rpy:256
 translate chinese d01s01_shower_e2f0143d:
 
     # mct "Yeah. She noticed."
-    mct "好吧她发现了."
+    mct "好吧她发现了。"
 
 # game/code/d01/s01.rpy:257
 translate chinese d01s01_shower_aeb373b5:
 
     # zw "You know that girls aren't allowed to be in the boys dorm after midnight!"
-    zw "你知道午夜之后女孩们是不被允许进入男寝室的!"
+    zw "你知道午夜后女生们是不允许进男寝室的！"
 
 # game/code/d01/s01.rpy:258
 translate chinese d01s01_shower_1883b0c1:
 
     # zw "No more excuses! You're getting punished!"
-    zw "没有借口了，你等着被惩罚吧!"
+    zw "不要再找借口了，你等着被惩罚吧！"
 
 # game/code/d01/s01.rpy:260
 translate chinese d01s01_shower_3e20fae6:
 
     # mct "Damn, I can't rat Pete out, that's not what friends do."
-    mct "啧，我可不能把Pete供出来，这可不是朋友的做法."
+    mct "啧，我可不能把Pete供出来，这不是朋友该做的事啊。"
 
 # game/code/d01/s01.rpy:265
 translate chinese d01s01_shower_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "行吧。"
 
 # game/code/d01/s01.rpy:267
 translate chinese d01s01_shower_171def1d:
 
     # zw "You'll help to empty out the trash after the game tonight."
-    zw "今晚比赛结束后，你留在那清空垃圾."
+    zw "今晚比赛结束后，你留在那清空垃圾。"
 
 # game/code/d01/s01.rpy:271
 translate chinese d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
-    zw "所以，你认为我在乎谁把那个女孩带到这里了？!"
+    zw "你以为我在乎谁把那女孩带到这里来吗?!"
 
 # game/code/d01/s01.rpy:272
 translate chinese d01s01_shower_03d60ad0:
 
     # zw "Both of you will help empty out the trash after the game tonight."
-    zw "你们俩都给我留在那清理垃圾."
+    zw "你们俩都给我留在那清理垃圾。"
 
 # game/code/d01/s01.rpy:274
 translate chinese d01s01_shower_bb83081f:
 
     # zw "Be there at 6 PM!"
-    zw "下午六点准时到那!"
+    zw "下午六点准时到那！"
 
 # game/code/d01/s01.rpy:275
 translate chinese d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
-    zw "...而且我也会检查， 如果你不去的话，我将确保你连考试都参加不了."
+    zw "...而且我也会检查，如果你不去的话，我保证你连考试都参加不了。"
 
 # game/code/d01/s01.rpy:277
 translate chinese d01s01_shower_5e7d96e5:
 
     # mct "Time to go to the class."
-    mct "现在该去教室了."
+    mct "现在该去教室了。"
 
 translate chinese strings:
 
@@ -760,5 +760,5 @@ translate chinese strings:
 
     # game/code/d01/s01.rpy:262
     old "Tell her it is Pete's girl and you had no idea she was in the room"
-    new "告诉她这是Pete带来的，而且你并不知道那个女孩是谁"
+    new "告诉她是Pete带的女孩，你并不知道她在房间里"
 
