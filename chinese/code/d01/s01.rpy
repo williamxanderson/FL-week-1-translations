@@ -16,85 +16,85 @@ translate chinese d01s01_c294ff8d:
 translate chinese d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"你人生中最美好的日子永远不会从被闹钟吵醒开始.\"{w} 我敢确定这是一个聪明人说的."
+    mct "\"人生中最美好的日子从来不会从被闹钟吵醒开始。\"{w} 我敢确定说这话的人一定很聪明。"
 
 # game/code/d01/s01.rpy:35
 translate chinese d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "显而易见今天不会算在美好的日子里..."
+    mct "显然今天不是那种美日子……"
 
 # game/code/d01/s01.rpy:36
 translate chinese d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "我在学校从来没有拿到过高分.甚至对我来说进入大学已经很困难了."
+    mct "我在学校的成绩一直不好。就连考上大学都很难。"
 
 # game/code/d01/s01.rpy:38
 translate chinese d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "这是我学商业管理的第二年了. 我不确定我是否喜欢，但至少我还算比较擅长."
+    mct "这是我学工商管理的第二年了。我不知道自己是不是喜欢这个专业，但至少还算比较擅长。"
 
 # game/code/d01/s01.rpy:39
 translate chinese d01s01_308f75bc:
 
     # mct "It's better to have a diploma than nothing."
-    mct "有个文凭在手至少比什me都没有强."
+    mct "有个文凭在手至少比什么都没有强。"
 
 # game/code/d01/s01.rpy:40
 translate chinese d01s01_5c531e30:
 
     # mct "It's Monday; three weeks left 'til exams."
-    mct "今天是星期一; 距离考试还有三周."
+    mct "今天是周一；离考试还有三个星期。"
 
 # game/code/d01/s01.rpy:42
 translate chinese d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "很不幸运的是我缺席了之前的两个星期的课程. 这可能使给我通过考试的机会减少."
+    mct "很不幸，我错过了最后几周的课。这对我的期末考试很不利啊。"
 
 # game/code/d01/s01.rpy:43
 translate chinese d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "不过这并不代表之前我准备好了,但是现在要想通过考试的话，我或许真的需要花上大时间来学习了."
+    mct "不过这并不代表之前我就准备好了，只是现在要想通过考试的话，我或许真的需要花上大把时间来学习了。"
 
 # game/code/d01/s01.rpy:44
 translate chinese d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "如果我能早点起来并且上Nordin的课就好了."
+    mct "要是我能早点起床就好了，这样就能赶上Nordin的课了。"
 
 # game/code/d01/s01.rpy:46
 translate chinese d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "而且我还没有女朋友."
+    mct "而且我还没有女朋友。"
 
 # game/code/d01/s01.rpy:47
 translate chinese d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "这个问题对我来说甚至比我完全没有准备好面对考试还要烦."
+    mct "这比我完全没有准备好迎接期末考试，更让人心烦。"
 
 # game/code/d01/s01.rpy:48
 translate chinese d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "我或许应该专注于考试，之后再关心女朋友的问题."
+    mct "哎我也许应该把精力放在考试上，以后再担心女朋友的问题。"
 
 # game/code/d01/s01.rpy:50
 translate chinese d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "好嘞. 现在,我需要通过我所有课的期末. 我要向自己保证，至少在今天我不会考虑女朋友的问题了."
+    mct "好嘞。首先，我需要通过所有的考试。我要向自己保证，至少今天不会再想女朋友的问题了。"
 
 # game/code/d01/s01.rpy:51
 translate chinese d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "我要集中精力，尽量不要被任何女孩分心."
+    mct "我要集中精力，尽量不被任何女孩分心。"
 
 # game/code/d01/s01.rpy:55
 translate chinese d01s01_a6a59a59:
@@ -112,19 +112,19 @@ translate chinese d01s01_967030d1:
 translate chinese d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "Pete偷偷把女孩带到咱们屋里来了."
+    mct "Pete偷偷带女孩到咱们屋里来了。"
 
 # game/code/d01/s01.rpy:61
 translate chinese d01s01_0450e07b:
 
     # mct "Again?!"
-    mct "而且还不是一次?!"
+    mct "又来这一套?!"
 
 # game/code/d01/s01.rpy:62
 translate chinese d01s01_b598428c:
 
     # mct "That's the second time this month. We could get in trouble!"
-    mct "这是这个月的第二次了，我们或许会因此陷入麻烦!"
+    mct "这是这个月第二次了。我们会有麻烦的!"
 
 # game/code/d01/s01.rpy:64
 translate chinese d01s01_c7996105:
@@ -136,67 +136,67 @@ translate chinese d01s01_c7996105:
 translate chinese d01s01_0ace8bbf:
 
     # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "她看起来像个有趣的女孩... {w}我要是能跟她一起出去就好了."
+    mct "她看起来是个有趣的人……{w}我要是能约她出去就好了。"
 
 # game/code/d01/s01.rpy:66
 translate chinese d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "我想再看看她. 这或许会是个坏主意. 我应该去洗个澡."
+    mct "我想再看看她。这可能是个坏主意。我该去洗个澡了。"
 
 # game/code/d01/s01.rpy:77
 translate chinese d01s01_d14b5b5a:
 
     # mct "Please don't wake up."
-    mct "可千万别醒啊."
+    mct "可千万别醒啊。"
 
 # game/code/d01/s01.rpy:78
 translate chinese d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "我是怎么一点也不知道Pete昨晚跟她干了什么的?"
+    mct "我怎么一点也不知道Pete昨晚跟她在一起?"
 
 # game/code/d01/s01.rpy:80
 translate chinese d01s01_41c6ea21:
 
     # mct "Wow! She has tattoos and piercings."
-    mct "看看，她有纹身，而且还穿了几个洞."
+    mct "看看，她有纹身，还穿了孔。"
 
 # game/code/d01/s01.rpy:82
 translate chinese d01s01_b56ef9a1:
 
     # "NOT YOURS"
-    "NOT YOURS"
+    "不是你的"
 
 # game/code/d01/s01.rpy:83
 translate chinese d01s01_0302ff48:
 
     # mct "Well... That is true. Unfortunately."
-    mct "额，不幸运的是这确实是真的"
+    mct "这……说的也对。真不走运。"
 
 # game/code/d01/s01.rpy:85
 translate chinese d01s01_dad11aca:
 
     # mct "Let's lift the blanket just a little more!"
-    mct "让我再把被单掀开点!"
+    mct "我就把毯子再掀开一点点!"
 
 # game/code/d01/s01.rpy:87
 translate chinese d01s01_1d46b8db:
 
     # mct "Damn! What a hot body."
-    mct "我去，这身材可真是火辣."
+    mct "我去！身材这么有料。"
 
 # game/code/d01/s01.rpy:88
 translate chinese d01s01_2ba18e21:
 
     # mct "How does Pete do it? Girls always want to jump into his bed!"
-    mct "Pete是怎么做到的?所有的女孩都想跟他上床!"
+    mct "Pete是怎么做到的？所有女孩都想跟他上床！"
 
 # game/code/d01/s01.rpy:90
 translate chinese d01s01_6dc48fae:
 
     # mct "Oh! No-no-no. Shit! She's waking up."
-    mct "啧啧啧，她要醒了"
+    mct "啊！别-别-别，靠！她要醒了。"
 
 # game/code/d01/s01.rpy:93
 translate chinese d01s01_44fd0ea8:
@@ -208,73 +208,73 @@ translate chinese d01s01_44fd0ea8:
 translate chinese d01s01_72057db8:
 
     # mc "Ummm-m-m."
-    mc "额."
+    mc "呃."
 
 # game/code/d01/s01.rpy:96
 translate chinese d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "女孩" "你{i}TM{/i} 是谁?!"
+    "女孩" "你{i}TM{/i}是谁?!"
 
 # game/code/d01/s01.rpy:98
 translate chinese d01s01_e514adfa:
 
     # pb "Oh. Morning! Relax guys!"
-    pb "Yo，早啊，放轻松点伙计们!"
+    pb "Yo，早啊，放松点，朋友们!"
 
 # game/code/d01/s01.rpy:99
 translate chinese d01s01_95cf4b4e:
 
     # pb "Don't worry. This is [mcname]. He's a nice guy. He won't hurt you."
-    pb "别担心. 这是[mcname].他是个很好的小伙. 他不会伤害你的."
+    pb "别担心。这是[mcname]，他是个很好的小伙。不会伤害你的。"
 
 # game/code/d01/s01.rpy:100
 translate chinese d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] 可能是这里最好的男孩了. 他总是对女孩们很客气，而且也很尊重她们."
+    pb "[mcname] 可能是这里最棒的人了。他对女生一向很好，也很尊重女孩子。"
 
 # game/code/d01/s01.rpy:101
 translate chinese d01s01_f8dac6be:
 
     # pb "I guess he just wanted to say Hi, Right?"
-    pb "我猜他只是想打个招呼, 对吧?"
+    pb "我猜他只是想打个招呼，对吧？"
 
 # game/code/d01/s01.rpy:102
 translate chinese d01s01_ceb3fc2b:
 
     # mc "Ughhh. Yeah, right!"
-    mc "呃呃. 对, 没错!"
+    mc "呃呃。对，没错！"
 
 # game/code/d01/s01.rpy:103
 translate chinese d01s01_095105f7:
 
     # pb "Oh yeah, [mcname] this is... Hmmm..."
-    pb "就是嘛, [mcname] 这位是... Hmmm..."
+    pb "就是嘛，[mcname] 这位是... Hmmm..."
 
 # game/code/d01/s01.rpy:105
 translate chinese d01s01_6e61b5a0:
 
     # pb "Hmmm... This is... Hmmmm..."
-    pb "Hmmm... 这位是s... Hmmmm..."
+    pb "Hmmm... 这位是... Hmmmm..."
 
 # game/code/d01/s01.rpy:107
 translate chinese d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "女孩" "嗯哼? {i}大SB!{/i} 你连我的名字都不记得了?!"
+    "女孩" "嗯哼？{i}大SB!{/i} 你连我名字都不记得了?!"
 
 # game/code/d01/s01.rpy:109
 translate chinese d01s01_54356a5f:
 
     # pb "Umm... Anna?"
-    pb "让我想想...Anna?"
+    pb "让我想想……Anna？"
 
 # game/code/d01/s01.rpy:113
 translate chinese d01s01_6778a0fc:
 
     # "SLAP!"
-    "SLAP!"
+    "耳光!"
 
 # game/code/d01/s01.rpy:115
 translate chinese d01s01_ee066507:
