@@ -10,7 +10,7 @@ translate chinese d01s02_4ee8cc8f:
 translate chinese d01s02_5b6f8a2b:
 
     # mct "Back to my normal routine and another history class."
-    mct "我终于回到了我正常的节奏，当然，还有历史课."
+    mct "终于回到了我的正常节奏，当然，还有历史课。"
 
 # game/code/d01/s02.rpy:101
 translate chinese d01s02_0fc96c86:
@@ -22,7 +22,7 @@ translate chinese d01s02_0fc96c86:
 translate chinese d01s02_dc60321d:
 
     # mct "They broke up over the winter break. {w}A couple weeks ago they still hated each other. {w}Look at them now. Are they dating again?"
-    mct "我记着他们在寒假的时候分手了. {w}几周前他们甚至还是互相恨着对方. {w}现在再看看，他们是和好了?"
+    mct "我记着她们在寒假的时候绝交了。{w}几周前她们甚至还是互相恨着对方。{w}看她们现在的样子，是又和好了？"
 
 # game/code/d01/s02.rpy:106
 translate chinese d01s02_6dd4c992:
@@ -34,7 +34,7 @@ translate chinese d01s02_6dd4c992:
 translate chinese d01s02_0b3fb849:
 
     # am "Wednesday."
-    am "星期三."
+    am "星期三。"
 
 # game/code/d01/s02.rpy:110
 translate chinese d01s02_ccd1b5eb:
@@ -46,13 +46,13 @@ translate chinese d01s02_ccd1b5eb:
 translate chinese d01s02_b1b76aad:
 
     # am "Just a small group of friends. Do you want Lydia to come?"
-    am "就是一群朋友，你想邀请Lydia一起来吗?"
+    am "就是一群朋友，你想邀请Lydia一起来吗？"
 
 # game/code/d01/s02.rpy:114
 translate chinese d01s02_ba17f776:
 
     # mes "We have to invite her."
-    mes "我们应该邀请她."
+    mes "我们应该邀请她。"
 
 # game/code/d01/s02.rpy:116
 translate chinese d01s02_3482a888:
@@ -64,13 +64,13 @@ translate chinese d01s02_3482a888:
 translate chinese d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "Hmm... 有趣...看来我不在的期间发生了许多事情."
+    mct "Hmm... 有趣...看来我不在的期间发生了许多事情。"
 
 # game/code/d01/s02.rpy:119
 translate chinese d01s02_331f710e:
 
     # mct "And they want to invite Lydia. That is even more interesting."
-    mct "而且他们还要邀请Lydia，这就使事情更有趣了."
+    mct "而且她们还要邀请Lydia，这就更有意思了。"
 
 # game/code/d01/s02.rpy:121
 translate chinese d01s02_a20cefa7:
@@ -94,31 +94,31 @@ translate chinese d01s02_f0bf8bf4:
 translate chinese d01s02_f9a2df6c:
 
     # mc "Been better."
-    mc "还可以."
+    mc "还可以。"
 
 # game/code/d01/s02.rpy:129
 translate chinese d01s02_74e404bd:
 
     # mc "Managed to get a detention today."
-    mc "我今天还收到惩罚了."
+    mc "我今天还受到惩罚了。"
 
 # game/code/d01/s02.rpy:130
 translate chinese d01s02_bb801ea7:
 
     # mc "I will be cleaning after the basketball game."
-    mc "我得在篮球赛后清理体育馆."
+    mc "我得在篮球赛后清理体育馆。"
 
 # game/code/d01/s02.rpy:132
 translate chinese d01s02_9fc29083:
 
     # kb "Miss Waller?"
-    kb "Miss Waller?"
+    kb "Waller老师说的吗？"
 
 # game/code/d01/s02.rpy:134
 translate chinese d01s02_df7f0366:
 
     # mc "Yea, she saw a girl leaving our room that Pete had over last night."
-    mc "对啊，她看见了一个Pete昨晚带回来的女孩从我们房间出来."
+    mc "对啊，昨晚Pete带回来的女孩被她看见从我们房间出来。"
 
 # game/code/d01/s02.rpy:136
 translate chinese d01s02_3a75ee50:
@@ -130,37 +130,37 @@ translate chinese d01s02_3a75ee50:
 translate chinese d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "我早上醒来看见这个性感的女孩在我面前...正好在我面前那种! 你能想象得到吗?!"
+    mc "我早上醒来看到这个性感的美女在我面前......就在房间的对面!你能想象吗?!"
 
 # game/code/d01/s02.rpy:140
 translate chinese d01s02_28e2321d:
 
     # kb "That doesn't sound so bad."
-    kb "听起来还不错."
+    kb "听起来还不错。"
 
 # game/code/d01/s02.rpy:142
 translate chinese d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "只可惜不是我带来的，Pete把她带到了我们的房间，你也知道我们要担负多大的责任!"
+    mc "只可惜不是我带来的，Pete把她带到了我们的房间，你也知道被宿舍指导员发现的话有多危险!"
 
 # game/code/d01/s02.rpy:144
 translate chinese d01s02_b11c099d:
 
     # kb "True story! You can't joke around with Miss Waller."
-    kb "对啊，跟Miss Waller可不能装傻."
+    kb "对啊，跟Waller老师可不能装傻。"
 
 # game/code/d01/s02.rpy:146
 translate chinese d01s02_bc5dc4cc:
 
     # mc "Seems the lecture is starting."
-    mc "看来要开始上课了."
+    mc "看来要开始上课了。"
 
 # game/code/d01/s02.rpy:150
 translate chinese d01s02_12655056:
 
     # rn "Quiet, please! Today, we'll be talking about..."
-    rn "请保持安静，今天我们会讲..."
+    rn "请保持安静，今天我们会讲……"
 
 # game/code/d01/s02.rpy:151
 translate chinese d01s02_d59a0b93:
@@ -172,19 +172,19 @@ translate chinese d01s02_d59a0b93:
 translate chinese d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "我靠我都忘了这科有多无聊了."
+    mct "我靠我都忘了这科有多无聊了。"
 
 # game/code/d01/s02.rpy:154
 translate chinese d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "你回家的旅程怎么样? 等会，我忘了，你为啥回去了来着?"
+    kb "你的回家之旅怎么样？等会，我忘了，你为啥回去了来着？"
 
 # game/code/d01/s02.rpy:156
 translate chinese d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Stancy要来我们这上大学，我回家帮她整理整理行李, 然后我就生病了, 之后我在那休养知道我能回来为止."
+    mc "我的[game.stacytitle]要来我们这上大学，我回家帮她整理整理行李，然后我就生病了，之后就在家休养直到我能回来为止。"
 
 # game/code/d01/s02.rpy:158
 translate chinese d01s02_b2a40943:
@@ -196,49 +196,49 @@ translate chinese d01s02_b2a40943:
 translate chinese d01s02_8e9364a8:
 
     # mc "What did I miss?"
-    mc "我错过了什么么?"
+    mc "我错过了什么吗？"
 
 # game/code/d01/s02.rpy:162
 translate chinese d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "T我猜应该有些新东西，所有人对期末都有点紧张."
+    kb "我猜是有些新东西吧。大家都在为期末考试而紧张。"
 
 # game/code/d01/s02.rpy:164
 translate chinese d01s02_a3f1d4fd:
 
     # kb "Oh, right, and you might have noticed that Antony and Min are back together."
-    kb "哦对了，你看已经看到Antony和Min又和好了."
+    kb "对了，你可能已经注意到Antony和Min又和好了。"
 
 # game/code/d01/s02.rpy:166
 translate chinese d01s02_94ba6d1d:
 
     # mc "Yeah, I heard them talking about some kind of party."
-    mc "是啊，我听到他们在讨论什么派对."
+    mc "是啊，我听到她们在讨论什么派对。"
 
 # game/code/d01/s02.rpy:168
 translate chinese d01s02_d8095c2a:
 
     # kb "I don't know about any party."
-    kb "我不知道有什么派对."
+    kb "我不知道有什么派对。"
 
 # game/code/d01/s02.rpy:169
 translate chinese d01s02_4bc28f05:
 
     # kb "Hmm...maybe they want to throw a party to celebrate the fact they're back together?"
-    kb "Hmm...或许他们想要举办一个派对来庆祝他们和好了?"
+    kb "Hmm...或许她们想要举办一个派对来庆祝她们和好了？"
 
 # game/code/d01/s02.rpy:171
 translate chinese d01s02_0999e95f:
 
     # mc "Unless they break up again before the party!"
-    mc "只要他们别在派对前又分手了!"
+    mc "只要她们别在派对前又绝交了!"
 
 # game/code/d01/s02.rpy:174
 translate chinese d01s02_b6a99c29:
 
     # kb "Ahahahah! Right! Or they might break up at the party!"
-    kb "哈哈哈，是啊，或者他们可能在派对上分手，哈哈哈哈!"
+    kb "哈哈哈，是啊，或者她们可能在派对上决裂，哈哈哈哈!"
 
 # game/code/d01/s02.rpy:175
 translate chinese d01s02_e473e3b9:
@@ -250,49 +250,49 @@ translate chinese d01s02_e473e3b9:
 translate chinese d01s02_849955f3:
 
     # kb "Anyway, are you ready for finals?"
-    kb "对了，你准备好期末了吗?"
+    kb "对了，你准备好期末了吗？"
 
 # game/code/d01/s02.rpy:179
 translate chinese d01s02_3d70f645:
 
     # mc "I tried to study last night, but I wasn't even able to get caught up with the stuff from the last two weeks that I missed."
-    mc "我昨天晚上试着学习来着，但是我弥补不上我这两周错过的课程."
+    mc "我昨天晚上试着学习来着，但连上两周错过的课程都没能赶上来。"
 
 # game/code/d01/s02.rpy:180
 translate chinese d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "我昨天晚上太累了，我估计地震的时候我都不会醒 {i}...或许连{/i} 之后都醒不了t. 我甚至都没听到Pete肏那个美女!"
+    mc "我昨天晚上太累了，发生地震我都不会醒{i}...可能{/i}地震之后都醒不了。我甚至都没听到Pete肏那个美女!"
 
 # game/code/d01/s02.rpy:182
 translate chinese d01s02_680a44d1:
 
     # kb "At least you tried."
-    kb "至少你尝试了."
+    kb "至少你尝试了。"
 
 # game/code/d01/s02.rpy:184
 translate chinese d01s02_0edae168:
 
     # mc "I don't think it'll make a difference."
-    mc "我不觉得这会有什么不同."
+    mc "我觉得这没什么区别。"
 
 # game/code/d01/s02.rpy:185
 translate chinese d01s02_57555de8:
 
     # mc "How was Sunday?"
-    mc "H星期天过得怎么样?"
+    mc "星期天过得怎么样？"
 
 # game/code/d01/s02.rpy:187
 translate chinese d01s02_26e102ad:
 
     # kb "We went out with Chloe...had some fun."
-    kb "我和Chloe出去了，然后我们找了点乐子."
+    kb "我和Chloe出去了，然后我们找了点乐子。"
 
 # game/code/d01/s02.rpy:189
 translate chinese d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
-    mc "wow! 你的 [game.chloekevin] 怎么样?"
+    mc "wow! 你的[game.chloekevin]怎么样？"
 
 # game/code/d01/s02.rpy:191
 translate chinese d01s02_ed823cb2:
@@ -304,43 +304,43 @@ translate chinese d01s02_ed823cb2:
 translate chinese d01s02_91e0cd29:
 
     # mct "Let's try to listen to the lecture."
-    mct "让我们试着听听课."
+    mct "我们试着听听课吧。"
 
 # game/code/d01/s02.rpy:194
 translate chinese d01s02_7e43f6bc:
 
     # "About ten minutes later."
-    "大概十分钟以后."
+    "大概十分钟后。"
 
 # game/code/d01/s02.rpy:198
 translate chinese d01s02_ef432d66:
 
     # mct "That's something new."
-    mct "这个是一个新的东西."
+    mct "这是个新东西哎。"
 
 # game/code/d01/s02.rpy:199
 translate chinese d01s02_1e70073e:
 
     # mc "Never seen that app. What is this?"
-    mc "从来没有见过这个软件，这是什么?"
+    mc "从来没见过这个软件，这是什么？"
 
 # game/code/d01/s02.rpy:201
 translate chinese d01s02_b49f37d6:
 
     # kb "Yeah. It's new. I found it a of couple weeks ago. Somebody local made it."
-    kb "没错，这是新的，我几周前发现的，应该是大学里的某个人搞的."
+    kb "是新东西没错，我几周前发现的，应该是大学里的某个人搞的。"
 
 # game/code/d01/s02.rpy:203
 translate chinese d01s02_eb9b3580:
 
     # mc "What does it do?"
-    mc "这个是干什么的?"
+    mc "这是干什么的？"
 
 # game/code/d01/s02.rpy:205
 translate chinese d01s02_88853ef5:
 
     # kb "It's called Fetish Locator. It's like a dating app, but looks for people with the same sexual fetishes you have."
-    kb "它叫做Fetish Locator. 像一个约会软件一样, 不过是用来找跟你性癖相同的人."
+    kb "它叫做性癖定位器。像一个约会软件一样，不过是用来找跟你性癖相同的人。"
 
 # game/code/d01/s02.rpy:207
 translate chinese d01s02_770c683b:
