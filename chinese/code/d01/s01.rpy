@@ -16,7 +16,7 @@ translate chinese d01s01_c294ff8d:
 translate chinese d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"人生中最美好的日子从来不会从被闹钟吵醒开始。\"{w} 我敢确定说这话的人一定很聪明。"
+    mct "\"人生中最美好的日子从不会从被闹钟吵醒开始。\"{w} 我敢确定说这话的人一定很聪明。"
 
 # game/code/d01/s01.rpy:35
 translate chinese d01s01_860125d7:
@@ -64,13 +64,13 @@ translate chinese d01s01_0edfd832:
 translate chinese d01s01_74274f26:
 
     # mct "Would be nice if I could wake up early and not to be late for Nordin's lecture."
-    mct "要是我能早点起床就好了，这样就能赶上Nordin的课了。"
+    mct "要是我能早点起床就好了，这样就能赶上诺丁的课了。"
 
 # game/code/d01/s01.rpy:46
 translate chinese d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "而且我还没有女朋友。"
+    mct "还有，我到现在还没有女朋友。"
 
 # game/code/d01/s01.rpy:47
 translate chinese d01s01_74c9f86d:
@@ -88,7 +88,7 @@ translate chinese d01s01_9a9a27f1:
 translate chinese d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "好嘞。首先，我需要通过所有的考试。我要向自己保证，至少今天不会再想女朋友的问题了。"
+    mct "好嘞。首先，我需要通过所有的考试。我要向自己保证，至少今天不会再想妹子的事了。"
 
 # game/code/d01/s01.rpy:51
 translate chinese d01s01_e68e1b57:
@@ -112,7 +112,7 @@ translate chinese d01s01_967030d1:
 translate chinese d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "Pete偷偷带女孩到咱们屋里来了。"
+    mct "皮特偷偷带女孩到我们屋里来了。"
 
 # game/code/d01/s01.rpy:61
 translate chinese d01s01_0450e07b:
@@ -142,7 +142,7 @@ translate chinese d01s01_0ace8bbf:
 translate chinese d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "我想再看看她。这可能是个坏主意。我该去洗个澡了。"
+    mct "我想再多看看她的。这又实在不是个好主意。我该去洗个澡了。"
 
 # game/code/d01/s01.rpy:77
 translate chinese d01s01_d14b5b5a:
@@ -154,7 +154,7 @@ translate chinese d01s01_d14b5b5a:
 translate chinese d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "我怎么一点也不知道Pete昨晚跟她在一起?"
+    mct "我怎么一点也不知道皮特昨晚跟她在一起?"
 
 # game/code/d01/s01.rpy:80
 translate chinese d01s01_41c6ea21:
@@ -166,7 +166,7 @@ translate chinese d01s01_41c6ea21:
 translate chinese d01s01_b56ef9a1:
 
     # "NOT YOURS"
-    "不是你的"
+    "我不属于你"
 
 # game/code/d01/s01.rpy:83
 translate chinese d01s01_0302ff48:
@@ -190,7 +190,7 @@ translate chinese d01s01_1d46b8db:
 translate chinese d01s01_2ba18e21:
 
     # mct "How does Pete do it? Girls always want to jump into his bed!"
-    mct "Pete是怎么做到的？所有女孩都想跟他上床！"
+    mct "皮特是怎么做到的？所有女孩都想跟他上床！"
 
 # game/code/d01/s01.rpy:90
 translate chinese d01s01_6dc48fae:
@@ -232,7 +232,7 @@ translate chinese d01s01_95cf4b4e:
 translate chinese d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] 可能是这里最棒的人了。他对女生一向很好，也很尊重女孩子。"
+    pb "[mcname]可能是这里最棒的人了。他对女生一向很好，也很尊重女孩子。"
 
 # game/code/d01/s01.rpy:101
 translate chinese d01s01_f8dac6be:
@@ -262,25 +262,25 @@ translate chinese d01s01_6e61b5a0:
 translate chinese d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "女孩" "嗯哼？{i}大SB!{/i} 你连我名字都不记得了?!"
+    "女孩" "嗯哼？{i}大SB!{/i}你连我名字都不记得了?!"
 
 # game/code/d01/s01.rpy:109
 translate chinese d01s01_54356a5f:
 
     # pb "Umm... Anna?"
-    pb "让我想想……Anna？"
+    pb "让我想想……安娜？"
 
 # game/code/d01/s01.rpy:113
 translate chinese d01s01_6778a0fc:
 
     # "SLAP!"
-    "耳光!"
+    "啪!"
 
 # game/code/d01/s01.rpy:115
 translate chinese d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "女孩" "CNM! 我还期待着什么来着?! 你就是个nc! 你tm就是想跟我上床!"
+    "女孩" "CNM! 我还期待着什么来着?! 你真是个混蛋! 你tm就是想跟我上床!"
 
 # game/code/d01/s01.rpy:117
 translate chinese d01s01_c796b1e5:
@@ -292,13 +292,13 @@ translate chinese d01s01_c796b1e5:
 translate chinese d01s01_fec04e89:
 
     # mct "She grabbed her clothes off the floor and left without even putting them on."
-    mct "她把地上的衣服捡起来，甚至没穿上它们就走出去了。"
+    mct "她抓起地上的衣服就走了，甚至都没来得及穿。"
 
 # game/code/d01/s01.rpy:121
 translate chinese d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "好吧，至少我尝试猜她的名字了。在我眼里，她的名字就是 \"那个口活比吸尘器还好的女孩\"。"
+    pb "好吧，至少我努力猜她的名字了。在我眼里，她的名字就是 \"那个口活比吸尘器还好的女孩\"。"
 
 # game/code/d01/s01.rpy:122
 translate chinese d01s01_c0d577fc:
@@ -340,7 +340,7 @@ translate chinese d01s01_afe63ae9:
 translate chinese d01s01_shower_d9943ca5:
 
     # mct "Pete treats women like shit and still gets tons of pussy."
-    mct "Pete经常对女孩这样，然后居然每次都能钓到美女。"
+    mct "皮特经常对女孩这样，然后居然每次都能钓到美女。"
 
 # game/code/d01/s01.rpy:141
 translate chinese d01s01_shower_257b9106:
@@ -364,7 +364,7 @@ translate chinese d01s01_shower_89e84dfc:
 translate chinese d01s01_shower_30b83c14:
 
     # mct "I've been so into her from the first minute I laid eyes on her."
-    mct "我看到她时，第一眼就被迷住了。"
+    mct "看到她的第一眼，我就被迷住了。"
 
 # game/code/d01/s01.rpy:147
 translate chinese d01s01_shower_d474ca7b:
@@ -376,13 +376,13 @@ translate chinese d01s01_shower_d474ca7b:
 translate chinese d01s01_shower_96ace72c:
 
     # mct "Maybe I have time to think about her a little more..."
-    mct "或许我还有时间来想想她……"
+    mct "或许我可以腾出一点时间来想想她……"
 
 # game/code/d01/s01.rpy:156
 translate chinese d01s01_shower_7e49cb06:
 
     # mct "Hmmm... Lydia..."
-    mct "Hmmm... Lydia..."
+    mct "Hmmm...莉迪亚..."
 
 # game/code/d01/s01.rpy:166
 translate chinese d01s01_shower_12c49418:
@@ -448,7 +448,7 @@ translate chinese d01s01_shower_11d92a3a:
 translate chinese d01s01_shower_03be7f07:
 
     # pb "Sorry man, I know we can get in trouble with Miss Waller."
-    pb "对不起喔，我知道Waller老师会来找我们麻烦。"
+    pb "对不起喔，我知道沃勒老师会来找我们麻烦。"
 
 # game/code/d01/s01.rpy:188
 translate chinese d01s01_shower_129a8fc6:
@@ -484,7 +484,7 @@ translate chinese d01s01_shower_b616feb3:
 translate chinese d01s01_shower_c10a1144:
 
     # mc "Lydia!"
-    mc "Lydia!"
+    mc "莉迪亚！"
 
 # game/code/d01/s01.rpy:199
 translate chinese d01s01_shower_31139995:
@@ -526,7 +526,7 @@ translate chinese d01s01_shower_353193e5:
 translate chinese d01s01_shower_243d4f8c:
 
     # "Pete dressed very quickly and went to the door."
-    "Pete很快就穿好了衣服，然后向门口走去。"
+    "皮特很快就穿好了衣服，然后向门口走去。"
 
 # game/code/d01/s01.rpy:212
 translate chinese d01s01_shower_aa1a9227:
@@ -538,7 +538,7 @@ translate chinese d01s01_shower_aa1a9227:
 translate chinese d01s01_shower_ebb2498f:
 
     # zw "Peter Butler! I just saw a naked girl coming out of your room! You're in serious trouble, mister!"
-    zw "Peter Butler! 我看见一个女孩从你房间裸着出来！这位先生，你有大麻烦了！"
+    zw "皮特·巴特勒！我看见一个女孩从你房间裸着出来！年轻人，你有大麻烦了！"
 
 # game/code/d01/s01.rpy:216
 translate chinese d01s01_shower_a00c613f:
@@ -568,19 +568,19 @@ translate chinese d01s01_shower_bdeb0236:
 translate chinese d01s01_shower_30659904:
 
     # mc "Message from Pete."
-    mc "Pete发来的信息。"
+    mc "皮特发来的信息。"
 
 # game/code/d01/s01.rpy:225
 translate chinese d01s01_shower_a3f6f954:
 
     # pb "Damn that was close. Miss Waller almost got me!"
-    pb "我去刚才可真险，Waller老师差点就逮到我了！"
+    pb "我去刚才可真险，沃勒女士差点就逮到我了！"
 
 # game/code/d01/s01.rpy:226
 translate chinese d01s01_shower_91e81bee:
 
     # pb "Come to the game tonight. We'll talk about Lydia."
-    pb "今晚来看比赛吧。我们到时候谈谈关于Lydia的计划。"
+    pb "今晚来看比赛吧。我们到时候谈谈关于莉迪亚的计划。"
 
 # game/code/d01/s01.rpy:227
 translate chinese d01s01_shower_8b58817a:
@@ -592,7 +592,7 @@ translate chinese d01s01_shower_8b58817a:
 translate chinese d01s01_shower_286b2c18:
 
     # mct "Pete already left..."
-    mct "Pete已经走了..."
+    mct "皮特已经走了..."
 
 # game/code/d01/s01.rpy:232
 translate chinese d01s01_shower_e7a7b4fa:
@@ -604,7 +604,7 @@ translate chinese d01s01_shower_e7a7b4fa:
 translate chinese d01s01_shower_6225202e:
 
     # mct "She has a really hot body...{w} but it'd be even better if I could wake up next to Lydia."
-    mct "她身材真的很惹火……{w}要是我能在Lydia身边醒来就更好了。"
+    mct "她身材真的很惹火……{w}要是我能在莉迪亚身边醒来就更好了。"
 
 # game/code/d01/s01.rpy:236
 translate chinese d01s01_shower_577f33b3:
@@ -622,7 +622,7 @@ translate chinese d01s01_shower_2b2c3ecd:
 translate chinese d01s01_shower_1dec4448:
 
     # mct "Huh, message from Pete."
-    mct "Pete发来的信息。"
+    mct "皮特发来的信息。"
 
 # game/code/d01/s01.rpy:243
 translate chinese d01s01_shower_3b636b20:
@@ -640,7 +640,7 @@ translate chinese d01s01_shower_19408e01:
 translate chinese d01s01_shower_70651338:
 
     # pb "Come to our game tonight. We'll talk about Lydia."
-    pb "今晚来看比赛吧。我们到时候谈谈关于Lydia的计划。"
+    pb "今晚来看比赛吧。我们到时候谈谈关于莉迪亚的计划。"
 
 # game/code/d01/s01.rpy:246
 translate chinese d01s01_shower_32fc5c2a:
@@ -658,13 +658,13 @@ translate chinese d01s01_shower_d2b4df8b:
 translate chinese d01s01_shower_427f6db0:
 
     # "[mcname] was on his way out when..."
-    "[mcname]正要出去的时候……"
+    "[mcname]在出去的路上时……"
 
 # game/code/d01/s01.rpy:252
 translate chinese d01s01_shower_f5b311bf:
 
     # mct "Oh, shit! It's Miss Waller."
-    mct "卧槽，是Waller老师。"
+    mct "卧槽，是沃勒女士。"
 
 # game/code/d01/s01.rpy:253
 translate chinese d01s01_shower_91124666:
@@ -676,7 +676,7 @@ translate chinese d01s01_shower_91124666:
 translate chinese d01s01_shower_9f189314:
 
     # zw "Mr. Young! I saw that naked girl walking out of your room! You're in serious trouble, sir!"
-    zw "Mr. Young! 我看见一个女孩从你房间裸着出来! 这位先生，你麻烦大了!"
+    zw "年轻人！我看见一个女孩从你房间裸着出来! 这位先生，你麻烦大了!"
 
 # game/code/d01/s01.rpy:256
 translate chinese d01s01_shower_e2f0143d:
@@ -700,7 +700,7 @@ translate chinese d01s01_shower_1883b0c1:
 translate chinese d01s01_shower_3e20fae6:
 
     # mct "Damn, I can't rat Pete out, that's not what friends do."
-    mct "啧，我可不能把Pete供出来，这不是朋友该做的事啊。"
+    mct "啧，我可不能把皮特供出来，这不是朋友该做的事啊。"
 
 # game/code/d01/s01.rpy:265
 translate chinese d01s01_shower_a49ed4f8:
@@ -718,7 +718,7 @@ translate chinese d01s01_shower_171def1d:
 translate chinese d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
-    zw "你以为我在乎谁把那女孩带到这里来吗?!"
+    zw "你以为我在乎谁把那女孩带进来的吗?!"
 
 # game/code/d01/s01.rpy:272
 translate chinese d01s01_shower_03d60ad0:
@@ -760,5 +760,5 @@ translate chinese strings:
 
     # game/code/d01/s01.rpy:262
     old "Tell her it is Pete's girl and you had no idea she was in the room"
-    new "告诉她是Pete带的女孩，你并不知道她在房间里"
+    new "告诉她是皮特带的女孩，你并不知道她在房间里"
 
