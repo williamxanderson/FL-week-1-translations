@@ -10,7 +10,7 @@ translate chinese s04_2433015c:
 translate chinese s04_0afa175b:
 
     # mct "There's Pete."
-    mct "Pete来了。"
+    mct "皮特来了。"
 
 # game/code/d01/s04.rpy:163
 translate chinese s04_669664cb:
@@ -64,7 +64,7 @@ translate chinese s04_4a5e5694:
 translate chinese s04_63fa3f9f:
 
     # pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
-    pb "我知道你是因为我房间的那个女孩才被Miss Waller弄到这来。 我可不会让你一个人打扫。"
+    pb "我知道你是因为我房间的那个女孩才被沃勒女士弄到这来。 我可不会让你一个人打扫。"
 
 # game/code/d01/s04.rpy:186
 translate chinese s04_5ea01134:
@@ -136,7 +136,7 @@ translate chinese s04_785ba4a3:
 translate chinese s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "哇！听起来变得很不错。她不是电脑呆子了？"
+    pb "哇！听起来变得很不错。她不是电脑迷了？"
 
 # game/code/d01/s04.rpy:213
 translate chinese s04_7407f7c1:
@@ -160,7 +160,7 @@ translate chinese s04_57c1172b:
 translate chinese s04_b6043fc1:
 
     # pb "Don't worry. I have enough pussy."
-    pb "安啦，我的女人都够多了。"
+    pb "安啦，等着我肏的小穴多着呢。"
 
 # game/code/d01/s04.rpy:221
 translate chinese s04_188e648b:
@@ -208,7 +208,7 @@ translate chinese s04_bf4b3c03:
 translate chinese s04_85bba9dd:
 
     # mct "Time to help Stacy get things packed for the trip back."
-    mct "是时候帮Stacy收拾东西回去了。"
+    mct "是时候帮史黛西收拾东西回去了。"
 
 # game/code/d01/s04.rpy:250
 translate chinese s04_015d20de:
@@ -310,7 +310,7 @@ translate chinese s04_53494d9e:
 translate chinese s04_68b5edbe:
 
     # sy "Ahaha! You dumbass."
-    sy "哈哈个屁！你这个笨蛋。"
+    sy "哈哈！你这个笨蛋。"
 
 # game/code/d01/s04.rpy:301
 translate chinese s04_2b35b6fe:
@@ -346,7 +346,7 @@ translate chinese s04_1d82d6f1:
 translate chinese s04_e6592bd6:
 
     # mc "Yeah! No. I mean ... yeah, I'm here."
-    mc "啊！没，我是说......呃我在听你讲呢。"
+    mc "啊！没，我是说……呃我在听你讲呢。"
 
 # game/code/d01/s04.rpy:325
 translate chinese s04_589bedff:
@@ -364,13 +364,13 @@ translate chinese s04_e06e17b7:
 translate chinese s04_ab758b66:
 
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
-    pb "呃... 说实话我对她一无所知。不过是在聚会上认识她。她想找人上床，我当然乐意奉陪。"
+    pb "呃……说实话我对她一无所知。不过是在聚会上认识她。她想找人上床，我当然乐意奉陪。"
 
 # game/code/d01/s04.rpy:330
 translate chinese s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
-    pb "来说说Lydia吧。你不是想要她吗？"
+    pb "来说说莉迪亚吧。你不是想要她吗？"
 
 # game/code/d01/s04.rpy:332
 translate chinese s04_2fbb7006:
@@ -430,7 +430,7 @@ translate chinese replay_d01s04_6a2d8399:
 translate chinese replay_d01s04_ef29e1d2:
 
     # mct "That's Pete's voice!"
-    mct "这是Pete的声音！"
+    mct "这是皮特的声音！"
 
 # game/code/d01/s04.rpy:362
 translate chinese replay_d01s04_5cd1cde6:
@@ -478,7 +478,7 @@ translate chinese replay_d01s04_1a227f42:
 translate chinese replay_d01s04_289df95c:
 
     # "Girl voice" "Umgh..."
-    "女孩的声音" "哦..."
+    "女孩的声音" "哦……"
 
 # game/code/d01/s04.rpy:378
 translate chinese replay_d01s04_1c3e2998:
@@ -496,7 +496,7 @@ translate chinese replay_d01s04_dc2d9f45:
 translate chinese replay_d01s04_85581721:
 
     # mct "Holy shit! It's Chloe!"
-    mct "我去！竟然是Chloe！"
+    mct "我去！竟然是克洛伊！"
 
 # game/code/d01/s04.rpy:389
 translate chinese replay_d01s04_0fcc45f8:
@@ -550,7 +550,7 @@ translate chinese replay_d01s04_96f4cb40:
 translate chinese replay_d01s04_3a55d13a:
 
     # cb "Slurp... Slurp..."
-    cb "啧啧... 啧啧..."
+    cb "啧啧……咕噜……"
 
 # game/code/d01/s04.rpy:406
 translate chinese replay_d01s04_f0155650:
@@ -568,7 +568,7 @@ translate chinese replay_d01s04_2b2147b8:
 translate chinese replay_d01s04_fc3ddb94:
 
     # cb "Cover my tits with your cum!"
-    cb "全都射我乳头上！"
+    cb "让你的精液全都射我奶子上！"
 
 # game/code/d01/s04.rpy:417
 translate chinese replay_d01s04_b4a79b8f:
@@ -610,7 +610,7 @@ translate chinese replay_d01s04_a651910b:
 translate chinese replay_d01s04_2b354a63:
 
     # mct "Pete's taking a picture. I can take one too. Should I do it?"
-    mct "Pete在拍照。我也可以拍一张哎，要不要拍照呢？"
+    mct "皮特在拍照。我也可以来一张哎，要不要拍照呢？"
 
 # game/code/d01/s04.rpy:434
 translate chinese replay_d01s04_3bb39644:
@@ -646,7 +646,7 @@ translate chinese replay_d01s04_cb0985d9:
 translate chinese replay_d01s04_2e7638aa:
 
     # mc "Dude! Why Chloe?!"
-    mc "老兄！为什么是Chloe?!"
+    mc "老兄！为什么是克洛伊?!"
 
 # game/code/d01/s04.rpy:454
 translate chinese replay_d01s04_403dad95:
@@ -664,7 +664,7 @@ translate chinese replay_d01s04_2a539ab8:
 translate chinese replay_d01s04_4ed58fa4:
 
     # pb "Ah, you already heard about it. Yeah, she desperately wants some points!"
-    pb "啊，你已经听说了啊。没错，她特别想要积分！"
+    pb "啊，你已经听说了啊。没错，她特别想要点数！"
 
 # game/code/d01/s04.rpy:460
 translate chinese replay_d01s04_d1bff6d8:
@@ -676,19 +676,19 @@ translate chinese replay_d01s04_d1bff6d8:
 translate chinese replay_d01s04_0155661a:
 
     # pb "I see you already know a lot about Fetish Locator!"
-    pb "看来你已经很了解Fetish Locator这个软件了！"
+    pb "看来你已经很了解性趣探测器这个软件了！"
 
 # game/code/d01/s04.rpy:464
 translate chinese replay_d01s04_361d9674:
 
     # pb "Yes, you are right, the fetish of the day already has a winner. It was actually announced pretty early today."
-    pb "你说得对，今日性癖已经有一个赢家了。今天早些时候已经宣布了。"
+    pb "你说得对，今日性趣已经有一个赢家了。今天早些时候已经宣布了。"
 
 # game/code/d01/s04.rpy:465
 translate chinese replay_d01s04_f65bbde0:
 
     # pb "But you can always get some points for uploading some hot stuff to the app. It just has to be connected with the fetish of the day."
-    pb "不过，上传一些火辣场面到软件上的话，总能获得积分的。只要和今日性癖有关就可以了。"
+    pb "不过，上传一些火辣场面到软件上的话，总能获得点数的。只要和今日性趣有关就可以了。"
 
 # game/code/d01/s04.rpy:467
 translate chinese replay_d01s04_53139d4d:
@@ -712,13 +712,13 @@ translate chinese replay_d01s04_81737331:
 translate chinese replay_d01s04_c001942c:
 
     # pb "Well not only that. If you open the app there's a shop with stuff you can buy for points."
-    pb "也不止吧。你打开应用的话，会有一个商店，你可以用积分购买里面的东西。"
+    pb "也不止吧。你打开应用的话，会有一个商店，你可以用点数购买里面的东西。"
 
 # game/code/d01/s04.rpy:474
 translate chinese replay_d01s04_d18429d4:
 
     # pb "One of the things on it is a ticket to a party. It'll be in two days and I got info for you that Lydia will be there."
-    pb "其中有张派对的入场券。就两天后的，而且我告诉你Lydia会去的。"
+    pb "其中有张派对的入场券。就两天后的，而且我告诉你莉迪亚会去的。"
 
 # game/code/d01/s04.rpy:476
 translate chinese replay_d01s04_9e891473:
@@ -754,7 +754,7 @@ translate chinese replay_d01s04_94cfc009:
 translate chinese replay_d01s04_c6883085:
 
     # mc "Wow the ticket costs 50 points!"
-    mc "哇，这入场券要花50分!"
+    mc "哇，这入场券要花50个点数!"
 
 # game/code/d01/s04.rpy:488
 translate chinese replay_d01s04_dbdea09a:
@@ -766,31 +766,31 @@ translate chinese replay_d01s04_dbdea09a:
 translate chinese replay_d01s04_2da0ad6e:
 
     # mct "I probably shouldn't tell Pete I know who won those points."
-    mct "也许我不该告诉Pete，我知道谁赢了那些积分。"
+    mct "也许我不该告诉皮特，我知道谁赢了那些点数。"
 
 # game/code/d01/s04.rpy:493
 translate chinese replay_d01s04_5410f6a9:
 
     # pb "Those were winners of the challenge. They award points once a day."
-    pb "那些人是挑战赛的赢家。他们每天奖励一次积分。"
+    pb "那些人是挑战赛的赢家。他们每天奖励一次点数。"
 
 # game/code/d01/s04.rpy:495
 translate chinese replay_d01s04_792c5199:
 
     # pb "You don't have to win the challenge. You can just submit something interesting and get points just not as many as if you would win the challenge."
-    pb "你不需要赢得挑战。你可以只提交一些有意思的东西，然后拿积分，只是没有赢挑战拿的那么多。"
+    pb "你不需要赢得挑战。你可以只提交一些有意思的东西，然后拿点数，只是没有赢挑战拿的那么多。"
 
 # game/code/d01/s04.rpy:497
 translate chinese replay_d01s04_b7b3dc33:
 
     # mc "Why can't I just buy some points?"
-    mc "我不能只是买点积分吗？"
+    mc "我不能只是买点数吗？"
 
 # game/code/d01/s04.rpy:499
 translate chinese replay_d01s04_0376ba43:
 
     # pb "You can, but to buy the ticket at least half of the points have to be earned and not bought."
-    pb "可以啊，但要买票至少有一半的积分要是赚来的，而不是靠买的。"
+    pb "可以啊，但要买票至少有一半的点数要是赚来的，而不是靠买的。"
 
 # game/code/d01/s04.rpy:501
 translate chinese replay_d01s04_7a9ceb96:
@@ -802,7 +802,7 @@ translate chinese replay_d01s04_7a9ceb96:
 translate chinese replay_d01s04_bb29afd0:
 
     # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "嗯哼，所以计划是这样--你来用软件，拿到票，然后去派对见Lydia。"
+    pb "嗯哼，所以计划是这样--你来用软件，拿到票，然后去派对见莉迪亚。"
 
 # game/code/d01/s04.rpy:505
 translate chinese replay_d01s04_fb2526d3:
@@ -814,7 +814,7 @@ translate chinese replay_d01s04_fb2526d3:
 translate chinese replay_d01s04_dea4d98c:
 
     # pb "Exactly!"
-    pb "一点没错!"
+    pb "没错!"
 
 # game/code/d01/s04.rpy:509
 translate chinese replay_d01s04_5b237915:
@@ -838,25 +838,25 @@ translate chinese replay_d01s04_ff2ff749:
 translate chinese replay_d01s04_2e86dd70:
 
     # mct "The party's in two days. I don't have much time to earn the points."
-    mct "派对两天后开始。我没有多少时间去赢积分。"
+    mct "派对两天后开始。我没有多少时间去赢点数。"
 
 # game/code/d01/s04.rpy:518
 translate chinese replay_d01s04_bdaff425:
 
     # mct "Today's fetish is Cumshot. As far as I understood it, I have to submit something related to that."
-    mct "今日性癖是射精。据我了解，我必须要提交和它相关的东西。"
+    mct "今日性趣是射精。据我了解，我必须要提交和它相关的东西。"
 
 # game/code/d01/s04.rpy:519
 translate chinese replay_d01s04_18c318ba:
 
     # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "只是在洗澡时打飞机是不行的。感觉需要来点... 令人印象深刻的东西。"
+    mct "只是在洗澡时打飞机是不行的。感觉需要来点……令人印象深刻的东西。"
 
 # game/code/d01/s04.rpy:522
 translate chinese replay_d01s04_325c4b97:
 
     # mct "I promised to watch a movie with AmRose. I need to do something to earn the points. But if I don't go with AmRose she'll be really pissed."
-    mct "我答应和AmRose一起看电影的。但现在又需要做点什么来赚积分。要是我不和AmRose一起去，她会很生气的。"
+    mct "我答应和爱洛丝一起看电影的。但现在又需要做点什么来赚积分。要是我不和爱洛丝一起去，她会很生气的。"
 
 translate chinese strings:
 
@@ -870,7 +870,7 @@ translate chinese strings:
 
     # game/code/d01/s04.rpy:431
     old "Take a picture of Chloe"
-    new "给Chloe拍张照"
+    new "给克洛伊拍张照"
 
     # game/code/d01/s04.rpy:431
     old "Or don't do it"
@@ -878,9 +878,9 @@ translate chinese strings:
 
     # game/code/d01/s04.rpy:523
     old "Go to AmRose as you promised her to see a movie together"
-    new "去找AmRose吧，你答应她一起看电影的"
+    new "去找爱洛丝吧，你答应她一起看电影的"
 
     # game/code/d01/s04.rpy:523
     old "Don't go to AmRose and try to earn some points"
-    new "不要找AmRose，试着赚些积分吧"
+    new "不要找爱洛丝，试着赚些点数吧"
 
