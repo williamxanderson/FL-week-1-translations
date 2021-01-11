@@ -454,7 +454,7 @@ translate chinese d01s01_shower_03be7f07:
 translate chinese d01s01_shower_129a8fc6:
 
     # pb "I just had no place else to fuck her."
-    pb "只是我没有别的地方跟她鱼水之欢了。"
+    pb "只是我没有别的地方跟她共度良宵了。"
 
 # game/code/d01/s01.rpy:189
 translate chinese d01s01_shower_57fa9222:
