@@ -28,7 +28,7 @@ translate chinese d01s01_860125d7:
 translate chinese d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "我在学校的成绩一直不好。就连考上大学都很难。"
+    mct "我在学校的成绩一直不好。就连考上大学都很难了。"
 
 # game/code/d01/s01.rpy:38
 translate chinese d01s01_0915344f:
@@ -430,7 +430,7 @@ translate chinese d01s01_shower_cc16de3d:
 translate chinese d01s01_shower_ebf93a86:
 
     # pb "Damn! I have no idea what her name was..."
-    pb "啧啧，我忘了她叫什么名字..."
+    pb "啧啧，我忘了她叫什么名字……"
 
 # game/code/d01/s01.rpy:183
 translate chinese d01s01_shower_6b72f665:
@@ -592,7 +592,7 @@ translate chinese d01s01_shower_8b58817a:
 translate chinese d01s01_shower_286b2c18:
 
     # mct "Pete already left..."
-    mct "皮特已经走了..."
+    mct "皮特已经走了……"
 
 # game/code/d01/s01.rpy:232
 translate chinese d01s01_shower_e7a7b4fa:
@@ -610,13 +610,13 @@ translate chinese d01s01_shower_6225202e:
 translate chinese d01s01_shower_577f33b3:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "啊……"
 
 # game/code/d01/s01.rpy:237
 translate chinese d01s01_shower_2b2c3ecd:
 
     # mct "That would be heaven."
-    mct "啧啧，就像做梦一样。"
+    mct "那也太美了。"
 
 # game/code/d01/s01.rpy:241
 translate chinese d01s01_shower_1dec4448:
