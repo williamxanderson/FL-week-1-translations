@@ -484,7 +484,7 @@ translate chinese d01s02_2c28bb2f:
 translate chinese d01s02_f6203809:
 
     # kb "About Cumshot?"
-    凯文 "关于射精的？"
+    kb "关于射精的？"
 
 # game/code/d01/s02.rpy:258
 translate chinese d01s02_786856f5:
@@ -496,7 +496,7 @@ translate chinese d01s02_786856f5:
 translate chinese d01s02_5ca54ecf:
 
     # kb "Yeah. the app has, like, a fetish of the day. And everyone is asked about it."
-   凯文 "对，这个软件有...类似今日性趣的东西，所有人都会被问到。"
+    kb "对，这个软件有...类似今日性趣的东西，所有人都会被问到。"
 
 # game/code/d01/s02.rpy:262
 translate chinese d01s02_5f431293:
@@ -508,7 +508,7 @@ translate chinese d01s02_5f431293:
 translate chinese d01s02_cdd73384:
 
     # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-   凯文 "是啊，不过有一点不同，这个软件总是在变。有时候它会做一些奇怪的事情，到时候你会明白的。"
+   kb "是啊，不过有一点不同，这个软件总是在变。有时候它会做一些奇怪的事情，到时候你会明白的。"
 
 # game/code/d01/s02.rpy:266
 translate chinese d01s02_4076254e:
@@ -574,7 +574,7 @@ translate chinese d01s02_e5ad10eb:
 translate chinese d01s02_75652096:
 
     # kb "No problem! I'll see you tonight at the game?"
-   凯文 "没事，咱们今晚比赛见?"
+   kb "没事，咱们今晚比赛见?"
 
 # game/code/d01/s02.rpy:292
 translate chinese d01s02_ea86f4d4:
@@ -598,7 +598,7 @@ translate chinese replay_d01s02_699878f6:
 translate chinese replay_d01s02_4cd44184:
 
     # arj "..."
-    爱洛丝 "..."
+    arj "..."
 
 # game/code/d01/s02.rpy:299
 translate chinese replay_d01s02_f3b3d28f:
@@ -610,7 +610,7 @@ translate chinese replay_d01s02_f3b3d28f:
 translate chinese replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    爱洛丝 "你离开了两个星期，回来的时候连个招呼都没跟我打！"
+    arj "你离开了两个星期，回来的时候连个招呼都没跟我打！"
 
 # game/code/d01/s02.rpy:303
 translate chinese replay_d01s02_ed0f5321:
@@ -622,7 +622,7 @@ translate chinese replay_d01s02_ed0f5321:
 translate chinese replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-   爱洛丝 "噢~你太心烦意乱了，只想听我们说莉迪亚的事吧。"
+   arj "噢~你太心烦意乱了，只想听我们说莉迪亚的事吧。"
 
 # game/code/d01/s02.rpy:307
 translate chinese replay_d01s02_507086ef:
@@ -652,7 +652,7 @@ translate chinese replay_d01s02_ab7d5066:
 translate chinese replay_d01s02_dbccc912:
 
     # arj "Are you distracted again?"
-    爱洛丝 "你又分心了？"
+    arj "你又分心了？"
 
 # game/code/d01/s02.rpy:318
 translate chinese replay_d01s02_ed592207:
@@ -664,7 +664,7 @@ translate chinese replay_d01s02_ed592207:
 translate chinese replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
-    爱洛丝 "得了吧，你就没听过历史课。"
+    arj "得了吧，你就没听过历史课。"
 
 # game/code/d01/s02.rpy:322
 translate chinese replay_d01s02_3e274df8:
@@ -676,19 +676,19 @@ translate chinese replay_d01s02_3e274df8:
 translate chinese replay_d01s02_84a64c74:
 
     # arj "Hmmm."
-    爱洛丝 "Hmmm."
+    arj "Hmmm."
 
 # game/code/d01/s02.rpy:326
 translate chinese replay_d01s02_eaf4eca4:
 
     # arj "You know how to get out of trouble."
-    爱洛丝 "你还蛮知道如何摆脱困境。"
+    arj "你还蛮知道如何摆脱困境。"
 
 # game/code/d01/s02.rpy:327
 translate chinese replay_d01s02_80c2ad2e:
 
     # arj "What kind of movie is it?"
-   爱洛丝 "什么类型的电影?"
+   arj "什么类型的电影?"
 
 # game/code/d01/s02.rpy:330
 translate chinese replay_d01s02_0e7f0158:
@@ -706,7 +706,7 @@ translate chinese replay_d01s02_9f24c4a8:
 translate chinese replay_d01s02_7ab8cb7f:
 
     # arj "Are you there?!"
-    爱洛丝 "喂喂，你在听吗?!"
+    arj "喂喂，你在听吗?!"
 
 # game/code/d01/s02.rpy:336
 translate chinese replay_d01s02_ee6bbee0:
@@ -718,7 +718,7 @@ translate chinese replay_d01s02_ee6bbee0:
 translate chinese replay_d01s02_3c7c87f9:
 
     # arj "What did I just ask you?"
-    爱洛丝 "我刚刚说了什么?"
+    arj "我刚刚说了什么?"
 
 # game/code/d01/s02.rpy:344
 translate chinese replay_d01s02_b5006555:
@@ -746,15 +746,15 @@ translate chinese replay_d01s02_37f824cb:
 
 # game/code/d01/s02.rpy:356
 translate chinese replay_d01s02_71b6273b:
-
+ 
     # arj "No! That's not what I asked."
-    爱洛丝 "错！我没问那个。"
+    arj "错！我没问那个。"
 
 # game/code/d01/s02.rpy:358
 translate chinese replay_d01s02_4cd44184_1:
 
     # arj "..."
-    爱洛丝 "..."
+    arj "..."
 
 # game/code/d01/s02.rpy:359
 translate chinese replay_d01s02_968cf464:
@@ -766,7 +766,7 @@ translate chinese replay_d01s02_968cf464:
 translate chinese replay_d01s02_f9adf382:
 
     # arj "Hmmm. I might forgive you ... but only if we watch it together!"
-    爱洛丝 "Hmmm. 我可以原谅你，前提是我们一起看电影!"
+    arj "Hmmm. 我可以原谅你，前提是我们一起看电影!"
 
 # game/code/d01/s02.rpy:365
 translate chinese replay_d01s02_15f6a903:
@@ -808,7 +808,7 @@ translate chinese replay_d01s02_786a7cd7:
 translate chinese replay_d01s02_5c581103:
 
     # arj "Then it's a deal! We'll watch it tonight."
-    爱洛丝 "成交，我们晚上一起看。"
+    arj "成交，我们晚上一起看。"
 
 # game/code/d01/s02.rpy:380
 translate chinese replay_d01s02_1e1e3d11:
@@ -826,7 +826,7 @@ translate chinese replay_d01s02_06c4215c:
 translate chinese replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
-    爱洛丝 "你带了一个女孩去你的房间?!"
+    arj "你带了一个女孩去你的房间?!"
 
 # game/code/d01/s02.rpy:386
 translate chinese replay_d01s02_3a95b93e:
@@ -838,7 +838,7 @@ translate chinese replay_d01s02_3a95b93e:
 translate chinese replay_d01s02_d527faec:
 
     # arj "Then why did you get in trouble?"
-    爱洛丝 "所以为什么是你受罚？"
+    arj "所以为什么是你受罚？"
 
 # game/code/d01/s02.rpy:391
 translate chinese replay_d01s02_04c56411:
@@ -856,7 +856,7 @@ translate chinese replay_d01s02_23b83d84:
 translate chinese replay_d01s02_bbfa59bc:
 
     # arj "Oh, so you're just being a good friend."
-    爱洛丝 "那你可真是好朋友。"
+    arj "那你可真是好朋友。"
 
 # game/code/d01/s02.rpy:397
 translate chinese replay_d01s02_46c4606b:
@@ -868,7 +868,7 @@ translate chinese replay_d01s02_46c4606b:
 translate chinese replay_d01s02_ccc69cb6:
 
     # arj "Hmmm. I see."
-    爱洛丝 "Hmmm. 我看出来了。"
+    arj "Hmmm. 我看出来了。"
 
 # game/code/d01/s02.rpy:402
 translate chinese replay_d01s02_3f29ebba:
@@ -892,7 +892,7 @@ translate chinese replay_d01s02_1ec6e58e:
 translate chinese replay_d01s02_4cd44184_2:
 
     # arj "..."
-    爱洛丝 "..."
+    arj "..."
 
 # game/code/d01/s02.rpy:418
 translate chinese replay_d01s02_62c324fa:
@@ -904,7 +904,7 @@ translate chinese replay_d01s02_62c324fa:
 translate chinese replay_d01s02_b065aa01:
 
     # arj "Okay. that sounds cool."
-    爱洛丝 "听起来不错。"
+    arj "听起来不错。"
 
 # game/code/d01/s02.rpy:423
 translate chinese replay_d01s02_e7934d20:
@@ -916,7 +916,7 @@ translate chinese replay_d01s02_e7934d20:
 translate chinese replay_d01s02_5f5a449a:
 
     # arj "I guess I should just be happy that you brought me something. I was hoping to do something together."
-    爱洛丝 "我想我应该很高兴你给我带了电影，我希望我俩能一起做点什么来着。"
+    arj "我想我应该很高兴你给我带了电影，我希望我俩能一起做点什么来着。"
 
 # game/code/d01/s02.rpy:427
 translate chinese replay_d01s02_ca5f0fd9:
@@ -934,7 +934,7 @@ translate chinese replay_d01s02_ad429af8:
 translate chinese replay_d01s02_4cd44184_3:
 
     # arj "..."
-    爱洛丝 "..."
+    arj "..."
 
 # game/code/d01/s02.rpy:435
 translate chinese replay_d01s02_578606f6:
@@ -964,7 +964,7 @@ translate chinese replay_d01s02_468b4c54:
 translate chinese replay_d01s02_3090eac0:
 
     # arj "So, are you distracted again?"
-    爱洛丝 "你又分心了?"
+    arj "你又分心了?"
 
 # game/code/d01/s02.rpy:448
 translate chinese replay_d01s02_ee89dd2b:
@@ -976,7 +976,7 @@ translate chinese replay_d01s02_ee89dd2b:
 translate chinese replay_d01s02_39681987:
 
     # arj "Okay. Sure, I understand."
-    爱洛丝 "当然，我懂。"
+    arj "当然，我懂。"
 
 # game/code/d01/s02.rpy:456
 translate chinese replay_d01s02_9879f0c8:
@@ -988,7 +988,7 @@ translate chinese replay_d01s02_9879f0c8:
 translate chinese replay_d01s02_8ba3d6f6:
 
     # arj "That sounds great."
-    爱洛丝 "听起来不错。"
+    arj "听起来不错。"
 
 # game/code/d01/s02.rpy:459
 translate chinese replay_d01s02_a879797f:
@@ -1006,43 +1006,43 @@ translate chinese replay_d01s02_300e3d8a:
 translate chinese replay_d01s02_5c98fad5:
 
     # arjt "Hmmm."
-    爱洛丝 "Hmmm."
+    arjt "Hmmm."
 
 # game/code/d01/s02.rpy:466
 translate chinese replay_d01s02_015d87b4:
 
     # arjt "What?!"
-    爱洛丝 "什么?!"
+    arjt "什么?!"
 
 # game/code/d01/s02.rpy:469
 translate chinese replay_d01s02_de6c46e2:
 
     # arjt "Oh wow!"
-    爱洛丝 "Oh wow!"
+    arjt "Oh wow!"
 
 # game/code/d01/s02.rpy:471
 translate chinese replay_d01s02_f5f3b3e1:
 
     # arjt "[mcname] got a hard-on! I was hoping that he would want to see the movie together but is he expecting something more than just a movie?!"
-    爱洛丝 "[mcname]这是硬了吗! 我只是邀请他看电影，难不成他还在期待着别的什么?!"
+    arjt "[mcname]这是硬了吗! 我只是邀请他看电影，难不成他还在期待着别的什么?!"
 
 # game/code/d01/s02.rpy:472
 translate chinese replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
-    爱洛丝 "我敢确定，当我邀请他的时候他就硬了。"
+    arjt "我敢确定，当我邀请他的时候他就硬了。"
 
 # game/code/d01/s02.rpy:476
 translate chinese replay_d01s02_ae5cc99b:
 
     # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    爱洛丝 "我该怎么办，我们一直是好朋友，他从没对我表现过有兴趣."
+    arjt "我该怎么办，我们一直是好朋友，他从没对我表现过有兴趣."
 
 # game/code/d01/s02.rpy:477
 translate chinese replay_d01s02_037e9ef7:
 
     # arjt "And he's {b}SO{/b} into Lydia! Is he ready to just forget about her?! I'm {b}SO{/b} confused."
-    爱洛丝 "而且他{b}那么{/b}喜欢莉迪亚！他已经准备好忘掉她了?! 我{b}实在{/b}搞不清。"
+    arjt "而且他{b}那么{/b}喜欢莉迪亚！他已经准备好忘掉她了?! 我{b}实在{/b}搞不清。"
 
 # game/code/d01/s02.rpy:480
 translate chinese replay_d01s02_55d3d3cd:
@@ -1078,7 +1078,7 @@ translate chinese replay_d01s02_4c85d272:
 translate chinese replay_d01s02_c484e8d4:
 
     # arj "Ciao!"
-    爱洛丝 "拜!"
+    arj "拜!"
 
 translate chinese strings:
 
