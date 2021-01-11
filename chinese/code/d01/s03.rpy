@@ -316,7 +316,7 @@ translate chinese s03_1ce017f2:
 translate chinese s03_386726f7:
 
     # mc "Oh, I see. 0 points."
-    mc "啊，看到了。点数为呢。"
+    mc "啊，看到了。点数为0呢。"
 
 # game/code/d01/s03.rpy:168
 translate chinese s03_8f41ab32:
@@ -370,7 +370,7 @@ translate chinese s03_66baf98c:
 translate chinese s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "对，我回家帮一下我的[game.stacytitle]"
+    mc "对，我回家帮一下我的[game.stacytitle]。"
 
 # game/code/d01/s03.rpy:184
 translate chinese s03_889ca342:
@@ -604,13 +604,13 @@ translate chinese s03_f66a3101:
 translate chinese s03_f77a57f2:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before Mom and Dad found it!"
-    sy "哈哈！你真该看看你现在的表情！别担心，在爸妈发现之前，我就把你的那一大堆色情宝藏收起来了!"
+    sy "哈哈！你真该看看你现在的表情！别担心，在爸妈发现之前，我就把你那一大堆色情宝藏收起来了!"
 
 # game/code/d01/s03.rpy:273
 translate chinese s03_e28a76e6:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before your Mom and Dad found it!"
-    sy "哈哈！你真该看看你现在的表情！别担心，在你爸妈发现之前，我就把你的那一大堆色情宝藏收起来了!"
+    sy "哈哈！你真该看看你现在的表情！别担心，在你爸妈发现之前，我就把你那一大堆色情宝藏收起来了!"
 
 # game/code/d01/s03.rpy:275
 translate chinese s03_9a1cc2a7:
@@ -676,7 +676,7 @@ translate chinese s03_1804d0b4:
 translate chinese s03_a13f14eb:
 
     # sy "Yeah, it was either my room or your Mom and Dad finding it! What would you have preferred?"
-    sy "是啊，要么放我房间，要么等着被爸妈发现！你想选哪一个？"
+    sy "是啊，要么放我房间，要么等着被你爸妈发现！你想选哪一个？"
 
 # game/code/d01/s03.rpy:296
 translate chinese s03_7f98be7a:
@@ -976,7 +976,7 @@ translate chinese s03_0065676a:
 translate chinese s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "他能认出他[game.chloekevin]的照片吗？"
+    mct "他能认出他的[game.chloekevin]的照片吗？"
 
 # game/code/d01/s03.rpy:407
 translate chinese s03_f842849b:
