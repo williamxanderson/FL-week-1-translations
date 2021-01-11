@@ -64,7 +64,7 @@ translate chinese d01s02_3482a888:
 translate chinese d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "Hmm... 有趣...看来我不在的期间发生了许多事情。"
+    mct "Hmm... 有趣……看来我不在的期间发生了许多事情。"
 
 # game/code/d01/s02.rpy:119
 translate chinese d01s02_331f710e:
@@ -130,7 +130,7 @@ translate chinese d01s02_3a75ee50:
 translate chinese d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "我早上醒来看到这个性感的美女在我面前......就在房间的对面!你能想象吗?!"
+    mc "我早上醒来看到这个性感的美女在我面前……就在房间的对面!你能想象吗?!"
 
 # game/code/d01/s02.rpy:140
 translate chinese d01s02_28e2321d:
@@ -166,7 +166,7 @@ translate chinese d01s02_12655056:
 translate chinese d01s02_d59a0b93:
 
     # rn "Bla-blah-blah"
-    rn "...歪比巴卜...阿巴阿巴..."
+    rn "……歪比巴卜……阿巴阿巴……"
 
 # game/code/d01/s02.rpy:152
 translate chinese d01s02_314849a5:
@@ -262,7 +262,7 @@ translate chinese d01s02_3d70f645:
 translate chinese d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "看书看得太累了，估计发生地震我都不会醒{i}...可能{/i}地震之后都醒不了。我甚至都没听到皮特肏那个美女!"
+    mc "看书看得太累了，估计发生地震我都不会醒{i}……可能{/i}地震之后都醒不了。我甚至都没听到皮特肏那个美女!"
 
 # game/code/d01/s02.rpy:182
 translate chinese d01s02_680a44d1:
@@ -280,7 +280,7 @@ translate chinese d01s02_0edae168:
 translate chinese d01s02_57555de8:
 
     # mc "How was Sunday?"
-    mc "星期天过得怎么样？"
+    mc "你星期天过得怎么样？"
 
 # game/code/d01/s02.rpy:187
 translate chinese d01s02_26e102ad:
@@ -406,7 +406,7 @@ translate chinese d01s02_9dfad29e:
 translate chinese d01s02_a0a0eb0c:
 
     # mc "Thanks. I'll try it out."
-    mc "谢了啊，让我来看看。"
+    mc "谢了啊，我来试试看。"
 
 # game/code/d01/s02.rpy:223
 translate chinese d01s02_28cd5125:
@@ -430,25 +430,25 @@ translate chinese d01s02_894e1070:
 translate chinese d01s02_8c8fbdfc:
 
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
-    mct "我得输入名字，我才不会傻到用真名，{i}还有{/i}我的性癖! 我来起一个假名。"
+    mct "要输入名字，我才不会傻到用真名，{i}还有{/i}我的性癖! 我来起一个假名。"
 
 # game/code/d01/s02.rpy:238
 translate chinese d01s02_0b7e083d:
 
     # mct "Done. But nothing is happening..."
-    mct "搞定。但是啥也没发生啊..."
+    mct "搞定。但是啥也没发生啊……"
 
 # game/code/d01/s02.rpy:240
 translate chinese d01s02_f5ea78a4:
 
     # mct "Let's try to listen to the professor."
-    mct "我还是试试听教授讲课吧."
+    mct "我还是试试听教授讲课吧。"
 
 # game/code/d01/s02.rpy:241
 translate chinese d01s02_0893f58e:
 
     # "Around ten minutes later..."
-    "大概十分钟之后..."
+    "大概十分钟之后……"
 
 # game/code/d01/s02.rpy:244
 translate chinese d01s02_c23c0e83:
@@ -508,19 +508,19 @@ translate chinese d01s02_5f431293:
 translate chinese d01s02_cdd73384:
 
     # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-   kb "是啊，不过有一点不同，这个软件总是在变。有时候它会做一些奇怪的事情，到时候你会明白的。"
+   kb "是啊，不过有一点不同，这个软件总是在变。有时候它会有一些奇怪的东西，到时候你会明白的。"
 
 # game/code/d01/s02.rpy:266
 translate chinese d01s02_4076254e:
 
     # mc "Okay, thanks."
-    mc "哦，谢谢."
+    mc "好，谢啦。"
 
 # game/code/d01/s02.rpy:269
 translate chinese d01s02_30d051be:
 
     # mct "Hmmm ... how should I answer?"
-    mct "Hmmm ... 我应该怎么回答?"
+    mct "Hmmm ... 我应该怎么回答？"
 
 # game/code/d01/s02.rpy:277
 translate chinese d01s02_2d4947fa:
@@ -550,7 +550,7 @@ translate chinese d01s02_295bbea7:
 translate chinese d01s02_99858e1d:
 
     # mct "Wha-a-at?"
-    mct "什...么?"
+    mct "什……么？"
 
 # game/code/d01/s02.rpy:285
 translate chinese d01s02_48e2936f:
@@ -574,7 +574,7 @@ translate chinese d01s02_e5ad10eb:
 translate chinese d01s02_75652096:
 
     # kb "No problem! I'll see you tonight at the game?"
-   kb "没事，咱们今晚比赛见?"
+   kb "没事，咱们今晚比赛见？"
 
 # game/code/d01/s02.rpy:292
 translate chinese d01s02_ea86f4d4:
@@ -616,7 +616,7 @@ translate chinese replay_d01s02_b199b51f:
 translate chinese replay_d01s02_ed0f5321:
 
     # mc "Ummmm."
-    mc "Ummmm."
+    mc "呃……"
 
 # game/code/d01/s02.rpy:305
 translate chinese replay_d01s02_3469a83b:
@@ -700,7 +700,7 @@ translate chinese replay_d01s02_0e7f0158:
 translate chinese replay_d01s02_9f24c4a8:
 
     # mct "I need to focus on what AmRose saying... {w}But I can't!"
-    mct "我得集中注意力听她说什么...{w}但是我做不到呀！"
+    mct "我得集中注意力听她说什么……{w}但是我做不到呀！"
 
 # game/code/d01/s02.rpy:334
 translate chinese replay_d01s02_7ab8cb7f:
@@ -730,7 +730,7 @@ translate chinese replay_d01s02_b5006555:
 translate chinese replay_d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
-    mc "我不会告诉你关于啥，不过我保证你会喜欢."
+    mc "我不会告诉你关于啥，不过我保证你会喜欢。"
 
 # game/code/d01/s02.rpy:349
 translate chinese replay_d01s02_7bb488f1:
@@ -742,7 +742,7 @@ translate chinese replay_d01s02_7bb488f1:
 translate chinese replay_d01s02_37f824cb:
 
     # mc "Me not being here for two weeks?"
-    mc "我没在这两星期?"
+    mc "我没在这两星期？"
 
 # game/code/d01/s02.rpy:356
 translate chinese replay_d01s02_71b6273b:
@@ -826,7 +826,7 @@ translate chinese replay_d01s02_06c4215c:
 translate chinese replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
-    arj "你带了一个女孩去你的房间?!"
+    arj "你带女孩去你的房间了?!"
 
 # game/code/d01/s02.rpy:386
 translate chinese replay_d01s02_3a95b93e:
@@ -952,7 +952,7 @@ translate chinese replay_d01s02_015d20de_1:
 translate chinese replay_d01s02_27953c55:
 
     # mct "That's ..."
-    mct "这真是..."
+    mct "这真是……"
 
 # game/code/d01/s02.rpy:438
 translate chinese replay_d01s02_468b4c54:
@@ -964,7 +964,7 @@ translate chinese replay_d01s02_468b4c54:
 translate chinese replay_d01s02_3090eac0:
 
     # arj "So, are you distracted again?"
-    arj "你又分心了?"
+    arj "你又分心了？"
 
 # game/code/d01/s02.rpy:448
 translate chinese replay_d01s02_ee89dd2b:
@@ -994,13 +994,13 @@ translate chinese replay_d01s02_8ba3d6f6:
 translate chinese replay_d01s02_a879797f:
 
     # mct "Okay. Seems like the lecture is almost over ..."
-    mct "哦，看来课上完了 ..."
+    mct "哦，看来课上完了……"
 
 # game/code/d01/s02.rpy:460
 translate chinese replay_d01s02_300e3d8a:
 
     # mct "just a little longer."
-    mct "再等一小会."
+    mct "再等一小会。"
 
 # game/code/d01/s02.rpy:465
 translate chinese replay_d01s02_5c98fad5:
@@ -1054,13 +1054,13 @@ translate chinese replay_d01s02_55d3d3cd:
 translate chinese replay_d01s02_85246e7f:
 
     # mct "Oh man! I'm so hard after I saw Min jerking Antony off."
-    mct "啊，看到明给安东尼弄射时我都硬了."
+    mct "啊，看到明给安东尼弄射时我都硬了。"
 
 # game/code/d01/s02.rpy:483
 translate chinese replay_d01s02_84d4c479:
 
     # mct "I hope I can walk out of class without someone noticing my hard dick."
-    mct "我希望走出教室时没人注意我那勃起的弟弟."
+    mct "我希望走出教室时没人注意我那勃起的弟弟。"
 
 # game/code/d01/s02.rpy:487
 translate chinese replay_d01s02_9096c34d:
