@@ -28,13 +28,13 @@ translate chinese s03_64a6e728:
 translate chinese s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "看到认识的人搞H比看A片要刺激得多。"
+    mct "看认识的人搞H比看A片要刺激得多。"
 
 # game/code/d01/s03.rpy:67
 translate chinese s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "不知道这是不是和性趣探测器那个软件有关？就在之前，它问到了射精性癖，而没多久，我就看到了明吞下了安东尼的精液。"
+    mct "不知道这是不是和性趣探测器那个软件有关？就在之前，它问到了射精性癖，而没多久，我就看到明吞下了安东尼的精液。"
 
 # game/code/d01/s03.rpy:68
 translate chinese s03_6224a6c7:
@@ -52,7 +52,7 @@ translate chinese s03_6d020712:
 translate chinese s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "看到认识的人搞H比看A片要刺激得多。"
+    mct "看认识的人搞H比看A片要刺激得多。"
 
 # game/code/d01/s03.rpy:73
 translate chinese s03_0f54bf1c:
@@ -88,7 +88,7 @@ translate chinese s03_4fc128f8:
 translate chinese s03_b2eb8c22:
 
     # mct "They were filming it for the challenge too!"
-    mct "他们也是为了挑战而拍的这个! "
+    mct "他们也是为了挑战才拍这个的! "
 
 # game/code/d01/s03.rpy:89
 translate chinese s03_2c9cac9e:
@@ -166,7 +166,7 @@ translate chinese s03_d7b2b802:
 translate chinese s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "这其实是件好事。趁他的[game.chloekevin]不在这里，我可以问问软件里的点数。"
+    mct "这其实是件好事。趁他的[game.chloekevin]不在这里，我可以问问软件里的点数是什么情况。"
 
 # game/code/d01/s03.rpy:124
 translate chinese s03_e3f6f543:
@@ -184,7 +184,7 @@ translate chinese s03_8f035c98:
 translate chinese s03_db55105b:
 
     # kb "She is. Just doing something else I guess."
-    kb "她是很喜欢来着。我猜是在做别的事吧。"
+    kb "她是很喜欢。我猜是在做别的事吧。"
 
 # game/code/d01/s03.rpy:129
 translate chinese s03_f760e3a2:
@@ -280,7 +280,7 @@ translate chinese s03_c558ce34:
 translate chinese s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "你可以在软件里买一些东西。等着瞧吧。"
+    kb "你可以在应用里买一些东西。等着瞧吧。"
 
 # game/code/d01/s03.rpy:159
 translate chinese s03_13e198df:
@@ -382,7 +382,7 @@ translate chinese s03_889ca342:
 translate chinese s03_dfae6d5f:
 
     # mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
-    mc "实际上，我想着挑个周末和后面几天去帮忙的。我本来周二就该回来了。"
+    mc "实际上，我想着挑个周末和后面几天去帮忙。我本来周二就该回去的。"
 
 # game/code/d01/s03.rpy:187
 translate chinese s03_bd39d731:
@@ -442,7 +442,7 @@ translate chinese s03_89560423:
 translate chinese s03_f48cacac:
 
     # mct "It all started with ..."
-    mct "说来都是源于……"
+    mct "说起来都是因为……"
 
 # game/code/d01/s03.rpy:212
 translate chinese s03_0fc36193:
