@@ -4,511 +4,511 @@
 translate chinese s03_97dc2f80:
 
     # "5:00 PM"
-    "5:00 PM"
+    "下午五点"
 
 # game/code/d01/s03.rpy:62
 translate chinese s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "Looks like I'm the first one here."
+    mct "看来我是第一个到的。"
 
 # game/code/d01/s03.rpy:63
 translate chinese s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
+    mct "凯文和他的[game.chloekevin]应该快到了。比赛要开始了。"
 
 # game/code/d01/s03.rpy:65
 translate chinese s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
-    mct "Watching Min swallow Antony's cum was amazing!"
+    mct "看明吞下安东尼的精液，真是太刺激了！"
 
 # game/code/d01/s03.rpy:66
 translate chinese s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "看到认识的人搞H比看A片要刺激得多。"
 
 # game/code/d01/s03.rpy:67
 translate chinese s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
+    mct "不知道这是不是和性趣探测器那个软件有关？就在之前，它问到了射精性癖，而没多久，我就看到了明吞下了安东尼的精液。"
 
 # game/code/d01/s03.rpy:68
 translate chinese s03_6224a6c7:
 
     # mct "That couldn't have been a coincidence. I need to check the app."
-    mct "That couldn't have been a coincidence. I need to check the app."
+    mct "这不可能只是巧合吧。我得看看这个软件。"
 
 # game/code/d01/s03.rpy:70
 translate chinese s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Min giving a handjob was amazing."
+    mct "明给他用手弄射太带劲了。"
 
 # game/code/d01/s03.rpy:71
 translate chinese s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "看到认识的人搞H比看A片要刺激得多。"
 
 # game/code/d01/s03.rpy:73
 translate chinese s03_0f54bf1c:
 
     # mct "Oh. There's a new message from the app."
-    mct "Oh. There's a new message from the app."
+    mct "哦，软件有新消息了。"
 
 # game/code/d01/s03.rpy:75
 translate chinese s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
+    fl "迪克先生和斯奎兹刚刚完成了射精挑战。各得25点数。敬请关注明天的挑战！"
 
 # game/code/d01/s03.rpy:76
 translate chinese s03_c65e5cc5:
 
     # mct "The app says someone got points for a challenge. What's that all about?"
-    mct "The app says someone got points for a challenge. What's that all about?"
+    mct "软件说有人因为挑战获得了点数。这到底是怎么回事？"
 
 # game/code/d01/s03.rpy:81
 translate chinese s03_f3bcd7af:
 
     # fl "Do you want to see the challenge results?"
-    fl "Do you want to see the challenge results?"
+    fl "你想查看挑战结果吗？"
 
 # game/code/d01/s03.rpy:87
 translate chinese s03_4fc128f8:
 
     # mct "That's Min and Antony!"
-    mct "That's Min and Antony!"
+    mct "是明和安东尼！"
 
 # game/code/d01/s03.rpy:88
 translate chinese s03_b2eb8c22:
 
     # mct "They were filming it for the challenge too!"
-    mct "They were filming it for the challenge too!"
+    mct "他们也是为了挑战而拍的这个! "
 
 # game/code/d01/s03.rpy:89
 translate chinese s03_2c9cac9e:
 
     # mct "I knew it wasn't a coincidence."
-    mct "I knew it wasn't a coincidence."
+    mct "我就知道这不是巧合。"
 
 # game/code/d01/s03.rpy:90
 translate chinese s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "Wow! The app made them do it. It's actually really popular on campus."
+    mct "啊哈！他们是因为软件这么做的呀。看来它在学校真的很受欢迎。"
 
 # game/code/d01/s03.rpy:93
 translate chinese s03_51ee3ede:
 
     # fl "Do you want to see more pictures?"
-    fl "Do you want to see more pictures?"
+    fl "你想欣赏更多图片吗？"
 
 # game/code/d01/s03.rpy:97
 translate chinese s03_5d7ba797:
 
     # fl "Do you want to see her swallowing all of that hot jizz?"
-    fl "Do you want to see her swallowing all of that hot jizz?"
+    fl "你想看她吞下所有的滚烫精液吗？"
 
 # game/code/d01/s03.rpy:101
 translate chinese s03_353c7bff:
 
     # fl "We have that for you!"
-    fl "We have that for you!"
+    fl "即将为你呈现！"
 
 # game/code/d01/s03.rpy:102
 translate chinese s03_466f3426:
 
     # fl "Are you ready to see her doing it?"
-    fl "Are you ready to see her doing it?"
+    fl "准备好欣赏了吗？"
 
 # game/code/d01/s03.rpy:105
 translate chinese s03_d9cfaba0:
 
     # fl "For only 5 points you can see her gulping down the whole load of his man juice!"
-    fl "For only 5 points you can see her gulping down the whole load of his man juice!"
+    fl "只需要5个点数，你就可以观看她把滚烫精液全部吞下去!"
 
 # game/code/d01/s03.rpy:106
 translate chinese s03_6a6390e7:
 
     # mct "Damn! I knew there'd be a catch!"
-    mct "Damn! I knew there'd be a catch!"
+    mct "靠！我就知道有这一招！"
 
 # game/code/d01/s03.rpy:107
 translate chinese s03_fcaf7297:
 
     # mct "Nothing is free in this world today!"
-    mct "Nothing is free in this world today!"
+    mct "如今这个世上没有免费的东西了！"
 
 # game/code/d01/s03.rpy:118
 translate chinese s03_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嗨！"
 
 # game/code/d01/s03.rpy:119
 translate chinese s03_b5163395:
 
     # kb "Hey!"
-    kb "Hey!"
+    kb "嗨！"
 
 # game/code/d01/s03.rpy:121
 translate chinese s03_d7b2b802:
 
     # mc "Your [game.chloekevin] isn't coming?"
-    mc "Your [game.chloekevin] isn't coming?"
+    mc "你的[game.chloekevin]没来吗？"
 
 # game/code/d01/s03.rpy:122
 translate chinese s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
+    mct "这其实是件好事。趁他的[game.chloekevin]不在这里，我可以问问软件里的点数。"
 
 # game/code/d01/s03.rpy:124
 translate chinese s03_e3f6f543:
 
     # kb "She's coming, but seems like she's late."
-    kb "She's coming, but seems like she's late."
+    kb "她会来的，但可能迟到了吧。"
 
 # game/code/d01/s03.rpy:126
 translate chinese s03_8f035c98:
 
     # mc "I thought she was a huge fan."
-    mc "I thought she was a huge fan."
+    mc "我以为她超喜欢这个呢。"
 
 # game/code/d01/s03.rpy:128
 translate chinese s03_db55105b:
 
     # kb "She is. Just doing something else I guess."
-    kb "She is. Just doing something else I guess."
+    kb "她是很喜欢来着。我猜是在做别的事吧。"
 
 # game/code/d01/s03.rpy:129
 translate chinese s03_f760e3a2:
 
     # kb "Is Pete playing today?"
-    kb "Is Pete playing today?"
+    kb "皮特今天会上场吗？"
 
 # game/code/d01/s03.rpy:131
 translate chinese s03_bd2d7257:
 
     # mc "I think so. He asked me to come to the game."
-    mc "I think so. He asked me to come to the game."
+    mc "应该吧，他让我来看比赛来着。"
 
 # game/code/d01/s03.rpy:133
 translate chinese s03_5becafc6:
 
     # mc "We talked about hanging out after the game."
-    mc "We talked about hanging out after the game."
+    mc "我们商量着比赛结束后出去玩。"
 
 # game/code/d01/s03.rpy:135
 translate chinese s03_869de14a:
 
     # mc "Okay the game's starting."
-    mc "Okay the game's starting."
+    mc "好，比赛开始了。"
 
 # game/code/d01/s03.rpy:136
 translate chinese s03_45f11869:
 
     # mc "Cool and Pete is playing today."
-    mc "Cool and Pete is playing today."
+    mc "不错哎，皮特要上场了。"
 
 # game/code/d01/s03.rpy:137
 translate chinese s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "It's not like your [game.chloekevin] to miss the beginning of the game."
+    mc "你的[game.chloekevin]不会要错过比赛的开场吧。"
 
 # game/code/d01/s03.rpy:139
 translate chinese s03_f0c9a692:
 
     # kb "Huh?"
-    kb "Huh?"
+    kb "嗯？"
 
 # game/code/d01/s03.rpy:140
 translate chinese s03_2762f280:
 
     # mc "So, about the app."
-    mc "So, about the app."
+    mc "呃，关于这个软件。"
 
 # game/code/d01/s03.rpy:142
 translate chinese s03_82ad7de8:
 
     # mc "I checked it out a little bit. Looks unusual."
-    mc "I checked it out a little bit. Looks unusual."
+    mc "我研究了一下这玩意。看起来不一般啊。"
 
 # game/code/d01/s03.rpy:145
 translate chinese s03_e0d4ae87:
 
     # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
-    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "要想看里面的内容，需要点数是怎么回事？有消息说有人得了25点数。"
 
 # game/code/d01/s03.rpy:147
 translate chinese s03_512c71de:
 
     # mc "What's this about the points in the app? There was a message that someone won 25 points."
-    mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "软件里的点数是怎么回事？有消息说有人得了25点数。"
 
 # game/code/d01/s03.rpy:149
 translate chinese s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
+    kb "那个啊，你可以通过做一些挑战或提交你今日性趣的照片来获得点数。"
 
 # game/code/d01/s03.rpy:150
 translate chinese s03_fad68f12:
 
     # kb "And of course you can just buy points. This is the monetization model of the app."
-    kb "And of course you can just buy points. This is the monetization model of the app."
+    kb "当然你也可以氪金直接购买点数。这就是软件盈利的地方了。"
 
 # game/code/d01/s03.rpy:153
 translate chinese s03_e3e28c1f:
 
     # mc "And the points are used to unlock these nude pics?"
-    mc "And the points are used to unlock these nude pics?"
+    mc "点数是用来解锁这些裸照的？"
 
 # game/code/d01/s03.rpy:155
 translate chinese s03_c558ce34:
 
     # mc "And what are these points for? How do I use them?"
-    mc "And what are these points for? How do I use them?"
+    mc "那这些点数干吗用的？怎么用呢？"
 
 # game/code/d01/s03.rpy:157
 translate chinese s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "There are certain things you can buy in the app. You'll see."
+    kb "你可以在软件里买一些东西。等着瞧吧。"
 
 # game/code/d01/s03.rpy:159
 translate chinese s03_13e198df:
 
     # mc "You can only use them to buy stuff in the app?"
-    mc "You can only use them to buy stuff in the app?"
+    mc "点数只能用来买里面的东西？"
 
 # game/code/d01/s03.rpy:161
 translate chinese s03_a4e43508:
 
     # kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
-    kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
+    kb "不仅如此。你还可以用点数来投票选出今天的下一个癖好，甚至可以自己开始新的挑战!"
 
 # game/code/d01/s03.rpy:163
 translate chinese s03_3447f061:
 
     # mc "I see! This actually sounds interesting!"
-    mc "I see! This actually sounds interesting!"
+    mc "明白了！听起来很有趣啊！"
 
 # game/code/d01/s03.rpy:164
 translate chinese s03_9c1b0d21:
 
     # mc "Where do I look to see how many points I have?"
-    mc "Where do I look to see how many points I have?"
+    mc "在哪里可以查看我有多少点数呢？"
 
 # game/code/d01/s03.rpy:165
 translate chinese s03_1ce017f2:
 
     # kb "Right here in the app, dumbass!"
-    kb "Right here in the app, dumbass!"
+    kb "软件的这个地方啦，笨蛋！"
 
 # game/code/d01/s03.rpy:167
 translate chinese s03_386726f7:
 
     # mc "Oh, I see. 0 points."
-    mc "Oh, I see. 0 points."
+    mc "啊，看到了。点数为呢。"
 
 # game/code/d01/s03.rpy:168
 translate chinese s03_8f41ab32:
 
     # kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
-    kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
+    kb "对啊，点数从0开始，你可以上传东西来赚点数……"
 
 # game/code/d01/s03.rpy:171
 translate chinese s03_71858fb4:
 
     # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
-    mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+    mct " 嘿，是克洛伊！她不像是会错过比赛前10分钟的人。"
 
 # game/code/d01/s03.rpy:172
 translate chinese s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
+    mct "我记得有一次，因为她的[game.kevinchloe]忘了带钥匙，我们就迟到了，她很生气来着。"
 
 # game/code/d01/s03.rpy:173
 translate chinese s03_c1b53bcc:
 
     # mc "There's your [game.chloekevin]."
-    mc "There's your [game.chloekevin]."
+    mc "你的[game.chloekevin]来了。"
 
 # game/code/d01/s03.rpy:175
 translate chinese s03_b46c5fef:
 
     # mc "Hey Chloe!"
-    mc "Hey Chloe!"
+    mc "嘿，克洛伊！"
 
 # game/code/d01/s03.rpy:176
 translate chinese s03_445766d5:
 
     # kb "There you are!"
-    kb "There you are!"
+    kb "你终于来了！"
 
 # game/code/d01/s03.rpy:177
 translate chinese s03_cafe1f84:
 
     # cb "Hey Kev. Hey [mcname]."
-    cb "Hey Kev. Hey [mcname]."
+    cb "嘿，凯。嘿，[mcname]."
 
 # game/code/d01/s03.rpy:180
 translate chinese s03_66baf98c:
 
     # cb "[mcname] you were gone for a couple weeks. Kevin said you went back home?"
-    cb "[mcname] you were gone for a couple weeks. Kevin said you went back home?"
+    cb "[mcname]你走了有几个星期吧，凯文说你回家了？ "
 
 # game/code/d01/s03.rpy:182
 translate chinese s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "Yeah, I went home to help my [game.stacytitle]."
+    mc "对，我回家帮一下我的[game.stacytitle]"
 
 # game/code/d01/s03.rpy:184
 translate chinese s03_889ca342:
 
     # cb "Are you sure it was a good idea to miss two weeks of classes right before finals?"
-    cb "Are you sure it was a good idea to miss two weeks of classes right before finals?"
+    cb "你确定期末考试前两周缺课是个好主意吗？"
 
 # game/code/d01/s03.rpy:186
 translate chinese s03_dfae6d5f:
 
     # mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
-    mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
+    mc "实际上，我想着挑个周末和后面几天去帮忙的。我本来周二就该回来了。"
 
 # game/code/d01/s03.rpy:187
 translate chinese s03_bd39d731:
 
     # mc "As it turned out I got sick while I was there and had to stay longer."
-    mc "As it turned out I got sick while I was there and had to stay longer."
+    mc "结果回去的时候生病了，没办法就多呆了一段时间。"
 
 # game/code/d01/s03.rpy:189
 translate chinese s03_bf198033:
 
     # cb "Ah, I see."
-    cb "Ah, I see."
+    cb "啊，明白了。"
 
 # game/code/d01/s03.rpy:191
 translate chinese s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "By the way, when is your [game.stacytitle] coming?"
+    kb "对了，你的[game.stacytitle]什么时候来？"
 
 # game/code/d01/s03.rpy:193
 translate chinese s03_393ded45:
 
     # mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
-    mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
+    mc "她明年会和我们一起上学，不过她这周就会来，在城里过暑假。"
 
 # game/code/d01/s03.rpy:194
 translate chinese s03_a1819be4:
 
     # mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
-    mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
+    mc "她想找一份暑期工，但首先，我得先帮她找个住的地方。"
 
 # game/code/d01/s03.rpy:196
 translate chinese s03_6736810d:
 
     # cb "Nice! I'm looking forward meeting her."
-    cb "Nice! I'm looking forward meeting her."
+    cb "好啊！我很期待见到她。"
 
 # game/code/d01/s03.rpy:198
 translate chinese s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
+    mc "我们小时候关系还很好，但后来上学了，就有点分道扬镳了。"
 
 # game/code/d01/s03.rpy:199
 translate chinese s03_f549b1a7:
 
     # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
-    mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+    mc "不过最近两周，我们倒是有机会了解彼此的生活。"
 
 # game/code/d01/s03.rpy:200
 translate chinese s03_89560423:
 
     # mct "Yeah. the last two weeks were very special."
-    mct "Yeah. the last two weeks were very special."
+    mct "是啊，过去两周是很特别。"
 
 # game/code/d01/s03.rpy:201
 translate chinese s03_f48cacac:
 
     # mct "It all started with ..."
-    mct "It all started with ..."
+    mct "说来都是源于……"
 
 # game/code/d01/s03.rpy:212
 translate chinese s03_0fc36193:
 
     # "Two weeks ago."
-    "Two weeks ago."
+    "两周前。"
 
 # game/code/d01/s03.rpy:213
 translate chinese s03_243a4b25:
 
     # mct "It's been a long time since I've been home!"
-    mct "It's been a long time since I've been home!"
+    mct "好久没回家了! "
 
 # game/code/d01/s03.rpy:214
 translate chinese s03_c772efaa:
 
     # mc "Hello! I'm home!"
-    mc "Hello! I'm home!"
+    mc "有人吗，我回来了！"
 
 # game/code/d01/s03.rpy:223
 translate chinese s03_0c398970:
 
     # sy "Heeeey! Big [game.mctitle], you're here!"
-    sy "Heeeey! Big [game.mctitle], you're here!"
+    sy "嘻嘻，大[game.mctitle]回来啦！"
 
 # game/code/d01/s03.rpy:231
 translate chinese s03_512059d9:
 
     # mct "Is that my [game.stacytitle]?! She looks completely different!"
-    mct "Is that my [game.stacytitle]?! She looks completely different!"
+    mct "这还是我的[game.stacytitle]吗?! 看起来完全不一样了！"
 
 # game/code/d01/s03.rpy:232
 translate chinese s03_9c23b148:
 
     # mc "It been a long time! You've really changed!"
-    mc "It been a long time! You've really changed!"
+    mc "好久不见！你变了好多！"
 
 # game/code/d01/s03.rpy:233
 translate chinese s03_6137e902:
 
     # sy "It's only been a year. It's just new make up. I didn't change that much."
-    sy "It's only been a year. It's just new make up. I didn't change that much."
+    sy "才一年好不好， 只是换了个新妆而已，我也没怎么变啊。"
 
 # game/code/d01/s03.rpy:234
 translate chinese s03_90fe6173:
 
     # mc "Yeah right! Come here and give me a hug."
-    mc "Yeah right! Come here and give me a hug."
+    mc "说的也对！过来抱一个吧。"
 
 # game/code/d01/s03.rpy:238
 translate chinese s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
+    mct "她说是化妆的缘故，但实际她真的变了很多！以前不是个胖乎乎的姑娘嘛，现在大变样了。看现在多苗条啊。"
 
 # game/code/d01/s03.rpy:241
 translate chinese s03_34b58f6f:
 
     # sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
+    sy "谢谢你能来帮我。我知道是妈妈让你回来的，但你能来，我真的很开心！"
 
 # game/code/d01/s03.rpy:243
 translate chinese s03_ff6ceecb:
 
     # sy "Thanks for coming to help me. I know your Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Thanks for coming to help me. I know your Mom talked you into doing it, but I'm really happy that you're here!"
+    sy "谢谢你能来帮我。我知道是妈妈让你回来的，但你能来，我真的很开心！"
 
 # game/code/d01/s03.rpy:245
 translate chinese s03_3f658ef2:
