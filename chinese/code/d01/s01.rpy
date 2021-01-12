@@ -448,7 +448,7 @@ translate chinese d01s01_shower_11d92a3a:
 translate chinese d01s01_shower_03be7f07:
 
     # pb "Sorry man, I know we can get in trouble with Miss Waller."
-    pb "对不起喔，我知道沃勒老师会来找我们麻烦。"
+    pb "对不起喔，我知道沃勒女士会来找我们麻烦。"
 
 # game/code/d01/s01.rpy:188
 translate chinese d01s01_shower_129a8fc6:
