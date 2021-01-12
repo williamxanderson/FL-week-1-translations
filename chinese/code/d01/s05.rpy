@@ -40,7 +40,7 @@ translate chinese d01s05_dorm_627ab224:
 translate chinese d01s05_dorm_153b3343:
 
     # "A couple hours later..."
-    "几小时后……"
+    "几小时后..."
 
 # game/code/d01/s05.rpy:174
 translate chinese d01s05_dorm_f1a5f9e3:
@@ -106,7 +106,7 @@ translate chinese d01s05_dorm_2e2a91f7:
 translate chinese d01s05_dorm_e2c6cf1d:
 
     # mc "You're so hot."
-    mc "你真性感……"
+    mc "你真性感。"
 
 # game/code/d01/s05.rpy:216
 translate chinese d01s05_dorm_6a0f9198:
@@ -496,7 +496,7 @@ translate chinese s05_clap_lights_52e4f359:
 translate chinese s05_clap_lights_2fc337c2:
 
     # arj "Here we have lights! Aaand..."
-    arj "在这我们可以开灯！还有……"
+    arj "在这我们可以开灯！还有..."
 
 # game/code/d01/s05.rpy:433
 translate chinese s05_clap_lights_c83d0d03:
@@ -592,7 +592,7 @@ translate chinese s05_clap_lights_62f7ff46:
 translate chinese replay_d01s05_39a66080:
 
     # "An hour and a half later..."
-    "一个半小时后……"
+    "一个半小时后..."
 
 # game/code/d01/s05.rpy:466
 translate chinese replay_d01s05_18e6810e:
@@ -730,7 +730,7 @@ translate chinese replay_d01s05_c5976dd7:
 translate chinese replay_d01s05_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
-    mct "我只需要把它拿起来……该死！我动了鼠标。"
+    mct "我只需要把它拿起来...该死！我动了鼠标。"
 
 # game/code/d01/s05.rpy:542
 translate chinese replay_d01s05_f247077d:
@@ -772,19 +772,19 @@ translate chinese replay_d01s05_44027dcb:
 translate chinese replay_d01s05_f80f19bb:
 
     # mct "Wait... What's this?!"
-    mct "等等……这是什么?!"
+    mct "等等...这是什么?!"
 
 # game/code/d01/s05.rpy:555
 translate chinese replay_d01s05_d0cba6b7:
 
     # mct "Is that..."
-    mct "那是……"
+    mct "那是..."
 
 # game/code/d01/s05.rpy:557
 translate chinese replay_d01s05_cbc59c0b:
 
     # arj "Huh? [mcname]? Where are you? I think I fell asleep..."
-    arj "咦？[mcname]？你在哪里啊？我好像睡着了……"
+    arj "咦？[mcname]？你在哪里啊？我好像睡着了..."
 
 # game/code/d01/s05.rpy:558
 translate chinese replay_d01s05_671a7ca9:
@@ -946,19 +946,19 @@ translate chinese s05_cum_play_challenge_26a2cae6:
 translate chinese s05_cum_play_challenge_714d6efb:
 
     # fl "68 seconds..."
-    fl "68秒……"
+    fl "68秒..."
 
 # game/code/d01/s05.rpy:645
 translate chinese s05_cum_play_challenge_d6ceaec6:
 
     # fl "67 seconds..."
-    fl "67秒……"
+    fl "67秒..."
 
 # game/code/d01/s05.rpy:647
 translate chinese s05_cum_play_challenge_a5613f47:
 
     # fl "66 seconds..."
-    fl "66秒……"
+    fl "66秒..."
 
 # game/code/d01/s05.rpy:653
 translate chinese s05_after_cum_challenge_78f41c28:
