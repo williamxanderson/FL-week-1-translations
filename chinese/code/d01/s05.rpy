@@ -574,467 +574,467 @@ translate chinese s05_clap_lights_bfbeaab7:
 translate chinese s05_clap_lights_41aa147c:
 
     # mc "Okay, let's watch it."
-    mc "Okay, let's watch it."
+    mc "好了，开始看吧。"
 
 # game/code/d01/s05.rpy:455
 translate chinese s05_clap_lights_70cd57db:
 
     # mct "Oh man. Her ass looks amazing."
-    mct "Oh man. Her ass looks amazing."
+    mct "天哪。她的屁股看起来很好摸。"
 
 # game/code/d01/s05.rpy:457
 translate chinese s05_clap_lights_62f7ff46:
 
     # arj "3... 2... 1... it's starting."
-    arj "3... 2... 1... it's starting."
+    arj "3... 2... 1... 开始了。"
 
 # game/code/d01/s05.rpy:465
 translate chinese replay_d01s05_39a66080:
 
     # "An hour and a half later..."
-    "An hour and a half later..."
+    "一个半小时后……"
 
 # game/code/d01/s05.rpy:466
 translate chinese replay_d01s05_18e6810e:
 
     # mct "The movie's good, but I'm really sleepy."
-    mct "The movie's good, but I'm really sleepy."
+    mct "电影很好看，但我真的很困。"
 
 # game/code/d01/s05.rpy:468
 translate chinese replay_d01s05_ef1072a0:
 
     # mct "Seems like AmRose is asleep already."
-    mct "Seems like AmRose is asleep already."
+    mct "爱洛丝好像已经睡着了。"
 
 # game/code/d01/s05.rpy:471
 translate chinese replay_d01s05_5fe7fdff:
 
     # mc "Let's pause the movie."
-    mc "Let's pause the movie."
+    mc "暂停下电影吧。"
 
 # game/code/d01/s05.rpy:473
 translate chinese replay_d01s05_c04787a7:
 
     # mc "Done."
-    mc "Done."
+    mc "好了。"
 
 # game/code/d01/s05.rpy:475
 translate chinese replay_d01s05_c46fff39:
 
     # mc "AmRose! Are you asleep?"
-    mc "AmRose! Are you asleep?"
+    mc "爱洛丝！你睡着了吗？"
 
 # game/code/d01/s05.rpy:476
 translate chinese replay_d01s05_ed761bad:
 
     # mc "Hmmm, no response."
-    mc "Hmmm, no response."
+    mc "呃，没反应。"
 
 # game/code/d01/s05.rpy:478
 translate chinese replay_d01s05_5451fe7b:
 
     # mct "Maybe I should go."
-    mct "Maybe I should go."
+    mct "也许我该走了。"
 
 # game/code/d01/s05.rpy:483
 translate chinese replay_d01s05_67a308d2:
 
     # mct "Oh damn! I need to hurry. I need those points."
-    mct "Oh damn! I need to hurry. I need those points."
+    mct "啊我去！我得快点了。我需要点数啊。"
 
 # game/code/d01/s05.rpy:485
 translate chinese replay_d01s05_256a1a0e:
 
     # mct "AmRose is sound asleep. I don't have time to go anywhere! I have to do it here!"
-    mct "AmRose is sound asleep. I don't have time to go anywhere! I have to do it here!"
+    mct "爱洛丝睡得很熟。我没时间去别的地方了！就在这里做！"
 
 # game/code/d01/s05.rpy:486
 translate chinese replay_d01s05_737c8188:
 
     # mct "No time to think! Here it goes!"
-    mct "No time to think! Here it goes!"
+    mct "没时间想了！就在这里解决吧！"
 
 # game/code/d01/s05.rpy:493
 translate chinese replay_d01s05_0cb05a1d:
 
     # mct "It is too much! I'm so hard right now because AmRose is right here!"
-    mct "It is too much! I'm so hard right now because AmRose is right here!"
+    mct "这样太过了！就因为爱洛丝在这里，我才硬的！"
 
 # game/code/d01/s05.rpy:494
 translate chinese replay_d01s05_e4c64b2f:
 
     # mct "And I'm doing it right in front of her!"
-    mct "And I'm doing it right in front of her!"
+    mct "而我还要在她面前做！"
 
 # game/code/d01/s05.rpy:495
 translate chinese replay_d01s05_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
-    mct "Ohhh! I'm almost there. Where should I do it?"
+    mct "啊啊！我快来了。我该在哪做呢？"
 
 # game/code/d01/s05.rpy:510
 translate chinese replay_d01s05_c185c3cf:
 
     # mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
-    mct "This is crazy but I want to cum on AmRose! Let's hope it doesn't wake her up."
+    mct "说来太疯狂了，但我想射爱洛丝身上！但愿不会吵醒她。"
 
 # game/code/d01/s05.rpy:521
 translate chinese replay_d01s05_241c708d:
 
     # mct "That was too close."
-    mct "That was too close."
+    mct "太险了。"
 
 # game/code/d01/s05.rpy:522
 translate chinese replay_d01s05_351332db:
 
     # mct "Shit! I need to take a picture."
-    mct "Shit! I need to take a picture."
+    mct "妈的，我得拍张照片。"
 
 # game/code/d01/s05.rpy:524
 translate chinese replay_d01s05_77e54e43:
 
     # mct "Done."
-    mct "Done."
+    mct "搞定。"
 
 # game/code/d01/s05.rpy:525
 translate chinese replay_d01s05_35e9a974:
 
     # mct "Okay, uploading now. Seems like I did it in time."
-    mct "Okay, uploading now. Seems like I did it in time."
+    mct "好了，现在上传。看来我还是挺及时。"
 
 # game/code/d01/s05.rpy:530
 translate chinese replay_d01s05_c5c597d9:
 
     # mct "I need to find a napkin."
-    mct "I need to find a napkin."
+    mct "我需要找张餐巾纸。"
 
 # game/code/d01/s05.rpy:532
 translate chinese replay_d01s05_ccfaa9c8:
 
     # mct "There's one on the table."
-    mct "There's one on the table."
+    mct "桌子上有一张。"
 
 # game/code/d01/s05.rpy:534
 translate chinese replay_d01s05_b4e9fb26:
 
     # mct "I need to move quietly so I don't wake her up."
-    mct "I need to move quietly so I don't wake her up."
+    mct "我得安静点，这样才不会吵醒她。"
 
 # game/code/d01/s05.rpy:536
 translate chinese replay_d01s05_c5976dd7:
 
     # mct "Got it."
-    mct "Got it."
+    mct "拿到了。"
 
 # game/code/d01/s05.rpy:538
 translate chinese replay_d01s05_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
-    mct "I'll just take it... Damn! I moved the mouse."
+    mct "我只需要把它拿起来……该死！我动了鼠标。"
 
 # game/code/d01/s05.rpy:542
 translate chinese replay_d01s05_f247077d:
 
     # mct "I should probably leave quietly and not wake her up."
-    mct "I should probably leave quietly and not wake her up."
+    mct "我还是悄悄走吧，别吵醒她。"
 
 # game/code/d01/s05.rpy:544
 translate chinese replay_d01s05_55dacec4:
 
     # mct "Oh, she has a nice laptop."
-    mct "Oh, she has a nice laptop."
+    mct "哦，她的笔记本电脑很不错。"
 
 # game/code/d01/s05.rpy:546
 translate chinese replay_d01s05_bc795f0b:
 
     # mct "Why did she leave a napkin here?"
-    mct "Why did she leave a napkin here?"
+    mct "她为什么把餐巾纸留在这里？"
 
 # game/code/d01/s05.rpy:548
 translate chinese replay_d01s05_5e0101bd:
 
     # mct "Oh, I moved the mouse."
-    mct "Oh, I moved the mouse."
+    mct "啊，我碰到了鼠标。"
 
 # game/code/d01/s05.rpy:550
 translate chinese replay_d01s05_f19b5467:
 
     # mct "Oops! It looks like it switched to another screen with porn!"
-    mct "Oops! It looks like it switched to another screen with porn!"
+    mct "糟了！好像切换到另一个色情片的屏幕了！"
 
 # game/code/d01/s05.rpy:551
 translate chinese replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
+    mct "我最好把它调回到睡眠模式，免得爱洛丝醒来，以为我在看她电脑。"
 
 # game/code/d01/s05.rpy:554
 translate chinese replay_d01s05_f80f19bb:
 
     # mct "Wait... What's this?!"
-    mct "Wait... What's this?!"
+    mct "等等……这是什么?!"
 
 # game/code/d01/s05.rpy:555
 translate chinese replay_d01s05_d0cba6b7:
 
     # mct "Is that..."
-    mct "Is that..."
+    mct "那是……"
 
 # game/code/d01/s05.rpy:557
 translate chinese replay_d01s05_cbc59c0b:
 
     # arj "Huh? [mcname]? Where are you? I think I fell asleep..."
-    arj "Huh? [mcname]? Where are you? I think I fell asleep..."
+    arj "咦？[mcname]？你在哪里啊？我好像睡着了……"
 
 # game/code/d01/s05.rpy:558
 translate chinese replay_d01s05_671a7ca9:
 
     # mct "What's this CamTubePortal? C'mon close already!"
-    mct "What's this CamTubePortal? C'mon close already!"
+    mct "这个CamTubePortal是干什么的？给点力，就快关上了！"
 
 # game/code/d01/s05.rpy:560
 translate chinese replay_d01s05_47d685c3:
 
     # mct "There! Done!"
-    mct "There! Done!"
+    mct "好了！搞定！"
 
 # game/code/d01/s05.rpy:565
 translate chinese replay_d01s05_620473fd:
 
     # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! You feel asleep, and I thought to leave without waking you up."
+    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
 
 # game/code/d01/s05.rpy:571
 translate chinese replay_d01s05_64958f6b:
 
     # mct "Damn! I need to wipe the cum off her leg. She's gonna notice it any second."
-    mct "Damn! I need to wipe the cum off her leg. She's gonna notice it any second."
+    mct "靠！我得把她腿上的精液擦干净。她随时都会注意到的。"
 
 # game/code/d01/s05.rpy:577
 translate chinese replay_d01s05_6bfe9e38:
 
     # arj "Oh, you wanted to sneak out on me."
-    arj "Oh, you wanted to sneak out on me."
+    arj "哦，你想先开溜。"
 
 # game/code/d01/s05.rpy:579
 translate chinese replay_d01s05_5e84ced2:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "没啊，只是你看起来睡得很舒服，我不想叫醒你。"
 
 # game/code/d01/s05.rpy:583
 translate chinese replay_d01s05_8b6b07ae:
 
     # arj "He-he!"
-    arj "He-he!"
+    arj "呵呵！"
 
 # game/code/d01/s05.rpy:584
 translate chinese replay_d01s05_6bd7d659:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "不过你说的没错，我觉得很累。电影是很好看。我很想另外找个时间把它看完。"
 
 # game/code/d01/s05.rpy:586
 translate chinese replay_d01s05_388a66b7:
 
     # mc "Okay! I should get going."
-    mc "Okay! I should get going."
+    mc "好吧！我该走了。"
 
 # game/code/d01/s05.rpy:590
 translate chinese replay_d01s05_910039be:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
-    arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "好啊！来拥抱一个吧。谢谢你的电影。"
 
 # game/code/d01/s05.rpy:600
 translate chinese replay_d01s05_7aacbd97:
 
     # mct "Cool! I managed wipe all the cum off her leg while we were hugging."
-    mct "Cool! I managed wipe all the cum off her leg while we were hugging."
+    mct "机会来了！趁拥抱的时候我赶紧把她腿上的精液都擦干净了。"
 
 # game/code/d01/s05.rpy:607
 translate chinese replay_d01s05_91b5b5a0:
 
     # arj "Thanks for coming."
-    arj "Thanks for coming."
+    arj "谢谢你能来。"
 
 # game/code/d01/s05.rpy:608
 translate chinese replay_d01s05_e54f9603:
 
     # mc "Thanks for inviting me."
-    mc "Thanks for inviting me."
+    mc "我也谢谢你的邀请。"
 
 # game/code/d01/s05.rpy:609
 translate chinese replay_d01s05_f9c4b917:
 
     # mc "Ciao!"
-    mc "Ciao!"
+    mc "再见！"
 
 # game/code/d01/s05.rpy:610
 translate chinese replay_d01s05_8fea5e5f:
 
     # arj "See ya!"
-    arj "See ya!"
+    arj "拜拜！"
 
 # game/code/d01/s05.rpy:614
 translate chinese replay_d01s05_2262c09e:
 
     # "Door closing sound. [mcname] left."
-    "Door closing sound. [mcname] left."
+    "关门声。[mcname]离开了。"
 
 # game/code/d01/s05.rpy:617
 translate chinese replay_d01s05_3a8ef895:
 
     # arjt "Did he just awkwardly touch my leg?"
-    arjt "Did he just awkwardly touch my leg?"
+    arjt "他刚才是奇怪地摸了我的腿吗？"
 
 # game/code/d01/s05.rpy:618
 translate chinese replay_d01s05_b3af82cf:
 
     # arjt "That's not how a friendly hug should be. Felt like an erotic touch."
-    arjt "That's not how a friendly hug should be. Felt like an erotic touch."
+    arjt "友好的拥抱不该是这样的。感觉更像是色情的抚摸。"
 
 # game/code/d01/s05.rpy:620
 translate chinese replay_d01s05_163711ba:
 
     # arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
-    arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
+    arjt "我从[mcname]那里得到的信号好乱。他嘴上说着莉迪亚，还一边用这么温柔和色情的方式来摸我。"
 
 # game/code/d01/s05.rpy:621
 translate chinese replay_d01s05_ec67f367:
 
     # arjt "And they think women are hard to understand. They've never seen this guy!"
-    arjt "And they think women are hard to understand. They've never seen this guy!"
+    arjt "就那大家都觉得女人很难搞懂。真该瞧瞧这个家伙！"
 
 # game/code/d01/s05.rpy:628
 translate chinese s05_cum_play_challenge_0cf8b85c:
 
     # mct "I got a new message from the app."
-    mct "I got a new message from the app."
+    mct "我收到了软件的新消息。"
 
 # game/code/d01/s05.rpy:636
 translate chinese s05_cum_play_challenge_e393902a:
 
     # fl "The day is almost over!"
-    fl "The day is almost over!"
+    fl "今天快结束了！"
 
 # game/code/d01/s05.rpy:637
 translate chinese s05_cum_play_challenge_41422581:
 
     # fl "It is time for a blitz challenge!"
-    fl "It is time for a blitz challenge!"
+    fl "是时候进行快闪挑战了！"
 
 # game/code/d01/s05.rpy:638
 translate chinese s05_cum_play_challenge_1a153cd7:
 
     # mct "What the fuck's a blitz challenge?!"
-    mct "What the fuck's a blitz challenge?!"
+    mct "快闪挑战是个什么鬼?!"
 
 # game/code/d01/s05.rpy:640
 translate chinese s05_cum_play_challenge_ecc83610:
 
     # fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
-    fl "You have to cum or find a cum and take a picture of it with the app in the next 69 seconds!"
+    fl "你必须在接下来的69秒内射精或者找到精液，然后用软件给它拍张照片！"
 
 # game/code/d01/s05.rpy:641
 translate chinese s05_cum_play_challenge_26a2cae6:
 
     # fl "Whoever does it the fastest wins the challenge!"
-    fl "Whoever does it the fastest wins the challenge!"
+    fl "谁最快完成，谁就赢得挑战！"
 
 # game/code/d01/s05.rpy:643
 translate chinese s05_cum_play_challenge_714d6efb:
 
     # fl "68 seconds..."
-    fl "68 seconds..."
+    fl "68秒……"
 
 # game/code/d01/s05.rpy:645
 translate chinese s05_cum_play_challenge_d6ceaec6:
 
     # fl "67 seconds..."
-    fl "67 seconds..."
+    fl "67秒……"
 
 # game/code/d01/s05.rpy:647
 translate chinese s05_cum_play_challenge_a5613f47:
 
     # fl "66 seconds..."
-    fl "66 seconds..."
+    fl "66秒……"
 
 # game/code/d01/s05.rpy:653
 translate chinese s05_after_cum_challenge_78f41c28:
 
     # fl "Unfortunately no one managed to make it in time :("
-    fl "Unfortunately no one managed to make it in time :("
+    fl "很遗憾，没人及时挑战成功 :("
 
 # game/code/d01/s05.rpy:659
 translate chinese s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
-    fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
+    fl "我们认为这是射精挑战日结束的圆满句点！我们仍然会奖励给最快参与的用户一些点数！"
 
 # game/code/d01/s05.rpy:662
 translate chinese s05_after_cum_challenge_d07f8876:
 
     # fl "You earned some points!"
-    fl "You earned some points!"
+    fl "你得到一些点数！"
 
 # game/code/d01/s05.rpy:664
 translate chinese s05_after_cum_challenge_07fdc627:
 
     # mc "Let's see. Oh! Now I have [s05_points] points."
-    mc "Let's see. Oh! Now I have [s05_points] points."
+    mc "让我看看。哦！现在我有[s05_points]点数了。"
 
 # game/code/d01/s05.rpy:665
 translate chinese s05_after_cum_challenge_d3117b32:
 
     # mct "It is not much, but it's a start. I need to put a real effort in to get the 50 points in two days."
-    mct "It is not much, but it's a start. I need to put a real effort in to get the 50 points in two days."
+    mct "虽然不多，但也是个开始。我需要好好努力了，才能在两天内拿到50点数。"
 
 # game/code/d01/s05.rpy:667
 translate chinese s05_after_cum_challenge_d192e45b:
 
     # mct "Damn! I didn't even submit anything. I have to try harder tomorrow."
-    mct "Damn! I didn't even submit anything. I have to try harder tomorrow."
+    mct "可恶！我都没有提交什么东西。明天要更加努力了。"
 
 translate chinese strings:
 
     # game/code/d01/s05.rpy:196
     old "Think about Lydia"
-    new "Think about Lydia"
+    new "想想莉迪亚"
 
     # game/code/d01/s05.rpy:196
     old "Think about today's episode with Min and Antony"
-    new "Think about today's episode with Min and Antony"
+    new "想想今天明和安东尼的那一幕"
 
     # game/code/d01/s05.rpy:196
     old "Think about today's episode with Chloe"
-    new "Think about today's episode with Chloe"
+    new "想想今天克洛伊的那一幕"
 
     # game/code/d01/s05.rpy:196
     old "Think about your [game.stacytitle]"
-    new "Think about your [game.stacytitle]"
+    new "想想你的[game.stacytitle]"
 
     # game/code/d01/s05.rpy:400
     old "Tell AmRose about the party"
-    new "Tell AmRose about the party"
+    new "告诉爱洛丝派对的事"
 
     # game/code/d01/s05.rpy:400
     old "Don't tell her about the party"
-    new "Don't tell her about the party"
+    new "不要告诉她派对的事"
 
     # game/code/d01/s05.rpy:424
     old "Sure"
-    new "Sure"
+    new "当然"
 
     # game/code/d01/s05.rpy:424
     old "Let's watch a movie"
-    new "Let's watch a movie"
+    new "来看电影吧"
 
     # game/code/d01/s05.rpy:496
     old "Cum on the couch"
-    new "Cum on the couch"
+    new "射在沙发上"
 
     # game/code/d01/s05.rpy:496
     old "Cum on AmRose"
-    new "Cum on AmRose"
+    new "射在爱洛丝身上"
 
