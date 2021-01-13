@@ -52,19 +52,19 @@ translate chinese d01s05b_c8eef95b:
 translate chinese d01s05b_9f2ac454:
 
     # mc "No, nothing like that. I just realized it was completely inappropriate."
-    mc "不是那样的。我只是意识到这太不合适了。"
+    mc "不是那样的。我只是意识到这样太不合适了。"
 
 # game/code/d01/extended/s05b.rpy:32
 translate chinese d01s05b_05088b29:
 
     # jfx "Huh. Now I'm curious - what was it?"
-    jfx "嗯。现在我倒好奇了--究竟是什么事？"
+    jfx "嗯。现在我倒真好奇了--究竟是什么事？"
 
 # game/code/d01/extended/s05b.rpy:34
 translate chinese d01s05b_a40f25e6:
 
     # mc "Okay, but remember that I realized my mistake and decided not to actually say it."
-    mc "好吧，但请记住，我刚意识到了自己的错误，本来决定不说出来的。"
+    mc "好吧，不过请记住，我刚意识到了自己的错误，本来是决定不说出来的。"
 
 # game/code/d01/extended/s05b.rpy:35
 translate chinese d01s05b_0ea4b303:
@@ -124,7 +124,7 @@ translate chinese d01s05b_ba74a0c5:
 translate chinese d01s05b_66c64aa2:
 
     # jfx "Seriously? Huh. {w}So, what do you want some random girl to do - in the park, at night, with you?"
-    jfx "你认真的吗？呵。{w}那你说，你想让随机找来的女孩做什么--在公园里，大晚上的，和你一起？"
+    jfx "你认真的吗？呵。{w}那你说，你想让随机找来的女孩做什么--大晚上的，在公园里，和你一起？"
 
 # game/code/d01/extended/s05b.rpy:53
 translate chinese d01s05b_eea5cd43:
@@ -136,7 +136,7 @@ translate chinese d01s05b_eea5cd43:
 translate chinese d01s05b_d2cd4919:
 
     # mc "Today's fetish is cumshots."
-    mc "今日性趣是射精。"
+    mc "呃今日性趣是射精。"
 
 # game/code/d01/extended/s05b.rpy:56
 translate chinese d01s05b_12ac8667:
@@ -148,13 +148,13 @@ translate chinese d01s05b_12ac8667:
 translate chinese d01s05b_862cf183:
 
     # mc "What? No, it would be the guy cumming. It wouldn't need to involve sex or anything like that."
-    mc "什么？不，这个只要男的射精。它不需要涉及性或类似的东西。"
+    mc "什么？不，这个只要男的射精。它不需要涉及性或其他的东西。"
 
 # game/code/d01/extended/s05b.rpy:59
 translate chinese d01s05b_01632914:
 
     # jfx "So, you were just walking through the park and saw me and thought I would let you take pictures of me giving you a handjob?"
-    jfx "所以，你只是在公园里散步，看到了我，就以为我会让你拍下我给你打飞机的照片？"
+    jfx "所以，你只是在公园里散步，看到了我，就以为我愿意让你拍下我给你打飞机的照片？"
 
 # game/code/d01/extended/s05b.rpy:60
 translate chinese d01s05b_4a1f28ea:
