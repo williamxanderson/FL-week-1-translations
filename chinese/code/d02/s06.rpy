@@ -502,7 +502,7 @@ translate chinese d02s06_67f28a29:
 translate chinese d02s06_ac0e2301:
 
     # mct "What if someone would find this out? This is a bit scary."
-    mct "万一被人发现了怎么办？有点吓人啊。
+    mct "万一被人发现了怎么办？有点吓人啊。"
 
 # game/code/d02/s06.rpy:228
 translate chinese d02s06_e12dc444:
