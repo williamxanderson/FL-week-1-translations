@@ -4,229 +4,229 @@
 translate chinese d02s08_ce6bbf32:
 
     # "12:30 PM"
-    "12:30 PM"
+    "中午12:30"
 
 # game/code/d02/s08.rpy:43
 translate chinese d02s08_da42ce48:
 
     # mct "Okay I think the message meant one of these benches."
-    mct "Okay I think the message meant one of these benches."
+    mct "好吧，我想那条信息里指的就是这些长椅中的其中一张了。"
 
 # game/code/d02/s08.rpy:44
 translate chinese d02s08_6d66599d:
 
     # mct "Let's sit here and wait."
-    mct "Let's sit here and wait."
+    mct "坐在这儿等着吧。"
 
 # game/code/d02/s08.rpy:46
 translate chinese d02s08_7975ff2e:
 
     # mct "Who could it be? {w} I'm a bit worried."
-    mct "Who could it be? {w} I'm a bit worried."
+    mct "会是谁呢？{w}我有点担心了。"
 
 # game/code/d02/s08.rpy:48
 translate chinese d02s08_61cc607a:
 
     # mct "And I feel a bit stupid sitting here and holding this banana."
-    mct "And I feel a bit stupid sitting here and holding this banana."
+    mct "而且我觉得坐在这里拿着这个香蕉有点傻。"
 
 # game/code/d02/s08.rpy:49
 translate chinese d02s08_4d71f7ab:
 
     # mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
-    mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
+    mct "不不不，其实也没什么特别的。换个人拿着香蕉，我可能都不会注意到。"
 
 # game/code/d02/s08.rpy:50
 translate chinese d02s08_b65946cd:
 
     # mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
-    mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
+    mct "但感觉我像拿着一个性玩具一样，每个路过的人都会知道我为什么拿着它。"
 
 # game/code/d02/s08.rpy:53
 translate chinese d02s08_72e19a6d:
 
     # mct "Where is she?"
-    mct "Where is she?"
+    mct "那人在哪呢？"
 
 # game/code/d02/s08.rpy:54
 translate chinese d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "我在这里等着一个不认识的女孩，而她愿意把自己的小穴给我尝尝…… {w}当想到这一点，感觉这真的太tm疯狂了！"
 
 # game/code/d02/s08.rpy:56
 translate chinese d02s08_e27f8da1:
 
     # mct "Someone is coming! {w}Is that her?"
-    mct "Someone is coming! {w}Is that her?"
+    mct "有人来了! {w}是她吗？"
 
 # game/code/d02/s08.rpy:58
 translate chinese d02s08_1215041f:
 
     # mct "I need to clear my head. This bench looks perfect!"
-    mct "I need to clear my head. This bench looks perfect!"
+    mct "我要清醒一下。我坐着的这个长椅看起来很完美！"
 
 # game/code/d02/s08.rpy:61
 translate chinese d02s08_cb4cb0b0:
 
     # mct "So, where do I find a girl?"
-    mct "So, where do I find a girl?"
+    mct "那么，我到哪里去找一个女孩呢？"
 
 # game/code/d02/s08.rpy:62
 translate chinese d02s08_f88c16e7:
 
     # mct "Do I just hope that a girl will appear and let me eat her pussy?"
-    mct "Do I just hope that a girl will appear and let me eat her pussy?"
+    mct "难道要指望有一个女孩出现，然后让我舔她的小穴？"
 
 # game/code/d02/s08.rpy:64
 translate chinese d02s08_572b294c:
 
     # mct "Who is that?"
-    mct "Who is that?"
+    mct "那是谁啊？"
 
 # game/code/d02/s08.rpy:67
 translate chinese d02s08_35ec09e1:
 
     # mct "Wait a second.{w} Oh!{w} I think I know her!?"
-    mct "Wait a second.{w} Oh!{w} I think I know her!?"
+    mct "等一下。{{w}哦！{w}我想我认识她!?"
 
 # game/code/d02/s08.rpy:70
 translate chinese d02s08_ecdbe41e:
 
     # mct "Holy shit! {w}Is that the girl from Pete's bed?"
-    mct "Holy shit! {w}Is that the girl from Pete's bed?"
+    mct "我靠！{w}是皮特床上的那个女孩吗？"
 
 # game/code/d02/s08.rpy:72
 translate chinese d02s08_47bd33ef:
 
     # mct "The one with \"NOT YOURS\" tattoo..."
-    mct "The one with \"NOT YOURS\" tattoo..."
+    mct "身上纹着\"我不属于你\"的那个女孩……"
 
 # game/code/d02/s08.rpy:74
 translate chinese d02s08_349f2a98:
 
     # mc "({i}Would I lick the pussy of a girl that had sex with Pete?{/i})"
-    mc "({i}Would I lick the pussy of a girl that had sex with Pete?{/i})"
+    mc "({i}我会舔一个和皮特上过床的女孩的小穴吗？{/i})"
 
 # game/code/d02/s08.rpy:76
 translate chinese d02s08_0a557614:
 
     # mct "She was furious with me yesterday!"
-    mct "She was furious with me yesterday!"
+    mct "她昨天还对我发火来着！"
 
 # game/code/d02/s08.rpy:80
 translate chinese d02s08_d93db3cc:
 
     # mct "Damn! I still don't know her name!"
-    mct "Damn! I still don't know her name!"
+    mct "该死! 我还不知道她的名字呢!"
 
 # game/code/d02/s08.rpy:81
 translate chinese d02s08_5877ff0f:
 
     # mct "Should I apologize for peeping on her?"
-    mct "Should I apologize for peeping on her?"
+    mct "我是不是该为偷看她道歉？"
 
 # game/code/d02/s08.rpy:82
 translate chinese d02s08_027b15f8:
 
     # mct "Or maybe she will not even remember that it was me?"
-    mct "Or maybe she will not even remember that it was me?"
+    mct "或者她根本不记得那是我？"
 
 # game/code/d02/s08.rpy:84
 translate chinese d02s08_cc4d2d15:
 
     # mct "I don't even know her name."
-    mct "I don't even know her name."
+    mct "我连她的名字都不知道。"
 
 # game/code/d02/s08.rpy:90
 translate chinese d02s08_72f6be47:
 
     # mct "Seems like she is jogging her way."
-    mct "Seems like she is jogging her way."
+    mct "她好像在慢跑。"
 
 # game/code/d02/s08.rpy:94
 translate chinese d02s08_62046bc5:
 
     # mct "Yeah. She definitely remembers me."
-    mct "Yeah. She definitely remembers me."
+    mct "没错了，她肯定记得我。"
 
 # game/code/d02/s08.rpy:98
 translate chinese d02s08_02110e2b:
 
     # mct "But it seems I'm not waiting here for her."
-    mct "But it seems I'm not waiting here for her."
+    mct "但好像我等的又不是她。"
 
 # game/code/d02/s08.rpy:99
 translate chinese d02s08_28d847c4:
 
     # mct "Otherwise she would have said something."
-    mct "Otherwise she would have said something."
+    mct "否则她会说些什么的。"
 
 # game/code/d02/s08.rpy:100
 translate chinese d02s08_501971e8:
 
     # mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
-    mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
+    mct "又或者是她给我发了信息，但看到是我在这里，就装作路过!?"
 
 # game/code/d02/s08.rpy:101
 translate chinese d02s08_f3e39b2a:
 
     # mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
-    mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
+    mct "如果她不喜欢我的话，这其实很明智，可以避免尴尬的对话。"
 
 # game/code/d02/s08.rpy:102
 translate chinese d02s08_3df8b771:
 
     # mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
-    mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
+    mct "这样的话，我就失去了泡妞的机会。不过为了以防万一，我还是再等一下吧。"
 
 # game/code/d02/s08.rpy:104
 translate chinese d02s08_e825cb57:
 
     # mct "What a fine woman! How could I make her notice me?"
-    mct "What a fine woman! How could I make her notice me?"
+    mct "多好的妹子啊! 我怎么能让她注意到我呢？"
 
 # game/code/d02/s08.rpy:110
 translate chinese d02s08_6fb2fbef:
 
     # "Five minutes later"
-    "Five minutes later"
+    "五分钟后"
 
 # game/code/d02/s08.rpy:122
 translate chinese d02s08_cbee6421:
 
     # mct "I know this girl as well!"
-    mct "I know this girl as well!"
+    mct "我也认识这个女孩！"
 
 # game/code/d02/s08.rpy:123
 translate chinese d02s08_0d3a7eb5:
 
     # mct "This is Polly... {w}Hmmm... {w}Wilson! {w}Right Polly Wilson! {w}We share some classes."
-    mct "This is Polly... {w}Hmmm... {w}Wilson! {w}Right Polly Wilson! {w}We share some classes."
+    mct "这是波莉……{w}嗯……{w}威尔逊!{w}对，波莉·威尔逊！{w} 我们一起上过课呢。"
 
 # game/code/d02/s08.rpy:126
 translate chinese d02s08_ac6f3cbf:
 
     # mct "Is she also just passing by?"
-    mct "Is she also just passing by?"
+    mct "她也只是路过吗？"
 
 # game/code/d02/s08.rpy:127
 translate chinese d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
-    mct "It looks like she is coming my way..."
+    mct "她好像正朝我这边走来……"
 
 # game/code/d02/s08.rpy:129
 translate chinese d02s08_d3a488ff:
 
     # mct "Is it possible that she's the one I'm waiting for here?"
-    mct "Is it possible that she's the one I'm waiting for here?"
+    mct "难道她就是我在这里等的那个人？"
 
 # game/code/d02/s08.rpy:134
 translate chinese d02s08_03463b6f:
 
     # mct "She is a strange girl. Yet also very intriguing..."
-    mct "She is a strange girl. Yet also very intriguing..."
+    mct "我记得她是个奇怪的女孩。但也非常有趣……"
 
 # game/code/d02/s08.rpy:135
 translate chinese d02s08_33b20b0e:
