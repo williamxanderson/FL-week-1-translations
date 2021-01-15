@@ -4,7 +4,7 @@
 translate chinese d01s05b_8139b175:
 
     # mct "Points, points, points... {w}maybe if I just repeating that in my head I'll think of something."
-    mct "点数，点数，点数……{w}也许我只要在脑子里不停重复，就会想到些什么。"
+    mct "点数，点数，点数... {w}也许我只要在脑子里不停重复，就会想到些什么。"
 
 # game/code/d01/extended/s05b.rpy:10
 translate chinese d01s05b_e505a96a:
@@ -16,7 +16,7 @@ translate chinese d01s05b_e505a96a:
 translate chinese d01s05b_3bca2a98:
 
     # mc "Excuse me, I was wondering if... {w}oh, fuck. I'm sorry."
-    mc "打扰一下，我在想……{w}哦，靠。对不起。"
+    mc "打扰一下，我在想... {w}哦，靠。对不起。"
 
 # game/code/d01/extended/s05b.rpy:20
 translate chinese d01s05b_94b59505:
@@ -28,7 +28,7 @@ translate chinese d01s05b_94b59505:
 translate chinese d01s05b_350ab24d:
 
     # mc "Nevermind. I just realized what I was about to say and..."
-    mc "没什么。我刚刚意识到我要说什么，就……"
+    mc "没什么。我刚刚意识到我要说什么，就..."
 
 # game/code/d01/extended/s05b.rpy:24
 translate chinese d01s05b_e8f94ad8:
@@ -40,7 +40,7 @@ translate chinese d01s05b_e8f94ad8:
 translate chinese d01s05b_c09f1c66:
 
     # mc "No, I just-"
-    mc "不，我只是……"
+    mc "不，我只是..."
 
 # game/code/d01/extended/s05b.rpy:28
 translate chinese d01s05b_c8eef95b:
@@ -58,7 +58,7 @@ translate chinese d01s05b_9f2ac454:
 translate chinese d01s05b_05088b29:
 
     # jfx "Huh. Now I'm curious - what was it?"
-    jfx "嗯。现在我倒真好奇了--究竟是什么事？"
+    jfx "嗯。现在我倒真好奇了-究竟是什么事？"
 
 # game/code/d01/extended/s05b.rpy:34
 translate chinese d01s05b_a40f25e6:
@@ -70,7 +70,7 @@ translate chinese d01s05b_a40f25e6:
 translate chinese d01s05b_0ea4b303:
 
     # mc "I was going to ask you... {w}Well, there's this app, and I'm trying to earn points."
-    mc "我本来想问你……{w}呃，有这么个软件来着，我正在努力挣点数。"
+    mc "我本来想问你... {w}呃，有这么个软件来着，我正在努力挣点数。"
 
 # game/code/d01/extended/s05b.rpy:37
 translate chinese d01s05b_7198b166:
@@ -94,7 +94,7 @@ translate chinese d01s05b_5522dd87:
 translate chinese d01s05b_db4c21f5:
 
     # mc "It's a kind of... {w}I guess you could call it a sex app."
-    mc "这是一个……{w}我想你可以叫它约炮软件。"
+    mc "这是一个... {w}我想你可以叫它约炮软件。"
 
 # game/code/d01/extended/s05b.rpy:45
 translate chinese d01s05b_25dc7110:
@@ -130,7 +130,7 @@ translate chinese d01s05b_66c64aa2:
 translate chinese d01s05b_eea5cd43:
 
     # mc "I hadn't thought that far ahead. {w}Today's fetish is..."
-    mc "我还没有想那么远。{w}软件上今日性趣是……"
+    mc "我还没有想那么远。{w}软件上今日性趣是..."
 
 # game/code/d01/extended/s05b.rpy:54
 translate chinese d01s05b_d2cd4919:
@@ -160,7 +160,7 @@ translate chinese d01s05b_01632914:
 translate chinese d01s05b_4a1f28ea:
 
     # mc "No, no. {w}Look, I wasn't thinking right. If anything, I guess we could go somewhere and..."
-    mc "没没没。{w}是我想错了。如果有可能的话，我想我们可以去找个地方，然后……"
+    mc "没没没。{w}是我想错了。如果有可能的话，我想我们可以去找个地方，然后..."
 
 # game/code/d01/extended/s05b.rpy:61
 translate chinese d01s05b_c68dbbe4:
