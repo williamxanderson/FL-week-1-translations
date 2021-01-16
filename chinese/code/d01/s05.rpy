@@ -790,7 +790,7 @@ translate chinese replay_d01s05_cbc59c0b:
 translate chinese replay_d01s05_671a7ca9:
 
     # mct "What's this CamTubePortal? C'mon close already!"
-    mct "这个CamTube网站是干什么的？给点力啊，就快关上了！"
+    mct "这个“在线美女直播”网站是干什么的？给点力啊，就快关上了！"
 
 # game/code/d01/s05.rpy:560
 translate chinese replay_d01s05_47d685c3:
