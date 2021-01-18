@@ -663,3 +663,11 @@ translate portuguese d02s08_82c27cdb:
     # mc "Without knowing what it is?!"
     mc "Without knowing what it is?!"
 
+# TODO: Translation updated at 2021-01-18 23:30
+
+# game/code/d02/s08.rpy:54
+translate portuguese d02s08_a5d6c8c8:
+
+    # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+

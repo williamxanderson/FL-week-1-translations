@@ -1132,3 +1132,15 @@ translate portuguese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia o errors.txt arquivo para a área de transferência como Markdown para o Discord."
 
+# TODO: Translation updated at 2021-01-18 23:30
+
+translate portuguese strings:
+
+    # renpy/common/00preferences.rpy:282
+    old "joystick..."
+    new "joystick..."
+
+    # renpy/common/00preferences.rpy:289
+    old "skip"
+    new "skip"
+
