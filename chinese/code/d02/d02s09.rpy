@@ -388,7 +388,7 @@ translate chinese d02s09_834836ea:
 translate chinese d02s09_3e8e55da:
 
     # mc "Yeah! Exactly! Sex sells!"
-    mc "对啊！没错！"性"是卖点！"
+    mc "对啊！没错！\"性\"是卖点！"
 
 # game/code/d02/d02s09.rpy:160
 translate chinese d02s09_f2d314d2:
