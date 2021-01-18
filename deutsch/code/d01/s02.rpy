@@ -1675,3 +1675,23 @@ translate deutsch d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "Und guck sie dir jetzt an. Sind sie wieder zusammen?"
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d01/s02.rpy:273
+translate deutsch d01s02_91e0cd29_1:
+
+    # mct "Let's try to listen to the lecture."
+    mct "Let's try to listen to the lecture."
+
+# game/code/d01/s02.rpy:319
+translate deutsch replay_d01s02_d4c74386:
+
+    # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+
+# game/code/d01/s02.rpy:416
+translate deutsch replay_d01s02_e52ed3fc:
+
+    # mct "Is he gonna finish now?!"
+    mct "Is he gonna finish now?!"
+

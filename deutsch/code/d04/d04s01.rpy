@@ -665,3 +665,11 @@ translate deutsch d04s01_69263aea:
     # mc "What would your boyfriend say about that?"
     mc "Was würde denn dein Freund dazu sagen?"
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d04/d04s01.rpy:95
+translate deutsch d04s01_0746823b:
+
+    # mes "Is someone sleeping in my bushes?"
+    mes "Is someone sleeping in my bushes?"
+

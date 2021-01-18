@@ -853,3 +853,11 @@ translate deutsch d04s03_end_6434dfd2:
     # mc "Ugh..."
     mc "Ugh..."
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d04/d04s03.rpy:65
+translate deutsch d04s03_9be2bfa9:
+
+    # sy "It's kind of a long story."
+    sy "It's kind of a long story."
+

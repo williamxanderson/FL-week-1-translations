@@ -129,3 +129,11 @@ translate deutsch coming_next_7c16ea83:
 
     # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "Und ich bin sicher er wird gerne mehr spielen, sobald die zweite Woche 2021 veröffentlicht wird!"
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/labels.rpy:203
+translate deutsch buzz_4377a2f7:
+
+    # "Bzzzzz" with hpunch
+    "Bzzzzz" with hpunch
+

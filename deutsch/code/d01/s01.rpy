@@ -780,3 +780,11 @@ translate deutsch d01s01_shower_a49ed4f8:
 
     # mc "Okay."
     mc "Okay."
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d01/s01.rpy:66
+translate deutsch d01s01_dc5dd433:
+
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+

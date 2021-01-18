@@ -705,3 +705,23 @@ translate deutsch strings:
     # game/code/d07/d07s04pw.rpy:188
     old "Weird. Not bad, just very strange"
     new "Seltsam. Nicht schlecht, einfach komisch."
+# TODO: Translation updated at 2021-01-18 23:41
+
+translate deutsch strings:
+
+    # game/code/d07/d07s04pw.rpy:161
+    old "Sure, it could be fun to try something new"
+    new "Sure, it could be fun to try something new"
+
+    # game/code/d07/d07s04pw.rpy:161
+    old "No. I am NOT interested in that"
+    new "No. I am NOT interested in that"
+
+    # game/code/d07/d07s04pw.rpy:210
+    old "Terrific. I'm hard as fuck"
+    new "Terrific. I'm hard as fuck"
+
+    # game/code/d07/d07s04pw.rpy:210
+    old "Relaxing... too relaxing... oh, crap"
+    new "Relaxing... too relaxing... oh, crap"
+
