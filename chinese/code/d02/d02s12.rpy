@@ -250,7 +250,7 @@ translate chinese replay_d02s12_3995d758:
 translate chinese replay_d02s12_2d325fcd:
 
     # pw "Oh... {w}You sad little thing."
-    pw "噢……w}你这个小可怜。"
+    pw "噢……{w}你这个小可怜。"
 
 # game/code/d02/d02s12.rpy:244
 translate chinese replay_d02s12_68f8459e:
