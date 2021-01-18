@@ -58,7 +58,7 @@ translate chinese d02s06_b3ad3221:
 translate chinese d02s06_8d8849ac:
 
     # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "不知她有没有注意到我昨天射她身上了……如果她发现了，就会很尴尬……"
+    mct "不知她有没有注意到我昨天射她身上了……如果她发现了，就会很尴尬..."
 
 # game/code/d02/s06.rpy:54
 translate chinese d02s06_f11ce5d8:
@@ -286,7 +286,7 @@ translate chinese d02s06_181f9e16:
 translate chinese d02s06_03c5dbf6:
 
     # fl "Today will be about girls! Fetish of the day is ..."
-    fl "今天的主题是女生！今日性趣是……"
+    fl "今天的主题是女生！今日性趣是..."
 
 # game/code/d02/s06.rpy:146
 translate chinese d02s06_e52bd013:
@@ -436,7 +436,7 @@ translate chinese d02s06_c9dc21ba:
 translate chinese d02s06_e7baac27:
 
     # mc "Let's see how to do that..."
-    mc "我看看怎么搞啊……"
+    mc "我看看怎么搞啊..."
 
 # game/code/d02/s06.rpy:208
 translate chinese d02s06_2514821a:
@@ -586,7 +586,7 @@ translate chinese d02s06_18c1cbff:
 translate chinese d02s06_e654802c:
 
     # mc "({i}And what the fuck is this with banana? I hope it is just to recognize me from a random person...{/i})"
-    mc "({i}还有，拿香蕉是要搞什么？希望这只是为了从人群中认出我……{/i})"
+    mc "({i}还有，拿香蕉是要搞什么？希望这只是为了从人群中认出我...{/i})"
 
 # game/code/d02/s06.rpy:266
 translate chinese d02s06_c1d164ba:
@@ -694,7 +694,7 @@ translate chinese d02s06_cdf56ffd:
 translate chinese d02s06_06c64dd8:
 
     # mct "Sitting here won't get me any points..."
-    mct "坐在这里也不会有点数的……"
+    mct "坐在这里也不会有点数的..."
 
 # game/code/d02/s06.rpy:305
 translate chinese d02s06_618be91c:
@@ -748,7 +748,7 @@ translate chinese d02s06_c7ff8a2f:
 translate chinese d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
-    "[mcname]正在去食堂的路上……{w}他突然看到……"
+    "[mcname]正在去食堂的路上...{w}他突然看到..."
 
 # game/code/d02/s06.rpy:330
 translate chinese d02s06_354c4361:
