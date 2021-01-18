@@ -28,7 +28,7 @@ translate chinese d02s09_5e0cf59a:
 translate chinese d02s09_5d8c50ed:
 
     # mct "It looks nice, but a bit empty. There is only a single customer..."
-    mct "这里看起来不错，但有点空。只有一个客人……"
+    mct "这里看起来不错，但有点空。只有一个客人..."
 
 # game/code/d02/d02s09.rpy:35
 translate chinese d02s09_4170b5f5:
@@ -274,7 +274,7 @@ translate chinese d02s09_d4459c92:
 translate chinese d02s09_40a9026c:
 
     # nk "There are only students around here. You guys aren't rich, and don't buy much coffee..."
-    nk "这附近只有学生。你们又不是有钱人，又不怎么买咖啡……"
+    nk "这附近只有学生。你们又不是有钱人，又不怎么买咖啡..."
 
 # game/code/d02/d02s09.rpy:120
 translate chinese d02s09_fc99f99e:
@@ -430,7 +430,7 @@ translate chinese d02s09_8303687a:
 translate chinese d02s09_a9473033:
 
     # nk "Yeah, right. {w}And I would have to pay you? {w}Duh! I have no money to spare..."
-    nk "好啊。{w}我该怎么给你钱呢？{w}呃！我没有多余的钱……"
+    nk "好啊。{w}我该怎么给你钱呢？{w}呃！我没有多余的钱..."
 
 # game/code/d02/d02s09.rpy:175
 translate chinese d02s09_84b01c26:
@@ -460,7 +460,7 @@ translate chinese d02s09_87a9b2ca:
 translate chinese d02s09_9a6dd376:
 
     # nk "Wow! Yeah I thought so. {w}I'm flattered and it has been a while...{w} Maybe even a long time... {w}And you are kind of cute! But I don’t do ..."
-    nk "哇！我就是这么想的。{w}我被困扰已经有一段时间了……{w}也许是很久了……{w}你还挺可爱的! 但我无以……"
+    nk "哇！我就是这么想的。{w}我被困扰已经有一段时间了...{w}也许是很久了...{w}你还挺可爱的! 但我无以..."
 
 # game/code/d02/d02s09.rpy:184
 translate chinese d02s09_dfd57158:
@@ -472,7 +472,7 @@ translate chinese d02s09_dfd57158:
 translate chinese d02s09_d85fec4f:
 
     # nk "Oh... {w}I thought you were."
-    nk "哦……{w}我以为你就是这样想的。"
+    nk "哦...{w}我以为你就是这样想的。"
 
 # game/code/d02/d02s09.rpy:190
 translate chinese d02s09_c3b77525:
@@ -574,5 +574,5 @@ translate chinese d02s09_40c81ab7:
 translate chinese d02s09_3e062af3:
 
     # nkt "I need to think about this..."
-    nkt "我需要考虑一下……"
+    nkt "我需要考虑一下..."
 
