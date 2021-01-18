@@ -124,13 +124,13 @@ translate chinese replay_d02s11a_5d541604:
 translate chinese replay_d02s11a_afed06a9:
 
     # nkt "No one had ever touched me like this... {w}before ..."
-    nkt "从来没有人这样抚摸过我... {w}从来没有过..."
+    nkt "从来没有人这样抚摸过我...{w}从来没有过..."
 
 # game/code/d02/d02s11a.rpy:143
 translate chinese replay_d02s11a_b27ea231:
 
     # pwt "I know you're not into girls, I'm gonna change that... {w}and you'll love it."
-    pwt "我知道你不喜欢女孩，我会改变这一点... {w}你会迷上的。"
+    pwt "我知道你不喜欢女孩，我会改变这一点...{w}你会迷上的。"
 
 # game/code/d02/d02s11a.rpy:157
 translate chinese replay_d02s11a_db64f897:
@@ -202,13 +202,13 @@ translate chinese replay_d02s11a_a0c93461:
 translate chinese replay_d02s11a_9c96da1c:
 
     # nk "Yes! Don't worry."
-    nk "嗯？啊！ 别担心。"
+    nk "嗯？啊！别担心。"
 
 # game/code/d02/d02s11a.rpy:233
 translate chinese replay_d02s11a_fbc435bb:
 
     # nkt "Who was that? {w}I'm so confused. {w}It was nice though... {w}I need that again."
-    nkt 是谁呢？{w}我太困惑了。{w}不过感觉太棒了... {w}我需要再来一次。"
+    nkt "是谁呢？{w}我搞不懂了。{w}不过感觉太棒了……{w}我需要再来一次。"
 
 # game/code/d02/d02s11a.rpy:234
 translate chinese replay_d02s11a_5f34dcb0:
