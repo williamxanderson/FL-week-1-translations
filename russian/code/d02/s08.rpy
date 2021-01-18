@@ -49,11 +49,11 @@ translate russian d02s08_72e19a6d:
     mct "Где же она?"
 
 # game/code/d02/s08.rpy:54
-translate russian d02s08_b0661108:
+translate russian d02s08_a5d6c8c8:
 
-    # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
     mct "Я жду здесь девушку, которую не знаю, которая должна прийти и дать мне попробовать ее киску... {w} Когда я думаю об этом - это так безумно!"
-
+    
 # game/code/d02/s08.rpy:56
 translate russian d02s08_e27f8da1:
 
@@ -631,4 +631,3 @@ translate russian strings:
     # game/code/d02/s08.rpy:185
     old "Make a counteroffer"
     new "Сделать встречное предложение"
-
