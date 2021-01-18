@@ -1124,3 +1124,17 @@ translate turkish strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
 
+# TODO: Translation updated at 2021-01-19 00:06
+
+# game/code/d01/s02.rpy:94
+translate turkish d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "A couple weeks ago they still hated each other"
+
+# game/code/d01/s02.rpy:96
+translate turkish d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "Look at them now. Are they dating again?"
+
