@@ -796,3 +796,11 @@ translate french strings:
     old "Move on the conversation"
     new "Move on the conversation"
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d04/d04s03.rpy:65
+translate french d04s03_9be2bfa9:
+
+    # sy "It's kind of a long story."
+    sy "It's kind of a long story."
+

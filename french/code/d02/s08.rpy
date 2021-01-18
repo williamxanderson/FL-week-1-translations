@@ -632,3 +632,11 @@ translate french strings:
     old "Make a counteroffer"
     new "Make a counteroffer"
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d02/s08.rpy:54
+translate french d02s08_a5d6c8c8:
+
+    # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+

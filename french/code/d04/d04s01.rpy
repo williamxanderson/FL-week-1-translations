@@ -582,3 +582,11 @@ translate french d04s01_16d522f3:
     # mes "(whisper) I bet she is."
     mes "(whisper) I bet she is."
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+# game/code/d04/d04s01.rpy:95
+translate french d04s01_0746823b:
+
+    # mes "Is someone sleeping in my bushes?"
+    mes "Is someone sleeping in my bushes?"
+
