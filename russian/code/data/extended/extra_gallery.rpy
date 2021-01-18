@@ -154,3 +154,31 @@ translate russian strings:
     old "Day 7: AmRose"
     new "День 7: АмРоуз"
 
+# TODO: Translation updated at 2021-01-18 23:56
+
+translate russian strings:
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Stacy in hell"
+    new "Stacy in hell"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Disappoint Stacy"
+    new "Disappoint Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Stacy"
+    new "Halloween Bonus - Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Special"
+    new "Halloween Special"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Jessie"
+    new "Halloween Bonus - Jessie"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Samiya"
+    new "Halloween Bonus - Samiya"
+

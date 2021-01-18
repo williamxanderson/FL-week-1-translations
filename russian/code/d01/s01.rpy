@@ -762,3 +762,11 @@ translate russian strings:
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Скажи ей, что это девушка Пита, и ты понятия не имел, что она в комнате"
 
+# TODO: Translation updated at 2021-01-18 23:56
+
+# game/code/d01/s01.rpy:66
+translate russian d01s01_dc5dd433:
+
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+
