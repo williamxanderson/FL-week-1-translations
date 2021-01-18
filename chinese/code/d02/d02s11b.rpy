@@ -70,7 +70,7 @@ translate chinese d02s11b_2d6b93d8:
 translate chinese d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "那位迪克先生有点恐血。就算是为了我，他也不想\"浴血奋战\" 。即使是软件的挑战也不行。"
+    mes "那位迪克先生有点恐血。就算是为了我，他也不想\"浴血奋战\" 。{w}即使是软件的挑战也不行。"
 
 # game/code/d02/d02s11b.rpy:77
 translate chinese d02s11b_432f3c5e:
