@@ -1639,3 +1639,17 @@ translate italian d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "E ora guardali. Si saranno rimessi insieme?"
+# TODO: Translation updated at 2021-01-18 23:09
+
+# game/code/d01/s02.rpy:319
+translate italian replay_d01s02_d4c74386:
+
+    # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+
+# game/code/d01/s02.rpy:416
+translate italian replay_d01s02_e52ed3fc:
+
+    # mct "Is he gonna finish now?!"
+    mct "Is he gonna finish now?!"
+

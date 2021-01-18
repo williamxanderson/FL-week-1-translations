@@ -773,3 +773,11 @@ translate italian strings:
     # game/code/d01/s01.rpy:243
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Le dici che lei era la ragazza di Pete e che non avevi alcuna idea che fosse in camera"
+    
+# TODO: Translation updated at 2021-01-18 23:09
+
+# game/code/d01/s01.rpy:66
+translate italian d01s01_dc5dd433:
+
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "She looks like an interesting person... {w}I would love to date a girl like her."
