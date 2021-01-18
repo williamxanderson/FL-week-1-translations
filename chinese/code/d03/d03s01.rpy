@@ -58,13 +58,13 @@ translate chinese d03s01_b1ca3a85:
 translate chinese d03s01_3f22d8e7:
 
     # "Girl" "Nice member you have there... {w}although you could use some exercise."
-    "女孩" "你的家伙不错……{w}不过你可以多做一些运动。"
+    "女孩" "你的家伙不错...{w}不过你可以多做一些运动。"
 
 # game/code/d03/d03s01.rpy:113
 translate chinese d03s01_7f3eaa8b:
 
     # mc "Ummm... Okay..."
-    mc "呃……好吧……"
+    mc "呃...好吧..."
 
 # game/code/d03/d03s01.rpy:116
 translate chinese d03s01_b52f46b1:
@@ -88,7 +88,7 @@ translate chinese d03s01_a20cefa7:
 translate chinese d03s01_700f3c09:
 
     # mct "That is a bit awkward..."
-    mct "这有点尴尬……"
+    mct "这有点尴尬..."
 
 # game/code/d03/d03s01.rpy:123
 translate chinese d03s01_5727570e:
@@ -136,13 +136,13 @@ translate chinese d03s01_b1ca3a85_1:
 translate chinese d03s01_c058846f:
 
     # "Girl" "Nice member you have there... {w}but you could use some exercise."
-    "女孩" "你的家伙不错……{w}不过你可以多做一些运动。"
+    "女孩" "你的家伙不错...{w}不过你可以多做一些运动。"
 
 # game/code/d03/d03s01.rpy:159
 translate chinese d03s01_ae0afd0d:
 
     # mc "Hmmm... Okay..."
-    mc "呃……好吧……"
+    mc "呃...好吧..."
 
 # game/code/d03/d03s01.rpy:161
 translate chinese d03s01_b52f46b1_1:
@@ -160,7 +160,7 @@ translate chinese d03s01_ee12be68_1:
 translate chinese d03s01_700f3c09_1:
 
     # mct "That is a bit awkward..."
-    mct "这有点尴尬……"
+    mct "这有点尴尬..."
 
 # game/code/d03/d03s01.rpy:166
 translate chinese d03s01_5727570e_1:
@@ -190,7 +190,7 @@ translate chinese d03s01_09d55382:
 translate chinese d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "我有……其实我是要去锻炼的。"
+    mc "我有...其实我是要去锻炼的。"
 
 # game/code/d03/d03s01.rpy:175
 translate chinese d03s01_2a4cbe22:
@@ -202,25 +202,25 @@ translate chinese d03s01_2a4cbe22:
 translate chinese d03s01_baecf7a9:
 
     # mc "Because you are watching..."
-    mc "因为你在看……"
+    mc "因为你在看..."
 
 # game/code/d03/d03s01.rpy:179
 translate chinese d03s01_c048ea5c:
 
     # dd "Oh, are you shy? I just saw it..."
-    dd "哦，你害羞了吗？我刚才看见了……"
+    dd "哦，你害羞了吗？我刚才看见了..."
 
 # game/code/d03/d03s01.rpy:181
 translate chinese d03s01_2d36a175:
 
     # dd "Oh, are you shy? I just touched it..."
-    dd "哦，你害羞吗？我刚碰了一下……"
+    dd "哦，你害羞吗？我刚碰了一下..."
 
 # game/code/d03/d03s01.rpy:183
 translate chinese d03s01_84f16542:
 
     # mc "Okay..."
-    mc "好吧……"
+    mc "好吧..."
 
 # game/code/d03/d03s01.rpy:190
 translate chinese d03s01_14c428cc:
@@ -250,7 +250,7 @@ translate chinese d03s01_2d6ec08b:
 translate chinese d03s01_11d18100:
 
     # dd "Let me think... {w} ...{w} ..."
-    dd "让我想想……{w}……{w}……"
+    dd "让我想想...{w}...{w}..."
 
 # game/code/d03/d03s01.rpy:202
 translate chinese d03s01_a6be913e:
@@ -274,7 +274,7 @@ translate chinese d03s01_8e3ebfc5:
 translate chinese d03s01_009b7b33:
 
     # mct "C'mon... What the fuck?"
-    mct "不是吧……搞什么？"
+    mct "不是吧...搞什么？"
 
 # game/code/d03/d03s01.rpy:209
 translate chinese d03s01_206217a3:
@@ -346,13 +346,13 @@ translate chinese d03s01_329073c7:
 translate chinese d03s01_109df485:
 
     # mc "Sure, I have a PE class will meet you there around 12"
-    mc "好啊，我有一节体育课，12点左右在那里等你"
+    mc "好啊，我有一节体育课，12点左右在那里等你。"
 
 # game/code/d03/d03s01.rpy:239
 translate chinese d03s01_2f738976:
 
     # mct "Seems like AmRose is not mad at me anymore..."
-    mct "好像爱洛丝不生我的气了……"
+    mct "好像爱洛丝不生我的气了..."
 
 translate chinese strings:
 
