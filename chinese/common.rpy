@@ -1142,3 +1142,11 @@ translate chinese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "将errors.txt文件作为Markdown 复制剪贴板到Discord上."
 
+# TODO: Translation updated at 2021-01-18 23:41
+
+translate chinese strings:
+
+    # renpy/common/00preferences.rpy:441
+    old "font line spacing"
+    new "font line spacing"
+
