@@ -474,3 +474,65 @@ translate spanish replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "¡Suena bien!"
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d06/extended/d06s11.rpy:9
+translate spanish replay_d06s11_63f85ad4:
+
+    # jf "Okay, so... try to keep an open mind."
+    jf "Okay, so... try to keep an open mind."
+
+# game/code/d06/extended/d06s11.rpy:24
+translate spanish replay_d06s11_fe5eabaa:
+
+    # mc "I was in this very room, but it was with different people..."
+    mc "I was in this very room, but it was with different people..."
+
+# game/code/d06/extended/d06s11.rpy:55
+translate spanish replay_d06s11_1756b85b:
+
+    # jf "Did this room have a photo studio in it before? I don't think so!"
+    jf "Did this room have a photo studio in it before? I don't think so!"
+
+# game/code/d06/extended/d06s11.rpy:64
+translate spanish replay_d06s11_e31b60f1:
+
+    # jf "Ah, and you can see here some of my best pictures!"
+    jf "Ah, and you can see here some of my best pictures!"
+
+# game/code/d06/extended/d06s11.rpy:70
+translate spanish replay_d06s11_86951418:
+
+    # jf "Simple. The offer was too good, and so I had money to make the next one!"
+    jf "Simple. The offer was too good, and so I had money to make the next one!"
+
+# game/code/d06/extended/d06s11.rpy:75
+translate spanish replay_d06s11_96734081:
+
+    # mct "She's clearly in love with cosplay!"
+    mct "She's clearly in love with cosplay!"
+
+# game/code/d06/extended/d06s11.rpy:127
+translate spanish replay_d06s11_ce49efb1:
+
+    # jf "Some of my best assets for survival haven't been weapons."
+    jf "Some of my best assets for survival haven't been weapons."
+
+# game/code/d06/extended/d06s11.rpy:178
+translate spanish replay_d06s11_c031ec07:
+
+    # mc "Oh, I got [d06s11_points] points for your pictures!"
+    mc "Oh, I got [d06s11_points] points for your pictures!"
+
+# game/code/d06/extended/d06s11.rpy:180
+translate spanish replay_d06s11_d07f8876:
+
+    # fl "You earned some points!"
+    fl "You earned some points!"
+
+# game/code/d06/extended/d06s11.rpy:181
+translate spanish replay_d06s11_ec6811a0:
+
+    # mc "Damn, I just saw the time! I've gotta go. There's a concert."
+    mc "Damn, I just saw the time! I've gotta go. There's a concert."
+

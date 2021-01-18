@@ -972,3 +972,11 @@ translate spanish replay_d06s03k_2b35b6fe:
     # mc "..."
     mc "..."
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d06/d06s03.rpy:425
+translate spanish replay_d06s03k_dfa8b32f:
+
+    # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
+    mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
+

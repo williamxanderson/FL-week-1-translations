@@ -798,3 +798,29 @@ translate spanish strings:
     old "Don't show him that pic"
     new "No le muestres esa foto"
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d03/d03s05.rpy:27
+translate spanish d03s05_55f2f8d3:
+
+    # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+    mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+
+# game/code/d03/d03s05.rpy:73
+translate spanish d03s05_b10de45f:
+
+    # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+    kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+
+# game/code/d03/d03s05.rpy:107
+translate spanish d03s05_f2650af8:
+
+    # kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
+    kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
+
+# game/code/d03/d03s05.rpy:171
+translate spanish d03s05_4625af52:
+
+    # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+

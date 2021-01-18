@@ -978,3 +978,11 @@ translate spanish strings:
     old "That is enough"
     new "Es suficiente"
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d07/d07s04mh.rpy:225
+translate spanish replay_d07s04mh_80a1113c:
+
+    # mc "Don't know, but it should be a fair number of points!"
+    mc "Don't know, but it should be a fair number of points!"
+

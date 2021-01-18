@@ -884,3 +884,23 @@ translate spanish strings:
     old "Don't go to AmRose and try to earn some points"
     new "No ir donde AmRose e intentar ganar unos puntos"
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d01/s04.rpy:141
+translate spanish s04_5ea01134:
+
+    # mc "Thanks! We'll finish this a lot quicker together."
+    mc "Thanks! We'll finish this a lot quicker together."
+
+# game/code/d01/s04.rpy:251
+translate spanish s04_5bfce982:
+
+    # sy "What if I'd been doing it naked? Would you still watch me?"
+    sy "What if I'd been doing it naked? Would you still watch me?"
+
+# game/code/d01/s04.rpy:331
+translate spanish replay_d01s04_ad5ec6e0:
+
+    # mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
+    mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
+

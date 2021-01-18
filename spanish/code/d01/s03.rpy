@@ -1065,3 +1065,35 @@ translate spanish strings:
     # game/code/d01/s03.rpy:316
     old "Push her to return the porn to you"
     new "Obligarla a que te devuelva el porno"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d01/s03.rpy:152
+translate spanish s03_e0d4ae87:
+
+    # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+
+# game/code/d01/s03.rpy:154
+translate spanish s03_512c71de:
+
+    # mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "What's this about the points in the app? There was a message that someone won 25 points."
+
+# game/code/d01/s03.rpy:179
+translate spanish s03_71858fb4:
+
+    # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+    mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+
+# game/code/d01/s03.rpy:209
+translate spanish s03_f549b1a7:
+
+    # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+    mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+
+# game/code/d01/s03.rpy:349
+translate spanish s03_7dbb8e20:
+
+    # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+    mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+

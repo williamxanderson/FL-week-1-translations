@@ -222,3 +222,11 @@ translate spanish strings:
     old "Enjoy the rimjob"
     new "Disfruta del beso negro"
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+translate spanish strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 5: URLittlePony"
+    new "Day 5: URLittlePony"
+

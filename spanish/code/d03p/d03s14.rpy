@@ -684,3 +684,11 @@ translate spanish replay_d03s14_e15b25a7:
     # mct "I need to go find some release... or a cold shower..."
     mct "necesito ir a buscar alguna liberación... o una ducha fría..."
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d03p/d03s14.rpy:94
+translate spanish replay_d03s14_83071273:
+
+    # mkfl "You being straight! Have you never even experimented with a girl?!"
+    mkfl "You being straight! Have you never even experimented with a girl?!"
+

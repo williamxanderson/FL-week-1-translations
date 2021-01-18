@@ -1138,3 +1138,29 @@ translate spanish d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "Míralos ahora. ¿Están saliendo de nuevo?"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d01/s02.rpy:274
+translate spanish d01s02_025dccec:
+
+    # "A couple minutes later."
+    "A couple minutes later."
+
+# game/code/d01/s02.rpy:319
+translate spanish replay_d01s02_d4c74386:
+
+    # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+
+# game/code/d01/s02.rpy:416
+translate spanish replay_d01s02_e52ed3fc:
+
+    # mct "Is he gonna finish now?!"
+    mct "Is he gonna finish now?!"
+
+# game/code/d01/s02.rpy:506
+translate spanish replay_d01s02_84d4c479:
+
+    # mct "I hope I can walk out of class without someone noticing my hard dick."
+    mct "I hope I can walk out of class without someone noticing my hard dick."
+

@@ -576,3 +576,17 @@ translate spanish d02s09_3e062af3:
     # nkt "I need to think about this..."
     nkt "Necesito pensarlo..."
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d02/d02s09.rpy:172
+translate spanish d02s09_f2d314d2:
+
+    # nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+    nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+
+# game/code/d02/d02s09.rpy:235
+translate spanish d02s09_00b1d252:
+
+    # mc "Then you miss out on this opportunity and won't get my help with your business."
+    mc "Then you miss out on this opportunity and won't get my help with your business."
+

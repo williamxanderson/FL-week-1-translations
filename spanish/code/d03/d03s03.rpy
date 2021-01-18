@@ -615,3 +615,35 @@ translate spanish strings:
     # game/code/d03/d03s03.rpy:207
     old "Just let them be caught by Miss Waller"
     new "Deja que los atrape la Srta. Waller"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d03/d03s03.rpy:86
+translate spanish replay_d03s03_9c82f225:
+
+    # mct "Although I was so groggy from the meds and being sick, I could have jerked off in my soup and not remembered it."
+    mct "Although I was so groggy from the meds and being sick, I could have jerked off in my soup and not remembered it."
+
+# game/code/d03/d03s03.rpy:180
+translate spanish replay_d03s03a_bbe7b2c5:
+
+    # mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
+    mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
+
+# game/code/d03/d03s03.rpy:181
+translate spanish replay_d03s03a_666716d9:
+
+    # mct "Did something change with her? Or is this Fetish Locator's influence?"
+    mct "Did something change with her? Or is this Fetish Locator's influence?"
+
+# game/code/d03/d03s03.rpy:269
+translate spanish replay_d03s03a_001815b5:
+
+    # zw "What the hell do you think you're doing?!"
+    zw "What the hell do you think you're doing?!"
+
+# game/code/d03/d03s03.rpy:291
+translate spanish replay_d03s03a_5dddfad8:
+
+    # kb "Did she leave?"
+    kb "Did she leave?"
+

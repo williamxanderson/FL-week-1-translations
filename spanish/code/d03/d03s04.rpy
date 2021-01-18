@@ -1056,3 +1056,11 @@ translate spanish strings:
     old "I am curious"
     new "Tengo curiosidad"
     
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d03/d03s04.rpy:105
+translate spanish d03s04_4a64aca4:
+
+    # "12:25 PM"
+    "12:25 PM"
+

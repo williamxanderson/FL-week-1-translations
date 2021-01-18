@@ -189,3 +189,11 @@ translate spanish strings:
     #game/code/d01/s02.rpy:232
     old "What is your name in Fetish Locator app?"
     new "¿Cómo te llamas en la aplicación Fetish Locator?"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/labels.rpy:60
+translate spanish failed_mp_cd72322d:
+
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+

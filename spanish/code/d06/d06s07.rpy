@@ -1213,3 +1213,11 @@ translate spanish strings:
     # game/code/d06/d06s07.rpy:209
     old "Creampie without warning"
     new "Creampie sin previo aviso"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d06/d06s07.rpy:26
+translate spanish d06s07_22bb9788:
+
+    # lc "Thanks! It is [mcname] who made all of this happen!"
+    lc "Thanks! It is [mcname] who made all of this happen!"
+

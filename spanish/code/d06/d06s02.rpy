@@ -341,3 +341,11 @@ translate spanish d06s02_a81d71ef:
 
     # sy "Sooooo sexy, you ass!"
     sy "¡Muuuy sexy, tu culo!"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d06/d06s02.rpy:38
+translate spanish d06s02_b7ef2e2e:
+
+    # mct "Stacy is in the shower..."
+    mct "Stacy is in the shower..."
+

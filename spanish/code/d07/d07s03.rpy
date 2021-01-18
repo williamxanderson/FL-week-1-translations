@@ -294,3 +294,23 @@ translate spanish d07s03_80956c5e:
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "Tal vez este es un buen momento para encontrar a Lyssa y Vanessa."
 
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d07/d07s03.rpy:91
+translate spanish d07s03_a990ded7:
+
+    # arj "Did you even see the kayaking competition last year?"
+    arj "Did you even see the kayaking competition last year?"
+
+# game/code/d07/d07s03.rpy:92
+translate spanish d07s03_1c8e118c:
+
+    # mc "I was here, but I don't remember the competition itself."
+    mc "I was here, but I don't remember the competition itself."
+
+# game/code/d07/d07s03.rpy:96
+translate spanish d07s03_5a6fbbce:
+
+    # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
+    arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
+

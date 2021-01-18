@@ -245,3 +245,17 @@ translate spanish replay_d03s10b_6f7c9d3d:
 
     # mct "Oh well, what is that noise?"
     mct "Oh bueno, ¿qué es ese ruido?"
+# TODO: Translation updated at 2021-01-18 23:42
+
+# game/code/d03p/extended/d03s10b.rpy:120
+translate spanish replay_d03s10b_4d7b6fdd:
+
+    # mct "Wow - she's almost ready to cum."
+    mct "Wow - she's almost ready to cum."
+
+# game/code/d03p/extended/d03s10b.rpy:134
+translate spanish replay_d03s10b_bf5b873e:
+
+    # mc "Did you like that?"
+    mc "Did you like that?"
+
