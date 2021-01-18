@@ -762,3 +762,11 @@ translate dutch strings:
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Tell her it is Pete's girl and you had no idea she was in the room"
 
+# TODO: Translation updated at 2021-01-19 00:04
+
+# game/code/d01/s01.rpy:66
+translate dutch d01s01_dc5dd433:
+
+    # mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+

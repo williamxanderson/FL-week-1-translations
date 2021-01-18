@@ -1118,3 +1118,35 @@ translate dutch strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
 
+# TODO: Translation updated at 2021-01-19 00:04
+
+# game/code/d01/s02.rpy:92
+translate dutch d01s02_ccff9ce5:
+
+    # mct "They broke up over the winter break..."
+    mct "They broke up over the winter break..."
+
+# game/code/d01/s02.rpy:94
+translate dutch d01s02_ad0fa766:
+
+    # mct "A couple weeks ago they still hated each other"
+    mct "A couple weeks ago they still hated each other"
+
+# game/code/d01/s02.rpy:96
+translate dutch d01s02_f3e611a0:
+
+    # mct "Look at them now. Are they dating again?"
+    mct "Look at them now. Are they dating again?"
+
+# game/code/d01/s02.rpy:319
+translate dutch replay_d01s02_d4c74386:
+
+    # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+
+# game/code/d01/s02.rpy:416
+translate dutch replay_d01s02_e52ed3fc:
+
+    # mct "Is he gonna finish now?!"
+    mct "Is he gonna finish now?!"
+

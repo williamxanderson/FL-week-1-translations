@@ -166,3 +166,31 @@ translate dutch strings:
     old "Day 7: AmRose"
     new "Day 7: AmRose"
 
+# TODO: Translation updated at 2021-01-19 00:04
+
+translate dutch strings:
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Stacy in hell"
+    new "Stacy in hell"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Disappoint Stacy"
+    new "Disappoint Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Stacy"
+    new "Halloween Bonus - Stacy"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Special"
+    new "Halloween Special"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Jessie"
+    new "Halloween Bonus - Jessie"
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Halloween Bonus - Samiya"
+    new "Halloween Bonus - Samiya"
+
