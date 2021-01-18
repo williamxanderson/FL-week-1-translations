@@ -202,7 +202,7 @@ translate chinese d02s10_81ec9765:
 translate chinese d02s10_ef629249:
 
     # mct "Hmm, CamTubePortal... {w}well this one is new to me."
-    mct "嗯，在线美女直播……{w}哦，这好像是个新玩意儿。"
+    mct "嗯，在线美女直播...{w}哦，这好像是个新玩意儿。"
 
 # game/code/d02/d02s10.rpy:199
 translate chinese d02s10_8c6c2132:
@@ -232,7 +232,7 @@ translate chinese d02s10_39515aae:
 translate chinese d02s10_0bb04066:
 
     # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
-    mct "不是说我觉得爱洛丝很有魅力……{w}这个直播也不怎么样。"
+    mct "不是说我觉得爱洛丝很有魅力...{w}这个直播也不怎么样。"
 
 # game/code/d02/d02s10.rpy:243
 translate chinese d02s10_73d1f4ff:
@@ -346,7 +346,7 @@ translate chinese d02s10_015d20de:
 translate chinese d02s10_e01aaeca:
 
     # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
-    mct "斯奎兹……{w}是不是……{w}对了，那是明的用户名。"
+    mct "斯奎兹...{w}是不是...{w}对了，那是明的用户名。"
 
 # game/code/d02/d02s10.rpy:286
 translate chinese d02s10_cacb2632:
@@ -454,7 +454,7 @@ translate chinese d02s10_57a81f8b:
 translate chinese d02s10_58714ac6:
 
     # mct "I would love to see how far AmRose will go with her stream..."
-    mct "我很想看看爱洛丝的直播会到什么程度……"
+    mct "我很想看看爱洛丝的直播会到什么程度..."
 
 # game/code/d02/d02s10.rpy:319
 translate chinese d02s10_d5f9896f:
@@ -472,7 +472,7 @@ translate chinese d02s10_ed4c984e:
 translate chinese d02s10_a0421dca:
 
     # "A few hours later ..."
-    "几个小时后……"
+    "几个小时后..."
 
 # game/code/d02/d02s10.rpy:341
 translate chinese d02s10_f1a5f9e3:
