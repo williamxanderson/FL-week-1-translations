@@ -28,7 +28,7 @@ translate chinese d03s01_9f19103a:
 translate chinese d03s01_98655270:
 
     # "Girl" "Hmmm nice!"
-    "女孩" "Hmmm 好哎！"
+    "女孩" "Hmmm 不错哎！"
 
 # game/code/d03/d03s01.rpy:99
 translate chinese d03s01_9dd77b75:
@@ -52,7 +52,7 @@ translate chinese d03s01_b12c952f:
 translate chinese d03s01_b1ca3a85:
 
     # mct "She is not bothered by me being awake."
-    mct "她不介意我醒着。"
+    mct "看来她不介意我醒着。"
 
 # game/code/d03/d03s01.rpy:111
 translate chinese d03s01_3f22d8e7:
@@ -112,7 +112,7 @@ translate chinese d03s01_9f19103a_1:
 translate chinese d03s01_98655270_1:
 
     # "Girl" "Hmmm nice!"
-    "女孩" "Hmmm 好哎！"
+    "女孩" "Hmmm 不错哎！"
 
 # game/code/d03/d03s01.rpy:151
 translate chinese d03s01_9dd77b75_1:
@@ -130,7 +130,7 @@ translate chinese d03s01_baa2b145_1:
 translate chinese d03s01_b1ca3a85_1:
 
     # mct "She is not bothered by me being awake."
-    mct "她不介意我醒着。"
+    mct "看来她不介意我醒着。"
 
 # game/code/d03/d03s01.rpy:157
 translate chinese d03s01_c058846f:
@@ -184,19 +184,19 @@ translate chinese d03s01_722fec82:
 translate chinese d03s01_09d55382:
 
     # dd "Don't you have a class or someplace you have to go?"
-    dd "你没有课要上或者什么地方要去吗？"
+    dd "你不用上课或者去什么地方吗？"
 
 # game/code/d03/d03s01.rpy:173
 translate chinese d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "我有...其实我是要去锻炼的。"
+    mc "我要的...其实我是要去锻炼的。"
 
 # game/code/d03/d03s01.rpy:175
 translate chinese d03s01_2a4cbe22:
 
     # dd "Oh good! Why aren't you getting up then?"
-    dd "那挺好啊！那你为什么还不起床？"
+    dd "挺好啊！那你为什么还不起床？"
 
 # game/code/d03/d03s01.rpy:176
 translate chinese d03s01_baecf7a9:
@@ -208,13 +208,13 @@ translate chinese d03s01_baecf7a9:
 translate chinese d03s01_c048ea5c:
 
     # dd "Oh, are you shy? I just saw it..."
-    dd "哦，你害羞了吗？我刚才看见了..."
+    dd "哦，你是害羞了吗？我刚才看见了..."
 
 # game/code/d03/d03s01.rpy:181
 translate chinese d03s01_2d36a175:
 
     # dd "Oh, are you shy? I just touched it..."
-    dd "哦，你害羞吗？我刚碰了一下..."
+    dd "哦，你是害羞了吗？我刚碰了一下..."
 
 # game/code/d03/d03s01.rpy:183
 translate chinese d03s01_84f16542:
@@ -238,7 +238,7 @@ translate chinese d03s01_0a017d92:
 translate chinese d03s01_7279eb68:
 
     # dd "You seem to have a ton of tension there. Don't you need to relieve it before going?"
-    dd "你看起来很紧张。不需要在走之前缓解一下吗？"
+    dd "你看起来很绷着。不需要在走之前缓解一下吗？"
 
 # game/code/d03/d03s01.rpy:199
 translate chinese d03s01_2d6ec08b:
@@ -256,7 +256,7 @@ translate chinese d03s01_11d18100:
 translate chinese d03s01_a6be913e:
 
     # mc "So?"
-    mc "想的怎么样了？"
+    mc "怎么样？"
 
 # game/code/d03/d03s01.rpy:203
 translate chinese d03s01_1ad5614e:
@@ -322,7 +322,7 @@ translate chinese d03s01_ca07b7af:
 translate chinese d03s01_4381bfed:
 
     # mc "Sure, I have a PE class and then I can meet you there!"
-    mc "当然，我还有一节体育课，然后我可以在那里等你！"
+    mc "当然了，我还有一节体育课，然后我可以在那里等你！"
 
 # game/code/d03/d03s01.rpy:232
 translate chinese d03s01_15558baa:
@@ -362,4 +362,4 @@ translate chinese strings:
 
     # game/code/d03/d03s01.rpy:196
     old "I'll be fine."
-    new "我不会有事的。"
+    new "我会没事的。"
