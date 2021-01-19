@@ -1118,34 +1118,34 @@ translate chinese strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "改变计划，去跟她看电影"
 
-# TODO: Translation updated at 2021-01-18 23:41
+# TODO: Translation updated at 2021-01-18 23:02
 
 # game/code/d01/s02.rpy:92
 translate chinese d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "They broke up over the winter break……"
+    mct "他们在寒假期间分手了……"
 
 # game/code/d01/s02.rpy:94
 translate chinese d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct "A couple weeks ago they still hated each other"
+    mct "几个星期前他们还在恨对方"
 
 # game/code/d01/s02.rpy:96
 translate chinese d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct "Look at them now. Are they dating again?"
+    mct "看他们现在的样子，是又在约会了吗？"
 
 # game/code/d01/s02.rpy:319
 translate chinese replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "你说得对，但别这么生气啦。我给你带了一部电影，你会喜欢的。"
 
 # game/code/d01/s02.rpy:416
 translate chinese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
+    mct "他现在要结束了吗?!"
