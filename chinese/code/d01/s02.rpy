@@ -58,13 +58,13 @@ translate chinese d01s02_ba17f776:
 translate chinese d01s02_3482a888:
 
     # am "...inaudible..."
-    am "...听不清的小声碎语..."
+    am "……听不清的小声碎语……"
 
 # game/code/d01/s02.rpy:118
 translate chinese d01s02_7ebd2479:
 
     # mct "Hmm... interesting... Looks like a lot has happened since I was here last."
-    mct "Hmm... 有趣……看来我不在的期间发生了许多事情。"
+    mct "Hmm…… 有趣……看来我不在的期间发生了许多事情。"
 
 # game/code/d01/s02.rpy:119
 translate chinese d01s02_331f710e:
@@ -75,8 +75,8 @@ translate chinese d01s02_331f710e:
 # game/code/d01/s02.rpy:121
 translate chinese d01s02_a20cefa7:
 
-    # "..."
-    "..."
+    # "……"
+    "……"
 
 # game/code/d01/s02.rpy:123
 translate chinese d01s02_aba68006:
@@ -226,7 +226,7 @@ translate chinese d01s02_d8095c2a:
 translate chinese d01s02_4bc28f05:
 
     # kb "Hmm...maybe they want to throw a party to celebrate the fact they're back together?"
-    kb "Hmm...或许他们想要举办一个派对来庆祝和好了？"
+    kb "Hmm……或许他们想要举办一个派对来庆祝和好了？"
 
 # game/code/d01/s02.rpy:171
 translate chinese d01s02_0999e95f:
@@ -382,7 +382,7 @@ translate chinese d01s02_a106da0d:
 translate chinese d01s02_cc12458d:
 
     # kb "..."
-    kb "..."
+    kb "……"
 
 # game/code/d01/s02.rpy:217
 translate chinese d01s02_bb14e7db:
@@ -496,13 +496,13 @@ translate chinese d01s02_786856f5:
 translate chinese d01s02_5ca54ecf:
 
     # kb "Yeah. the app has, like, a fetish of the day. And everyone is asked about it."
-    kb "对，这个软件有...类似今日性趣的东西，所有人都会被问到。"
+    kb "对，这个软件有……类似今日性趣的东西，所有人都会被问到。"
 
 # game/code/d01/s02.rpy:262
 translate chinese d01s02_5f431293:
 
     # mc "Hmmm... I see. I thought that I'd be able to enter all the things I like."
-    mc "Hmmm...我懂了，我还以为我一开始就可以想看啥看啥呢。"
+    mc "Hmmm……我懂了，我还以为我一开始就可以想看啥看啥呢。"
 
 # game/code/d01/s02.rpy:264
 translate chinese d01s02_cdd73384:
@@ -520,13 +520,13 @@ translate chinese d01s02_4076254e:
 translate chinese d01s02_30d051be:
 
     # mct "Hmmm ... how should I answer?"
-    mct "Hmmm ... 我应该怎么回答？"
+    mct "Hmmm …… 我应该怎么回答？"
 
 # game/code/d01/s02.rpy:277
 translate chinese d01s02_2d4947fa:
 
     # mct "Hmmm ... it's not showing or doing anything."
-    mct "Hmmm ... 没显示什么新的东西。"
+    mct "Hmmm …… 没显示什么新的东西。"
 
 # game/code/d01/s02.rpy:279
 translate chinese d01s02_91e0cd29_1:
@@ -544,7 +544,7 @@ translate chinese d01s02_025dccec:
 translate chinese d01s02_295bbea7:
 
     # mct "..."
-    mct "..."
+    mct "……"
 
 # game/code/d01/s02.rpy:284
 translate chinese d01s02_99858e1d:
@@ -598,7 +598,7 @@ translate chinese replay_d01s02_699878f6:
 translate chinese replay_d01s02_4cd44184:
 
     # arj "..."
-    arj "..."
+    arj "……"
 
 # game/code/d01/s02.rpy:299
 translate chinese replay_d01s02_f3b3d28f:
@@ -746,7 +746,7 @@ translate chinese replay_d01s02_37f824cb:
 
 # game/code/d01/s02.rpy:356
 translate chinese replay_d01s02_71b6273b:
- 
+
     # arj "No! That's not what I asked."
     arj "错！我没问那个。"
 
@@ -754,7 +754,7 @@ translate chinese replay_d01s02_71b6273b:
 translate chinese replay_d01s02_4cd44184_1:
 
     # arj "..."
-    arj "..."
+    arj "……"
 
 # game/code/d01/s02.rpy:359
 translate chinese replay_d01s02_968cf464:
@@ -892,7 +892,7 @@ translate chinese replay_d01s02_1ec6e58e:
 translate chinese replay_d01s02_4cd44184_2:
 
     # arj "..."
-    arj "..."
+    arj "……"
 
 # game/code/d01/s02.rpy:418
 translate chinese replay_d01s02_62c324fa:
@@ -934,7 +934,7 @@ translate chinese replay_d01s02_ad429af8:
 translate chinese replay_d01s02_4cd44184_3:
 
     # arj "..."
-    arj "..."
+    arj "……"
 
 # game/code/d01/s02.rpy:435
 translate chinese replay_d01s02_578606f6:
@@ -1124,7 +1124,7 @@ translate chinese strings:
 translate chinese d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "They broke up over the winter break..."
+    mct "They broke up over the winter break……"
 
 # game/code/d01/s02.rpy:94
 translate chinese d01s02_ad0fa766:
@@ -1149,4 +1149,3 @@ translate chinese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct "Is he gonna finish now?!"
-

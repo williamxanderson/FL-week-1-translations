@@ -16,7 +16,7 @@ translate chinese d02s11b_133d68d5:
 translate chinese d02s11b_8fa800d3:
 
     # mc "Oh, hey there ... Squizzle?"
-    mc "嘿，你好啊...你就是斯奎兹？"
+    mc "嘿，你好啊……你就是斯奎兹？"
 
 # game/code/d02/d02s11b.rpy:62
 translate chinese d02s11b_44428262:
@@ -76,7 +76,7 @@ translate chinese d02s11b_2a4db930:
 translate chinese d02s11b_432f3c5e:
 
     # mc "Oh, I see. Well ..."
-    mc "哦，我明白了。那好吧..."
+    mc "哦，我明白了。那好吧……"
 
 # game/code/d02/d02s11b.rpy:83
 translate chinese d02s11b_36fdf167:
@@ -106,7 +106,7 @@ translate chinese d02s11b_e3251983:
 translate chinese d02s11b_473ecdab:
 
     # mes "(sigh) Fine. I won't hold this against you. Just don't mention this to anyone...{w} Unless you want to learn what your liver tastes like."
-    mes "（叹气）好啦。我不会因此而责怪你。只是不要对任何人提起这件事...{w}除非你想知道自己的肝脏是什么味道。"
+    mes "（叹气）好啦。我不会因此而责怪你。只是不要对任何人提起这件事……{w}除非你想知道自己的肝脏是什么味道。"
 
 # game/code/d02/d02s11b.rpy:99
 translate chinese d02s11b_1e133937:
@@ -154,7 +154,7 @@ translate chinese replay_d02s11b_7b6946f5:
 translate chinese replay_d02s11b_99ad7141:
 
     # mct "I am going to lose. Min is extremely competitive...{w} But maybe I can win after all."
-    mct "我要输了。明很争强好胜的...{w}但也许我最终能赢。"
+    mct "我要输了。明很争强好胜的……{w}但也许我最终能赢。"
 
 # game/code/d02/d02s11b.rpy:130
 translate chinese replay_d02s11b_b6b8c63d:
@@ -166,7 +166,7 @@ translate chinese replay_d02s11b_b6b8c63d:
 translate chinese replay_d02s11b_0a2506df:
 
     # mct "I ... {w}must not ... {w}look down."
-    mct "我...{w}千万不能...{w}往下面看。"
+    mct "我……{w}千万不能……{w}往下面看。"
 
 # game/code/d02/d02s11b.rpy:132
 translate chinese replay_d02s11b_a2b7b53a:
@@ -268,7 +268,7 @@ translate chinese replay_d02s11b_8acf1586:
 translate chinese replay_d02s11b_02a98d0b:
 
     # mes "(panting) Okay, that's good...{w} We have the photos... {w} You can stop...{w} If you want."
-    mes "(喘息) 好，很好...{w}我们有照片了...{w}你可以停下...{w}如果你想的话。"
+    mes "(喘息) 好，很好……{w}我们有照片了……{w}你可以停下……{w}如果你想的话。"
 
 # game/code/d02/d02s11b.rpy:220
 translate chinese replay_d02s11b_57de2af3:
@@ -292,7 +292,7 @@ translate chinese replay_d02s11b_88412589:
 translate chinese replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "然后，[mcname]用舌头沿着她的嫩穴开出一条路，从阴蒂到她的肉缝，再到后面...{w}这让她叫得更欢了。"
+    "然后，[mcname]用舌头沿着她的嫩穴开出一条路，从阴蒂到她的肉缝，再到后面……{w}这让她叫得更欢了。"
 
 # game/code/d02/d02s11b.rpy:229
 translate chinese replay_d02s11b_7a19cf07:
@@ -304,13 +304,13 @@ translate chinese replay_d02s11b_7a19cf07:
 translate chinese replay_d02s11b_d9521958:
 
     # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname]终于用舌头攻破了明的肉洞入口，开始像一头饥饿的野兽一样探索里面..."
+    "[mcname]终于用舌头攻破了明的肉洞入口，开始像一头饥饿的野兽一样探索里面……"
 
 # game/code/d02/d02s11b.rpy:234
 translate chinese replay_d02s11b_a89139dc:
 
     # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "咦，我确实尝到了一丝血味。尝起来像铁...{w}我为什么知道铁的味道？"
+    mct "咦，我确实尝到了一丝血味。尝起来像铁……{w}我为什么知道铁的味道？"
 
 # game/code/d02/d02s11b.rpy:235
 translate chinese replay_d02s11b_33f8dab7:
@@ -322,7 +322,7 @@ translate chinese replay_d02s11b_33f8dab7:
 translate chinese replay_d02s11b_32df4632:
 
     # "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
-    "她的五脏六腑都在颤动，浪叫声穿过空荡荡的洗手间，在体育馆里回荡着..."
+    "她的五脏六腑都在颤动，浪叫声穿过空荡荡的洗手间，在体育馆里回荡着……"
 
 # game/code/d02/d02s11b.rpy:239
 translate chinese replay_d02s11b_e5cb2ce8:
@@ -352,7 +352,7 @@ translate chinese replay_d02s11b_b1cfa47b:
 translate chinese replay_d02s11b_3929faa5:
 
     # mes "Oh, Fuck!{w} I Have NEVER ...{w} You are extremely talented."
-    mes "噢，操！{w} 我还从来没有...{w}你真是太会了。"
+    mes "噢，操！{w} 我还从来没有……{w}你真是太会了。"
 
 # game/code/d02/d02s11b.rpy:256
 translate chinese replay_d02s11b_60314aff:
@@ -370,7 +370,7 @@ translate chinese replay_d02s11b_41e24afe:
 translate chinese replay_d02s11b_b66575e4:
 
     # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "是啊。如果你不介意的话...{w}我现在想尿个尿，然后穿上衣服。"
+    mes "是啊。如果你不介意的话……{w}我现在想尿个尿，然后穿上衣服。"
 
 # game/code/d02/d02s11b.rpy:261
 translate chinese replay_d02s11b_72aa4035:
@@ -424,13 +424,13 @@ translate chinese replay_d02s11b_e08008ca:
 translate chinese replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes "(笑着) 没错，应该奖。但我觉得你现在看着我尿不出来...{w}要不下次？"
+    mes "(笑着) 没错，应该奖。但我觉得你现在看着我尿不出来……{w}要不下次？"
 
 # game/code/d02/d02s11b.rpy:282
 translate chinese replay_d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
-    mc "我好像还没见过你笑呢...真好看。"
+    mc "我好像还没见过你笑呢……真好看。"
 
 # game/code/d02/d02s11b.rpy:284
 translate chinese replay_d02s11b_e3aec1e4:
@@ -487,4 +487,3 @@ translate chinese strings:
     # game/code/d02/d02s11b.rpy:264
     old "Stay & Watch"
     new "留下来欣赏"
-

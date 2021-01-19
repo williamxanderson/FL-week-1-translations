@@ -250,13 +250,13 @@ translate chinese d01s01_ceb3fc2b:
 translate chinese d01s01_095105f7:
 
     # pb "Oh yeah, [mcname] this is... Hmmm..."
-    pb "就是嘛，[mcname] 这位是... Hmmm..."
+    pb "就是嘛，[mcname] 这位是…… Hmmm……"
 
 # game/code/d01/s01.rpy:105
 translate chinese d01s01_6e61b5a0:
 
     # pb "Hmmm... This is... Hmmmm..."
-    pb "Hmmm... 这位是... Hmmmm..."
+    pb "Hmmm…… 这位是…… Hmmmm……"
 
 # game/code/d01/s01.rpy:107
 translate chinese d01s01_2d720d6f:
@@ -310,7 +310,7 @@ translate chinese d01s01_c0d577fc:
 translate chinese d01s01_6444e025:
 
     # mc "Dude... What The Fuck?! We'll get in trouble! Can you not think with your dick?! You know we're not allowed to bring ladies here."
-    mc "老兄... 什么鬼啊?! 我们会有麻烦的！你能不能别用你裤裆里那玩意想东西了?! 你明知道我们不能带女生进来的。"
+    mc "老兄…… 什么鬼啊?! 我们会有麻烦的！你能不能别用你裤裆里那玩意想东西了?! 你明知道我们不能带女生进来的。"
 
 # game/code/d01/s01.rpy:126
 translate chinese d01s01_a32766e9:
@@ -322,7 +322,7 @@ translate chinese d01s01_a32766e9:
 translate chinese d01s01_973bd581:
 
     # mc "Speaking of stress, what the hell is with your eyes?! You do drugs too?"
-    mc "说到担心...你的眼神是怎么回事?! 你不会还吸毒了吧?"
+    mc "说到担心……你的眼神是怎么回事?! 你不会还吸毒了吧?"
 
 # game/code/d01/s01.rpy:130
 translate chinese d01s01_01249464:
@@ -382,7 +382,7 @@ translate chinese d01s01_shower_96ace72c:
 translate chinese d01s01_shower_7e49cb06:
 
     # mct "Hmmm... Lydia..."
-    mct "Hmmm...莉迪亚..."
+    mct "Hmmm……莉迪亚……"
 
 # game/code/d01/s01.rpy:166
 translate chinese d01s01_shower_12c49418:
@@ -599,7 +599,7 @@ translate chinese d01s01_shower_e7a7b4fa:
 
     # mct "Lucky bastard. I would really like to wake up with a chick like her."
     mct "这家伙真幸运，我真想跟他一样醒来有个美女在身边。"
-    
+
 # game/code/d01/s01.rpy:233
 translate chinese d01s01_shower_6225202e:
 
@@ -736,7 +736,7 @@ translate chinese d01s01_shower_bb83081f:
 translate chinese d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
-    zw "...而且我也会检查，如果你不去的话，我保证你连考试都参加不了。"
+    zw "……而且我也会检查，如果你不去的话，我保证你连考试都参加不了。"
 
 # game/code/d01/s01.rpy:277
 translate chinese d01s01_shower_5e7d96e5:
@@ -768,5 +768,4 @@ translate chinese strings:
 translate chinese d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "She looks like an interesting person... {w}I would love to date a girl like her."
-
+    mct "She looks like an interesting person…… {w}I would love to date a girl like her."

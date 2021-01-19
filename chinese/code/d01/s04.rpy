@@ -316,7 +316,7 @@ translate chinese s04_68b5edbe:
 translate chinese s04_2b35b6fe:
 
     # mc "..."
-    mc "..."
+    mc "……"
 
 # game/code/d01/s04.rpy:304
 translate chinese s04_0d186106:
@@ -346,7 +346,7 @@ translate chinese s04_1d82d6f1:
 translate chinese s04_e6592bd6:
 
     # mc "Yeah! No. I mean ... yeah, I'm here."
-    mc "啊！没，我是说... 呃我在听你讲呢。"
+    mc "啊！没，我是说…… 呃我在听你讲呢。"
 
 # game/code/d01/s04.rpy:325
 translate chinese s04_589bedff:
@@ -364,7 +364,7 @@ translate chinese s04_e06e17b7:
 translate chinese s04_ab758b66:
 
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
-    pb "呃...说实话我对她一无所知。不过是在聚会上认识她。她想找人上床，我当然乐意奉陪。"
+    pb "呃……说实话我对她一无所知。不过是在聚会上认识她。她想找人上床，我当然乐意奉陪。"
 
 # game/code/d01/s04.rpy:330
 translate chinese s04_ca0ca19e:
@@ -472,13 +472,13 @@ translate chinese replay_d01s04_1d4de0ac:
 translate chinese replay_d01s04_1a227f42:
 
     # "Girl voice" "Mfh-h-h..."
-    "女孩的声音" "唔...唔..."
+    "女孩的声音" "唔……唔……"
 
 # game/code/d01/s04.rpy:377
 translate chinese replay_d01s04_289df95c:
 
     # "Girl voice" "Umgh..."
-    "女孩的声音" "哦..."
+    "女孩的声音" "哦……"
 
 # game/code/d01/s04.rpy:378
 translate chinese replay_d01s04_1c3e2998:
@@ -550,7 +550,7 @@ translate chinese replay_d01s04_96f4cb40:
 translate chinese replay_d01s04_3a55d13a:
 
     # cb "Slurp... Slurp..."
-    cb "啧啧...咕噜..."
+    cb "啧啧……咕噜……"
 
 # game/code/d01/s04.rpy:406
 translate chinese replay_d01s04_f0155650:
@@ -850,7 +850,7 @@ translate chinese replay_d01s04_bdaff425:
 translate chinese replay_d01s04_18c318ba:
 
     # mct "Just jerking off in shower isn't going to cut it. I guess it needs to be something ... impressive."
-    mct "只是在洗澡时打飞机是不行的。感觉需要来点...令人印象深刻的东西。"
+    mct "只是在洗澡时打飞机是不行的。感觉需要来点……令人印象深刻的东西。"
 
 # game/code/d01/s04.rpy:522
 translate chinese replay_d01s04_325c4b97:
@@ -883,4 +883,3 @@ translate chinese strings:
     # game/code/d01/s04.rpy:523
     old "Don't go to AmRose and try to earn some points"
     new "不要找爱洛丝，试着赚些点数吧"
-
