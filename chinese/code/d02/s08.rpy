@@ -52,7 +52,7 @@ translate chinese d02s08_72e19a6d:
 translate chinese d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "我在这里等着一个不认识的女孩，而她愿意把自己的小穴给我尝尝... {w}每当想到这一点，都感觉这真的太tm疯狂了！"
+    mct "我在这里等着一个不认识的女孩，而她愿意把自己的小穴给我尝尝…… {w}每当想到这一点，都感觉这真的太tm疯狂了！"
 
 # game/code/d02/s08.rpy:56
 translate chinese d02s08_e27f8da1:
@@ -100,7 +100,7 @@ translate chinese d02s08_ecdbe41e:
 translate chinese d02s08_47bd33ef:
 
     # mct "The one with \"NOT YOURS\" tattoo..."
-    mct "身上纹着\"我不属于你\"的那个女孩..."
+    mct "身上纹着\"我不属于你\"的那个女孩……"
 
 # game/code/d02/s08.rpy:74
 translate chinese d02s08_349f2a98:
@@ -202,7 +202,7 @@ translate chinese d02s08_cbee6421:
 translate chinese d02s08_0d3a7eb5:
 
     # mct "This is Polly... {w}Hmmm... {w}Wilson! {w}Right Polly Wilson! {w}We share some classes."
-    mct "这是波莉...{w}嗯...{w}威尔逊!{w}对，波莉·威尔逊！{w} 我们一起上过课呢。"
+    mct "这是波莉……{w}嗯……{w}威尔逊!{w}对，波莉·威尔逊！{w} 我们一起上过课呢。"
 
 # game/code/d02/s08.rpy:126
 translate chinese d02s08_ac6f3cbf:
@@ -214,7 +214,7 @@ translate chinese d02s08_ac6f3cbf:
 translate chinese d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
-    mct "她好像正朝我这边走来..."
+    mct "她好像正朝我这边走来……"
 
 # game/code/d02/s08.rpy:129
 translate chinese d02s08_d3a488ff:
@@ -226,7 +226,7 @@ translate chinese d02s08_d3a488ff:
 translate chinese d02s08_03463b6f:
 
     # mct "She is a strange girl. Yet also very intriguing..."
-    mct "我记得她是个奇怪的女孩。但也非常有趣..."
+    mct "我记得她是个奇怪的女孩。但也非常有趣……"
 
 # game/code/d02/s08.rpy:135
 translate chinese d02s08_33b20b0e:
@@ -382,7 +382,7 @@ translate chinese d02s08_53fe142c:
 translate chinese d02s08_b4413d48:
 
     # mct "So close ... and yet so far."
-    mct "这么近...却又这么远。"
+    mct "这么近……却又这么远。"
 
 # game/code/d02/s08.rpy:191
 translate chinese d02s08_d19a4102:
@@ -478,13 +478,13 @@ translate chinese d02s08_c637657a:
 translate chinese d02s08_0a777fd6:
 
     # mc "Okay this was a mistake…"
-    mc "好吧，刚才的提议真是个错误..."
+    mc "好吧，刚才的提议真是个错误……"
 
 # game/code/d02/s08.rpy:235
 translate chinese d02s08_9a996112:
 
     # mct "Maybe, in the end, she was not bluffing..."
-    mct "也许到最后，她并不是在虚张声势..."
+    mct "也许到最后，她并不是在虚张声势……"
 
 # game/code/d02/s08.rpy:242
 translate chinese d02s08_4d375cbf:
@@ -586,7 +586,7 @@ translate chinese d02s08_0ad3cdf8:
 translate chinese d02s08_4f289c5e:
 
     # pw "The problem is that I already know that she isn't into girls ... {w}yet!"
-    pw "问题是我已经知道她不喜欢女孩...{w}是目前不喜欢！"
+    pw "问题是我已经知道她不喜欢女孩……{w}是目前不喜欢！"
 
 # game/code/d02/s08.rpy:272
 translate chinese d02s08_32887a04:
@@ -610,13 +610,13 @@ translate chinese d02s08_cae56461:
 translate chinese d02s08_1c53abca:
 
     # pw "Now we're talking! Here is the plan ..."
-    pw "终于问到点上了！计划是这样的..."
+    pw "终于问到点上了！计划是这样的……"
 
 # game/code/d02/s08.rpy:279
 translate chinese d02s08_ab234c13:
 
     # pw "..."
-    pw "..."
+    pw "……"
 
 translate chinese strings:
 
@@ -631,4 +631,3 @@ translate chinese strings:
     # game/code/d02/s08.rpy:185
     old "Make a counteroffer"
     new "讨价还价"
-

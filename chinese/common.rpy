@@ -808,7 +808,7 @@ translate chinese strings:
 
     # renpy/common/00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "正在连接App Store\n请等待..."
+    new "正在连接App Store\n请等待……"
 
     # renpy/common/00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -1005,7 +1005,7 @@ translate chinese strings:
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
     new "DirectX正在更新"
-    
+
     # renpy/common/00gltest.rpy:242
     old "Continue, Show this warning again"
     new "继续，并再次显示警告"
@@ -1149,4 +1149,3 @@ translate chinese strings:
     # renpy/common/00preferences.rpy:441
     old "font line spacing"
     new "font line spacing"
-
