@@ -52,7 +52,7 @@ translate chinese d02s07_02b31895:
 translate chinese d02s07_7859b2e5:
 
     # pb "I'm not so sure! I still haven't slept since yesterday... {w} It feels more like a late dinner!"
-    pb "我也不确定！我从昨天开始就没睡过觉...{w}这感觉更像是一顿夜宵！"
+    pb "我也不确定！我从昨天开始就没睡过觉……{w}这感觉更像是一顿夜宵！"
 
 # game/code/d02/s07.rpy:117
 translate chinese d02s07_d8f340ff:
@@ -130,7 +130,7 @@ translate chinese d02s07_ac356c9f:
 translate chinese d02s07_ef4e5b67:
 
     # mc "Not really. I was unsuccessful..."
-    mc "不太好。我失败了..."
+    mc "不太好。我失败了……"
 
 # game/code/d02/s07.rpy:153
 translate chinese d02s07_a9e13c97:
@@ -196,7 +196,7 @@ translate chinese d02s07_57f63532:
 translate chinese d02s07_1f9c1d0e:
 
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
-    mc "({i}我突然想到...等我的[game.stacytitle]来到这里，她一定会知道性趣探测器，因为这里的人都在用。她也会用吗?!{/i})"
+    mc "({i}我突然想到……等我的[game.stacytitle]来到这里，她一定会知道性趣探测器，因为这里的人都在用。她也会用吗?!{/i})"
 
 # game/code/d02/s07.rpy:180
 translate chinese replay_d02s07_b50077a0:
@@ -412,7 +412,7 @@ translate chinese replay_d02s07_ae0e3462:
 translate chinese replay_d02s07_5c25b3ee:
 
     # sy "O-o-o-h"
-    sy "噢-喔..."
+    sy "噢-喔……"
 
 # game/code/d02/s07.rpy:306
 translate chinese replay_d02s07_2d8f6d5d:
@@ -424,7 +424,7 @@ translate chinese replay_d02s07_2d8f6d5d:
 translate chinese replay_d02s07_d7f7bcb2:
 
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
-    mct "我……{w}好像...{w}流了点东西到内裤上了...{w}真是太带劲了！"
+    mct "我……{w}好像……{w}流了点东西到内裤上了……{w}真是太带劲了！"
 
 # game/code/d02/s07.rpy:341
 translate chinese replay_d02s07_52a9ffc5:
@@ -436,7 +436,7 @@ translate chinese replay_d02s07_52a9ffc5:
 translate chinese replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}但我怎么有种想保护她的感觉。我不想让她发性感照片给其他男人看...{/i})"
+    mc "({i}但我怎么有种想保护她的感觉。我不想让她发性感照片给其他男人看……{/i})"
 
 # game/code/d02/s07.rpy:343
 translate chinese replay_d02s07_b7389156:
@@ -509,4 +509,3 @@ translate chinese strings:
     # game/code/d02/s07.rpy:241
     old "Let’s have some boundaries and leave"
     new "还是保持界限，离开吧"
-

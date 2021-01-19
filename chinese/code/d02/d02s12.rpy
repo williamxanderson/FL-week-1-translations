@@ -34,7 +34,7 @@ translate chinese replay_d02s12_a75262f1:
 translate chinese replay_d02s12_b151f3c0:
 
     # pw "That was...{w} Exceptionally pleasant."
-    pw "那感觉真是...{w}爽极了。"
+    pw "那感觉真是……{w}爽极了。"
 
 # game/code/d02/d02s12.rpy:146
 translate chinese replay_d02s12_e667be42:
@@ -52,7 +52,7 @@ translate chinese replay_d02s12_9f02f01f:
 translate chinese replay_d02s12_da6c63c4:
 
     # mc "Maybe next time..."
-    mc "或许下回可以尝试一下..."
+    mc "或许下回可以尝试一下……"
 
 # game/code/d02/d02s12.rpy:155
 translate chinese replay_d02s12_cf86b33c:
@@ -76,7 +76,7 @@ translate chinese replay_d02s12_d363e118:
 translate chinese replay_d02s12_becdd1a2:
 
     # mct "That is an offer I can't refuse..."
-    mct "这正合我意，我当然无法拒绝..."
+    mct "这正合我意，我当然无法拒绝……"
 
 # game/code/d02/d02s12.rpy:164
 translate chinese replay_d02s12_44fc04a6:
@@ -94,7 +94,7 @@ translate chinese replay_d02s12_b20a2b85:
 translate chinese replay_d02s12_fe51a893:
 
     # pw "Well aren't you an eager ... beaver."
-    pw "你可真够...卖力的。"
+    pw "你可真够……卖力的。"
 
 # game/code/d02/d02s12.rpy:172
 translate chinese replay_d02s12_449b7b03:
@@ -106,7 +106,7 @@ translate chinese replay_d02s12_449b7b03:
 translate chinese replay_d02s12_eb5124cd:
 
     # pw "Oh wow... {w}You are really good at this!"
-    pw "噢，哇噢...{w}你的技术真是太好了！"
+    pw "噢，哇噢……{w}你的技术真是太好了！"
 
 # game/code/d02/d02s12.rpy:181
 translate chinese replay_d02s12_3c2e48f2:
@@ -118,7 +118,7 @@ translate chinese replay_d02s12_3c2e48f2:
 translate chinese replay_d02s12_19d8e464:
 
     # pw "Sure... {w}But first ..."
-    pw "好啊...{w}但是首先..."
+    pw "好啊……{w}但是首先……"
 
 # game/code/d02/d02s12.rpy:185
 translate chinese replay_d02s12_4e8a5874:
@@ -172,25 +172,25 @@ translate chinese replay_d02s12_95b6466f:
 translate chinese replay_d02s12_6f8b1ff5:
 
     # pw "You feel so good..."
-    pw "你尝起来感觉真好..."
+    pw "你尝起来感觉真好……"
 
 # game/code/d02/d02s12.rpy:209
 translate chinese replay_d02s12_8fe77697:
 
     # pw "The way your breath caught when I touched you..."
-    pw "当我抚摸你时你那美妙的喘息声..."
+    pw "当我抚摸你时你那美妙的喘息声……"
 
 # game/code/d02/d02s12.rpy:210
 translate chinese replay_d02s12_30003be5:
 
     # pw "That tight ass in that tight uniform..."
-    pw "紧致的翘臀配上紧身制服..."
+    pw "紧致的翘臀配上紧身制服……"
 
 # game/code/d02/d02s12.rpy:211
 translate chinese replay_d02s12_93abdd78:
 
     # pw "You are going to be mine..."
-    pw "你就要是我的了..."
+    pw "你就要是我的了……"
 
 # game/code/d02/d02s12.rpy:213
 translate chinese replay_d02s12_195b53e0:
@@ -202,7 +202,7 @@ translate chinese replay_d02s12_195b53e0:
 translate chinese replay_d02s12_4e51beaf:
 
     # pw "Please! {w}I need... {w}Put your finger in my ass! Quick!"
-    pw "求求你！{w}我好想要...{w}把你手指插进我的屁股里！快！"
+    pw "求求你！{w}我好想要……{w}把你手指插进我的屁股里！快！"
 
 # game/code/d02/d02s12.rpy:220
 translate chinese replay_d02s12_237370b9:
@@ -226,7 +226,7 @@ translate chinese replay_d02s12_89281dbf_1:
 translate chinese replay_d02s12_41830349:
 
     # pw "If I didn't know any better..."
-    pw "如果我不了解情况的话..."
+    pw "如果我不了解情况的话……"
 
 # game/code/d02/d02s12.rpy:233
 translate chinese replay_d02s12_146e4232:
@@ -238,7 +238,7 @@ translate chinese replay_d02s12_146e4232:
 translate chinese replay_d02s12_62798c5e:
 
     # pw "That was... {w}(panting){w} Very satisfying!"
-    pw "真的是...{w}(喘息){w}太爽了！"
+    pw "真的是……{w}(喘息){w}太爽了！"
 
 # game/code/d02/d02s12.rpy:237
 translate chinese replay_d02s12_3995d758:
@@ -250,7 +250,7 @@ translate chinese replay_d02s12_3995d758:
 translate chinese replay_d02s12_2d325fcd:
 
     # pw "Oh... {w}You sad little thing."
-    pw "噢...{w}你这个小可怜。"
+    pw "噢……{w}你这个小可怜。"
 
 # game/code/d02/d02s12.rpy:244
 translate chinese replay_d02s12_68f8459e:
@@ -274,7 +274,7 @@ translate chinese replay_d02s12_ee894cdb:
 translate chinese replay_d02s12_09a9165d:
 
     # mct "I know they say,\"Don't stick your dick in crazy.\" but, if I get the chance...{w} Hell yes, I will."
-    mct "我知道他们说什么，\"别狂甩你的鸡巴。\" 但是，要是我有机会的话...{w}靠，我当然会试试。"
+    mct "我知道他们说什么，\"别狂甩你的鸡巴。\" 但是，要是我有机会的话……{w}靠，我当然会试试。"
 
 # game/code/d02/d02s12.rpy:250
 translate chinese replay_d02s12_e3c6d119:
@@ -328,7 +328,7 @@ translate chinese replay_d02s12_5e02629e:
 translate chinese replay_d02s12_4473dcad:
 
     # mct "She stopped..."
-    mct "她停下来了..."
+    mct "她停下来了……"
 
 # game/code/d02/d02s12.rpy:277
 translate chinese replay_d02s12_01ab749a:
@@ -346,7 +346,7 @@ translate chinese replay_d02s12_07eef455:
 translate chinese replay_d02s12_836c6fb6:
 
     # mct "What the hell was that..."
-    mct "那是什么鬼东西..."
+    mct "那是什么鬼东西……"
 
 # game/code/d02/d02s12.rpy:295
 translate chinese replay_d02s12_b4ee38b4_1:
@@ -387,4 +387,3 @@ translate chinese strings:
     # game/code/d02/d02s12.rpy:216
     old "Refuse to do it"
     new "拒绝这么做"
-

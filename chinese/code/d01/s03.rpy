@@ -544,7 +544,7 @@ translate chinese s03_618c4526:
 translate chinese s03_71b636b0:
 
     # sy "Uhmmm ... I think it was before Christmas."
-    sy "Uhmmm ... 我想应该是圣诞节前吧。"
+    sy "Uhmmm …… 我想应该是圣诞节前吧。"
 
 # game/code/d01/s03.rpy:255
 translate chinese s03_7485624e:
@@ -1065,4 +1065,3 @@ translate chinese strings:
     # game/code/d01/s03.rpy:316
     old "Push her to return the porn to you"
     new "逼她把A片还给你"
-
