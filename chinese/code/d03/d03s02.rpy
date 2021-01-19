@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
+# TODO: Translation updated at 2020-11-15 22:22
 
 # game/code/d03/d03s02.rpy:94
 translate chinese d03s02_9f1f77c4:
@@ -94,7 +94,7 @@ translate chinese d03s02_59f840e9:
 translate chinese d03s02_5a813773:
 
     # mct "Like a couple weeks ago, when I was taking a shower..."
-    mct "Like a couple weeks ago, when I was taking a shower……"
+    mct "Like a couple weeks ago, when I was taking a shower..."
 
 # game/code/d03/d03s02.rpy:140
 translate chinese replay_d03s02_d22da02a:
@@ -106,7 +106,7 @@ translate chinese replay_d03s02_d22da02a:
 translate chinese replay_d03s02_2dfe103d:
 
     # mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
-    mct "Just yesterday my [game.stacytitle] was taking a shower when I came in……"
+    mct "Just yesterday my [game.stacytitle] was taking a shower when I came in..."
 
 # game/code/d03/d03s02.rpy:146
 translate chinese replay_d03s02_49702d3e:
@@ -148,7 +148,7 @@ translate chinese replay_d03s02_9ed01e39:
 translate chinese replay_d03s02_85f9447e:
 
     # mct "Wait..."
-    mct "Wait……"
+    mct "Wait..."
 
 # game/code/d03/d03s02.rpy:180
 translate chinese replay_d03s02_dbb7cb09:
@@ -214,7 +214,7 @@ translate chinese replay_d03s02_34030409:
 translate chinese replay_d03s02_be7e9aac:
 
     # mct "And she is gone..."
-    mct "And she is gone……"
+    mct "And she is gone..."
 
 # game/code/d03/d03s02.rpy:204
 translate chinese replay_d03s02_6f015947:
@@ -244,13 +244,13 @@ translate chinese replay_d03s02_66ff7da9:
 translate chinese replay_d03s02_f4e2d9b2:
 
     # mct "Great... Now I have a boner."
-    mct "Great…… Now I have a boner."
+    mct "Great... Now I have a boner."
 
 # game/code/d03/d03s02.rpy:244
 translate chinese replay_d03s02_fd96ec38:
 
     # mct "Someone could see me here like this... {w}I need to switch to cold water!"
-    mct "Someone could see me here like this…… {w}I need to switch to cold water!"
+    mct "Someone could see me here like this... {w}I need to switch to cold water!"
 
 translate chinese strings:
 
