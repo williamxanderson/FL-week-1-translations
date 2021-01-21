@@ -136,7 +136,7 @@ translate chinese d03s05_4d7aff17:
 translate chinese d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "是啊，这是另一回事……{w}我们在一起有一段时间了。共享了很棒的性生活体验，什么都搞过了……"
+    kb "是啊，这是另一回事……{w}我们在一起有一段时间了。共享了很棒的性爱体验，什么都搞过了……"
 
 # game/code/d03/d03s05.rpy:73
 translate chinese d03s05_aad3a003:
@@ -172,7 +172,7 @@ translate chinese d03s05_fa878c65:
 translate chinese d03s05_850645e2:
 
     # mc "Nora, this is one of my best friends, Kevin. {w}Kevin, this is my favorite barista, Nora."
-    mc "诺拉，这是我很好的朋友，凯文。{w}这是我最喜欢的咖啡师，诺拉。"
+    mc "诺拉，这是我很好的朋友，凯文。{w}凯文，这是我最喜欢的咖啡师，诺拉。"
 
 # game/code/d03/d03s05.rpy:87
 translate chinese d03s05_6f309b75:
