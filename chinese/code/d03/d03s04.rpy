@@ -868,13 +868,13 @@ translate chinese replay_d03s04_ceb1f8cc:
 translate chinese replay_d03s04_55a9cb3b:
 
     # mc "Think about their own mother?"
-    mc "想想自己的母亲？"
+    mc "想想自己的老妈？"
 
 # game/code/d03/d03s04.rpy:576
 translate chinese replay_d03s04_8722e7c0:
 
     # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "然后爱洛丝说，\"下午3点在主讲厅见我。\""
+    mct "然后爱洛丝说，\"下午3点在主讲厅等我。\""
 
 # game/code/d03/d03s04.rpy:579
 translate chinese replay_d03s04_4bd08e88:
@@ -886,7 +886,7 @@ translate chinese replay_d03s04_4bd08e88:
 translate chinese replay_d03s04_58de4651:
 
     # mc "Hopefully nobody is turned on by that."
-    mc "但愿没有人因此下面烧起火。"
+    mc "但愿没有人因为这个而性奋。"
 
 # game/code/d03/d03s04.rpy:584
 translate chinese replay_d03s04_ea904c23:
@@ -1024,7 +1024,7 @@ translate chinese replay_d03s04_b1b02ce2:
 translate chinese replay_d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
-    kb "我们需要谈谈。这里太挤了……{w}我们可以去别的地方吗？"
+    kb "我们需要谈谈。这里人太多了……{w}我们可以去别的地方吗？"
 
 # game/code/d03/d03s04.rpy:647
 translate chinese replay_d03s04_56439429:
@@ -1036,7 +1036,7 @@ translate chinese replay_d03s04_56439429:
 translate chinese replay_d03s04_95007012:
 
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname]正准备离开，他在出去时和明对视了。"
+    "[mcname]正准备离开，他在出去时和明的视线对上了。"
 
 translate chinese strings:
 
