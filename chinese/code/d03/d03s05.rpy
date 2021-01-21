@@ -316,7 +316,7 @@ translate chinese d03s05_868dcd33:
 translate chinese d03s05_eb937bbb:
 
     # kb "I think cuckold is when two people are in a sexless relationship, and one of them has sex with other people with the intention of embarrassing the other."
-    kb "觉得戴绿帽是指两个人在一段无性关系中，其中一个人和其他人发生性关系，目的是让另一个人难堪。"
+    kb "我觉得戴绿帽是指两个人在一段无性关系中，其中一个人和其他人发生性关系，目的是让另一个人难堪。"
 
 # game/code/d03/d03s05.rpy:139
 translate chinese d03s05_1ac56e6d:
@@ -370,7 +370,7 @@ translate chinese d03s05_b18d3eaf:
 translate chinese d03s05_72b032b6:
 
     # mc "Huh. Yeah, but it wasn't happening in front of me."
-    mc "哈。没错，但那没有发生在我面前。"
+    mc "哈。没错，但毕竟那没有发生在我面前。"
 
 # game/code/d03/d03s05.rpy:156
 translate chinese d03s05_7a46236a:
@@ -442,7 +442,7 @@ translate chinese d03s05_4c316874:
 translate chinese d03s05_07c4de99:
 
     # mc "I mean, I don't think I could do that. I think I would be revolted watching someone that I wanted to fuck have sex with someone else."
-    mc "我是说，我觉得我做不到。我觉得如果看到我喜欢人却和别人做爱，我会觉得恶心。"
+    mc "我是说，我觉得我做不到。如果看到我喜欢的人却和别人做爱，我会觉得恶心。"
 
 # game/code/d03/d03s05.rpy:182
 translate chinese d03s05_24e3d8a0:
@@ -472,7 +472,7 @@ translate chinese d03s05_11006ad4:
 translate chinese d03s05_454fa6e2:
 
     # mc "Nah, dude. I couldn't think less of you if I tried."
-    mc "当然不会，老兄。我不会那样你的。"
+    mc "当然不会，老兄。我不会那样看你的。"
 
 # game/code/d03/d03s05.rpy:192
 translate chinese d03s05_3c087b73:
@@ -724,7 +724,7 @@ translate chinese d03s05_end_09a26495:
 translate chinese d03s05_end_118cc394:
 
     # mc "Yes! Thanks for the coffee! Hey Polly."
-    mc "是啊！谢谢你的咖啡！嘿波莉。"
+    mc "是啊！谢谢你的咖啡！嘿，波莉。"
 
 # game/code/d03/d03s05.rpy:296
 translate chinese d03s05_end_e5be2635:
@@ -760,7 +760,7 @@ translate chinese d03s05_end_2aaffd37:
 translate chinese d03s05_end_cc0d5da9:
 
     # fl "[d03s05_points] points were transferred to you from Bravo's account."
-    fl "[d03s05_points]数从布拉沃的账户转到你的账户。"
+    fl "[d03s05_points]点数已从布拉沃的账户转到你的账户。"
 
 # game/code/d03/d03s05.rpy:309
 translate chinese d03s05_end_9c65edcf:
@@ -784,7 +784,7 @@ translate chinese strings:
 
     # game/code/d03/d03s05.rpy:170
     old "Tell Kevin to Stop Being a Pussy"
-    new "告诉凯文别再装逼了"
+    new "告诉凯文不要做胆小鬼"
 
     # game/code/d03/d03s05.rpy:170
     old "Understand Kevin's Point of View"
@@ -796,5 +796,5 @@ translate chinese strings:
 
     # game/code/d03/d03s05.rpy:196
     old "Don't show him that pic"
-    new "不给他看那张照片""
+    new "不给他看那张照片"
 
