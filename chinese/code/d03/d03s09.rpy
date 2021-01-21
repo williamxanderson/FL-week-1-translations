@@ -10,7 +10,7 @@ translate chinese d03s09_3e3fed3e:
 translate chinese d03s09_0de3c136:
 
     # fl "You have been banned from the Fetish Locator app."
-    fl "你已被禁止使用性趣探测软件。"
+    fl "你已被禁止使用性趣探测器软件。"
 
 # game/code/d03/d03s09.rpy:24
 translate chinese d03s09_59422cd9:
