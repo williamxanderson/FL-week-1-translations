@@ -502,7 +502,7 @@ translate chinese d03s10_c8de2e04:
 translate chinese d03s10_750769ec:
 
     # aw "You will be randomly assigned someone else's photo. Your job is to find that person."
-    aw "你会被随机分配到别人的照片。你的工作就是找到那个人。"
+    aw "会随机分配别人的照片给你。你要做的就是找到那个人。"
 
 # game/code/d03p/d03s10.rpy:278
 translate chinese d03s10_72f727fc:
@@ -832,7 +832,7 @@ translate chinese d03s10_back_e164d646:
 translate chinese d03s10_back_d5ba8f63:
 
     # mct "Do I know this girl?"
-    mct "认识这个女孩吗？"
+    mct "我认识这个女孩吗？"
 
 # game/code/d03p/d03s10.rpy:446
 translate chinese d03s10_back_e02a82be:
