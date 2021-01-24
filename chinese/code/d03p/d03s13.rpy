@@ -100,7 +100,7 @@ translate chinese replay_d03s13_f3d17874:
 translate chinese replay_d03s13_d8339b00:
 
     # dd "um, yes."
-    dd "嗯，是的。"
+    dd "嗯，就这样。"
 
 # game/code/d03p/d03s13.rpy:73
 translate chinese replay_d03s13_dff0f142:
@@ -556,7 +556,7 @@ translate chinese replay_d03s13_8a0034a5:
 translate chinese replay_d03s13_02e62dd1:
 
     # mes "That was a good challenge. Thank you."
-    mes "这是个不错的挑战。谢谢你。"
+    mes "这个挑战不错。谢谢你。"
 
 # game/code/d03p/d03s13.rpy:322
 translate chinese replay_d03s13_620cb18b:
