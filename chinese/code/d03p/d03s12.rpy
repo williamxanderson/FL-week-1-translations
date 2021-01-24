@@ -160,7 +160,7 @@ translate chinese replay_d03s12_a6b629e7:
 translate chinese replay_d03s12_a872fa59:
 
     # mc "Are you saying... {w}Yes. Yes I would."
-    mc "你是说……{w}是的，当然，我很想。"
+    mc "你是说……{w}是的，我当然想了。"
 
 # game/code/d03p/d03s12.rpy:69
 translate chinese replay_d03s12_58e2e839:
