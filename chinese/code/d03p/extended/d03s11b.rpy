@@ -292,7 +292,7 @@ translate chinese d03s11b_431fcb05:
 translate chinese d03s11b_cfebbcee:
 
     # mc "No thanks. Exit only. I've never had anything up my back door."
-    mc "用了，谢谢。只能出口。我后门从来没搞过这些玩意。"
+    mc "不用了，谢谢。那里只是个出口。我后门从来没搞过这些玩意。"
 
 # game/code/d03p/extended/d03s11b.rpy:127
 translate chinese d03s11b_a5b7cc0b:
@@ -310,7 +310,7 @@ translate chinese d03s11b_459aacbf:
 translate chinese d03s11b_eea2f177:
 
     # jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
-    jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
+    jfx "啊，你这句话可以换个措辞来说。我觉得自己不需要雌雄同体的鳗鱼之类的东西。"
 
 # game/code/d03p/extended/d03s11b.rpy:132
 translate chinese d03s11b_d25e4cd0:
@@ -334,7 +334,7 @@ translate chinese d03s11b_a1f5d472:
 translate chinese d03s11b_23d6706d:
 
     # mc "Yeah, thanks. You too."
-    mc "是的，谢谢。你也是。"
+    mc "嗯，谢谢。你也是。"
 
 # game/code/d03p/extended/d03s11b.rpy:138
 translate chinese d03s11b_430d96ac:
