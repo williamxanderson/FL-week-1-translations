@@ -118,13 +118,13 @@ translate chinese d03s16_05dda99f:
 translate chinese d03s16_29215318:
 
     # mct "Holy crap! I talked to her! That was awesome!"
-    mct "Holy crap! I talked to her! That was awesome!"
+    mct "我了个去！我跟她说话了！也太棒了吧！"
 
 # game/code/d03p2/d03s16.rpy:82
 translate chinese d03s16_b7406eeb:
 
     # mct "I think she really noticed me! That was going so well!!"
-    mct "天哪！我和她说话了！真是太棒了!!!"
+    mct "感觉她真的注意到我了！进展相当顺利!!!"
 
 # game/code/d03p2/d03s16.rpy:83
 translate chinese d03s16_ac5b3485:
@@ -484,7 +484,7 @@ translate chinese d03s16_23d36d4d:
 translate chinese d03s16_6bd8c193:
 
     # mc "I hope that means lots of practice and training for both of us."
-    mc "我想这意味着我们两个人要进行大量的练习和训练。"
+    mc "我想这意味着我们两个人要进行大量的实践和训练。"
 
 # game/code/d03p2/d03s16.rpy:218
 translate chinese d03s16_3d5ec0a2:
@@ -952,7 +952,7 @@ translate chinese replay_d03s16_7ecff610:
 translate chinese replay_d03s16_4204b396:
 
     # mct "Seems like Lydia and this dude are arguing. That is good right?"
-    mct "看来莉迪亚和这家伙在吵架。该高兴吧？"
+    mct "看来莉迪亚和这家伙在吵架。我该高兴吧？"
 
 # game/code/d03p2/d03s16.rpy:428
 translate chinese replay_d03s16_5dd4e805:
