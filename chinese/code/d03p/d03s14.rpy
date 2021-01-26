@@ -508,13 +508,13 @@ translate chinese replay_d03s14_f6982367:
 translate chinese replay_d03s14_af434bf1:
 
     # tm "I've never seen anything that turned me on this much!"
-    tm "我从来没有见过让我这么性奋的东西！"
+    tm "我从来没见过让我这么性奋的东西！"
 
 # game/code/d03p/d03s14.rpy:246
 translate chinese replay_d03s14_f39f70a4:
 
     # tm "Come here, darling. Let me taste him from your mouth!"
-    tm "过来，亲爱的。让我从你嘴里尝尝他的味道！"
+    tm "过来，宝贝儿。让我从你嘴里尝尝他的味道！"
 
 # game/code/d03p/d03s14.rpy:258
 translate chinese replay_d03s14_bd0601da:
@@ -538,7 +538,7 @@ translate chinese replay_d03s14_2b807ce6:
 translate chinese replay_d03s14_99890904:
 
     # mkfl "I want to feel it inside me!"
-    mkfl "我想体验下它在我体内的感觉！"
+    mkfl "我想体验它在我里面的感觉！"
 
 # game/code/d03p/d03s14.rpy:262
 translate chinese replay_d03s14_fe2c016a:
