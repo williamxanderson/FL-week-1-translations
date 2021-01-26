@@ -166,7 +166,7 @@ translate chinese d03s18_1904400a:
 translate chinese d03s18_8f4b9d89:
 
     # mct "I hope I deleted the app before it uploaded this image anywhere..."
-    mct "我希望在它把这个图片成功上传之前，我就已经把这个软件删了……"
+    mct "我希望在它成功上传图片之前，我就已经把这个软件删了……"
 
 # game/code/d03p2/d03s18.rpy:124
 translate chinese d03s18_d0036d7c:
