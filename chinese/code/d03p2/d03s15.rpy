@@ -124,7 +124,7 @@ translate chinese replay_d03s15_a6a8e037:
 translate chinese replay_d03s15_4dfc3a49:
 
     # mct "What if I would just release myself here? It wouldn't take long watching this..."
-    mct "如果我就在这里释放自己呢？看这个也不会花很长时间……"
+    mct "如果我就在这里给自己释放一下呢？看这个也不会花很长时间嘛……"
 
 # game/code/d03p2/d03s15.rpy:131
 translate chinese replay_d03s15_4f17a13e:
