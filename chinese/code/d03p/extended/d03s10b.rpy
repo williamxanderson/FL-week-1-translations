@@ -22,7 +22,7 @@ translate chinese replay_d03s10b_5823cebb:
 translate chinese replay_d03s10b_bfd92d5d:
 
     # mct "Alright, let's see. She is clean shaven, so could be anyone."
-    mct "好吧，让我看看。她剃得很干净，任何人都可以。"
+    mct "好吧，让我看看。她剃得很干净，任何女孩都可以啊。"
 
 # game/code/d03p/extended/d03s10b.rpy:31
 translate chinese replay_d03s10b_8235aaee:
@@ -40,7 +40,7 @@ translate chinese replay_d03s10b_124a11d0:
 translate chinese replay_d03s10b_fc695beb:
 
     # mct "I KNOW THIS PUSSY!!!"
-    mct "我知道这个小穴!!"
+    mct "我知道这个小穴!!!"
 
 # game/code/d03p/extended/d03s10b.rpy:37
 translate chinese replay_d03s10b_19ccc48a:
