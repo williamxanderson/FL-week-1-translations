@@ -280,7 +280,7 @@ translate chinese d03s17_a1e25b77:
 translate chinese d03s17_64f3295d:
 
     # lc "But some of these new movies that try to be \"pro feminist\" sure do come off like they're pandering."
-    lc "但在这些试图成为\"支持女权主义\"的新电影中，有些确实像是在迎合大众。"
+    lc "但看看这些试图成为\"女权主义支持者\"的新电影，有些确实像在迎合大众。"
 
 # game/code/d03p2/d03s17.rpy:168
 translate chinese d03s17_b24e8d98:
@@ -292,13 +292,13 @@ translate chinese d03s17_b24e8d98:
 translate chinese d03s17_e58c39e9:
 
     # lc "But I sure didn't expect you to be such a feminist. Why would you even know about the Bechdel Test?"
-    lc "但我真的没想到你会是个女权主义者。你怎么会知道贝克德尔测验呢？?"
+    lc "但我真的没想到你会是个女权主义者。你怎么会知道贝克德尔测验呢？"
 
 # game/code/d03p2/d03s17.rpy:172
 translate chinese d03s17_3bf1e993:
 
     # mc "Oh? That sure is sounding a little sexist. What, just 'cause I'm a {i}guy{/i} I can't know about feminist stuff?"
-    mc "啊？你这听起来有点性别歧视啊。怎么，就因为我是个{i}男的{/i}，就不能知道女权主义的东西吗？"
+    mc "啊？你这听起来有点性别歧视啊。怎么，就因为我是个{i}男的{/i}，就不能知道女权主义吗？"
 
 # game/code/d03p2/d03s17.rpy:173
 translate chinese d03s17_8882cc1f:
