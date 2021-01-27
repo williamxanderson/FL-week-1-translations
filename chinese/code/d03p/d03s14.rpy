@@ -46,7 +46,7 @@ translate chinese replay_d03s14_7748f064:
 translate chinese replay_d03s14_6018f8d3:
 
     # tm "Yeah... So, what we were talking about?"
-    tm " 是啊……哎，我们在说什么刚才？"
+    tm "是啊……哎，我们在说什么刚才？"
 
 # game/code/d03p/d03s14.rpy:91
 translate chinese replay_d03s14_83071273:
@@ -166,7 +166,7 @@ translate chinese replay_d03s14_64f4a96f:
 translate chinese replay_d03s14_aa08e49b:
 
     # mkfl "Holy Shit!"
-    mkfl " 我靠！"
+    mkfl "我靠！"
 
 # game/code/d03p/d03s14.rpy:122
 translate chinese replay_d03s14_79098cbd:
@@ -232,7 +232,7 @@ translate chinese replay_d03s14_2a3dd485:
 translate chinese replay_d03s14_acc20661:
 
     # mc "Me too!"
-    mc " 我也是！"
+    mc "我也是！"
 
 # game/code/d03p/d03s14.rpy:144
 translate chinese replay_d03s14_e5aa35d2:
@@ -292,7 +292,7 @@ translate chinese replay_d03s14_feede58f:
 translate chinese replay_d03s14_6858a475:
 
     # mkfl "The sun!"
-    mkfl " 有太阳！"
+    mkfl "有太阳！"
 
 # game/code/d03p/d03s14.rpy:168
 translate chinese replay_d03s14_163f5645:
@@ -670,7 +670,7 @@ translate chinese replay_d03s14_3e91a5b4:
 translate chinese replay_d03s14_b90bae6d:
 
     # tm "Really?"
-    tm " 真的吗？"
+    tm "真的吗？"
 
 # game/code/d03p/d03s14.rpy:318
 translate chinese replay_d03s14_100611e3:
