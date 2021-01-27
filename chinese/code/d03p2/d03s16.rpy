@@ -52,7 +52,7 @@ translate chinese d03s16_1d3e502e:
 translate chinese d03s16_2ad49671:
 
     # lc "Yet in some ways... {w}she's much more adventurous than I am."
-    lc "然而在某些方面……{{w}她比我更喜欢冒险。"
+    lc "然而在某些方面……{w}她比我更喜欢冒险。"
 
 # game/code/d03p2/d03s16.rpy:46
 translate chinese d03s16_1fba118c:
@@ -64,7 +64,7 @@ translate chinese d03s16_1fba118c:
 translate chinese d03s16_e64ace2e:
 
     # lc "Well, in one way. She's more sexually adventurous. {w}I guess I'm pretty vanilla."
-    lc "嗯，在某种程度上。她在性方面更有冒险精神。{{w}而我就很普通了。"
+    lc "嗯，在某种程度上。她在性方面更有冒险精神。{w}而我就很普通了。"
 
 # game/code/d03p2/d03s16.rpy:52
 translate chinese d03s16_d4063d22:
@@ -286,7 +286,7 @@ translate chinese d03s16_f9c9d4b1:
 translate chinese d03s16_7e2bbdb6:
 
     # mc "Good point. I'm [mcname]."
-    mc "说得好。我是[[mcname]。"
+    mc "说得好。我是[mcname]。"
 
 # game/code/d03p2/d03s16.rpy:142
 translate chinese d03s16_c23df81f:
@@ -964,7 +964,7 @@ translate chinese replay_d03s16_5dd4e805:
 translate chinese replay_d03s16_d1e009d7:
 
     # mct "Wow! What the fuck?! What the fuck is he doing?!"
-    mct 哇！搞什么?! 那人在他妈的干什么?!"
+    mct "哇！搞什么?! 那人在他妈的干什么?!"
 
 # game/code/d03p2/d03s16.rpy:449
 translate chinese replay_d03s16_1ef56dad:
