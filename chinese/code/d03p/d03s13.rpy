@@ -616,7 +616,7 @@ translate chinese replay_d03s13_808f30fb:
 translate chinese replay_d03s13_ec4950d4:
 
     # mc "Great..."
-    mc " 啊，好极了……"
+    mc "啊，好极了……"
 
 # game/code/d03p/d03s13.rpy:352
 translate chinese replay_d03s13_3b192da5:
