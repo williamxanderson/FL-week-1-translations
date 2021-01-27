@@ -310,13 +310,13 @@ translate chinese replay_d03s12_c4bca2bf:
 translate chinese replay_d03s12_6572da95:
 
     # mc "Alright, I'll see ya' \"El Hoc\""
-    mc "好吧，那我先走了\"爱色\""
+    mc "好吧，那我先走了\"爱色\"。"
 
 # game/code/d03p/d03s12.rpy:128
 translate chinese replay_d03s12_b13c77c2:
 
     # cb "Sure. See ya', [mclogin]. {w}Oh wait!"
-    cb "当然，再见，[mclogin]]。{w}哎等等！"
+    cb "当然，再见，[mclogin]。{w}哎等等！"
 
 # game/code/d03p/d03s12.rpy:129
 translate chinese replay_d03s12_191559e1:
@@ -334,7 +334,7 @@ translate chinese replay_d03s12_e6897846:
 translate chinese replay_d03s12_1587d8e0:
 
     # mc "Nah, I'm not ready to go running out of the house wearing nothing but a smile."
-    mc "不了吧，我可不打算搭上一张笑脸到处走。"
+    mc "不了吧，我可不打算搭上一张笑脸到处走。。"
 
 # game/code/d03p/d03s12.rpy:134
 translate chinese replay_d03s12_e1751f12:
