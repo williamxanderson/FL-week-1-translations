@@ -334,7 +334,7 @@ translate chinese replay_d03s12_e6897846:
 translate chinese replay_d03s12_1587d8e0:
 
     # mc "Nah, I'm not ready to go running out of the house wearing nothing but a smile."
-    mc "不了吧，我可不打算搭上一张笑脸到处走。。"
+    mc "不了吧，我可不打算搭上一张笑脸到处走。"
 
 # game/code/d03p/d03s12.rpy:134
 translate chinese replay_d03s12_e1751f12:
