@@ -394,7 +394,7 @@ translate chinese d03s05_29bb2b53:
 translate chinese d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-    mct " 好吧，首先。{w}波莉进来了。她和诺拉就像老朋友一样在聊天！"
+    mct "好吧，首先。{w}波莉进来了。她和诺拉就像老朋友一样在聊天！"
 
 # game/code/d03/d03s05.rpy:163
 translate chinese d03s05_04d52ffd:
@@ -490,7 +490,7 @@ translate chinese d03s05_9a9e8d66:
 translate chinese d03s05_25122b3c:
 
     # mc "Oh hey, here's something you might enjoy"
-    mc "哦，嘿，这里有个东西你可能会喜欢"
+    mc "哦，嘿，这里有个东西你可能会喜欢。"
 
 # game/code/d03/d03s05.rpy:201
 translate chinese d03s05_38cca946:
@@ -580,7 +580,7 @@ translate chinese d03s05_e2074614:
 translate chinese d03s05_ff8a55e2:
 
     # kb "Sounds good. See ya'"
-    kb "听起来不错。再见啦'"
+    kb "听起来不错。再见啦。"
 
 # game/code/d03/d03s05.rpy:237
 translate chinese d03s05_4a28039c:
