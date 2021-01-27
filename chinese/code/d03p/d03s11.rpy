@@ -22,7 +22,7 @@ translate chinese d03s11_b9598193:
 translate chinese replay_d03s11_3b2a4fc0:
 
     # fl "Here is the pussy you have to please! Try to find it!"
-    fl "这里有你要取悦的小穴！试着去找找吧！""
+    fl "这里有你要取悦的小穴！试着去找找吧！"
 
 # game/code/d03p/d03s11.rpy:53
 translate chinese replay_d03s11_0e71a1bb:
