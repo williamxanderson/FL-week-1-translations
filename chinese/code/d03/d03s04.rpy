@@ -394,7 +394,7 @@ translate chinese d03s04_4fba5a5b:
 translate chinese d03s04_f0ee0a2a:
 
     # arj "Do you think little miss perfect over there even noticed you were gone for two weeks?"
-    arj 你觉得那边的完美小姐会注意到你离开了两个星期吗？"
+    arj "你觉得那边的完美小姐会注意到你离开了两个星期吗？"
 
 # game/code/d03/d03s04.rpy:337
 translate chinese d03s04_9cf4ab9f:
@@ -898,7 +898,7 @@ translate chinese replay_d03s04_ea904c23:
 translate chinese replay_d03s04_896cc2bb:
 
     # mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
-    mct "对方回道： \"这样我肯定能赚够点数! 你最棒啦！"
+    mct "对方回道：\"这样我肯定能赚够点数! 你最棒啦！"
 
 # game/code/d03/d03s04.rpy:591
 translate chinese replay_d03s04_3ba52c63:
@@ -976,7 +976,7 @@ translate chinese replay_d03s04_5376d29f:
 translate chinese replay_d03s04_ca293c67:
 
     # mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
-    mc "好吧，就坐在这里想诺丁教授吧，直到我下面的帐篷消失为止。""
+    mc "好吧，就坐在这里想诺丁教授吧，直到我下面的帐篷消失为止。"
 
 # game/code/d03/d03s04.rpy:624
 translate chinese replay_d03s04_d07f8876:
