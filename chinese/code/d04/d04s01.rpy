@@ -16,7 +16,7 @@ translate chinese d04s01_b93cca61:
 translate chinese d04s01_32373938:
 
     # mct "Waking up next to Lydia... the perfect way to start a day."
-    mct "在莉迪亚身边醒来……真是开始新一天的绝佳方式。"
+    mct "在莉迪亚身边醒来……这样开始新的一天真是再美不过。"
 
 # game/code/d04/d04s01.rpy:22
 translate chinese d04s01_7b66e4de:
@@ -70,7 +70,7 @@ translate chinese d04s01_c2ee3125:
 translate chinese d04s01_2d7b7833:
 
     # aw "Hey there sexy!"
-    aw "嘿，帅哥！"
+    aw "嘿，小可爱！"
 
 # game/code/d04/d04s01.rpy:38
 translate chinese d04s01_c9daa583:
@@ -82,13 +82,13 @@ translate chinese d04s01_c9daa583:
 translate chinese d04s01_5a556d1c:
 
     # aw "Hey there [mclogin]!"
-    aw "嘿，[mclogin]!"
+    aw "嘿，[mclogin]！"
 
 # game/code/d04/d04s01.rpy:41
 translate chinese d04s01_bcdc037b:
 
     # mc "Hey there, is it still Allison?"
-    mc "嘿，你还是艾莉森吗？"
+    mc "嘿，你还是那个艾莉森吗？"
 
 # game/code/d04/d04s01.rpy:42
 translate chinese d04s01_50e0e838:
@@ -184,7 +184,7 @@ translate chinese d04s01_3445ea40:
 translate chinese d04s01_46036b68:
 
     # lc "Sure! Why not! After all, I owe you after yesterday!"
-    lc "当然可以！为什么不呢！毕竟，昨天之后我还欠你的！"
+    lc "当然可以！为什么不呢！毕竟，昨天之后我还欠你的呢！"
 
 # game/code/d04/d04s01.rpy:66
 translate chinese d04s01_a27c4d25:
@@ -208,7 +208,7 @@ translate chinese d04s01_f9dfb702:
 translate chinese d04s01_e82d54ec:
 
     # mes "Yesterday you barely knew my best friend, but now it seems you {b}know{/b} her so well she owes you..."
-    mes "昨天你还不认识我最好的朋友，但现在看来，你何止{b}认识{/b}她，她还欠你的……"
+    mes "昨天你还不认识我最好的朋友，但现在看来，你何止{b}认识{/b}她，她甚至还欠你的……"
 
 # game/code/d04/d04s01.rpy:72
 translate chinese d04s01_5ee68a23:
@@ -262,7 +262,7 @@ translate chinese d04s01_9f4c2e3a:
 translate chinese d04s01_0746823b:
 
     # mes "Is someone sleeping in my bushes?"
-    mes "有人在我树丛里面睡觉吗？"
+    mes "有人在我这树丛里面睡觉吗？"
 
 # game/code/d04/d04s01.rpy:88
 translate chinese d04s01_8c8a89b7:
@@ -370,7 +370,7 @@ translate chinese d04s01_098a0ba3:
 translate chinese d04s01_46f3a35a:
 
     # dd "... I think they forgot I was still there..."
-    dd "……我想他们忘了我还在那儿……"
+    dd "……我想她们忘了我还在那儿……"
 
 # game/code/d04/d04s01.rpy:116
 translate chinese d04s01_ffa88548:
@@ -394,7 +394,7 @@ translate chinese d04s01_136597e7:
 translate chinese d04s01_55eadc00:
 
     # dd "I don't think I even remembered there was a house..."
-    dd "我想我连有房子都不记得了……"
+    dd "我想我连那里有房子都不记得了……"
 
 # game/code/d04/d04s01.rpy:123
 translate chinese d04s01_f1004908:
@@ -418,7 +418,7 @@ translate chinese d04s01_11d12e9e:
 translate chinese d04s01_3728526d:
 
     # dd "huh. I guess that would do it."
-    dd "呵呵，我想这样就行了。"
+    dd "呵呵，我想这样就够了。"
 
 # game/code/d04/d04s01.rpy:129
 translate chinese d04s01_4e9d5928:
@@ -436,7 +436,7 @@ translate chinese d04s01_606bc203:
 translate chinese d04s01_bbaaf33c:
 
     # dd "My change of clothes is in his dorm room... I don't want to walk around like this all day."
-    dd "我的换洗衣服在他的宿舍里……我可不想整天就这样走来走去。"
+    dd "我的换洗衣服在他宿舍里……我可不想整天就这样走来走去。"
 
 # game/code/d04/d04s01.rpy:132
 translate chinese d04s01_03082f9c:
