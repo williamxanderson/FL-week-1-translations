@@ -4,17 +4,16 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:196
     old "Return"
-    new "Return"
+    new "Вернуться"
 
     # renpy/common/00action_file.rpy:631
     old "Page {}"
-    new "Page {}"
+    new "Страница {}"
 
     # renpy/common/00action_file.rpy:631
     old "Automatic saves"
-    new "Automatic saves"
+    new "Автоматическое сохранение"
 
     # renpy/common/00action_file.rpy:631
     old "Quick saves"
-    new "Quick saves"
-
+    new "Быстрое сохранение"

@@ -1137,17 +1137,17 @@ translate russian d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
     mct "И посмотрите на них сейчас. Они снова встречаются?"
-# TODO: Translation updated at 2021-01-18 23:56
+
+# TODO: Translation updated at 2021-01-18 22:46
 
 # game/code/d01/s02.rpy:319
 translate russian replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "Верно, не злись. Я принесу фильм, он тебе понравится."
 
 # game/code/d01/s02.rpy:416
 translate russian replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
-
+    mct "Он сейчас кончит?!"

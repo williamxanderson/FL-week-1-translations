@@ -796,11 +796,10 @@ translate russian strings:
     old "Move on the conversation"
     new "Переходи к разговору"
 
-# TODO: Translation updated at 2021-01-18 23:56
+# TODO: Translation updated at 2021-01-18 22:46
 
 # game/code/d04/d04s03.rpy:65
 translate russian d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
-    sy "It's kind of a long story."
-
+    sy "Это довольно длинная история."
