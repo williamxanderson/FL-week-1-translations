@@ -556,7 +556,7 @@ translate chinese d04s01_8cf9ed7e:
 translate chinese d04s01_d2076fc3:
 
     # mes "Also, it isn't anything sexual for me. I could use your help."
-    mes "还有，对我来说，这跟做爱扯不上丁点关系 。我只是需要你的帮助。"
+    mes "还有，对我来说，这跟做爱扯不上丁点关系。我只是需要你的帮助。"
 
 # game/code/d04/d04s01.rpy:159
 translate chinese d04s01_97def754:
