@@ -4,367 +4,367 @@
 translate chinese d04s04_e8172d92:
 
     # "11:10 AM"
-    "11:10 AM"
+    "上午11:10"
 
 # game/code/d04/d04s04.rpy:16
 translate chinese d04s04_d30855ea:
 
     # mc "Hey Nora! How's my favorite barista?"
-    mc "Hey Nora! How's my favorite barista?"
+    mc "嘿，诺拉！我最喜欢的咖啡师今天怎么样啊？"
 
 # game/code/d04/d04s04.rpy:18
 translate chinese d04s04_5fb3c1e8:
 
     # nk "You're in a good mood today. Are you sure you need coffee?"
-    nk "You're in a good mood today. Are you sure you need coffee?"
+    nk "你今天心情不错啊。你确定要喝咖啡吗？"
 
 # game/code/d04/d04s04.rpy:19
 translate chinese d04s04_2ea3b9e0:
 
     # mc "I've got a date! Well, a coffee date, but hopefully..."
-    mc "I've got a date! Well, a coffee date, but hopefully..."
+    mc "我有个约会！好吧，是咖啡之约。但希望……"
 
 # game/code/d04/d04s04.rpy:22
 translate chinese d04s04_2d0fd8b4:
 
     # nk "And here I thought I would have you all to myself today."
-    nk "And here I thought I would have you all to myself today."
+    nk "我还以为今天你是我一个人的呢。"
 
 # game/code/d04/d04s04.rpy:23
 translate chinese d04s04_06dc46f8:
 
     # nk "Where is the young lady... {w}or..."
-    nk "Where is the young lady... {w}or..."
+    nk "你要见的那个女孩在哪呢……{w}还是……"
 
 # game/code/d04/d04s04.rpy:25
 translate chinese d04s04_e835b475:
 
     # mc "She should be here soon. I guess I'm a bit early."
-    mc "She should be here soon. I guess I'm a bit early."
+    mc "她应该快到了。我想我来早了一点。"
 
 # game/code/d04/d04s04.rpy:27
 translate chinese d04s04_2f1cb095:
 
     # nk "Or she's just fashionably late. Building up your anticipation."
-    nk "Or she's just fashionably late. Building up your anticipation."
+    nk "或者她只是故意迟到了。好让你有所期待啊。"
 
 # game/code/d04/d04s04.rpy:30
 translate chinese d04s04_0ecba6ca:
 
     # nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
-    nk "Speaking of coffee dates - I really enjoyed that blind date the other night..."
+    nk "说到咖啡之约--我真的很喜欢那天晚上的相亲……"
 
 # game/code/d04/d04s04.rpy:32
 translate chinese d04s04_39623dfe:
 
     # mc "I'm glad. It certainly looked like you were enjoying yourself."
-    mc "I'm glad. It certainly looked like you were enjoying yourself."
+    mc "我很高兴。看起来你确实很享受。"
 
 # game/code/d04/d04s04.rpy:33
 translate chinese d04s04_2a09d57e:
 
     # nk "Uh huh. However..."
-    nk "Uh huh. However..."
+    nk "嗯哼。但是……"
 
 # game/code/d04/d04s04.rpy:35
 translate chinese d04s04_f7385544:
 
     # nk "...you said that you would do something to save my business."
-    nk "...you said that you would do something to save my business."
+    nk "……你说过你会想办法拯救我的生意。"
 
 # game/code/d04/d04s04.rpy:37
 translate chinese d04s04_03ee7119:
 
     # mc "Of course! Of course. I've been a little busy lately..."
-    mc "Of course! Of course. I've been a little busy lately..."
+    mc "当然！当然了。我最近有点忙……"
 
 # game/code/d04/d04s04.rpy:39
 translate chinese d04s04_9d4a3291:
 
     # nk "Funny that. I haven't been."
-    nk "Funny that. I haven't been."
+    nk "有趣。我从来没忙过。"
 
 # game/code/d04/d04s04.rpy:41
 translate chinese d04s04_8cff143e:
 
     # mc "No worries, I've started working on a few ideas. I should have a solution for you soon."
-    mc "No worries, I've started working on a few ideas. I should have a solution for you soon."
+    mc "别担心，我已经开始想办法了。我应该很快就能给你一个解决方案。"
 
 # game/code/d04/d04s04.rpy:43
 translate chinese d04s04_201268d3:
 
     # nk "Well, you're definitely in the right business."
-    nk "Well, you're definitely in the right business."
+    nk "看来你很在行啊。"
 
 # game/code/d04/d04s04.rpy:44
 translate chinese d04s04_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "哦？"
 
 # game/code/d04/d04s04.rpy:45
 translate chinese d04s04_b511c18c:
 
     # nk "My business is mostly about people, getting to know people, learning about people, etc."
-    nk "My business is mostly about people, getting to know people, learning about people, etc."
+    nk "我的生意主要是关于人的，认识人啊，了解人等等。"
 
 # game/code/d04/d04s04.rpy:47
 translate chinese d04s04_19b385a5:
 
     # mc "Makes sense. Baristas are similar to therapists and bartenders."
-    mc "Makes sense. Baristas are similar to therapists and bartenders."
+    mc "有道理。咖啡师类似于治疗师和调酒师。"
 
 # game/code/d04/d04s04.rpy:49
 translate chinese d04s04_5f72f92c:
 
     # nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
-    nk "Yeah, and if I wasn't such a good barista I doubt I could tell that you're spinning me a line of bullshit."
+    nk "是啊，如果我不是一个这么好的咖啡师，我都怀疑我能看出来你在对我说谎。"
 
 # game/code/d04/d04s04.rpy:50
 translate chinese d04s04_94cd8a33:
 
     # mc "Ouch! It hurts me to hear you say that."
-    mc "Ouch! It hurts me to hear you say that."
+    mc "哎喂！听你这么说，很伤心好不。"
 
 # game/code/d04/d04s04.rpy:52
 translate chinese d04s04_6e9f7594:
 
     # nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
-    nk "Look, I don't care what you've done or how you thought this would go, but there won't be any more dates for me - blind or otherwise - until my business starts turning a profit."
+    nk "听着，我不管你做了什么，也不管你认为这事会如何发展，但在我的生意开始盈利之前，我不会再有约会了，不管是相亲还是其他什么。"
 
 # game/code/d04/d04s04.rpy:53
 translate chinese d04s04_26ef33a0:
 
     # mc "Understood. {w}No bullshit. I'll have something for you soon."
-    mc "Understood. {w}No bullshit. I'll have something for you soon."
+    mc "明白了。{w}不废话了。我很快就会有方案给你。"
 
 # game/code/d04/d04s04.rpy:55
 translate chinese d04s04_ee45f0b3:
 
     # nk "I'm glad we cleared that up."
-    nk "I'm glad we cleared that up."
+    nk "我很高兴我们讲明白了这一点。"
 
 # game/code/d04/d04s04.rpy:57
 translate chinese d04s04_19fd9fd2:
 
     # nk "So, what can I get you?"
-    nk "So, what can I get you?"
+    nk "那你想要点什么？"
 
 # game/code/d04/d04s04.rpy:59
 translate chinese d04s04_873d4a94:
 
     # mc "Nothing yet. I'll wait until she gets here."
-    mc "Nothing yet. I'll wait until she gets here."
+    mc "还不用。我等她来了再说。"
 
 # game/code/d04/d04s04.rpy:60
 translate chinese d04s04_84868b50:
 
     # mc "What's the most manly drink a guy can order?"
-    mc "What's the most manly drink a guy can order?"
+    mc "男人能点的最有男人味的饮品是什么？"
 
 # game/code/d04/d04s04.rpy:62
 translate chinese d04s04_d3485f4e:
 
     # nk "Hmm. Looking to put some hair on your chest or make your hair stand up straight?"
-    nk "Hmm. Looking to put some hair on your chest or make your hair stand up straight?"
+    nk "嗯……是想长点胸毛还是想让你的头发竖起来？"
 
 # game/code/d04/d04s04.rpy:63
 translate chinese d04s04_fd03de5c:
 
     # mc "Just trying to impress a girl."
-    mc "Just trying to impress a girl."
+    mc "我只是想给女生留下好印象。"
 
 # game/code/d04/d04s04.rpy:65
 translate chinese d04s04_e959451d:
 
     # nk "In that case, I suggest ordering 5 shots of espresso in a cup."
-    nk "In that case, I suggest ordering 5 shots of espresso in a cup."
+    nk "既然这样，我建议你点5份特浓咖啡。"
 
 # game/code/d04/d04s04.rpy:67
 translate chinese d04s04_d7ef55be:
 
     # mc "Wow! That sounds intense."
-    mc "Wow! That sounds intense."
+    mc "哇！听起来也太猛了吧。"
 
 # game/code/d04/d04s04.rpy:69
 translate chinese d04s04_53ea1830:
 
     # nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
-    nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
+    nk "另一种选择是寡妇制造者，它首先要做双倍的意式浓缩咖啡，然后将浓缩咖啡和咖啡粉倒入杯中……"
 
 # game/code/d04/d04s04.rpy:71
 translate chinese d04s04_ade6968f:
 
     # mc "I don't think I will want to order anything called the Widow Maker while on a date."
-    mc "I don't think I will want to order anything called the Widow Maker while on a date."
+    mc "我大概不会想在约会的时候点任何叫寡妇制造者的东西。"
 
 # game/code/d04/d04s04.rpy:72
 translate chinese d04s04_91a533e0:
 
     # nk "Good point."
-    nk "Good point."
+    nk "有道理。"
 
 # game/code/d04/d04s04.rpy:73
 translate chinese d04s04_23e9114c:
 
     # mc "Alright. Five shots of espresso in a cup. I'll order it when she gets here."
-    mc "Alright. Five shots of espresso in a cup. I'll order it when she gets here."
+    mc "好吧。五份特浓咖啡放一个杯子里。等她来了我再点。"
 
 # game/code/d04/d04s04.rpy:74
 translate chinese d04s04_4cc89a5c:
 
     # mc "There must be an easier name for that drink. What do you call it?"
-    mc "There must be an easier name for that drink. What do you call it?"
+    mc "这种喝的肯定有个更简单的名字。你叫它什么？"
 
 # game/code/d04/d04s04.rpy:76
 translate chinese d04s04_e793b867:
 
     # nk "My Dad's Coffee."
-    nk "My Dad's Coffee."
+    nk "我爸爸的咖啡。"
 
 # game/code/d04/d04s04.rpy:77
 translate chinese d04s04_82f15133:
 
     # mc "Nice!"
-    mc "Nice!"
+    mc "很好！"
 
 # game/code/d04/d04s04.rpy:79
 translate chinese d04s04_bf1f16ab:
 
     # nk "Although, actually, it's only about half as strong as my dad's coffee."
-    nk "Although, actually, it's only about half as strong as my dad's coffee."
+    nk "虽然，实际上，它只有我爸爸的咖啡的一半强度。"
 
 # game/code/d04/d04s04.rpy:80
 translate chinese d04s04_608bef8b:
 
     # mc "That's... a little frightening."
-    mc "That's... a little frightening."
+    mc "那……有点吓人了。"
 
 # game/code/d04/d04s04.rpy:82
 translate chinese d04s04_f3aa3590:
 
     # mct "This is the right coffee shop... she said she'd be here soon..."
-    mct "This is the right coffee shop... she said she'd be here soon..."
+    mct "就是这家咖啡店……她说她很快就会来……"
 
 # game/code/d04/d04s04.rpy:87
 translate chinese d04s04_5c6eb4f8:
 
     # fl "Today's fetish - Enema! Ready your asses!"
-    fl "Today's fetish - Enema! Ready your asses!"
+    fl "今日性趣--灌肠！准备好你们的屁股！"
 
 # game/code/d04/d04s04.rpy:94
 translate chinese d04s04_930de9ee:
 
     # mct "What the hell am I doing?"
-    mct "What the hell am I doing?"
+    mct "我到底在做什么？"
 
 # game/code/d04/d04s04.rpy:95
 translate chinese d04s04_4c3c0bae:
 
     # mct "I thought I uninstalled this app last night... {w}I don't need it anymore."
-    mct "I thought I uninstalled this app last night... {w}I don't need it anymore."
+    mct "我以为我昨晚卸载了这个软件……{w}我不需要它了。"
 
 # game/code/d04/d04s04.rpy:97
 translate chinese d04s04_b3dddbf2:
 
     # mct "It was fun, but the only thing Fetish Locator can do for me now is screw things up with Lydia."
-    mct "It was fun, but the only thing Fetish Locator can do for me now is screw things up with Lydia."
+    mct "它很有趣，但性趣探测器现在唯一能为我做的就是搞砸和莉迪亚的关系。"
 
 # game/code/d04/d04s04.rpy:98
 translate chinese d04s04_72e19a6d:
 
     # mct "Where is she?"
-    mct "Where is she?"
+    mct "她在哪里？"
 
 # game/code/d04/d04s04.rpy:99
 translate chinese d04s04_050567f8:
 
     # mct "Gah! Last night went really well. She's into you. She's not going to stand you up now."
-    mct "Gah! Last night went really well. She's into you. She's not going to stand you up now."
+    mct "哎！昨晚真的很顺利。她喜欢你。她现在不会放你鸽子了。"
 
 # game/code/d04/d04s04.rpy:100
 translate chinese d04s04_370fbfb0:
 
     # mct "Yet there's this little doubt in my mind..."
-    mct "Yet there's this little doubt in my mind..."
+    mct "但我心里有个小小的问号……"
 
 # game/code/d04/d04s04.rpy:101
 translate chinese d04s04_d99c6d54:
 
     # mct "Is this some weird prank? Am I being set up?"
-    mct "Is this some weird prank? Am I being set up?"
+    mct "这是什么奇怪的恶作剧吗？我被陷害了吗？"
 
 # game/code/d04/d04s04.rpy:102
 translate chinese d04s04_da2f4f13:
 
     # mct "No, that makes no sense. What could she gain by that?"
-    mct "No, that makes no sense. What could she gain by that?"
+    mct "不，这说不通。她能从中得到什么好处？"
 
 # game/code/d04/d04s04.rpy:103
 translate chinese d04s04_e37c8440:
 
     # mct "I guess I'm just worried that it'll turn out like what happened to Stacy..."
-    mct "I guess I'm just worried that it'll turn out like what happened to Stacy..."
+    mct "我只是担心事情会变成史黛西那样……"
 
 # game/code/d04/d04s04.rpy:116
 translate chinese d04s04p2_548c0fd2:
 
     # mct "Oh good, there she is!"
-    mct "Oh good, there she is!"
+    mct "太好了，她来了！"
 
 # game/code/d04/d04s04.rpy:118
 translate chinese d04s04p2_b4719a35:
 
     # mc "Your class got cancelled?"
-    mc "Your class got cancelled?"
+    mc "你的课被取消了？"
 
 # game/code/d04/d04s04.rpy:119
 translate chinese d04s04p2_d519f93d:
 
     # lc "Oh, yes. I had forgotten. Prof. Lewald is away for some religious retreat with her daughter."
-    lc "Oh, yes. I had forgotten. Prof. Lewald is away for some religious retreat with her daughter."
+    lc "哦，是的。我都忘了。卢瓦尔德教授和她女儿去宗教静修了。"
 
 # game/code/d04/d04s04.rpy:121
 translate chinese d04s04p2_0b57f3a5:
 
     # mc "I didn't know she had a daughter."
-    mc "I didn't know she had a daughter."
+    mc "我不知道她还有个女儿。"
 
 # game/code/d04/d04s04.rpy:123
 translate chinese d04s04p2_05fa4b13:
 
     # lc "Cynthia. I think you met her last night. She's Prof. Lewald's daughter."
-    lc "Cynthia. I think you met her last night. She's Prof. Lewald's daughter."
+    lc "辛西娅。我想你昨晚已经见过她了。她是卢瓦尔德教授的女儿。"
 
 # game/code/d04/d04s04.rpy:124
 translate chinese d04s04p2_6778124c:
 
     # mc "Huh. Last night Cynthia was at that party, and today she's off to a religious retreat?"
-    mc "Huh. Last night Cynthia was at that party, and today she's off to a religious retreat?"
+    mc "哈。昨晚辛西娅去参加派对了，今天她却去宗教静修了？"
 
 # game/code/d04/d04s04.rpy:126
 translate chinese d04s04p2_08e3dcca:
 
     # lc "You know what they say - it is better to ask forgiveness than ask permission."
-    lc "You know what they say - it is better to ask forgiveness than ask permission."
+    lc "你知道他们说什么--请求原谅比请求许可更好。"
 
 # game/code/d04/d04s04.rpy:127
 translate chinese d04s04p2_8cc105c3:
 
     # mc "I guess so."
-    mc "I guess so."
+    mc "我想是的。"
 
 # game/code/d04/d04s04.rpy:129
 translate chinese d04s04p2_45c3b879:
 
     # lc "How are you feeling?"
-    lc "How are you feeling?"
+    lc "你感觉怎么样？"
 
 # game/code/d04/d04s04.rpy:131
 translate chinese d04s04p2_46df09cd:
 
     # mc "Fine. {w}Couldn't be better. {w}Why do you ask?"
-    mc "Fine. {w}Couldn't be better. {w}Why do you ask?"
+    mc "很好。{w}再好不过了。{{w}Why do you ask?"
 
 # game/code/d04/d04s04.rpy:133
 translate chinese d04s04p2_d643c619:
