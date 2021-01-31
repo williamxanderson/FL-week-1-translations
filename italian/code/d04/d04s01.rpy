@@ -588,5 +588,4 @@ translate italian d04s01_16d522f3:
 translate italian d04s01_0746823b:
 
     # mes "Is someone sleeping in my bushes?"
-    mes "Is someone sleeping in my bushes?"
-
+    mes "C'è una che sta dormendo tra i miei cespugli?!?"

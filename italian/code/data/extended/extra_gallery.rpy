@@ -140,25 +140,24 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Stacy in hell"
-    new "Stacy in hell"
+    new "I dolori della giovane Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Disappoint Stacy"
-    new "Disappoint Stacy"
+    new "Deludi Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"
-    new "Halloween Bonus - Stacy"
+    new "Bonus di Halloween - Stacy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Special"
-    new "Halloween Special"
+    new "Speciale di Halloween"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Jessie"
-    new "Halloween Bonus - Jessie"
+    new "Bonus di Halloween  - Jessie"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Samiya"
-    new "Halloween Bonus - Samiya"
-
+    new "Bonus di Halloween - Samiya"

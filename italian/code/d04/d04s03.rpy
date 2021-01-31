@@ -802,4 +802,4 @@ translate italian strings:
 translate italian d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
-    sy "It's kind of a long story."
+    sy "È una lunga storia."

@@ -631,11 +631,11 @@ translate italian strings:
     # game/d02/s08.rpy:172
     old "Make a counteroffer"
     new "Fai una controproposta"
+    
 # TODO: Translation updated at 2021-01-18 23:09
 
 # game/code/d02/s08.rpy:54
 translate italian d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-
+    mct "Sono qui che aspetto una ragazza che non conosco e che dovrebbe permettermi di leccarle la fica...{w} A pensarci, non ha senso!"
