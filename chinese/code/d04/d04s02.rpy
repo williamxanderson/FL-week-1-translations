@@ -526,7 +526,7 @@ translate chinese d04s02_end_fea9b55c:
 translate chinese d04s02_message_a1361921:
 
     # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc " 嘿，我的课被取消了。你想现在见面喝杯咖啡吗？"
+    lc "嘿，我的课被取消了。你想现在见面喝杯咖啡吗？"
 
 # game/code/d04/d04s02.rpy:284
 translate chinese d04s02_message_dc223cec:
