@@ -292,7 +292,7 @@ translate chinese d04s04_370fbfb0:
 translate chinese d04s04_d99c6d54:
 
     # mct "Is this some weird prank? Am I being set up?"
-    mct "这是什么奇怪的恶作剧吗？我被陷害了吗？"
+    mct "这是什么奇怪的恶作剧吗？我中圈套了吗？"
 
 # game/code/d04/d04s04.rpy:102
 translate chinese d04s04_da2f4f13:
@@ -436,7 +436,7 @@ translate chinese d04s04p2_d726e033:
 translate chinese d04s04p2_aefa6691:
 
     # lc "... but then you disappeared for 2 weeks."
-    lc "…… 但之后你却消失了两个星期。"
+    lc "……但之后你却消失了两个星期。"
 
 # game/code/d04/d04s04.rpy:149
 translate chinese d04s04p2_ec69cde4:
@@ -910,7 +910,7 @@ translate chinese d04s04p2_752a8f69:
 translate chinese d04s04p2_9ffc5c69:
 
     # mc "Hmmm? Oh, sorry. I got lost in thought."
-    mc "嗯？哦，对不起。我陷入了沉思。"
+    mc "嗯？哦，对不起。我刚在想事情。"
 
 # game/code/d04/d04s04.rpy:286
 translate chinese d04s04p2_9b856ea3:
@@ -928,7 +928,7 @@ translate chinese d04s04p2_02e91621:
 translate chinese d04s04p2_a13b55a9:
 
     # mc "I was just wondering if you enjoy singing, or if you just do it because of your parents."
-    mc "我只是想知道你是否喜欢唱歌，还是说只是因为你的父母才唱歌。"
+    mc "我只是想知道你真的喜欢唱歌吗，还是说只是因为你的父母才唱歌。"
 
 # game/code/d04/d04s04.rpy:290
 translate chinese d04s04p2_03b5c3c0:
@@ -1252,7 +1252,7 @@ translate chinese d04s04p2_88e2cb64:
 translate chinese d04s04p2_b1861155:
 
     # mc "Nah, easier than that. I watched the previous years' lectures earlier in the semester."
-    mc "不啊，比那容易。我在学期初看的讲座。"
+    mc "不啊，比那容易。我在学期初看了之前的讲座。"
 
 # game/code/d04/d04s04.rpy:379
 translate chinese d04s04p2_f84582ac:
@@ -1318,7 +1318,7 @@ translate chinese d04s04p2_e8bab788:
 translate chinese d04s04p2_7874576a:
 
     # mc "Unfortunately, there doesn't seem to be a popular time. Everyone knows this place, but nobody comes here."
-    mc "不幸的是，这里几乎 没有生意旺的时候。每个人都知道这个地方，但没人来这里。"
+    mc "不幸的是，这里几乎没有生意旺的时候。每个人都知道这个地方，但没人来这里。"
 
 # game/code/d04/d04s04.rpy:395
 translate chinese d04s04p2_77b97434:
@@ -1384,7 +1384,7 @@ translate chinese d04s04p2_cb3ab0c6:
 translate chinese d04s04p2_19190650:
 
     # mc "The long term goal will rely heavily on my business knowledge and your knowledge of coffee houses, to turn this into a place that prints cash."
-    mc " 长期目标将主要依靠我的商业知识和你对咖啡馆的了解，把这里变成印钞票的地方。"
+    mc "长期目标将主要依靠我的商业知识和你对咖啡馆的了解，把这里变成印钞票的地方。"
 
 # game/code/d04/d04s04.rpy:408
 translate chinese d04s04p2_088e2959:
@@ -1492,7 +1492,7 @@ translate chinese d04s04p2_2195d529:
 translate chinese d04s04p2_94bbc15b:
 
     # mc "Ha! Nope, exploiting your fame is just the cherry on top."
-    mc "哈！不，利用你的名气只是锦上添花。
+    mc "哈！不，利用你的名气只是锦上添花。"
 
 # game/code/d04/d04s04.rpy:435
 translate chinese d04s04p2_279ae76d:
@@ -1564,7 +1564,7 @@ translate chinese d04s04p2_bb0eeaf4:
 translate chinese d04s04p2_2a784a24:
 
     # lc "Alright, let's do this!"
-    lc "好吧，我们开始吧！"
+    lc "好吧，我们大干一场吧！"
 
 # game/code/d04/d04s04.rpy:451
 translate chinese d04s04p2_d79ce8d3:
@@ -2158,7 +2158,7 @@ translate chinese d04s04p2_b68f83f2:
 translate chinese d04s04p2_f2ee4983:
 
     # arj "immasay... immasayy... immasay sometung in port tent."
-    arj "我说哎……喂……我说我后面港口……有东西……"
+    arj "我说哎……喂……我说我后面出口……有东西……"
 
 # game/code/d04/d04s04.rpy:602
 translate chinese d04s04p2_11130935:
