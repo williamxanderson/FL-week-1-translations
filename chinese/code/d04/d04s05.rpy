@@ -4,103 +4,103 @@
 translate chinese replay_d04s05_b5dfac81:
 
     # "2:30 PM"
-    "2:30 PM"
+    "下午两点半"
 
 # game/code/d04/d04s05.rpy:14
 translate chinese replay_d04s05_34f6685f:
 
     # mc "Hello?! {w}AmRose?!"
-    mc "Hello?! {w}AmRose?!"
+    mc "喂?! {w}爱洛丝?!"
 
 # game/code/d04/d04s05.rpy:15
 translate chinese replay_d04s05_6a3aab4f:
 
     # mct "I hope she's here somewhere..."
-    mct "I hope she's here somewhere..."
+    mct "我希望她就在这里的某个地方……"
 
 # game/code/d04/d04s05.rpy:16
 translate chinese replay_d04s05_ced9671a:
 
     # mct "Why doesn't she ever lock her door... {w}I guess I'm lucky that she doesn't."
-    mct "Why doesn't she ever lock her door... {w}I guess I'm lucky that she doesn't."
+    mct "为什么她从不锁门……{w}不过我想她不锁门是我的幸运。"
 
 # game/code/d04/d04s05.rpy:17
 translate chinese replay_d04s05_bfd56ad2:
 
     # mct "If she needs help, I guess she's lucky too."
-    mct "If she needs help, I guess she's lucky too."
+    mct "如果她需要帮助，我想她也很幸运。"
 
 # game/code/d04/d04s05.rpy:18
 translate chinese replay_d04s05_0e03fce9:
 
     # mc "Hello?!"
-    mc "Hello?!"
+    mc "喂?!"
 
 # game/code/d04/d04s05.rpy:26
 translate chinese replay_d04s05_fed45f44:
 
     # fl "Daily Challenge Winner: ErikaRed"
-    fl "Daily Challenge Winner: ErikaRed"
+    fl "今日挑战冠军：红色埃里卡"
 
 # game/code/d04/d04s05.rpy:27
 translate chinese replay_d04s05_30d9c897:
 
     # mct "Oh, that can't be good. {w}I have a bad feeling about this."
-    mct "Oh, that can't be good. {w}I have a bad feeling about this."
+    mct "哦，这可不太妙。{w}我有一种不好的预感。"
 
 # game/code/d04/d04s05.rpy:33
 translate chinese replay_d04s05_a4fcb7ef:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "哦！"
 
 # game/code/d04/d04s05.rpy:38
 translate chinese replay_d04s05_82d7d6e1:
 
     # mc "Oh... {w}boof."
-    mc "Oh... {w}boof."
+    mc "哦……{w}噗。"
 
 # game/code/d04/d04s05.rpy:48
 translate chinese d04s05_friend_330c37f3:
 
     # mc "You must be kidding me."
-    mc "You must be kidding me."
+    mc "你一定是在开玩笑。"
 
 # game/code/d04/d04s05.rpy:53
 translate chinese d04s05_friend_3786f2d9:
 
     # arj "boof..."
-    arj "boof..."
+    arj "噗……"
 
 # game/code/d04/d04s05.rpy:54
 translate chinese d04s05_friend_88367aef:
 
     # mc "Yeah, boof."
-    mc "Yeah, boof."
+    mc "是啊，噗。"
 
 # game/code/d04/d04s05.rpy:57
 translate chinese d04s05_friend_0b1a76f4:
 
     # mc "Well, let's get this out of you."
-    mc "Well, let's get this out of you."
+    mc "好吧，先把这个从你身上弄出来。"
 
 # game/code/d04/d04s05.rpy:75
 translate chinese d04s05_friend_c49be0b2:
 
     # mc "Oh, wow. {w}It's just... everywhere."
-    mc "Oh, wow. {w}It's just... everywhere."
+    mc "哦，哇。{{w}真是……到处都是。"
 
 # game/code/d04/d04s05.rpy:77
 translate chinese d04s05_friend_f5cc267e:
 
     # mc "Behold, the cleaning power of alcohol!"
-    mc "Behold, the cleaning power of alcohol!"
+    mc "看哪，酒精的清洁力！"
 
 # game/code/d04/d04s05.rpy:79
 translate chinese d04s05_friend_f4679148:
 
     # mc "Alright, let's get you cleaned up... "
-    mc "Alright, let's get you cleaned up... "
+    mc "好吧，我来帮你清理一下……"
 
 # game/code/d04/d04s05.rpy:88
 translate chinese d04s05_friend_0c7b4226:
@@ -112,289 +112,289 @@ translate chinese d04s05_friend_0c7b4226:
 translate chinese d04s05_friend_950418e5:
 
     # mc "It's okay, AmRose. I'm here for you."
-    mc "It's okay, AmRose. I'm here for you."
+    mc "没事的，爱洛丝。我在这里陪你。"
 
 # game/code/d04/d04s05.rpy:92
 translate chinese d04s05_friend_10f8084c:
 
     # arj "What happened?"
-    arj "What happened?"
+    arj "发生了什么？"
 
 # game/code/d04/d04s05.rpy:93
 translate chinese d04s05_friend_afabb7ed:
 
     # mc "You... well... {w}Let's talk about that later."
-    mc "You... well... {w}Let's talk about that later."
+    mc "你……嗯……{w}以后再说吧。"
 
 # game/code/d04/d04s05.rpy:95
 translate chinese d04s05_friend_25dfb1b8:
 
     # arj "Oh... okay."
-    arj "Oh... okay."
+    arj "哦……好吧。"
 
 # game/code/d04/d04s05.rpy:97
 translate chinese d04s05_friend_c201e195:
 
     # mc "AmRose, can you hear me?"
-    mc "AmRose, can you hear me?"
+    mc "爱洛丝，你能听到我说话吗？"
 
 # game/code/d04/d04s05.rpy:98
 translate chinese d04s05_friend_3d02e260:
 
     # arj "Sure..."
-    arj "Sure..."
+    arj "当然……"
 
 # game/code/d04/d04s05.rpy:99
 translate chinese d04s05_friend_bd645bd5:
 
     # mc "I need you to start singing."
-    mc "I need you to start singing."
+    mc "我需要你开始唱歌。"
 
 # game/code/d04/d04s05.rpy:100
 translate chinese d04s05_friend_60a883c2:
 
     # arj "Sure... why?"
-    arj "Sure... why?"
+    arj "可以……为什么啊？"
 
 # game/code/d04/d04s05.rpy:101
 translate chinese d04s05_friend_31aaeafa:
 
     # mc "I need to clean something up, but I don't want you to drown."
-    mc "I need to clean something up, but I don't want you to drown."
+    mc "我要去把那些东西清理掉，这边我又不想让你淹死。"
 
 # game/code/d04/d04s05.rpy:103
 translate chinese d04s05_friend_915f75eb:
 
     # arj "Right. {w}Can't drown if I'm singing."
-    arj "Right. {w}Can't drown if I'm singing."
+    arj "对哦。{w}如果我在唱歌，就不会淹死。"
 
 # game/code/d04/d04s05.rpy:104
 translate chinese d04s05_friend_b770b1a3:
 
     # mc "Or at least I'll hear you stop singing and come running."
-    mc "Or at least I'll hear you stop singing and come running."
+    mc "或者至少我听到你停下唱歌时，就立马跑过来。"
 
 # game/code/d04/d04s05.rpy:105
 translate chinese d04s05_friend_2129b5ce:
 
     # arj "la lala lala..."
-    arj "la lala lala..."
+    arj "啦啦啦……"
 
 # game/code/d04/d04s05.rpy:106
 translate chinese d04s05_friend_313e70ca:
 
     # mc "Perfect. I'll be right back."
-    mc "Perfect. I'll be right back."
+    mc "完美，我马上回来。"
 
 # game/code/d04/d04s05.rpy:108
 translate chinese d04s05_friend_bf50a538:
 
     # mct "Let's clean this mess up..."
-    mct "Let's clean this mess up..."
+    mct "让我们把这个烂摊子收拾一下……"
 
 # game/code/d04/d04s05.rpy:111
 translate chinese d04s05_friend_4b90c85c:
 
     # arj "...scrub is a guy who can't get no love from me.."
-    arj "...scrub is a guy who can't get no love from me.."
+    arj "……我不会爱上这样的人……"
 
 # game/code/d04/d04s05.rpy:112
 translate chinese d04s05_friend_0409512d:
 
     # arj "...hangin' out the passenger side..."
-    arj "...hangin' out the passenger side..."
+    arj "……挂在副驾驶上……"
 
 # game/code/d04/d04s05.rpy:116
 translate chinese d04s05_friend_a8ee7f67:
 
     # arj "...of his best friends' ride..."
-    arj "...of his best friends' ride..."
+    arj "……他最好朋友的车……"
 
 # game/code/d04/d04s05.rpy:118
 translate chinese d04s05_friend_5120ac5f:
 
     # arj "...trying to holla at EEEKKK!"
-    arj "...trying to holla at EEEKKK!"
+    arj "……对我大喊大叫--！"
 
 # game/code/d04/d04s05.rpy:119
 translate chinese d04s05_friend_e9ba60a2:
 
     # mc "What is it?!"
-    mc "What is it?!"
+    mc "怎么了?!"
 
 # game/code/d04/d04s05.rpy:120
 translate chinese d04s05_friend_f156451a:
 
     # arj "WHAT ARE YOU DOING HERE!?!"
-    arj "WHAT ARE YOU DOING HERE!?!"
+    arj "你在这里干嘛!?!"
 
 # game/code/d04/d04s05.rpy:121
 translate chinese d04s05_friend_4872be90:
 
     # mc "Helping you, dummy!"
-    mc "Helping you, dummy!"
+    mc "帮你啊，笨蛋！"
 
 # game/code/d04/d04s05.rpy:123
 translate chinese d04s05_friend_06c86ad6:
 
     # arj "Gah! Turn around, turn around, turn around!"
-    arj "Gah! Turn around, turn around, turn around!"
+    arj "啊！转过去，快转身，转身！ "
 
 # game/code/d04/d04s05.rpy:125
 translate chinese d04s05_friend_a1327fe2:
 
     # mc "Okay, okay... just chill out..."
-    mc "Okay, okay... just chill out..."
+    mc "好了，好了……冷静点……"
 
 # game/code/d04/d04s05.rpy:127
 translate chinese d04s05_friend_911363a1:
 
     # arj "What are you doing here?"
-    arj "What are you doing here?"
+    arj "你在这里做什么？"
 
 # game/code/d04/d04s05.rpy:128
 translate chinese d04s05_friend_b7f1da3f:
 
     # mc "You called me. You needed help."
-    mc "You called me. You needed help."
+    mc "你叫我来的。你需要帮助。"
 
 # game/code/d04/d04s05.rpy:129
 translate chinese d04s05_friend_ef8ae21a:
 
     # arj "I did?"
-    arj "I did?"
+    arj "我有吗？"
 
 # game/code/d04/d04s05.rpy:131
 translate chinese d04s05_friend_2c3129e1:
 
     # mc "You were passed out drunk over your couch... I carried you in here to clean up."
-    mc "You were passed out drunk over your couch... I carried you in here to clean up."
+    mc "你在沙发上醉倒了……我把你抱到这里来清理一下。"
 
 # game/code/d04/d04s05.rpy:132
 translate chinese d04s05_friend_25a4de97:
 
     # arj "oh... {w}still... {w}I'm naked in here."
-    arj "oh... {w}still... {w}I'm naked in here."
+    arj "哦……{w}我还是……{w}我现在是光着身子呢。"
 
 # game/code/d04/d04s05.rpy:134
 translate chinese d04s05_friend_f60cae3e:
 
     # mct "I probably shouldn't tell her that I took a bottle out of her ass."
-    mct "I probably shouldn't tell her that I took a bottle out of her ass."
+    mct "我也许不该告诉她我从她屁股里拿出个瓶子。"
 
 # game/code/d04/d04s05.rpy:136
 translate chinese d04s05_friend_a125affc:
 
     # mct "I probably shouldn't tell her what she looked like when I found her."
-    mct "I probably shouldn't tell her what she looked like when I found her."
+    mct "我也许不该告诉她我发现她时她那个样子。"
 
 # game/code/d04/d04s05.rpy:139
 translate chinese d04s05_friend_2abd92a8:
 
     # mc "So... do you want to tell me what's going on?"
-    mc "So... do you want to tell me what's going on?"
+    mc "那……你想告诉我发生了什么事吗？"
 
 # game/code/d04/d04s05.rpy:140
 translate chinese d04s05_friend_e92c4049:
 
     # arj "Oh... not much... you know, the usual."
-    arj "Oh... not much... you know, the usual."
+    arj "哦……没什么……你知道的，就很平常的事。"
 
 # game/code/d04/d04s05.rpy:141
 translate chinese d04s05_friend_8d94668e:
 
     # mc "You usually pass out drunk and half naked in front of your laptop?"
-    mc "You usually pass out drunk and half naked in front of your laptop?"
+    mc "你平常会醉醺醺地半裸着身子晕倒在笔记本前吗？"
 
 # game/code/d04/d04s05.rpy:143
 translate chinese d04s05_friend_b36742de:
 
     # arj "No... I... {w}I'm sorry, [mcname]. This has all gotten out of control."
-    arj "No... I... {w}I'm sorry, [mcname]. This has all gotten out of control."
+    arj "不，我……{w}对不起，[mcname]。一切都乱套了。"
 
 # game/code/d04/d04s05.rpy:145
 translate chinese d04s05_friend_7a772215:
 
     # arj "I never wanted you to see me like this."
-    arj "I never wanted you to see me like this."
+    arj "我从来都不想让你看到我这个样子。"
 
 # game/code/d04/d04s05.rpy:146
 translate chinese d04s05_friend_c91c24c6:
 
     # mc "Go ahead - you can talk about it. You know I won't judge you harshly."
-    mc "Go ahead - you can talk about it. You know I won't judge you harshly."
+    mc "没事--你可以说说看。你知道我不会苛责你的。"
 
 # game/code/d04/d04s05.rpy:147
 translate chinese d04s05_friend_2a0b85e9:
 
     # arj "Okay, so..."
-    arj "Okay, so..."
+    arj "好吧，那么……"
 
 # game/code/d04/d04s05.rpy:151
 translate chinese d04s05_slut_17bf6cdf:
 
     # mc "Who would do this to themselves?"
-    mc "Who would do this to themselves?"
+    mc "谁会这样对自己？"
 
 # game/code/d04/d04s05.rpy:156
 translate chinese d04s05_slut_3786f2d9:
 
     # arj "boof..."
-    arj "boof..."
+    arj "噗……"
 
 # game/code/d04/d04s05.rpy:157
 translate chinese d04s05_slut_88367aef:
 
     # mc "Yeah, boof."
-    mc "Yeah, boof."
+    mc "是啊，噗。"
 
 # game/code/d04/d04s05.rpy:160
 translate chinese d04s05_slut_73c3936e:
 
     # mc "Alright. Time to take this bottle out of your drunk ass."
-    mc "Alright. Time to take this bottle out of your drunk ass."
+    mc "好吧。是时候把酒瓶从你的醉鬼屁股里拿出来了。"
 
 # game/code/d04/d04s05.rpy:172
 translate chinese d04s05_slut_f6199b96:
 
     # mc "Oh... seriously?"
-    mc "Oh... seriously?"
+    mc "哦……认真的吗？"
 
 # game/code/d04/d04s05.rpy:178
 translate chinese d04s05_slut_522bc9e4:
 
     # mc "It's just... everywhere."
-    mc "It's just... everywhere."
+    mc "真是……到处都是。"
 
 # game/code/d04/d04s05.rpy:180
 translate chinese d04s05_slut_03af3e1b:
 
     # mc "At least the alcohol should sterilize... everything else."
-    mc "At least the alcohol should sterilize... everything else."
+    mc "至少酒精应该消毒……别的东西。"
 
 # game/code/d04/d04s05.rpy:183
 translate chinese d04s05_slut_39b56a17:
 
     # mc "I get it, you're drunk... but what is that awful smell?"
-    mc "I get it, you're drunk... but what is that awful smell?"
+    mc "我明白了，你喝醉了……但这股可怕的味道是什么？"
 
 # game/code/d04/d04s05.rpy:185
 translate chinese d04s05_slut_3641fc30:
 
     # mct "Hmm... {w}She is naked and passed out..."
-    mct "Hmm... {w}She is naked and passed out..."
+    mct "嗯……{w}她一丝不挂，还晕过去了……"
 
 # game/code/d04/d04s05.rpy:187
 translate chinese d04s05_slut_ee86c189:
 
     # mct "no... {w}I would hate myself if I did that."
-    mct "no... {w}I would hate myself if I did that."
+    mct "不行……{w}如果这样做了，我会恨自己的。"
 
 # game/code/d04/d04s05.rpy:190
 translate chinese d04s05_slut_e0df35d9:
 
     # mc "Alright, let's get you... somewhat cleaner, at least."
-    mc "Alright, let's get you... somewhat cleaner, at least."
+    mc "好吧，让我来帮你……至少要干净一些吧。"
 
 # game/code/d04/d04s05.rpy:196
 translate chinese d04s05_slut_0c7b4226:
@@ -406,25 +406,25 @@ translate chinese d04s05_slut_0c7b4226:
 translate chinese d04s05_slut_2123b37b:
 
     # mc "Yeah, I've got you."
-    mc "Yeah, I've got you."
+    mc "嗯哼，我在这呢。"
 
 # game/code/d04/d04s05.rpy:200
 translate chinese d04s05_slut_10f8084c:
 
     # arj "What happened?"
-    arj "What happened?"
+    arj "发生了什么事？"
 
 # game/code/d04/d04s05.rpy:201
 translate chinese d04s05_slut_c91ba5a1:
 
     # mc "You... {w}You'll figure it out."
-    mc "You... {w}You'll figure it out."
+    mc "你……{w}你会想明白的。"
 
 # game/code/d04/d04s05.rpy:203
 translate chinese d04s05_slut_a841da30:
 
     # arj "Oh."
-    arj "Oh."
+    arj "哦。"
 
 # game/code/d04/d04s05.rpy:205
 translate chinese d04s05_slut_c201e195:
