@@ -100,7 +100,7 @@ translate chinese replay_d04s07_e8ea38e9:
 translate chinese replay_d04s07_da596dc3:
 
     # nk "Ha! Is it working?"
-    nk ""哈！有用吗？"
+    nk "哈！有用吗？"
 
 # game/code/d04/d04s07.rpy:42
 translate chinese replay_d04s07_05cf0854:
