@@ -28,19 +28,19 @@ translate chinese d04s08_9baa9f19:
 translate chinese d04s08_82d2c6ef:
 
     # mct "I could've sworn I uninstalled this app last night, but apparently not."
-    mct "我发誓我昨晚卸载了这个应用程序，但显然没有。"
+    mct "我发誓我昨晚卸载了这个软件，但显然没有。"
 
 # game/code/d04/d04s08.rpy:22
 translate chinese d04s08_c8705167:
 
     # mct "That Party was pretty fun, but I can probably swing an invite next time without the points."
-    mct "那个派对挺好玩的，不过我下次可能不用积分就能摆出邀请函了。"
+    mct "那个派对挺好玩的，不过我下次可能不用点数就能获得邀请函了。"
 
 # game/code/d04/d04s08.rpy:23
 translate chinese d04s08_46b05766:
 
     # mct "Things are going really well with Lydia. It wouldn't be a good idea to keep playing these games while trying to date her."
-    mct "我和莉迪亚相处得很好。在和她约会的时候继续玩这些游戏可不是个好主意。"
+    mct "我和莉迪亚相处得很好。在和她约会的时候继续这些挑战可不是个好主意。"
 
 # game/code/d04/d04s08.rpy:24
 translate chinese d04s08_22ae40cd:
@@ -58,7 +58,7 @@ translate chinese d04s08_aeeeef00:
 translate chinese d04s08_36ce48db:
 
     # mct "Honestly, I'm not sure I believe her. It could just be an excuse because I caught her... like that."
-    mct "说实话，我不太相信她。这可能只是个借口，因为她被我抓个……正着"
+    mct "说实话，我不太相信她。这可能只是个借口，因为她被我抓个……正着。"
 
 # game/code/d04/d04s08.rpy:27
 translate chinese d04s08_00aa0f95:
@@ -70,7 +70,7 @@ translate chinese d04s08_00aa0f95:
 translate chinese d04s08_270b718c:
 
     # mct "It's not like I would post anything like whatever it is she did, but there is that one photo."
-    mct "我不可能把她做的事发到网上去，但是有一张照片。"
+    mct "我不可能把她做的事发到网上去，但是我有一张照片。"
 
 # game/code/d04/d04s08.rpy:29
 translate chinese d04s08_6d2e78be:
@@ -88,7 +88,7 @@ translate chinese d04s08_96747bf1:
 translate chinese d04s08_219c8f8c:
 
     # mct "I can always reinstall it later if I change my mind."
-    mct "以后如果我改变主意，随时可以重新安装。"
+    mct "以后如果我改变主意，随时可以重新安装呀。"
 
 # game/code/d04/d04s08.rpy:33
 translate chinese d04s08_5a41dee4:
@@ -106,7 +106,7 @@ translate chinese d04s08_6c926800:
 translate chinese d04s08_03c9334d:
 
     # mct "What? It's still there."
-    mct "什么，它还在。"
+    mct "什么？它还在。"
 
 # game/code/d04/d04s08.rpy:46
 translate chinese d04s08_7499f0e5:
@@ -184,7 +184,7 @@ translate chinese d04s08_bonus_5ff58222:
 translate chinese d04s08_bonus_972a30b9:
 
     # flr "These challenges will continue for the duration of the Fetish Locator Experimental Phase."
-    flr "在性趣探测器实验阶段，这些挑战还将继续。"
+    flr "在性趣探测器实验阶段，这些挑战仍将继续。"
 
 # game/code/d04/d04s08.rpy:69
 translate chinese d04s08_bonus_78089584:
@@ -196,7 +196,7 @@ translate chinese d04s08_bonus_78089584:
 translate chinese d04s08_bonus_75367008:
 
     # flr "Repeated failure to meet these challenges will result in total exposure."
-    flr "屡次失败将导致全面曝光。"
+    flr "屡次失败将导致个人的全面曝光。"
 
 # game/code/d04/d04s08.rpy:72
 translate chinese d04s08_bonus_cbbea653:
