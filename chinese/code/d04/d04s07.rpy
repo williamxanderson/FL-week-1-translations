@@ -118,7 +118,7 @@ translate chinese replay_d04s07_585095f2:
 translate chinese replay_d04s07_517bacbe:
 
     # mc "Believe me, if it was just me, I wouldn't hesitate to-"
-    mc "相信我，如果只有我一个人，我会毫不犹豫地--"
+    mc "相信我，如果真是我的话，我会毫不犹豫地--"
 
 # game/code/d04/d04s07.rpy:46
 translate chinese replay_d04s07_06796aad:
@@ -214,7 +214,7 @@ translate chinese d04s08_after_077e499d:
 translate chinese d04s08_after_3f844f5b:
 
     # nk "That was... I've never cum from my butt before."
-    nk "刚是……我从来没有从屁股里射过精。"
+    nk "刚是……我屁股从来没这么爽过。"
 
 # game/code/d04/d04s07.rpy:164
 translate chinese d04s08_after_69e61db8:
@@ -268,7 +268,7 @@ translate chinese d04s08_after_321b3149:
 translate chinese d04s08_after_39bbd1a2:
 
     # mc "Okay. See you soon."
-    mc "好的，再见。"
+    mc "好的，再见啦。"
 
 # game/code/d04/d04s07.rpy:177
 translate chinese d04s08_after_86b00baf:
@@ -298,7 +298,7 @@ translate chinese d04s08_after_966a7a5d:
 translate chinese d04s08_after_0d467987:
 
     # mc "What was that for?"
-    mc "那是为什么？"
+    mc "你这是干嘛啊？"
 
 # game/code/d04/d04s07.rpy:194
 translate chinese d04s08_after_d6a03070:
@@ -310,13 +310,13 @@ translate chinese strings:
 
     # game/code/d04/d04s07.rpy:105
     old "Just Look"
-    new "看看吧"
+    new "看看就好了"
 
     # game/code/d04/d04s07.rpy:105
     old "Finger her Pussy"
-    new "用手摸她的小穴"
+    new "用手插她的小穴"
 
     # game/code/d04/d04s07.rpy:105
     old "Finger her Anus"
-    new "用手摸她的肛门"
+    new "用手插她的肛门"
 
