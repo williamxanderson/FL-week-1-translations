@@ -238,7 +238,7 @@ translate chinese replay_d04s06_c49805ab:
 translate chinese replay_d04s06_4622ebdd:
 
     # mc "Why don't we get more comfortable... take off your shirt."
-    mc "为什么我们不能更舒服一点……把衬衫脱了。"
+    mc "为什么我们不能更舒服一点……把上衣脱了。"
 
 # game/code/d04/d04s06.rpy:70
 translate chinese replay_d04s06_28b700a9:
@@ -250,7 +250,7 @@ translate chinese replay_d04s06_28b700a9:
 translate chinese replay_d04s06_58cb09e4:
 
     # mc "Take off your shirt."
-    mc "脱掉你的衬衫。"
+    mc "脱掉你的上衣。"
 
 # game/code/d04/d04s06.rpy:77
 translate chinese replay_d04s06_a632287c:
@@ -280,7 +280,7 @@ translate chinese replay_d04s06_c3825ec8:
 translate chinese replay_d04s06_1fdcad24:
 
     # mc "She probably wouldn't even hide her tits with a handbra."
-    mc "她可能都不用戴胸罩来藏奶子。"
+    mc "她可能都不会用手来藏奶子。"
 
 # game/code/d04/d04s06.rpy:84
 translate chinese replay_d04s06_f7473cfd:
@@ -376,7 +376,7 @@ translate chinese replay_d04s06_ab234c13:
 translate chinese replay_d04s06_1e71411e:
 
     # mc "I'm guessing that's why you go around with no underwear. Especially when you are wearing those short skirts. Is it better when you know you are flashing someone, or when you get home and don't know how many people looked up your skirt?"
-    mc "我猜这就是你不穿内裤到处走的原因吧。尤其是你穿短裙的时候。是你知道你在对着某人炫耀的时候感觉好，还是当你回到家却不知道有多少人在偷看你的裙子的时候，你的感觉会更好？"
+    mc "我猜这就是你不穿内裤到处走的原因吧。尤其是你穿短裙的时候。是你知道你在故意给某人走光的时候感觉好，还是当你回到家却不知道有多少人在偷看你的裙子的时候，你的感觉会更好？"
 
 # game/code/d04/d04s06.rpy:106
 translate chinese replay_d04s06_2e651130:
@@ -388,7 +388,7 @@ translate chinese replay_d04s06_2e651130:
 translate chinese replay_d04s06_c2c68921:
 
     # mc "I'm guessing you only go out and flash someone when you get frustrated; when you can't remember scenarios where someone might have been looking up your skirt."
-    mc "我猜你只有在感到沮丧的时候才会出去漏给谁看，当你不记得可能有人在打量你的裙子的场景时。"
+    mc "我猜你只有在感到沮丧的时候才会出去走光给谁看，当你不记得可能有人在打量你的裙子时。"
 
 # game/code/d04/d04s06.rpy:109
 translate chinese replay_d04s06_2c3ba071:
@@ -454,7 +454,7 @@ translate chinese replay_d04s06_a5766cad_1:
 translate chinese replay_d04s06_74343d0b:
 
     # mc "Probably about half the time he's here, he comes stumbling in with one or two women and they get right to it whether I'm here or not."
-    mc "他在这里的时候，多半都是带着一两个女人冲进来，不管我在不在，她们都会直奔主题。"
+    mc "他在这里的时候，多半都是带着一两个女人冲进来，不管我在不在，他们都会直奔主题。"
 
 # game/code/d04/d04s06.rpy:121
 translate chinese replay_d04s06_c1b794f3:
@@ -508,7 +508,7 @@ translate chinese replay_d04s06_b6ae3c59:
 translate chinese replay_d04s06_5bdcc5bf:
 
     # pw "No. I've had toys, fingers, even a dildo up there, but no cocks."
-    pw "不，我有过玩具，手指，甚至有假阳具，但没有真的鸡巴。"
+    pw "不，我有过玩具，手指，甚至有假老二，但不要真的鸡巴。"
 
 # game/code/d04/d04s06.rpy:134
 translate chinese replay_d04s06_8cbdcac0:
@@ -544,19 +544,19 @@ translate chinese replay_d04s06_e250249c:
 translate chinese replay_d04s06_e2a005fb:
 
     # pw "Well, my favorite... I like to fantasize about pegging a guy while I'm being fucked by a girl wearing a strap-on."
-    pw "嗯，我最喜欢的……。我喜欢幻想我被一个戴着假阳具的女孩操时，把一个男人钉在那里。"
+    pw "嗯，我最喜欢的……我喜欢幻想我被一个戴着假鸡巴的女孩操时，和一个男人在一起。"
 
 # game/code/d04/d04s06.rpy:143
 translate chinese replay_d04s06_d101c015:
 
     # mc "Do you own a strap-on?"
-    mc "你有假阳具吗？"
+    mc "你有假老二吗？"
 
 # game/code/d04/d04s06.rpy:145
 translate chinese replay_d04s06_bf24fbeb:
 
     # pw "Yes. Do you want me to fuck you with it?"
-    pw "有啊，你想让我用它干你吗？"
+    pw "有啊，你想让我用它跟你来一发吗？"
 
 # game/code/d04/d04s06.rpy:152
 translate chinese replay_d04s06_575592eb:
@@ -616,7 +616,7 @@ translate chinese replay_d04s06_e4cf77f4:
 translate chinese replay_d04s06_a80abb1d:
 
     # mc "You prefer rimming someone, or getting a rimjob?"
-    mc "你更喜欢舔别人肛，还是被人舔肛？"
+    mc "你更喜欢舔别人肛，还是被人舔？"
 
 # game/code/d04/d04s06.rpy:165
 translate chinese replay_d04s06_3bc143f7:
@@ -634,13 +634,13 @@ translate chinese replay_d04s06_6202982c:
 translate chinese replay_d04s06_8bd39099:
 
     # pw "Oh, god, no... not... no. I just meant you are really good at munching carpet."
-    pw "哦，天啊，不……不……不是。我只是说你真的很会啃别人下面地毯。"
+    pw "哦，天啊，不……不……不是。我只是说你真的很会舔别人下面。"
 
 # game/code/d04/d04s06.rpy:169
 translate chinese replay_d04s06_a38bbdec:
 
     # mc "What about providing oral?"
-    mc "那提供口交呢？"
+    mc "你喜欢用嘴巴干什么呢？"
 
 # game/code/d04/d04s06.rpy:171
 translate chinese replay_d04s06_489828c2:
@@ -652,7 +652,7 @@ translate chinese replay_d04s06_489828c2:
 translate chinese replay_d04s06_5bcd249e:
 
     # mc "And sucking cock?"
-    mc "那舔鸡巴呢？"
+    mc "那舔老二呢？"
 
 # game/code/d04/d04s06.rpy:173
 translate chinese replay_d04s06_bbdab8bf:
@@ -664,13 +664,13 @@ translate chinese replay_d04s06_bbdab8bf:
 translate chinese replay_d04s06_365d7279:
 
     # mc "What about sucking a dildo, like if a girl is wearing a strap-on?"
-    mc "那吸假阳具呢，就像女孩戴着它一样？"
+    mc "吸假老二怎么样，就像女孩戴着它一样？"
 
 # game/code/d04/d04s06.rpy:176
 translate chinese replay_d04s06_339ff27d:
 
     # pw "That could be hot... I get what you're saying, maybe I just haven't sucked the right cock, or maybe there's just something about a real penis that doesn't taste right."
-    pw "那可能会很性感……我明白你的意思，但也许我吸的鸡巴不对，或者也许真的鸡巴有什么不对劲的地方。"
+    pw "那可能会很性感……我明白你的意思，但也许我吸的老二不对吧，或者也许真的老二有什么不对劲的地方。"
 
 # game/code/d04/d04s06.rpy:177
 translate chinese replay_d04s06_bfc8cb55:
@@ -682,7 +682,7 @@ translate chinese replay_d04s06_bfc8cb55:
 translate chinese replay_d04s06_a7b52ebf:
 
     # pw "I'm not sure... that would probably be better than just sucking dick."
-    pw "我不确定……那可能比只舔鸡巴好多了。"
+    pw "我不确定……那可能比舔鸡巴好多了。"
 
 # game/code/d04/d04s06.rpy:179
 translate chinese replay_d04s06_a31340dd:
@@ -712,7 +712,7 @@ translate chinese replay_d04s06_bc83fcbe:
 translate chinese replay_d04s06_7ead4714:
 
     # mc "Oh, look at the time. {w}We should go meet Nora."
-    mc "哦，看看都几点了。{w我们该去见诺拉了。"
+    mc "哦，看看都几点了。{w}我们该去见诺拉了。"
 
 # game/code/d04/d04s06.rpy:186
 translate chinese replay_d04s06_28b700a9_1:
@@ -736,7 +736,7 @@ translate chinese replay_d04s06_6ef2f7de:
 translate chinese replay_d04s06_3ea05d65:
 
     # mc "You might want to put your shirt back on."
-    mc "你可能需要把衬衫穿回去。"
+    mc "你可能需要把衣服穿回去。"
 
 # game/code/d04/d04s06.rpy:191
 translate chinese replay_d04s06_8aa2f7a7:
