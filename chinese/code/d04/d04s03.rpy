@@ -100,7 +100,7 @@ translate chinese d04s03_5d2361e8:
 translate chinese d04s03_f72b28f4:
 
     # mc "Hey Stacy, I know I haven't been a good friend lately."
-    mc " 嘿，史黛西，我知道自己近来身为好朋友不太尽职。"
+    mc "嘿，史黛西，我知道自己近来身为好朋友不太尽职。"
 
 # game/code/d04/d04s03.rpy:45
 translate chinese d04s03_035775f9:
@@ -232,7 +232,7 @@ translate chinese d04s03_b436a59c:
 translate chinese d04s03_35bdb3b9:
 
     # sy "Until one day, when we were studying. He went out to talk to someone on the phone. And I was able to hear his conversation."
-    sy " 直到有一天，当我们在学习时， 他出去和别人打电话了。我听到了他的对话。"
+    sy "直到有一天，当我们在学习时， 他出去和别人打电话了。我听到了他的对话。"
 
 # game/code/d04/d04s03.rpy:80
 translate chinese d04s03_d305811a:
