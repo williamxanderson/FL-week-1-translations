@@ -238,7 +238,7 @@ translate chinese d04s05_friend_4872be90:
 translate chinese d04s05_friend_06c86ad6:
 
     # arj "Gah! Turn around, turn around, turn around!"
-    arj "啊！转过去，快转身，转身！ "
+    arj "啊！转过去，快转身，转身！"
 
 # game/code/d04/d04s05.rpy:125
 translate chinese d04s05_friend_a1327fe2:
@@ -430,7 +430,7 @@ translate chinese d04s05_slut_a841da30:
 translate chinese d04s05_slut_c201e195:
 
     # mc "AmRose, can you hear me?"
-    mc "爱洛丝，你能听到我说话吗？ "
+    mc "爱洛丝，你能听到我说话吗？"
 
 # game/code/d04/d04s05.rpy:206
 translate chinese d04s05_slut_3d02e260:
@@ -466,7 +466,7 @@ translate chinese d04s05_slut_75422852:
 translate chinese d04s05_slut_66b01ce7:
 
     # mc "...Terrific."
-    mc " ……了不起。"
+    mc "……了不起。"
 
 # game/code/d04/d04s05.rpy:214
 translate chinese d04s05_slut_4acff22f:
@@ -484,7 +484,7 @@ translate chinese d04s05_slut_a2c2cec3:
 translate chinese d04s05_slut_543223d6:
 
     # mct "oh great, she's singing."
-    mct " 哦，好极了，她在唱歌。"
+    mct "哦，好极了，她在唱歌。"
 
 # game/code/d04/d04s05.rpy:219
 translate chinese d04s05_slut_1a9b0b35:
@@ -514,7 +514,7 @@ translate chinese d04s05_slut_96ebdd4c:
 translate chinese d04s05_slut_4bb9ca48:
 
     # mct "She's never going to perform a concert, but it's not bad."
-    mct "虽说她永远不会开演唱会，但也不差。 "
+    mct "虽说她永远不会开演唱会，但也不差。"
 
 # game/code/d04/d04s05.rpy:226
 translate chinese d04s05_slut_1a9b0b35_1:
@@ -688,7 +688,7 @@ translate chinese d04s05_confession_1f8d2ef6:
 translate chinese d04s05_confession_b8405d35:
 
     # arj "Meanwhile I had signed into the app, but hadn't done anything... I just saw what the daily challenges were and the usernames of the winners."
-    arj "同时我已经登录了软件，但什么都没做……我只是看到了每日挑战内容，还有获胜者的用户名。 "
+    arj "同时我已经登录了软件，但什么都没做……我只是看到了每日挑战内容，还有获胜者的用户名。"
 
 # game/code/d04/d04s05.rpy:272
 translate chinese d04s05_confession_e0cd4abe:
@@ -712,7 +712,7 @@ translate chinese d04s05_confession_4c9c62dd:
 translate chinese d04s05_confession_616466d0:
 
     # arj "Are you listening or did you fall asleep?"
-    arj "你是还在听还是睡着了？ "
+    arj "你是还在听还是睡着了？"
 
 # game/code/d04/d04s05.rpy:278
 translate chinese d04s05_confession_2c5d7fac:
@@ -748,7 +748,7 @@ translate chinese d04s05_confession_ea52d12f:
 translate chinese d04s05_confession_9d873ae7:
 
     # arj "Right, so then your... Stacy called me. I was so relieved."
-    arj " 对，然后你的……史黛西给我打电话了。我松了一口气。 "
+    arj " 对，然后你的……史黛西给我打电话了。我松了一口气。"
 
 # game/code/d04/d04s05.rpy:287
 translate chinese d04s05_confession_e01a88b2:
@@ -808,7 +808,7 @@ translate chinese d04s05_confession_8ee70055:
 translate chinese d04s05_confession_5d6f647a:
 
     # arj "Yes, now just stop asking, okay?"
-    arj " 对，现在不要再问了，好吗？"
+    arj "对，现在不要再问了，好吗？"
 
 # game/code/d04/d04s05.rpy:302
 translate chinese d04s05_confession_2bd45108:
@@ -850,7 +850,7 @@ translate chinese d04s05_confession_ee87e6f3:
 translate chinese d04s05_confession_fc30ef09:
 
     # arj "...yeah... I kinda took photos of myself for the Fetish Locator app."
-    arj "……是的……我给自己拍了一些照片，上传到性趣探测器上。 "
+    arj "……是的……我给自己拍了一些照片，上传到性趣探测器上。"
 
 # game/code/d04/d04s05.rpy:312
 translate chinese d04s05_confession_0c069e8c:
@@ -934,7 +934,7 @@ translate chinese d04s05_confession_c1b0a733:
 translate chinese d04s05_confession_11455b53:
 
     # mc "What?"
-    mc "什么？ "
+    mc "什么？"
 
 # game/code/d04/d04s05.rpy:341
 translate chinese d04s05_confession_d1ac1721:
@@ -982,7 +982,7 @@ translate chinese d04s05_confession_851f4057:
 translate chinese d04s05_confession_d7b76095:
 
     # arj "I had to become a camgirl, okay? I flirt and strip and do kinky stuff on camera for a bunch of strangers."
-    arj "我要做直播，好吗？我在镜头前给一群陌生人调情、脱衣、做淫秽的事情。 "
+    arj "我要做直播，好吗？我在镜头前给一群陌生人调情、脱衣、做淫秽的事情。"
 
 # game/code/d04/d04s05.rpy:356
 translate chinese d04s05_confession_796ddfe9:
@@ -1054,7 +1054,7 @@ translate chinese d04s05_confession_198d6c7f:
 translate chinese d04s05_confession_0ed2efe5:
 
     # arj "Oh... good. {w}That should've earned me enough points for this week."
-    arj "哦……那就好。{w}这周我应该已经赢了足够的点数。 "
+    arj "哦……那就好。{w}这周我应该已经赢了足够的点数。"
 
 # game/code/d04/d04s05.rpy:375
 translate chinese d04s05_confession_c2ea38f8:
@@ -1078,7 +1078,7 @@ translate chinese d04s05_confession_9a36f5fd:
 translate chinese d04s05_confession_bc088867:
 
     # arj "Oh, no."
-    arj " 哦，不。"
+    arj "哦，不。"
 
 # game/code/d04/d04s05.rpy:381
 translate chinese d04s05_confession_67b1de89:
@@ -1120,7 +1120,7 @@ translate chinese d04s05_confession_9c53692e:
 translate chinese d04s05_confession_a841da30_1:
 
     # arj "Oh."
-    arj "哦。 "
+    arj "哦。"
 
 # game/code/d04/d04s05.rpy:392
 translate chinese d04s05_confession_dba2a533:
@@ -1162,7 +1162,7 @@ translate chinese d04s05_confession_99a6dbdf:
 translate chinese d04s05_confession_c15b7dad:
 
     # arj "I mean, Maria's never been subtle about how much she wanted me."
-    arj "我是说，玛利亚从来没有掩饰过她有多想要我。 "
+    arj "我是说，玛利亚从来没有掩饰过她有多想要我。"
 
 # game/code/d04/d04s05.rpy:404
 translate chinese d04s05_confession_3c7da670:
@@ -1186,7 +1186,7 @@ translate chinese d04s05_confession_0a535072:
 translate chinese d04s05_confession_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "哦，是吗？ "
+    mc "哦，是吗？"
 
 # game/code/d04/d04s05.rpy:412
 translate chinese d04s05_confession_2def850f:
@@ -1210,7 +1210,7 @@ translate chinese d04s05_confession_f4e61f4f:
 translate chinese d04s05_confession_ba2d7d4a:
 
     # arj "I know. It tells me something about my blackmailer."
-    arj "是吧。这样我就知道了勒索我的人的一些情况。 "
+    arj "是吧。这样我就知道了勒索我的人的一些情况。"
 
 # game/code/d04/d04s05.rpy:419
 translate chinese d04s05_confession_35ab8f09:
@@ -1228,7 +1228,7 @@ translate chinese d04s05_confession_9de98d1c:
 translate chinese d04s05_confession_a86bc3a9:
 
     # mc "Because he knows you're straight, and is adjusting the points you get."
-    mc "因为他知道你是直的，并且会调整你的点数。 "
+    mc "因为他知道你是直的，并且会调整你的点数。"
 
 # game/code/d04/d04s05.rpy:425
 translate chinese d04s05_confession_fbb696ac:
@@ -1246,7 +1246,7 @@ translate chinese d04s05_confession_393c3179:
 translate chinese d04s05_confession_cd4e5512:
 
     # arj "Some of the things he's said... typed... whatever... I just get this feeling like it's a guy."
-    arj "凭他说的一些话……还有打字……不管是什么……我就是觉得是个男的。 "
+    arj "凭他说的一些话……还有打字……不管是什么……我就是觉得是个男的。"
 
 # game/code/d04/d04s05.rpy:430
 translate chinese d04s05_confession_1368f508:
