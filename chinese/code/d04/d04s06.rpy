@@ -10,7 +10,7 @@ translate chinese replay_d04s06_27bbea47:
 translate chinese replay_d04s06_cfa74846:
 
     # mct "Okay, let's text Polly..."
-    mct "好吧，来给波莉发短信吧…… "
+    mct "好吧，来给波莉发短信吧……"
 
 # game/code/d04/d04s06.rpy:16
 translate chinese replay_d04s06_536c5d3a:
