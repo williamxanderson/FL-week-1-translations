@@ -598,7 +598,7 @@ translate chinese d04s04p2_ab4b9dd1:
 translate chinese d04s04p2_1740f6f8:
 
     # nk "And what can I get you..."
-    nk " 那你想要点什么……"
+    nk "那你想要点什么……"
 
 # game/code/d04/d04s04.rpy:192
 translate chinese d04s04p2_5d686b1c:
@@ -886,7 +886,7 @@ translate chinese d04s04p2_8288aaea:
 translate chinese d04s04p2_344394ad:
 
     # lc "Ha! Thank you, that's nice to hear."
-    lc " 哈！谢谢你，这话真好听。"
+    lc "哈！谢谢你，这话真好听。"
 
 # game/code/d04/d04s04.rpy:280
 translate chinese d04s04p2_88b34e20:
@@ -964,7 +964,7 @@ translate chinese d04s04p2_fe696e13:
 translate chinese d04s04p2_19d757ba:
 
     # mc "Sounds nice."
-    mc " 听起来不错。"
+    mc "听起来不错。"
 
 # game/code/d04/d04s04.rpy:300
 translate chinese d04s04p2_1a11aa7d:
@@ -1084,7 +1084,7 @@ translate chinese d04s04p2_c0401315:
 translate chinese d04s04p2_a6e9a79e:
 
     # lc "Ha! Go ahead, then."
-    lc " 哈！那就唱吧。"
+    lc "哈！那就唱吧。"
 
 # game/code/d04/d04s04.rpy:332
 translate chinese d04s04p2_6ec6e30d:
@@ -2026,7 +2026,7 @@ translate chinese d04s04p2_dd233c0d:
 translate chinese d04s04p2_b62efe4e:
 
     # nk "I never doubted for a second. {w}You're my new favorite person!"
-    nk " 我从来没有怀疑过。{w}你是我最喜欢的人了。"
+    nk "我从来没有怀疑过。{w}你是我最喜欢的人了。"
 
 # game/code/d04/d04s04.rpy:567
 translate chinese d04s04p2_da825766:
@@ -2260,7 +2260,7 @@ translate chinese d04s04p2_fa1c362f:
 translate chinese d04s04p2_8494cac7:
 
     # lc "Let's say it was just coffee."
-    lc " 就算是喝咖啡吧。"
+    lc "就算是喝咖啡吧。"
 
 # game/code/d04/d04s04.rpy:623
 translate chinese d04s04p2_b8de06d3:
