@@ -872,12 +872,10 @@ translate spanish strings:
     old "Parents' Songs"
     new "Canciones de Padres"
 
-
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 translate spanish strings:
 
     # game/code/d06/d06s04.rpy:156
     old "Classical"
-    new "Classical"
-
+    new "clásica"
