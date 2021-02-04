@@ -391,11 +391,12 @@ translate spanish strings:
     # game/code/d03/d03s07.rpy:167
     old "Refuse. I want to dominate, not to submit"
     new "Rechazar - Quiero dominar, no ser sometido"
-# TODO: Translation updated at 2021-01-18 23:42
+
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d03/d03s07.rpy:58
 translate spanish d03s07_a207bb0e:
 
     # pb "Yeah, right... {w}I told you about them yesterday!"
-    pb "Yeah, right... {w}I told you about them yesterday!"
-
+    pb "Sí, claro... {w}¡Te hablé de ellos ayer!"
+    
