@@ -912,11 +912,10 @@ translate spanish d05s05_apt1_97887db1:
     # vw "Let me drive you to the next place."
     vw "Déjame llevarte al siguiente lugar."
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d05/d05s05a.rpy:56
 translate spanish d05s05_b634c7fd:
 
     # arj "Okay. We're going across town, so I'll meet you at the subway station."
-    arj "Okay. We're going across town, so I'll meet you at the subway station."
-
+    arj "Está bien. Vamos a cruzar la ciudad, así que nos encontraremos en la estación de metro."
