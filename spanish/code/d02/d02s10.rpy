@@ -504,23 +504,22 @@ translate spanish strings:
     old "No Thanks - Do Something Else"
     new "No gracias - Hacer alguna otra cosa"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d02/d02s10.rpy:87
 translate spanish d02s10_54e9eeef:
 
     # mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
-    mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
+    mct "¡Ohhh! ¿Mi [game.stacytitle] sintió lo mismo cuando encontró mi porno?"
 
 # game/code/d02/d02s10.rpy:283
 translate spanish d02s10_298d7190:
 
     # mct "Okay, let's see what this is about."
-    mct "Okay, let's see what this is about."
+    mct "Está bien, veamos de qué se trata."
 
 # game/code/d02/d02s10.rpy:299
 translate spanish d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
-    mct "At least she's talking business here!"
-
+    mct "¡Al menos está hablando de negocios aquí!"
