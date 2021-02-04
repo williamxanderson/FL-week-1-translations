@@ -484,11 +484,10 @@ translate spanish strings:
     old "Creampie Surprise"
     new "Creampie Sorpresa"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d06/d06s01.rpy:141
 translate spanish replay_d06s01_ffd9ddf6:
 
     # mc "I know you didn't. Let's just... not repeat that ever again."
-    mc "I know you didn't. Let's just... not repeat that ever again."
-
+    mc "Sé que no lo hiciste. Vamos a... no repetir eso nunca más."
