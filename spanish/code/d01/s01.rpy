@@ -762,11 +762,16 @@ translate spanish strings:
     old "Tell her it is Pete's girl and you had no idea she was in the room"
     new "Dile que es la chica de Pete y que no tenías ni idea de que estaba en la habitación"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d01/s01.rpy:66
 translate spanish d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "Parece una persona interesante ... {w}Me encantaría salir con una chica como ella."
 
+# game/code/d01/s02.rpy:506
+translate spanish replay_d01s02_84d4c479:
+
+    # mct "I hope I can walk out of class without someone noticing my hard dick."
+    mct "Espero poder salir de clase sin que nadie se dé cuenta de mi polla dura."
