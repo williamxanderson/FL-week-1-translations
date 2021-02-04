@@ -1063,4 +1063,3 @@ translate spanish d03s04_4a64aca4:
 
     # "12:25 PM"
     "12:25 PM"
-
