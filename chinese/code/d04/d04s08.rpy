@@ -166,7 +166,7 @@ translate chinese d04s08_46f0d9f2:
 translate chinese d04s08_bonus_75335569:
 
     # flr "Welcome to the Fetish Locator Retention Program!"
-    flr "欢迎加入性趣探测器滞留计划！"
+    flr "欢迎加入性趣探测器留存计划！"
 
 # game/code/d04/d04s08.rpy:65
 translate chinese d04s08_bonus_0984c954:
@@ -184,7 +184,7 @@ translate chinese d04s08_bonus_5ff58222:
 translate chinese d04s08_bonus_972a30b9:
 
     # flr "These challenges will continue for the duration of the Fetish Locator Experimental Phase."
-    flr "在性趣探测器实验阶段，这些挑战仍将继续。"
+    flr "挑战将持续到性趣探测器实验阶段。"
 
 # game/code/d04/d04s08.rpy:69
 translate chinese d04s08_bonus_78089584:
@@ -196,7 +196,7 @@ translate chinese d04s08_bonus_78089584:
 translate chinese d04s08_bonus_75367008:
 
     # flr "Repeated failure to meet these challenges will result in total exposure."
-    flr "屡次失败将导致个人的全面曝光。"
+    flr "屡次失败将导致全面曝光。"
 
 # game/code/d04/d04s08.rpy:72
 translate chinese d04s08_bonus_cbbea653:
