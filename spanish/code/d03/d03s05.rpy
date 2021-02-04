@@ -798,29 +798,28 @@ translate spanish strings:
     old "Don't show him that pic"
     new "No le muestres esa foto"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d03/d03s05.rpy:27
 translate spanish d03s05_55f2f8d3:
 
     # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
-    mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+    mc "¡Yo también! ¡Trayendote nuevos clientes! {w}¿Podemos tomar dos de esos maravillosos cafés que preparaste ayer?"
 
 # game/code/d03/d03s05.rpy:73
 translate spanish d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+    kb "Sí... Eso es otra cosa... {w}Hemos estado juntos durante algún tiempo. Hemos tenido un sexo fantástico y hemos hecho casi de todo..."
 
 # game/code/d03/d03s05.rpy:107
 translate spanish d03s05_f2650af8:
 
     # kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
-    kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
+    kb kb "¡Guau! ¿De qué se trataba? {w}¿Dijiste que está relacionado con Fetish Locator? {w}¡¿Te la cogiste?!"
 
 # game/code/d03/d03s05.rpy:171
 translate spanish d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-
+    mct "Vale, primero que nada. {w}Polly acaba de entrar. ¡Ella y Nora están charlando como si fueran viejas amigas!"
