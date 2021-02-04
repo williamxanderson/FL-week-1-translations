@@ -632,41 +632,40 @@ translate spanish strings:
     old "Make a counteroffer"
     new "Hacer una contraoferta"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d02/s08.rpy:48
 translate spanish d02s08_61cc607a:
 
     # mct "And I feel a bit stupid sitting here and holding this banana."
-    mct "And I feel a bit stupid sitting here and holding this banana."
+    mct "Y me siento un poco estúpido sentado aquí y sosteniendo este plátano."
 
 # game/code/d02/s08.rpy:54
 translate spanish d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "Estoy esperando aquí a una chica que no conozco, que se supone que debe darme su coño para probar ... {w}Cuando lo pienso, ¡esto es una locura!"
 
 # game/code/d02/s08.rpy:128
 translate spanish d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
-    mct "It looks like she is coming my way..."
+    mct "Parece que ella viene hacia mí..."
 
 # game/code/d02/s08.rpy:179
 translate spanish d02s08_bf9dde6f:
 
     # pw "Yeah, but I think that you need those points more than I do."
-    pw "Yeah, but I think that you need those points more than I do."
+    pw "Sí, pero creo que tú necesitas esos puntos más que yo."
 
 # game/code/d02/s08.rpy:261
 translate spanish d02s08_cbf2642e:
 
     # mc "Okay - what is the favor?"
-    mc "Okay - what is the favor?"
+    mc "Está bien, ¿cuál es el favor?"
 
 # game/code/d02/s08.rpy:264
 translate spanish d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
-    mc "Without knowing what it is?!"
-
+    mc "¡¿Sin saber qué es?!"
