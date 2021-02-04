@@ -844,11 +844,10 @@ translate spanish strings:
     old "Send it to me"
     new "Envíamelas"
 
-# TODO: Translation updated at 2021-01-18 23:42
+# TODO: Translation updated at 2021-01-18 23:17
 
 # game/code/d06/d06s05.rpy:243
 translate spanish d06s05_mk_tr_37d16c9c:
 
     # fl "[d06s05_points] points were transferred to you from [trfl]'s account."
-    fl "[d06s05_points] points were transferred to you from [trfl]'s account."
-
+    fl "Se te transfirieron [d06s05_points] puntos desde la cuenta de [trfl]."
