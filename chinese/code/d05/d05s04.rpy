@@ -4,7 +4,7 @@
 translate chinese replay_d05s04_7d9f2829:
 
     # "11:30 AM"
-    "上午11:30"
+    "上午十一点半"
 
 # game/code/d05/d05s04.rpy:26
 translate chinese replay_d05s04_4b4e211a:
@@ -946,261 +946,261 @@ translate chinese replay_d05s04_18374ceb:
 translate chinese replay_d05s04_2966b767:
 
     # pw "Vanilla..."
-    pw "Vanilla..."
+    pw "已经有香草冰了……"
 
 # game/code/d05/d05s04.rpy:294
 translate chinese replay_d05s04_47894e20:
 
     # mc "Okay, the second whitest rapper ever."
-    mc "Okay, the second whitest rapper ever."
+    mc "好吧，有史以来第二白的说唱歌手。"
 
 # game/code/d05/d05s04.rpy:295
 translate chinese replay_d05s04_5d94218b:
 
     # pw "Just look at you, naked in public, dangling in the breeze."
-    pw "Just look at you, naked in public, dangling in the breeze."
+    pw "看看你，在公共场合赤身裸体，在微风中晃来晃去。"
 
 # game/code/d05/d05s04.rpy:296
 translate chinese replay_d05s04_27980aa7:
 
     # mc "I feel ridiculous."
-    mc "I feel ridiculous."
+    mc "我觉得很可笑。"
 
 # game/code/d05/d05s04.rpy:297
 translate chinese replay_d05s04_7fc65268:
 
     # pw "I know! {w}Peeing is so funny."
-    pw "I know! {w}Peeing is so funny."
+    pw "是吧！{w}尿尿太好笑了。"
 
 # game/code/d05/d05s04.rpy:299
 translate chinese replay_d05s04_57bf56b5:
 
     # pw "And I still have some; we'll do it like chain waterfall!"
-    pw "And I still have some; we'll do it like chain waterfall!"
+    pw "而且我还剩一点呢，我们可以像链式瀑布那样！"
 
 # game/code/d05/d05s04.rpy:309
 translate chinese replay_d05s04_6e4650ac:
 
     # mc "Alright, that's enough. You got the photos?"
-    mc "Alright, that's enough. You got the photos?"
+    mc "好了，够了。照片弄好了吗？"
 
 # game/code/d05/d05s04.rpy:311
 translate chinese replay_d05s04_c0dff88a:
 
     # pw "A few for the app, and a few just for me."
-    pw "A few for the app, and a few just for me."
+    pw "有几张是给软件的，还有几张是给我自己的。"
 
 # game/code/d05/d05s04.rpy:312
 translate chinese replay_d05s04_e743427e:
 
     # mc "What... really?"
-    mc "What... really?"
+    mc "什么……真的吗？"
 
 # game/code/d05/d05s04.rpy:313
 translate chinese replay_d05s04_7b87c153:
 
     # pw "Don't worry, the ones for me are just you looking naked and sexy, not the pee stuff."
-    pw "Don't worry, the ones for me are just you looking naked and sexy, not the pee stuff."
+    pw "别担心，我留给自己的都是你裸着性感的样子，不是尿尿的那种。"
 
 # game/code/d05/d05s04.rpy:314
 translate chinese replay_d05s04_3853de57:
 
     # mc "Oh. {w}Cool. I'm glad you..."
-    mc "Oh. {w}Cool. I'm glad you..."
+    mc "哦。{w}那就行。我很高兴你……"
 
 # game/code/d05/d05s04.rpy:319
 translate chinese replay_d05s04_d793bfe2:
 
     # mc "Yea, I have a great set!"
-    mc "Yea, I have a great set!"
+    mc "耶，我有一个很棒的节目！"
 
 # game/code/d05/d05s04.rpy:321
 translate chinese replay_d05s04_05597796:
 
     # pw "How about you also getting naked?"
-    pw "How about you also getting naked?"
+    pw "你也脱光了怎么样？"
 
 # game/code/d05/d05s04.rpy:322
 translate chinese replay_d05s04_7676044e:
 
     # mc "Sure! Why not?"
-    mc "Sure! Why not?"
+    mc "好啊！为什么不呢？"
 
 # game/code/d05/d05s04.rpy:327
 translate chinese replay_d05s04_9694eaa8:
 
     # pw "Hmmmm... Nice!"
-    pw "Hmmmm... Nice!"
+    pw "嗯……不错哎！"
 
 # game/code/d05/d05s04.rpy:333
 translate chinese d05s04_end_1f255d1f:
 
     # mc "Hey, why don't we get one more photo of us together."
-    mc "Hey, why don't we get one more photo of us together."
+    mc "嘿，我们为什么不来张俩人的合影呢？"
 
 # game/code/d05/d05s04.rpy:335
 translate chinese d05s04_end_c109bbd7:
 
     # pw "Oh, you don't want us to both squat over the puddle, do you?"
-    pw "Oh, you don't want us to both squat over the puddle, do you?"
+    pw "哦，你不会想让我们两个都蹲在水坑里吧？"
 
 # game/code/d05/d05s04.rpy:337
 translate chinese d05s04_end_9d799b4e:
 
     # pw "This is way too public for... ya'know."
-    pw "This is way too public for... ya'know."
+    pw "这太放得开了……你知道的。"
 
 # game/code/d05/d05s04.rpy:338
 translate chinese d05s04_end_57593ecd:
 
     # mc "No, no. Nothing like that. Just a little something to remember this by... like a kiss."
-    mc "No, no. Nothing like that. Just a little something to remember this by... like a kiss."
+    mc "不，不。不是这样的。只是留点小纪念……比如来一个吻。"
 
 # game/code/d05/d05s04.rpy:339
 translate chinese d05s04_end_c9810cd8:
 
     # pw "Sure, why not?"
-    pw "Sure, why not?"
+    pw "行啊，为什么不呢？"
 
 # game/code/d05/d05s04.rpy:347
 translate chinese d05s04_end_a432cf08:
 
     # hr "(whisper) Holy fuck! Those two are crazy!"
-    hr "(whisper) Holy fuck! Those two are crazy!"
+    hr "(低语) 我靠！这两个人真是疯了！"
 
 # game/code/d05/d05s04.rpy:349
 translate chinese d05s04_end_9eb75602:
 
     # mc "We should probably get dressed."
-    mc "We should probably get dressed."
+    mc "我们该穿上衣服了。"
 
 # game/code/d05/d05s04.rpy:350
 translate chinese d05s04_end_e625c74e:
 
     # pw "Oh, yeah."
-    pw "Oh, yeah."
+    pw "哦，是的。"
 
 # game/code/d05/d05s04.rpy:351
 translate chinese d05s04_end_10ea2900:
 
     # pw "Aww, do I have to?"
-    pw "Aww, do I have to?"
+    pw "啊~我一定要穿吗？"
 
 # game/code/d05/d05s04.rpy:352
 translate chinese d05s04_end_4929487e:
 
     # mc "Depends. Do you want to get arrested on the walk back to campus?"
-    mc "Depends. Do you want to get arrested on the walk back to campus?"
+    mc "看情况。你想在回学校的路上被抓吗？"
 
 # game/code/d05/d05s04.rpy:353
 translate chinese d05s04_end_e625c74e_1:
 
     # pw "Oh, yeah."
-    pw "Oh, yeah."
+    pw "哦，好吧。"
 
 # game/code/d05/d05s04.rpy:357
 translate chinese d05s04_end_2d2b22b4:
 
     # mc "Huh. I earned [d05s04_points] points."
-    mc "Huh. I earned [d05s04_points] points."
+    mc "咦。我赚了[d05s04_points]点数。"
 
 # game/code/d05/d05s04.rpy:359
 translate chinese d05s04_end_45ad68e2:
 
     # mc "Even with the photos you took."
-    mc "Even with the photos you took."
+    mc "即使加上了你拍的照片。"
 
 # game/code/d05/d05s04.rpy:361
 translate chinese d05s04_end_95bf16b8:
 
     # pw "And I got 12 points!"
-    pw "And I got 12 points!"
+    pw "而我得到了12点数！"
 
 # game/code/d05/d05s04.rpy:363
 translate chinese d05s04_end_62800358:
 
     # pw "What can I say? I guess girls get more points."
-    pw "What can I say? I guess girls get more points."
+    pw "我能说什么呢？我想女生得到的点数数会更多吧。"
 
 # game/code/d05/d05s04.rpy:364
 translate chinese d05s04_end_7a22ed61:
 
     # mct "Hmm. That's not it. AmRose earned twice the points Maria did."
-    mct "Hmm. That's not it. AmRose earned twice the points Maria did."
+    mct "嗯。不是这样的。爱洛丝赢得的点数数是玛利亚的两倍。"
 
 # game/code/d05/d05s04.rpy:365
 translate chinese d05s04_end_98657878:
 
     # mct "Whoever is scoring the app clearly thinks Polly is lesbian, and doesn't realize she's bisexual."
-    mct "Whoever is scoring the app clearly thinks Polly is lesbian, and doesn't realize she's bisexual."
+    mct "给这个软件打点数的人显然认为波莉是拉拉，却不知道她是双性恋。"
 
 # game/code/d05/d05s04.rpy:366
 translate chinese d05s04_end_b3598200:
 
     # mct "It's probably better if I don't mention that to anyone."
-    mct "It's probably better if I don't mention that to anyone."
+    mct "我最好不要跟任何人提起这一点。"
 
 # game/code/d05/d05s04.rpy:367
 translate chinese d05s04_end_7074699b:
 
     # mc "Yeah, I guess that must be it."
-    mc "Yeah, I guess that must be it."
+    mc "没错，我猜一定是这样的。"
 
 # game/code/d05/d05s04.rpy:369
 translate chinese d05s04_end_028a20ac:
 
     # pw "Maybe next time we could go skinny dipping?"
-    pw "Maybe next time we could go skinny dipping?"
+    pw "也许下次我们可以去裸泳？"
 
 # game/code/d05/d05s04.rpy:370
 translate chinese d05s04_end_dd5f58cf:
 
     # mc "Sounds like fun, but where?"
-    mc "Sounds like fun, but where?"
+    mc "听起来很有趣，但去哪呢？"
 
 # game/code/d05/d05s04.rpy:371
 translate chinese d05s04_end_56066df6:
 
     # pw "I know the perfect place for skinny dipping."
-    pw "I know the perfect place for skinny dipping."
+    pw "我知道一个适合裸泳的地方。"
 
 # game/code/d05/d05s04.rpy:372
 translate chinese d05s04_end_92d84769:
 
     # mc "Yeah? Then I'm looking forward to it."
-    mc "Yeah? Then I'm looking forward to it."
+    mc "是吗？我很期待了。"
 
 # game/code/d05/d05s04.rpy:374
 translate chinese d05s04_end_bc911d62:
 
     # pw "I had a lot of fun today. Thank you."
-    pw "I had a lot of fun today. Thank you."
+    pw "我今天玩得很开心。谢谢你。"
 
 # game/code/d05/d05s04.rpy:375
 translate chinese d05s04_end_cd0782e9:
 
     # mc "Aww, you're getting sweet on me?"
-    mc "Aww, you're getting sweet on me?"
+    mc "啊，你对我越来越温柔了？"
 
 # game/code/d05/d05s04.rpy:376
 translate chinese d05s04_end_25b3b52f:
 
     # pw "You're no Nora, but... {w}you're a nice guy."
-    pw "You're no Nora, but... {w}you're a nice guy."
+    pw "虽然你不是诺拉，但是……{w}你是个好人。"
 
 # game/code/d05/d05s04.rpy:377
 translate chinese d05s04_end_5fc235ac:
 
     # mct "Why do people keep saying that about me!"
-    mct "Why do people keep saying that about me!"
+    mct "为什么大家都是这样说我！"
 
 translate chinese strings:
 
     # game/code/d05/d05s04.rpy:265
     old "Nah, that will do."
-    new "Nah, that will do."
+    new "不，这样就行了。"
 
     # game/code/d05/d05s04.rpy:265
     old "My turn to strip & piss"
-    new "My turn to strip & piss"
+    new "轮到我脱衣服撒尿了"
 
