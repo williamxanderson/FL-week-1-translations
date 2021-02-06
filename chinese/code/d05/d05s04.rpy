@@ -112,7 +112,7 @@ translate chinese replay_d05s04_fd224e81:
 translate chinese replay_d05s04_c04874a4:
 
     # pw "Okay... done."
-    pw "好啊，搞定了。"
+    pw "好啊……搞定了。"
 
 # game/code/d05/d05s04.rpy:54
 translate chinese replay_d05s04_2a32461f:
@@ -160,7 +160,7 @@ translate chinese replay_d05s04_008c0491:
 translate chinese replay_d05s04_ca10fc44:
 
     # mc "This far should do. {w}I call this Three-P."
-    mc "我们要去哪里？{w}我管这叫3-P。"
+    mc "这里应该就行。{w}我管这叫3-P。"
 
 # game/code/d05/d05s04.rpy:67
 translate chinese replay_d05s04_9d23ece7:
@@ -190,7 +190,7 @@ translate chinese replay_d05s04_7336412e:
 translate chinese replay_d05s04_c99853fa:
 
     # mc "Not quite. {w}It's a Private Public Piss."
-    mc "不完全是。{w}这是一个这是私人的公共厕所。"
+    mc "不完全是。{w}这是一个私人的公共厕所。"
 
 # game/code/d05/d05s04.rpy:74
 translate chinese replay_d05s04_3a2f09a0:
@@ -340,7 +340,7 @@ translate chinese replay_d05s04_dda078de:
 translate chinese replay_d05s04_9520a85b:
 
     # pw "Well, I didn't think of myself as an exhibitionist until yesterday."
-    pw "好吧，直到昨天我才觉得自己是个暴露主义者。"
+    pw "好吧，直到昨天我才觉得自己有暴露癖。"
 
 # game/code/d05/d05s04.rpy:111
 translate chinese replay_d05s04_a31340dd:
@@ -364,7 +364,7 @@ translate chinese replay_d05s04_2c581618:
 translate chinese replay_d05s04_11063e2a:
 
     # pw "Probably, but I don't... I'm just me. I'm not part of some club or whatever."
-    pw "也许吧，但我没有……我就是我。我才不是一些俱乐部或什么的一部点数。"
+    pw "也许吧，但我没有……我就是我。我才不是一些俱乐部或什么的一部分。"
 
 # game/code/d05/d05s04.rpy:117
 translate chinese replay_d05s04_ec589238:
@@ -436,7 +436,7 @@ translate chinese replay_d05s04_5238344d:
 translate chinese replay_d05s04_39b5d085:
 
     # pw "Okay, good."
-    pw "好的，很好。"
+    pw "好的，那就行。"
 
 # game/code/d05/d05s04.rpy:136
 translate chinese replay_d05s04_54592be5:
@@ -454,7 +454,7 @@ translate chinese replay_d05s04_f6005691:
 translate chinese replay_d05s04_71407eef:
 
     # mc "Okay. Good to know. Not your thing."
-    mc "好的。很高兴知道。你不喜欢这个。"
+    mc "好的。很高兴知道这一点。你不喜欢这个。"
 
 # game/code/d05/d05s04.rpy:141
 translate chinese replay_d05s04_b76fe14e:
@@ -934,7 +934,7 @@ translate chinese replay_d05s04_e1692be3:
 translate chinese replay_d05s04_4a442351:
 
     # pw "C'mon, pretend you're one of those rappers, squatting down, arms crossed, looking cool."
-    pw "来吧，假装你是那种说唱歌手，蹲下，双臂交叉，看起来很酷。"
+    pw "来吧，假装你是那种说唱歌手，蹲下，双臂交叉，看起来很酷的样子。"
 
 # game/code/d05/d05s04.rpy:292
 translate chinese replay_d05s04_18374ceb:
@@ -1108,7 +1108,7 @@ translate chinese d05s04_end_2d2b22b4:
 translate chinese d05s04_end_45ad68e2:
 
     # mc "Even with the photos you took."
-    mc "即使加上了你拍的照片。"
+    mc "即使加上了你给我拍的照片。"
 
 # game/code/d05/d05s04.rpy:361
 translate chinese d05s04_end_95bf16b8:
@@ -1120,19 +1120,19 @@ translate chinese d05s04_end_95bf16b8:
 translate chinese d05s04_end_62800358:
 
     # pw "What can I say? I guess girls get more points."
-    pw "我能说什么呢？我想女生得到的点数数会更多吧。"
+    pw "我能说什么呢？我想女生得到的点数会更多吧。"
 
 # game/code/d05/d05s04.rpy:364
 translate chinese d05s04_end_7a22ed61:
 
     # mct "Hmm. That's not it. AmRose earned twice the points Maria did."
-    mct "嗯。不是这样的。爱洛丝赢得的点数数是玛利亚的两倍。"
+    mct "嗯。不是这样的。爱洛丝赢得的点数数是玛丽亚的两倍。"
 
 # game/code/d05/d05s04.rpy:365
 translate chinese d05s04_end_98657878:
 
     # mct "Whoever is scoring the app clearly thinks Polly is lesbian, and doesn't realize she's bisexual."
-    mct "给这个软件打点数的人显然认为波莉是拉拉，却不知道她是双性恋。"
+    mct "给这个软件定点数的人显然认为波莉是拉拉，却不知道她是双性恋。"
 
 # game/code/d05/d05s04.rpy:366
 translate chinese d05s04_end_b3598200:
@@ -1192,7 +1192,7 @@ translate chinese d05s04_end_25b3b52f:
 translate chinese d05s04_end_5fc235ac:
 
     # mct "Why do people keep saying that about me!"
-    mct "为什么大家都是这样说我！"
+    mct "为什么大家都这样说我！"
 
 translate chinese strings:
 
