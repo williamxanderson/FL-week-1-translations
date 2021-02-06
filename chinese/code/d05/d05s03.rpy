@@ -484,7 +484,7 @@ translate chinese d05s03_wantcock_6dd57d37:
 translate chinese d05s03_wantcock_109a5286:
 
     # mk "Well, now you know. Alright!? I've been thinking about sucking your cock and getting fucked by you ever since that Party."
-    mk "好吧，现在你知道了。行了吗？自从那次聚会后，我就一直在想舔你的鸡巴，然后被你干。"
+    mk "好吧，现在你知道了。行了吗!? 自从那次聚会后，我就一直在想舔你的鸡巴，然后被你干。"
 
 # game/code/d05/d05s03.rpy:151
 translate chinese d05s03_wantcock_9e73b8f7:
@@ -568,7 +568,7 @@ translate chinese d05s03_wantcock_44c141e9:
 translate chinese d05s03_wantcock_9c6cdcea:
 
     # mc "Looking forward to it!"
-    mc "期待着呢！"
+    mc "我期待着呢！"
 
 # game/code/d05/d05s03.rpy:178
 translate chinese d05s03_wantcock_01d28a18:
