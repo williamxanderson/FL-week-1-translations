@@ -106,7 +106,7 @@ translate chinese d05s02_3516c4d2:
 translate chinese d05s02_a52499a9:
 
     # mct "Hi, I'm doing a bake sale. For just 5 FL points I'll give you a cookie."
-    mct " 嗨，我在做糕饼售卖。只要5个软件点数，我就给你一块饼干。"
+    mct "嗨，我在做糕饼售卖。只要5个软件点数，我就给你一块饼干。"
 
 # game/code/d05/d05s02.rpy:62
 translate chinese d05s02_0f83f8f6:
@@ -130,13 +130,13 @@ translate chinese d05s02_f1e6f6b7:
 translate chinese d05s02_82f92f6e:
 
     # mct "I'll have to remember to set my alarm before Monday morning."
-    mct "我得记得在周一早上之前把闹钟调好"
+    mct "我得记得在周一早上之前把闹钟调好。"
 
 # game/code/d05/d05s02.rpy:68
 translate chinese d05s02_1331a5a8:
 
     # mct "Alright, so I need to set my alarm and earn [goal1_points] points by Monday morning."
-    mct "好吧，所以我需要在周一早上之前调好闹钟，还要赚[goal1_points]点。"
+    mct "好吧，所以我需要在周一早上之前调好闹钟，还要赚[goal1_points]点数。"
 
 # game/code/d05/d05s02.rpy:69
 translate chinese d05s02_9e0aaf00:
