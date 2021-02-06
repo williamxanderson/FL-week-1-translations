@@ -1043,20 +1043,20 @@ translate malaysian strings:
 # game/code/d01/s05.rpy:547
 translate malaysian replay_d01s05_620473fd_1:
 
-    # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "Hey! You feel asleep, and I thought to leave without waking you up."
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! Awak tertidur, dan saya ingatkan mahu pergi tanpa kejutkan awak."
 
 # game/code/d01/s05.rpy:548
 translate malaysian replay_d01s05_6bfe9e38_1:
 
     # arj "Oh, you wanted to sneak out on me."
-    arj "Oh, you wanted to sneak out on me."
+    arj "Oh, awak mahu menyelinap keluar tanpa pengetahuan saya."
 
 # game/code/d01/s05.rpy:549
 translate malaysian replay_d01s05_5e84ced2_1:
 
     # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
-    mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "Tak, awak kelihatan sangat nyenyak tidur di sana sehingga saya benci untuk membangunkan awak."
 
 # game/code/d01/s05.rpy:552
 translate malaysian replay_d01s05_8b6b07ae_1:
@@ -1068,17 +1068,16 @@ translate malaysian replay_d01s05_8b6b07ae_1:
 translate malaysian replay_d01s05_6bd7d659_1:
 
     # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
-    arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Tapi awak betul, saya rasa sangat letih. Filemnya bagus. Saya ingin menyelesaikannya suatu ketika nanti."
 
 # game/code/d01/s05.rpy:554
 translate malaysian replay_d01s05_388a66b7_1:
 
     # mc "Okay! I should get going."
-    mc "Okay! I should get going."
+    mc "Okay! Saya mesti pergi dulu."
 
 # game/code/d01/s05.rpy:556
 translate malaysian replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
-    arj "Sure! Let me give you a hug first. Thanks for the movie."
-
+    arj "Baiklah! Biar saya peluk awak dulu. Terima kasih untuk filem ini."
