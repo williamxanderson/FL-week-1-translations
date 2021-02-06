@@ -58,13 +58,13 @@ translate chinese d05s01_8f4a5544:
 translate chinese d05s01_cf5f874a:
 
     # mct "There's a terrible movie quote that keeps running through my head as I read this."
-    mct "读到这里的时候，有句很糟糕的电影台词一直在我脑海里闪过。"
+    mct "读到这里的时候，我脑子里一直闪过一句很糟糕的电影台词。"
 
 # game/code/d05/d05s01.rpy:43
 translate chinese d05s01_2ec6fe75:
 
     # mct "I am completely ass invaded."
-    mct "我的屁股完全被入侵了。"
+    mct "我是真正意义上屁股被入侵了。"
 
 # game/code/d05/d05s01.rpy:44
 translate chinese d05s01_685a3a1c:
@@ -88,7 +88,7 @@ translate chinese d05s01_4a678fec:
 translate chinese d05s01_2a398546:
 
     # mc "It is a joint project between some Sociology dept and some Psychology dept."
-    mc "这是某个社会学和某个心理学的联合项目。"
+    mc "这是某个社会学和某个心理学系的联合项目。"
 
 # game/code/d05/d05s01.rpy:50
 translate chinese d05s01_b28fc70e:
@@ -106,7 +106,7 @@ translate chinese d05s01_281a2d94:
 translate chinese d05s01_f1904241:
 
     # mc "I'm now in their Retention program - a way to keep test subjects playing the game and contributing data to their experiment."
-    mc "我现在加入了他们的留存计划--一种让受试者玩游戏并为他们的实验贡献数据的方法。"
+    mc "我现在加入了他们的留存计划--一个让受试者玩游戏并为他们的实验贡献数据的计划。"
 
 # game/code/d05/d05s01.rpy:54
 translate chinese d05s01_480ebaaa:
@@ -118,7 +118,7 @@ translate chinese d05s01_480ebaaa:
 translate chinese d05s01_b88450f5:
 
     # mc "If I fail, I will have my pictures published, unless I negotiate an alternative."
-    mc "如果我失败了，我的照片就会被公布出来，除非我商量出一个替代方案。"
+    mc "如果失败了，我的照片就会被公布出来，除非我商量出一个替代方案。"
 
 # game/code/d05/d05s01.rpy:56
 translate chinese d05s01_80605aa7:
@@ -166,13 +166,13 @@ translate chinese d05s01_f3f47023:
 translate chinese d05s01_9bbe521d:
 
     # mc "Anyway, I just have to make it until the experiment ends..."
-    mc "不管怎么说，我只要撑到实验结束就可以了…… "
+    mc "不管怎么说，我只要撑到实验结束就可以了……"
 
 # game/code/d05/d05s01.rpy:65
 translate chinese d05s01_2de74f04:
 
     # mc "Which could happen anytime. It could be today, it could be..."
-    mc "而这随时都可能发生。可能是今天，也可能是……"
+    mc "而这随时都可能结束。可能是今天，也可能是……"
 
 # game/code/d05/d05s01.rpy:69
 translate chinese d05s01_3e5f3508:
