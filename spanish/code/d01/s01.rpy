@@ -769,9 +769,3 @@ translate spanish d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
     mct "Parece una persona interesante ... {w}Me encantaría salir con una chica como ella."
-
-# game/code/d01/s02.rpy:506
-translate spanish replay_d01s02_84d4c479:
-
-    # mct "I hope I can walk out of class without someone noticing my hard dick."
-    mct "Espero poder salir de clase sin que nadie se dé cuenta de mi polla dura."
