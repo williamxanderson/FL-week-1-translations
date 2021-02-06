@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-02-06 13:14
+﻿# TODO: Translation updated at 2021-01-01 19:31
 
 # game/code/d06/d06s06.rpy:4
 translate malaysian replay_d06s06_89264846:
 
     # lc "Nora, thanks for preparing everything."
-    lc "Nora, thanks for preparing everything."
+    lc "Nora, terima kasih menyediakan semuanya."
 
 # game/code/d06/d06s06.rpy:5
 translate malaysian replay_d06s06_311d5e38:
@@ -16,49 +16,49 @@ translate malaysian replay_d06s06_311d5e38:
 translate malaysian replay_d06s06_48be522f:
 
     # mc "Hey, how are you?"
-    mc "Hey, how are you?"
+    mc "Hey, apa kahabar dengan awak?"
 
 # game/code/d06/d06s06.rpy:9
 translate malaysian replay_d06s06_6a4333e0:
 
     # lc "A little nervous. It is not the same as recording for Youtube..."
-    lc "A little nervous. It is not the same as recording for Youtube..."
+    lc "Agak gementar sedikit. Ianya tidak sama dengan rakaman untuk Youtube..."
 
 # game/code/d06/d06s06.rpy:10
 translate malaysian replay_d06s06_be09c8f4:
 
     # mc "Just relax, you'll be fine."
-    mc "Just relax, you'll be fine."
+    mc "Bertenanglah, awak akan baik-baik saja."
 
 # game/code/d06/d06s06.rpy:12
 translate malaysian replay_d06s06_2449ee54:
 
     # lc "Just like taking a shower."
-    lc "Just like taking a shower."
+    lc "Sama seperti mandi."
 
 # game/code/d06/d06s06.rpy:13
 translate malaysian replay_d06s06_24a76de6:
 
     # mc "Exactly. Just imagine that you are singing alone in the shower."
-    mc "Exactly. Just imagine that you are singing alone in the shower."
+    mc "Tepat sekali. Cuba bayangkan bahawa awak menyanyi sendirian di bilik mandi."
 
 # game/code/d06/d06s06.rpy:15
 translate malaysian replay_d06s06_594dc50e:
 
     # lc "Okay. {w}I'm ready."
-    lc "Okay. {w}I'm ready."
+    lc "Okay. {w}Saya sedia."
 
 # game/code/d06/d06s06.rpy:20
 translate malaysian replay_d06s06_6b2eeaa4:
 
     # mct "Just imagine that she's singing in the shower."
-    mct "Just imagine that she's singing in the shower."
+    mct "Cuba bayangkan bahawa awak menyanyi sendirian di bilik mandi."
 
 # game/code/d06/d06s06.rpy:25
 translate malaysian replay_d06s06_d1ee4a84:
 
     # mct "Can't... Stop... My imagination..."
-    mct "Can't... Stop... My imagination..."
+    mct "Tidak boleh... Hentikan... Imaginasiku..."
 
 # game/code/d06/d06s06.rpy:30
 translate malaysian replay_d06s06_c6935543:
@@ -280,23 +280,23 @@ translate malaysian replay_d06s06_394a6f6b_1:
 translate malaysian replay_d06s06_44415403:
 
     # mct "Wow people seem to like her song!"
-    mct "Wow people seem to like her song!"
+    mct "Wow nampaknya semua orang menyukai lagunya!"
 
 # game/code/d06/d06s06.rpy:95
 translate malaysian replay_d06s06_db4b9673:
 
     # mct "She did well handling the pressure!"
-    mct "She did well handling the pressure!"
+    mct "Dia berjaya menangani tekanan itu!"
 
 # game/code/d06/d06s06.rpy:106
 translate malaysian replay_d06s06_2f1db87a:
 
     # mc "That was excel-"
-    mc "That was excel-"
+    mc "Itu amatlah menakjub-"
 
 # game/code/d06/d06s06.rpy:108
 translate malaysian replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
-    lc "I couldn't have done it without you."
+    lc "Saya tidak dapat melakukannya tanpa awak."
 

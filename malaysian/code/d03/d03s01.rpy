@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-02-06 13:14
+﻿# TODO: Translation updated at 2021-01-01 19:31
 
 # game/code/d03/d03s01.rpy:66
 translate malaysian d03s01_30c1d42a:
 
     # "Wednesday"
-    "Wednesday"
+    "Rabu"
 
 # game/code/d03/d03s01.rpy:67
 translate malaysian d03s01_3951cc1c:
@@ -16,19 +16,19 @@ translate malaysian d03s01_3951cc1c:
 translate malaysian d03s01_a612ceae:
 
     # mct "Whaaaat?"
-    mct "Whaaaat?"
+    mct "Apaaaa?"
 
 # game/code/d03/d03s01.rpy:97
 translate malaysian d03s01_9f19103a:
 
     # mct "Am I still dreaming?!"
-    mct "Am I still dreaming?!"
+    mct "Adakah aku masih lagi bermimpi?!"
 
 # game/code/d03/d03s01.rpy:100
 translate malaysian d03s01_98655270:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm nice!"
+    "Girl" "Hmmm terbaik!"
 
 # game/code/d03/d03s01.rpy:103
 translate malaysian d03s01_9dd77b75:
@@ -40,25 +40,25 @@ translate malaysian d03s01_9dd77b75:
 translate malaysian d03s01_baa2b145:
 
     # "Girl" "Hey! Good morning!"
-    "Girl" "Hey! Good morning!"
+    "Perempuan" "Hey! Selamat pagi!"
 
 # game/code/d03/d03s01.rpy:109
 translate malaysian d03s01_b12c952f:
 
     # "Girl" "I didn't notice that you are awake already!"
-    "Girl" "I didn't notice that you are awake already!"
+    "Perempuan" "Saya tidak perasan awak sudahpun bangun!"
 
 # game/code/d03/d03s01.rpy:112
 translate malaysian d03s01_b1ca3a85:
 
     # mct "She is not bothered by me being awake."
-    mct "She is not bothered by me being awake."
+    mct "Dia tidak mengambil kisahpun aku sudah bangun."
 
 # game/code/d03/d03s01.rpy:118
 translate malaysian d03s01_3f22d8e7:
 
     # "Girl" "Nice member you have there... {w}although you could use some exercise."
-    "Girl" "Nice member you have there... {w}although you could use some exercise."
+    "Perempuan" "Awak nampak kelihatan kacak... {w}walaupun begitu awak perlu bersenam juga."
 
 # game/code/d03/d03s01.rpy:120
 translate malaysian d03s01_7f3eaa8b:
@@ -70,7 +70,7 @@ translate malaysian d03s01_7f3eaa8b:
 translate malaysian d03s01_b52f46b1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "Girl" "I'm Daisy, by the way!"
+    "Perempuan" "I'm Daisy, selamat berkenalan!"
 
 # game/code/d03/d03s01.rpy:126
 translate malaysian d03s01_ee12be68:
@@ -88,31 +88,31 @@ translate malaysian d03s01_a20cefa7:
 translate malaysian d03s01_700f3c09:
 
     # mct "That is a bit awkward..."
-    mct "That is a bit awkward..."
+    mct "Itu agak janggal..."
 
 # game/code/d03/d03s01.rpy:132
 translate malaysian d03s01_5727570e:
 
     # mc "Can I help you, Daisy?"
-    mc "Can I help you, Daisy?"
+    mc "Boleh saya tolong awak, Daisy?"
 
 # game/code/d03/d03s01.rpy:153
 translate malaysian d03s01_a612ceae_1:
 
     # mct "Whaaaat?"
-    mct "Whaaaat?"
+    mct "Apaaaa?"
 
 # game/code/d03/d03s01.rpy:156
 translate malaysian d03s01_9f19103a_1:
 
     # mct "Am I still dreaming?!"
-    mct "Am I still dreaming?!"
+    mct "Adakah aku masih lagi bermimpi?!"
 
 # game/code/d03/d03s01.rpy:159
 translate malaysian d03s01_98655270_1:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm nice!"
+    "Perempuan" "Hmmm terbaik!"
 
 # game/code/d03/d03s01.rpy:162
 translate malaysian d03s01_9dd77b75_1:
@@ -124,19 +124,19 @@ translate malaysian d03s01_9dd77b75_1:
 translate malaysian d03s01_baa2b145_1:
 
     # "Girl" "Hey! Good morning!"
-    "Girl" "Hey! Good morning!"
+    "Perempuan" "Hey! Selamat pagi!"
 
 # game/code/d03/d03s01.rpy:167
 translate malaysian d03s01_b1ca3a85_1:
 
     # mct "She is not bothered by me being awake."
-    mct "She is not bothered by me being awake."
+    mct "Dia tidak mengambil kisahpun aku sudah bangun."
 
 # game/code/d03/d03s01.rpy:169
 translate malaysian d03s01_c058846f:
 
     # "Girl" "Nice member you have there... {w}but you could use some exercise."
-    "Girl" "Nice member you have there... {w}but you could use some exercise."
+    "Perempuan" "Awak nampak kelihatan kacak... {w}walaupun begitu awak perlu bersenam juga."
 
 # game/code/d03/d03s01.rpy:171
 translate malaysian d03s01_ae0afd0d:
@@ -148,7 +148,7 @@ translate malaysian d03s01_ae0afd0d:
 translate malaysian d03s01_b52f46b1_1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "Girl" "I'm Daisy, by the way!"
+    "Perempuan" "I'm Daisy, by the way!"
 
 # game/code/d03/d03s01.rpy:175
 translate malaysian d03s01_ee12be68_1:
@@ -160,61 +160,61 @@ translate malaysian d03s01_ee12be68_1:
 translate malaysian d03s01_700f3c09_1:
 
     # mct "That is a bit awkward..."
-    mct "That is a bit awkward..."
+    mct "Itu agak janggal..."
 
 # game/code/d03/d03s01.rpy:178
 translate malaysian d03s01_5727570e_1:
 
     # mc "Can I help you, Daisy?"
-    mc "Can I help you, Daisy?"
+    mc "Boleh saya tolong awak, Daisy??"
 
 # game/code/d03/d03s01.rpy:180
 translate malaysian d03s01_afa7982d:
 
     # dd "No, I'm just waiting here."
-    dd "No, I'm just waiting here."
+    dd "Tidak mengapa, saya akan tunggu disini sahaja."
 
 # game/code/d03/d03s01.rpy:182
 translate malaysian d03s01_722fec82:
 
     # mct "I can hear the shower running. She must be waiting for Pete to finish showering."
-    mct "I can hear the shower running. She must be waiting for Pete to finish showering."
+    mct "Aku boleh dengar air dibuka. Dia mesti sedang menunggu Pete selesai mandi."
 
 # game/code/d03/d03s01.rpy:184
 translate malaysian d03s01_09d55382:
 
     # dd "Don't you have a class or someplace you have to go?"
-    dd "Don't you have a class or someplace you have to go?"
+    dd "Adakah kau mempunyai kelas atau sesuatu tempat untuk pergi?"
 
 # game/code/d03/d03s01.rpy:185
 translate malaysian d03s01_805153db:
 
     # mc "I do... I'm going to exercise, actually."
-    mc "I do... I'm going to exercise, actually."
+    mc "Ada... aku mahu pergi bersenam, sebenarnya."
 
 # game/code/d03/d03s01.rpy:187
 translate malaysian d03s01_2a4cbe22:
 
     # dd "Oh good! Why aren't you getting up then?"
-    dd "Oh good! Why aren't you getting up then?"
+    dd "Baiklah kalau begitu! Kalau begitu kenapa awak tidak bersiap lagi?"
 
 # game/code/d03/d03s01.rpy:188
 translate malaysian d03s01_baecf7a9:
 
     # mc "Because you are watching..."
-    mc "Because you are watching..."
+    mc "Sebab kau masih berada disini..."
 
 # game/code/d03/d03s01.rpy:191
 translate malaysian d03s01_c048ea5c:
 
     # dd "Oh, are you shy? I just saw it..."
-    dd "Oh, are you shy? I just saw it..."
+    dd "Oh, adakah kau seoarng yang pemalu? Saya baru sahaja melihatnya..."
 
 # game/code/d03/d03s01.rpy:193
 translate malaysian d03s01_2d36a175:
 
     # dd "Oh, are you shy? I just touched it..."
-    dd "Oh, are you shy? I just touched it..."
+    dd "Oh, adakah kau seoarng yang pemalu? Saya baru sahaja menyentuhnya..."
 
 # game/code/d03/d03s01.rpy:195
 translate malaysian d03s01_84f16542:
@@ -226,7 +226,7 @@ translate malaysian d03s01_84f16542:
 translate malaysian d03s01_14c428cc:
 
     # dd "Will you be ok there?"
-    dd "Will you be ok there?"
+    dd "Adakah awak okay disana?"
 
 # game/code/d03/d03s01.rpy:205
 translate malaysian d03s01_0a017d92:
@@ -238,25 +238,25 @@ translate malaysian d03s01_0a017d92:
 translate malaysian d03s01_7279eb68:
 
     # dd "You seem to have a ton of tension there. Don't you need to relieve it before going?"
-    dd "You seem to have a ton of tension there. Don't you need to relieve it before going?"
+    dd "Nampaknya awak mempunyai banyak ketegangan di sana. Tidakkah anda perlu melegakannya sebelum pergi?"
 
 # game/code/d03/d03s01.rpy:212
 translate malaysian d03s01_2d6ec08b:
 
     # mc "Are you willing to help me with that?"
-    mc "Are you willing to help me with that?"
+    mc "Adakah awak sudi menolong saya tentangnya?"
 
 # game/code/d03/d03s01.rpy:215
 translate malaysian d03s01_11d18100:
 
     # dd "Let me think... {w} ...{w} ..."
-    dd "Let me think... {w} ...{w} ..."
+    dd "Biar saya fikirkan dahulu... {w} ...{w} ..."
 
 # game/code/d03/d03s01.rpy:216
 translate malaysian d03s01_a6be913e:
 
     # mc "So?"
-    mc "So?"
+    mc "Jadi?"
 
 # game/code/d03/d03s01.rpy:218
 translate malaysian d03s01_1ad5614e:
@@ -268,99 +268,99 @@ translate malaysian d03s01_1ad5614e:
 translate malaysian d03s01_8e3ebfc5:
 
     # dd "No, I think not!"
-    dd "No, I think not!"
+    dd "Tak, saya rasa tidak!"
 
 # game/code/d03/d03s01.rpy:223
 translate malaysian d03s01_009b7b33:
 
     # mct "C'mon... What the fuck?"
-    mct "C'mon... What the fuck?"
+    mct "Ah... kenapa pula ia terjadi begini?"
 
 # game/code/d03/d03s01.rpy:225
 translate malaysian d03s01_206217a3:
 
     # mc "Then I guess I will just get going."
-    mc "Then I guess I will just get going."
+    mc "Jika begitu lebih baik aku pergi."
 
 # game/code/d03/d03s01.rpy:227
 translate malaysian d03s01_b1bc0a94:
 
     # dd "Sure!"
-    dd "Sure!"
+    dd "Baik!"
 
 # game/code/d03/d03s01.rpy:231
 translate malaysian d03s01_de47be38:
 
     # mc "I'll be fine."
-    mc "I'll be fine."
+    mc "Aku akan okay."
 
 # game/code/d03/d03s01.rpy:233
 translate malaysian d03s01_820b27a7:
 
     # dd "Ah ok. Take care!"
-    dd "Ah ok. Take care!"
+    dd "Ah ok. Hati-hati!"
 
 # game/code/d03/d03s01.rpy:238
 translate malaysian d03s01_fe0bf467:
 
     # mct "Oh, there is a message from AmRose!"
-    mct "Oh, there is a message from AmRose!"
+    mct "Oh, ada mesej dari AmRose!"
 
 # game/code/d03/d03s01.rpy:245
 translate malaysian d03s01_36818793:
 
     # arj "Hey, sorry we didn't talk yesterday. I had to run from the second part of the class."
-    arj "Hey, sorry we didn't talk yesterday. I had to run from the second part of the class."
+    arj "Hey, maaf kita tidak berbual semalam. Aku terpaksa pergi dari kelas semalam."
 
 # game/code/d03/d03s01.rpy:246
 translate malaysian d03s01_ca07b7af:
 
     # arj "Do you want to meet in the cafeteria?"
-    arj "Do you want to meet in the cafeteria?"
+    arj "Nak jumpa di kafeteria?"
 
 # game/code/d03/d03s01.rpy:247
 translate malaysian d03s01_4381bfed:
 
     # mc "Sure, I have a PE class and then I can meet you there!"
-    mc "Sure, I have a PE class and then I can meet you there!"
+    mc "Baiklah, aku ada kelas PJ dan aku akan jumpa kau disana!"
 
 # game/code/d03/d03s01.rpy:248
 translate malaysian d03s01_15558baa:
 
     # arj "Okay, I'll be there at 12"
-    arj "Okay, I'll be there at 12"
+    arj "Okay, aku akan berada disana dalam pukul 12"
 
 # game/code/d03/d03s01.rpy:249
 translate malaysian d03s01_eb06e7c3:
 
     # mct "Awesome! I'm looking forward to meet AmRose!"
-    mct "Awesome! I'm looking forward to meet AmRose!"
+    mct "Terbaik! Aku sangat mahu bertemu dengan AmRose!"
 
 # game/code/d03/d03s01.rpy:253
 translate malaysian d03s01_329073c7:
 
     # arj "Hey. Sorry I've been a bit harsh with you. Do you want to talk in the cafeteria after the first class?"
-    arj "Hey. Sorry I've been a bit harsh with you. Do you want to talk in the cafeteria after the first class?"
+    arj "Hey. Maaf jika aku berkasar dengan kau. Adakah kau mahu berbual di kafeteria selepas kelas pertama?"
 
 # game/code/d03/d03s01.rpy:254
 translate malaysian d03s01_109df485:
 
     # mc "Sure, I have a PE class will meet you there around 12"
-    mc "Sure, I have a PE class will meet you there around 12"
+    mc "Baiklah, aku ada kelas PJ. Jumpa kau disana dalam pukul 12"
 
 # game/code/d03/d03s01.rpy:255
 translate malaysian d03s01_2f738976:
 
     # mct "Seems like AmRose is not mad at me anymore..."
-    mct "Seems like AmRose is not mad at me anymore..."
+    mct "Nampaknya AmRose tidak marah dengan aku lagi..."
 
 translate malaysian strings:
 
     # game/code/d03/d03s01.rpy:209
     old "Are you willing to help me with that?"
-    new "Are you willing to help me with that?"
+    new "Adakah awak sudi menolong saya tentangnya?"
 
     # game/code/d03/d03s01.rpy:209
     old "I'll be fine."
-    new "I'll be fine."
+    new "Saya akan baik-baik saja."
 
