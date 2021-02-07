@@ -75,8 +75,7 @@ translate chinese d05s05_apt2_89276a59:
 translate chinese d05s05_apt2_852bf95a:
 
     # vw "Alright, alright... Well you can't blame a girl for trying."
-    vw "Alright, alright... Well you can't blame a girl for trying."
-
+    vw "好吧，好吧... 好吧，你不能责怪一个女孩的勇敢尝试吧。"
 # game/code/d05/d05s05b.rpy:40
 translate chinese d05s05_apt2_3258698f:
 
@@ -87,7 +86,7 @@ translate chinese d05s05_apt2_3258698f:
 translate chinese d05s05_apt2_a0fc7f66:
 
     # vw "Oh, those- {w}I have to take this call. Harris, can you entertain this young man for a few minutes?"
-    vw "vw   哦，那些--{w}我得接这个电话。哈里斯，你能招待这位年轻人几分钟吗？"
+    vw "哦，那些--{w}我得接这个电话。哈里斯，你能招待这位年轻人几分钟吗？"
 
 # game/code/d05/d05s05b.rpy:43
 translate chinese d05s05_apt2_d61ee367:
@@ -117,7 +116,7 @@ translate chinese d05s05_apt2_744e7206:
 translate chinese d05s05_apt2_7a72b9a7:
 
     # mh "Thanks. Let's get this out of the way... if you think you can blackmail or coerce me because I was at that Party-"
-    mh " mh   谢谢。让我们把话说清楚吧……如果你以为因为我参加了那个聚会就可以敲诈或胁迫我——"
+    mh "谢谢。让我们把话说清楚吧……如果你以为因为我参加了那个聚会就可以敲诈或胁迫我——"
 
 # game/code/d05/d05s05b.rpy:51
 translate chinese d05s05_apt2_e52b7b38:
@@ -135,7 +134,7 @@ translate chinese d05s05_apt2_f7f4f47c:
 translate chinese d05s05_apt2_80c23691:
 
     # mc "It's not an issue."
-    mc " 这不是问题。"
+    mc "这不是问题。"
 
 # game/code/d05/d05s05b.rpy:56
 translate chinese d05s05_apt2_b07be291:
@@ -543,133 +542,112 @@ translate chinese d05s05_end_2037a8c9:
 translate chinese d05s05_end_c6cf6bc0:
 
     # mc "It's probably about the first apartment she showed me today. There was a squatter who kinda trashed the place."
-    mc "It's probably about the first apartment she showed me today. There was a squatter who kinda trashed the place."
-
+    mc "大概是她今天带我去看的第一套公寓吧。有个擅自居住的人把那个地方搞得一团糟。"
 # game/code/d05/d05s05b.rpy:204
 translate chinese d05s05_end_e462b279:
 
     # mh "That's awful! {w}She's probably going to be on the phone a long time dealing with that."
-    mh "That's awful! {w}She's probably going to be on the phone a long time dealing with that."
+    mh "太可怕了！{w}她可能要在电话里处理很长时间了。"
 
 # game/code/d05/d05s05b.rpy:205
 translate chinese d05s05_end_fc154ab8:
 
     # mc "Yeah. Can you tell her that we worked out a deal? I'm going to take off."
-    mc "Yeah. Can you tell her that we worked out a deal? I'm going to take off."
-
+    mc "是啊。你能告诉她我们达成了协议吗？我要走了。"
 # game/code/d05/d05s05b.rpy:207
 translate chinese d05s05_end_e46abdb8:
 
     # mh "Sure, sure. No problem."
-    mh "Sure, sure. No problem."
-
+    mh "当然。没问题。"
 # game/code/d05/d05s05b.rpy:209
 translate chinese d05s05_end_553f409b:
 
     # mh "Oh, [mcname], how did things work out for you at the Party the other night?"
-    mh "Oh, [mcname], how did things work out for you at the Party the other night?"
-
+    mh "哦，[mcname]，那天晚上你在Party上的表现如何？"
 # game/code/d05/d05s05b.rpy:210
 translate chinese d05s05_end_5d1ba2f3:
 
     # mc "Terrific. Met the girl of my dreams, we stayed up talking all night, and have our first date tomorrow."
-    mc "Terrific. Met the girl of my dreams, we stayed up talking all night, and have our first date tomorrow."
-
+    mc "很棒。遇到了我的梦中情人，我们聊了一夜，明天是我们的第一次约会。"
 # game/code/d05/d05s05b.rpy:212
 translate chinese d05s05_end_77f56a6c:
 
     # mh "Good for you! I hope you're taking her somewhere nice."
-    mh "Good for you! I hope you're taking her somewhere nice."
-
+    mh "好啊！但愿你会带她去个好地方。"
 # game/code/d05/d05s05b.rpy:213
 translate chinese d05s05_end_0b286d62:
 
     # mc "Do you know Nora's Coffee Shop?"
-    mc "Do you know Nora's Coffee Shop?"
-
+    mc "你知道诺拉咖啡馆吗？"
 # game/code/d05/d05s05b.rpy:215
 translate chinese d05s05_end_0e90a45f:
 
     # mh "Seriously? You know that coffee dates aren't real dates."
-    mh "Seriously? You know that coffee dates aren't real dates."
-
+    mh "认真的吗？你知道咖啡之约不是真正的约会。"
 # game/code/d05/d05s05b.rpy:216
 translate chinese d05s05_end_6d93348e:
 
     # mc "Lydia will be performing there. I hooked her up with a gig, and we're going to have the date around her concert."
-    mc "Lydia will be performing there. I hooked her up with a gig, and we're going to have the date around her concert."
-
+    mc "莉迪亚会在那里表演。我给她安排了一场演出，我们会把约会定在她的演唱会前后。"
 # game/code/d05/d05s05b.rpy:218
 translate chinese d05s05_end_68f427db:
 
     # mh "I stand corrected, that does sound... {w}Lydia? You don't mean Lydia Cox, do you?"
-    mh "I stand corrected, that does sound... {w}Lydia? You don't mean Lydia Cox, do you?"
-
+    mh "我要更正一下，这听起来确实……{w}莉迪亚？你不会是说莉迪亚-考克斯吧？"
 # game/code/d05/d05s05b.rpy:219
 translate chinese d05s05_end_95b68525:
 
     # mc "Yeah. She'll be singing at Nora's tomorrow evening."
-    mc "Yeah. She'll be singing at Nora's tomorrow evening."
-
+    mc "是啊。她明天晚上会在诺拉那里唱歌。"
 # game/code/d05/d05s05b.rpy:221
 translate chinese d05s05_end_8f7c2b52:
 
     # mh "Wow. Would you mind if I show up? Do I need to buy a ticket or..."
-    mh "Wow. Would you mind if I show up? Do I need to buy a ticket or..."
-
+    mh "哇，你介意我去吗？我需要买票还是……22。"
 # game/code/d05/d05s05b.rpy:222
 translate chinese d05s05_end_25daa428:
 
     # mc "No ticket necessary. Just grab a drink while you're there."
-    mc "No ticket necessary. Just grab a drink while you're there."
-
+    mc "不需要门票。到时点杯喝的就好了。"
 # game/code/d05/d05s05b.rpy:224
 translate chinese d05s05_end_c5b86ed4:
 
     # mh "Cool. Maybe I'll mention it to a few people."
-    mh "Cool. Maybe I'll mention it to a few people."
-
+    mh "很酷。也许我会跟别的几个人提一下。"
 # game/code/d05/d05s05b.rpy:226
 translate chinese d05s05_end_231838a7:
 
     # mc "Please do. Invite Vanessa when she gets off her call."
-    mc "Please do. Invite Vanessa when she gets off her call."
-
+    mc "那拜托了。等瓦妮莎打完电话后，记得请她来。"
 # game/code/d05/d05s05b.rpy:227
 translate chinese d05s05_end_18d36efe:
 
     # mh "Thanks. Alright, well, I'll see you there."
-    mh "Thanks. Alright, well, I'll see you there."
-
+    mh "谢谢。好吧，那到时候见啦。"
 # game/code/d05/d05s05b.rpy:229
 translate chinese d05s05_end_020285ce:
 
     # mc "See ya', Lyssa."
-    mc "See ya', Lyssa."
+    mc "再见，丽莎。"
 
 # game/code/d05/d05s05b.rpy:234
 translate chinese d05s05_end_5104b7e2:
 
     # mct "Alright, Stacy's got an apartment... or will have one soon."
-    mct "Alright, Stacy's got an apartment... or will have one soon."
-
+    mct "  mct   好了，史黛西的公寓搞定了……或者很快就会有了。"
 # game/code/d05/d05s05b.rpy:235
 translate chinese d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct "I can check that item off my worry list."
-
+    mct    mct   我可以把这件事从我的担心清单上划掉。"
 translate chinese strings:
 
     # game/code/d05/d05s05b.rpy:121
     old "Appeal for Sympathy"
-    new "Appeal for Sympathy"
-
+    new "打同情牌"
     # game/code/d05/d05s05b.rpy:121
     old "Say that you will Co-sign"
-    new "Say that you will Co-sign"
-
+    new "说你会共同签署"
     # game/code/d05/d05s05b.rpy:121
     old "Think about the Future"
-    new "Think about the Future"
-
+    new "思考未来"
