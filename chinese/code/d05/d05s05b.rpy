@@ -451,12 +451,12 @@ translate chinese d05s05_screwyourself_e472b1a4:
 translate chinese d05s05_screwyourself_7f4a0c40:
 
     # mh "Of course."
-    mh " 当然。"
+    mh "当然。"
 # game/code/d05/d05s05b.rpy:173
 translate chinese d05s05_capitalist_1a4c400b:
 
     # mc "Can I give you some advice? Something I've learned in my business classes..."
-    mc "我能给你一些建议吗？我在商业课上学到的东西……"
+    mc "我能给你一些建议吗？是我在商业课上学到的东西……"
 # game/code/d05/d05s05b.rpy:174
 translate chinese d05s05_capitalist_01cba904:
 
@@ -486,7 +486,7 @@ translate chinese d05s05_capitalist_2945c8bd:
 translate chinese d05s05_capitalist_eacba234:
 
     # mc "You need people to know that you can be relied upon. You need people to talk you up and think of you when they're looking to rent a place."
-    mc "  mc 你需要让人们知道你是值得信赖的。你需要人们在找房子的时候说起你，想到你。"
+    mc "你需要让人们知道你是值得信赖的。你需要人们在找房子的时候说起你，想到你。"
 # game/code/d05/d05s05b.rpy:183
 translate chinese d05s05_capitalist_61732d55:
 
@@ -593,7 +593,7 @@ translate chinese d05s05_end_6d93348e:
 translate chinese d05s05_end_68f427db:
 
     # mh "I stand corrected, that does sound... {w}Lydia? You don't mean Lydia Cox, do you?"
-    mh "我要更正一下，这听起来确实……{w}莉迪亚？你不会是说莉迪亚-考克斯吧？"
+    mh "我要更正一下，这听起来确实……{w}莉迪亚？你不会是说莉迪亚·考克斯吧？"
 # game/code/d05/d05s05b.rpy:219
 translate chinese d05s05_end_95b68525:
 
@@ -634,12 +634,12 @@ translate chinese d05s05_end_020285ce:
 translate chinese d05s05_end_5104b7e2:
 
     # mct "Alright, Stacy's got an apartment... or will have one soon."
-    mct "  mct   好了，史黛西的公寓搞定了……或者很快就会有了。"
+    mct "好了，史黛西的公寓搞定了……或者很快就会有了。"
 # game/code/d05/d05s05b.rpy:235
 translate chinese d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct    mct   我可以把这件事从我的担心清单上划掉。"
+    mct "我可以把这件事从我的担心清单上划掉。"
 translate chinese strings:
 
     # game/code/d05/d05s05b.rpy:121
