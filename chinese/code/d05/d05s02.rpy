@@ -610,7 +610,7 @@ translate chinese d05s02_BJ_33cdca68:
 translate chinese d05s02_BJ_cab57c03:
 
     # mc "Well, you're welcome."
-    mc "好吧，不客气。
+    mc "好吧，不客气。"
 
 # game/code/d05/d05s02.rpy:331
 translate chinese d05s02_end_ed2805f5:
