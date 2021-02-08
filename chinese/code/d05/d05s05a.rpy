@@ -10,7 +10,7 @@ translate chinese d05s05_577ee943:
 translate chinese d05s05_32d8f8d3:
 
     # mct "I've never seen AmRose act like that before."
-    mct "我从来没有见过爱洛丝有像这样过。"
+    mct "我从没见过爱洛丝有像这样过。"
 
 # game/code/d05/d05s05a.rpy:16
 translate chinese d05s05_b97c2d33:
@@ -22,7 +22,7 @@ translate chinese d05s05_b97c2d33:
 translate chinese d05s05_9e6df792:
 
     # mc "Hey AmRose! How are you?"
-    mc "嘿，爱洛！你怎么样？"
+    mc "嘿爱洛丝！你怎么样？"
 
 # game/code/d05/d05s05a.rpy:22
 translate chinese d05s05_4ec6d918:
@@ -82,7 +82,7 @@ translate chinese d05s05_b08d161c:
 translate chinese d05s05_e7e43e58:
 
     # mc "Oh yeah, the apartment for Stacy."
-    mc "哦，对了，史黛西的公寓。"
+    mc "哦对了，史黛西的公寓啊。"
 
 # game/code/d05/d05s05a.rpy:38
 translate chinese d05s05_8684e1d7:
@@ -232,7 +232,7 @@ translate chinese d05s05_48514ba3:
 translate chinese d05s05_c876b928:
 
     # arj "Oh, no. Please no."
-    arj "哦，不要。拜托了。"
+    arj "哦不要。拜托了。"
 
 # game/code/d05/d05s05a.rpy:90
 translate chinese d05s05_5a820622:
@@ -256,7 +256,7 @@ translate chinese d05s05_f8d4b7eb:
 translate chinese d05s05_43608ed1:
 
     # arj "You're just not going to let this go..."
-    arj "你就是不愿意罢休……"
+    arj "你就是不愿罢休是吧……"
 
 # game/code/d05/d05s05a.rpy:96
 translate chinese d05s05_f372460c:
@@ -310,13 +310,13 @@ translate chinese d05s05_subslut_21e29f89:
 translate chinese d05s05_subslut_73ca80f6:
 
     # mc "I don't think they want me to strip for a webcam, or shove bottles up my ass."
-    mc "我觉得他们不希望我在摄像头前脱光衣服，或者往屁股里塞瓶子。"
+    mc "我觉得他们不希望我在摄像头前脱光衣服，或是往屁股里塞瓶子。"
 
 # game/code/d05/d05s05a.rpy:117
 translate chinese d05s05_subslut_c1b2b73c:
 
     # mc "I don't think they want me to strip for a webcam, or whatever else you've done."
-    mc "我觉得他们不希望我在摄像头前脱光衣服，或者干其他你做过的事。"
+    mc "我觉得他们不希望我在摄像头前脱光衣服，或是干其他你做过的事。"
 
 # game/code/d05/d05s05a.rpy:119
 translate chinese d05s05_subslut_c7181e1e:
@@ -448,7 +448,7 @@ translate chinese d05s05_subfriend_8716600c:
 translate chinese d05s05_subfriend_14949a27:
 
     # arj "He's talking about some special discipline for disobedience."
-    arj "他说的是对不听话的人进行一些特殊的惩戒。"
+    arj "他说的是对不听话的人施行特殊的惩戒。"
 
 # game/code/d05/d05s05a.rpy:155
 translate chinese d05s05_subfriend_8a340642:
@@ -460,7 +460,7 @@ translate chinese d05s05_subfriend_8a340642:
 translate chinese d05s05_subfriend_c35991d0:
 
     # arj "I don't know. I don't think he knows. I'm going to get assigned some punishment... or else... he'll publish my photos."
-    arj "我不知道。我想他不知道。我会被软件分配惩罚……否则……他会公布我的照片。"
+    arj "我不知道。我想他不知道。软件会给我分配惩罚……否则……他会公布我的照片。"
 
 # game/code/d05/d05s05a.rpy:159
 translate chinese d05s05_subfriend_a3a1b1bc:
@@ -484,7 +484,7 @@ translate chinese d05s05_subfriend_140bb3a6:
 translate chinese d05s05_subfriend_e744c421:
 
     # arj "It just doesn't make any sense. It has to be a person, or a very small group."
-    arj "这根本没有任何意义。它肯定是一个人，或者是一个很小的团体。"
+    arj "这根本没有任何意义啊。它肯定是一个人，或者是一个很小的团体。"
 
 # game/code/d05/d05s05a.rpy:165
 translate chinese d05s05_subfriend_2034c056:
@@ -532,13 +532,13 @@ translate chinese d05s05_subway2_ed3e7461:
 translate chinese d05s05_subway2_614d45be:
 
     # mc "I don't feel very incredible right now."
-    mc "我现在感觉不太好。"
+    mc "我现在感觉可不太好。"
 
 # game/code/d05/d05s05a.rpy:182
 translate chinese d05s05_subway2_94365f62:
 
     # arj "You'll get through this. You'll make all the right decisions. You will be fine."
-    arj "你会挺过去的。你会做出所有正确的决定。你会好起来的。"
+    arj "你会挺过去的。你会做出正确的决定。会好起来的。"
 
 # game/code/d05/d05s05a.rpy:183
 translate chinese d05s05_subway2_4639c2ae:
@@ -574,7 +574,7 @@ translate chinese d05s05_subway2_c0c60094:
 translate chinese d05s05_subway2_b6ee7480:
 
     # mc "Oh, damn. It looks like our stop is coming up."
-    mc "哦，该死的。看来我们要到站了。"
+    mc "哦，该死。看来我们要到站了。"
 
 # game/code/d05/d05s05a.rpy:198
 translate chinese replay_d05s05_2e181d5a:
@@ -628,7 +628,7 @@ translate chinese d05s05_apt1_af428b7e:
 translate chinese d05s05_apt1_0ae8fb34:
 
     # arj "Not a specific time, but the sooner I start the sooner it's done."
-    arj "没有具体的时间，但早做早结束。"
+    arj "没有具体时间，但早做早结束吧。"
 
 # game/code/d05/d05s05a.rpy:217
 translate chinese d05s05_apt1_b2f03f54:
@@ -652,7 +652,7 @@ translate chinese d05s05_apt1_19b9ba6e:
 translate chinese d05s05_apt1_93dc2aeb:
 
     # mct "Seems like this girl has a very bright orgasm!"
-    mct "看来这个女孩的高潮正爽着呢！"
+    mct "看来这个女孩高潮正爽着呢！"
 
 # game/code/d05/d05s05a.rpy:232
 translate chinese d05s05_apt1_554e9ea2:
@@ -724,7 +724,7 @@ translate chinese d05s05_apt1_cd2fc66b:
 translate chinese d05s05_apt1_3cf09fc4:
 
     # arj "Hi Vanessa, this is [mcname]. He's the one I was telling you about."
-    arj "嗨，[mcname]，这是[mcname]。他就是我跟你说的那个人。
+    arj "嗨，瓦妮莎，这是[mcname]。他就是我跟你说的那个人。
 
 # game/code/d05/d05s05a.rpy:255
 translate chinese d05s05_apt1_3206e7d9:
@@ -772,7 +772,7 @@ translate chinese d05s05_apt1_eb570281:
 translate chinese d05s05_apt1_2cbe889b:
 
     # arj "Unbelievable. {w}So what's her name?"
-    arj "难以置信。{w}那么她叫什么名字？"
+    arj "难以置信。{w}那她叫什么名字？"
 
 # game/code/d05/d05s05a.rpy:265
 translate chinese d05s05_apt1_1792a64b:
@@ -808,7 +808,7 @@ translate chinese d05s05_apt1_11455b53:
 translate chinese d05s05_apt1_b585e9cc:
 
     # arj "Here's your phone back. See? The app identified her username."
-    arj "还给你手机。看到了吗？这软件识别出了她的用户名。"
+    arj "手机还你。看到了吗？这软件识别出了她的用户名。"
 
 # game/code/d05/d05s05a.rpy:274
 translate chinese d05s05_apt1_0f6dffd9:
@@ -820,7 +820,7 @@ translate chinese d05s05_apt1_0f6dffd9:
 translate chinese d05s05_apt1_7766093c:
 
     # arj "Well, you got [d05s05_points] for those pictures. Good job, I guess."
-    arj  好吧，你的那些照片得到了[[d05s05_points]点。我猜干得不错。"
+    arj  "好吧，你的那些照片得到了[[d05s05_points]点。我猜干得不错。"
 
 # game/code/d05/d05s05a.rpy:280
 translate chinese d05s05_apt1_eed0d91d:
@@ -832,7 +832,7 @@ translate chinese d05s05_apt1_eed0d91d:
 translate chinese d05s05_apt1_d813e326:
 
     # mc "I'm sure it was much nicer before..."
-    mc "我相信以前这里一定更好……"
+    mc "我相信之前这里一定更好……"
 
 # game/code/d05/d05s05a.rpy:283
 translate chinese d05s05_apt1_cd8ab721:
@@ -862,7 +862,7 @@ translate chinese d05s05_apt1_7929ae74:
 translate chinese d05s05_apt1_3b614f21:
 
     # vw "Definitely. It's just across from the University. You'll love it!"
-    vw " 一定要去。就在大学对面。你一定会喜欢的！"
+    vw "一定要去。就在大学对面。你一定会喜欢的！"
 
 # game/code/d05/d05s05a.rpy:291
 translate chinese d05s05_apt1_20072ab2:
