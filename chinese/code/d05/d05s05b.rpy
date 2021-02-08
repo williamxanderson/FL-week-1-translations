@@ -10,13 +10,13 @@ translate chinese d05s05_apt2_b250022a:
 translate chinese d05s05_apt2_334f8e21:
 
     # vw "Harris! I had no idea you would be here. How are you, darling?"
-    vw "哈里斯！我不知道你会在这里。你怎么样，亲爱的？"
+    vw "哈里斯！我不知道你会在这。你怎么样，亲爱的？"
 
 # game/code/d05/d05s05b.rpy:20
 translate chinese d05s05_apt2_3a7a6526:
 
     # mh "Vanessa! Not two steps in the door and already a surprise. You're early."
-    mh "瓦妮莎！刚进门没两步，就已经是惊喜了。你来早了。"
+    mh "瓦妮莎！刚进门没两步，就已经是惊喜了。你来早了啊。"
 
 # game/code/d05/d05s05b.rpy:22
 translate chinese d05s05_apt2_1fe8407e:
@@ -40,12 +40,12 @@ translate chinese d05s05_apt2_dcf65546:
 translate chinese d05s05_apt2_f2a5591b:
 
     # mh "Oh, um, hi there! Yes, Vanessa, this young man helped me out in the grocery store the other day."
-    mh "mh   哦，嗯，你好啊! 是的，瓦妮莎，这个年轻人前几天在杂货店帮了我的忙。"
+    mh "哦嗯，你好啊！对，瓦妮莎，这个年轻人前几天在杂货店帮了我的忙。"
 # game/code/d05/d05s05b.rpy:27
 translate chinese d05s05_apt2_4184a4c8:
 
     # vw "Mmm hmm. Did you help her with the produce?"
-    vw "嗯嗯。你你帮她买菜了吗？"
+    vw "嗯哼。你帮她买菜了吗？"
 
 # game/code/d05/d05s05b.rpy:29
 translate chinese d05s05_apt2_6ba83c67:
@@ -69,13 +69,13 @@ translate chinese d05s05_apt2_5e3ea8f2:
 translate chinese d05s05_apt2_89276a59:
 
     # mh "Oh don't be silly, Vanessa. This young man is too much of a gentleman for your humor."
-    mh "哦，别傻了，瓦妮莎。这个年轻人太有绅士风度了，与你的幽默不相称。"
+    mh "哦，别傻了，瓦妮莎。这个年轻人太有绅士风度了，与你的幽默不相称的。"
 
 # game/code/d05/d05s05b.rpy:37
 translate chinese d05s05_apt2_852bf95a:
 
     # vw "Alright, alright... Well you can't blame a girl for trying."
-    vw "好吧，好吧... 好吧，你不能责怪一个女孩的勇敢尝试吧。"
+    vw "好吧，好吧……你不能责怪一个女孩的勇敢尝试吧。"
 # game/code/d05/d05s05b.rpy:40
 translate chinese d05s05_apt2_3258698f:
 
@@ -116,7 +116,7 @@ translate chinese d05s05_apt2_744e7206:
 translate chinese d05s05_apt2_7a72b9a7:
 
     # mh "Thanks. Let's get this out of the way... if you think you can blackmail or coerce me because I was at that Party-"
-    mh "谢谢。让我们把话说清楚吧……如果你以为因为我参加了那个聚会就可以敲诈或胁迫我——"
+    mh "谢谢。让我们把话说清楚吧……如果你以为因为我参加了那个派对就可以敲诈或胁迫我--"
 
 # game/code/d05/d05s05b.rpy:51
 translate chinese d05s05_apt2_e52b7b38:
@@ -158,7 +158,7 @@ translate chinese d05s05_apt2_2aa5b5be:
 translate chinese d05s05_apt2_3beda0b8:
 
     # mh "Good..."
-    mh "好…… "
+    mh "好……"
 
 # game/code/d05/d05s05b.rpy:63
 translate chinese d05s05_apt2_e4480d02:
@@ -194,7 +194,7 @@ translate chinese d05s05_apt2_d83d74ef:
 translate chinese d05s05_apt2_0ed21cdd:
 
     # mh "Well, it's been on the market for a few months, and I've dropped the price a few times..."
-    mh " 嗯，它已经在市场上卖了几个月了，我已经降了几次价……"
+    mh "嗯，它已经在市场上卖了几个月了，我已经降了几次价……"
 
 # game/code/d05/d05s05b.rpy:72
 translate chinese d05s05_apt2_0de789bb:
@@ -206,13 +206,13 @@ translate chinese d05s05_apt2_0de789bb:
 translate chinese d05s05_apt2_5b4bdc22:
 
     # mh "Since before the fall semester. I mean, I'm still making money on paper. Real estate prices keep going up."
-    mh "从秋季学期前就开始了。我的意思是，我还在纸面上赚钱。房地产价格一直在涨。"
+    mh "从秋季学期前就开始了。我的意思是，我还是在赚钞票。房地产价格一直在涨。"
 
 # game/code/d05/d05s05b.rpy:75
 translate chinese d05s05_apt2_a3f15b3e:
 
     # mc "But it would be nice to make some paper money, and higher real estate prices mean higher taxes."
-    mc "但是，能赚点纸面上的钱就不错了，而且房地产价格越高，意味着税收越高。"
+    mc "但是，能赚点票子就不错了，而且房地产价格越高，意味着税收越高。"
 
 # game/code/d05/d05s05b.rpy:77
 translate chinese d05s05_apt2_c66a8ba9:
@@ -236,13 +236,13 @@ translate chinese d05s05_apt2_cf80c4e1:
 translate chinese d05s05_apt2_a5818b0d:
 
     # mc "I mean, it's a great location for someone at the University, but I can't imagine a college student..."
-    mc "我的意思是，对于大学里的人来说，这个位置很好，但我无法想象一个大学生……"
+    mc "我的意思是，对大学里的人来说，这个位置是很好，但我无法想象一个大学生……"
 
 # game/code/d05/d05s05b.rpy:83
 translate chinese d05s05_apt2_6779bbcd:
 
     # mh "Yeah. So, not for you."
-    mh "是啊。所以，不适合你。"
+    mh "是啊。所以，不适合你嘛。"
 
 # game/code/d05/d05s05b.rpy:84
 translate chinese d05s05_apt2_ad122613:
