@@ -41,6 +41,7 @@ translate chinese d05s05_apt2_f2a5591b:
 
     # mh "Oh, um, hi there! Yes, Vanessa, this young man helped me out in the grocery store the other day."
     mh "哦嗯，你好啊！对，瓦妮莎，这个年轻人前几天在杂货店帮了我的忙。"
+    
 # game/code/d05/d05s05b.rpy:27
 translate chinese d05s05_apt2_4184a4c8:
 
@@ -76,6 +77,7 @@ translate chinese d05s05_apt2_852bf95a:
 
     # vw "Alright, alright... Well you can't blame a girl for trying."
     vw "好吧，好吧……你不能责怪一个女孩的勇敢尝试吧。"
+    
 # game/code/d05/d05s05b.rpy:40
 translate chinese d05s05_apt2_3258698f:
 
@@ -248,12 +250,14 @@ translate chinese d05s05_apt2_6779bbcd:
 translate chinese d05s05_apt2_ad122613:
 
     # mc "I mean, I'm looking for someplace across town, closer to the College..."
-    mc "我的意思是，我想找个市区里的，离学校近一点的地方……"
+    mc "我的意思是，我想找个穿过市区的，离学校近一点的地方……"
+    
 # game/code/d05/d05s05b.rpy:86
 translate chinese d05s05_apt2_d09f83d7:
 
     # mh "Oh?"
     mh "哦？"
+    
 # game/code/d05/d05s05b.rpy:87
 translate chinese d05s05_apt2_e5cc8e22:
 
@@ -264,132 +268,158 @@ translate chinese d05s05_apt2_e5cc8e22:
 translate chinese d05s05_apt2_dd51247f:
 
     # mct "I wonder if Dahlia or Daisy would be interested in this place."
-    mct "不知道达丽亚或者黛西会不会对这个地方感兴趣。"
+    mct "不知道黛丽娅或者黛西会不会对这个地方感兴趣。"
+    
 # game/code/d05/d05s05b.rpy:90
 translate chinese d05s05_apt2_5ce922b5:
 
     # mh "And if I had a place over by the College, what price range would you be looking at?"
-    mh "如果我在学校附近有个房子，你会考虑什么价位?"
+    mh "如果我在学校附近有个房子，你会考虑什么价位？"
+    
 # game/code/d05/d05s05b.rpy:92
 translate chinese d05s05_apt2_f0d17d70:
 
     # mc "Well, it's not for me. It's for my sister."
     mc "嗯，这不是给我的。是给我妹妹的。"
+    
 # game/code/d05/d05s05b.rpy:94
 translate chinese d05s05_apt2_60fe57ac:
 
     # mc "Well, it's not for me. It's for my friend."
     mc "嗯，这不是给我的。是给我朋友的。"
+    
 # game/code/d05/d05s05b.rpy:96
 translate chinese d05s05_apt2_9d92d73d:
 
     # mh "Your friend? Seriously?"
     mh "你的朋友？认真的吗？"
+    
 # game/code/d05/d05s05b.rpy:97
 translate chinese d05s05_apt2_5a37f8e5:
 
     # mc "Well, she's my oldest friend. We've known each other forever. She's almost like a little sister, but our parents never..."
-    mc "嗯，她是我的老朋友。我们已经认识很久了。她就像个小妹妹一样，但我们的父母从不……"
+    mc "嗯，她是我的老朋友。我们已经认识很久了。她就像个小妹妹一样，但我们父母从不……"
+    
 # game/code/d05/d05s05b.rpy:99
 translate chinese d05s05_apt2_c42fc760:
 
     # mh "Okay, so what are we doing here?"
     mh "好吧，那我们在这里做什么？"
+    
 # game/code/d05/d05s05b.rpy:100
 translate chinese d05s05_apt2_17eb9c77:
 
     # mc "I don't know. She's looking for a nice affordable place near the college, and she expects me to arrange it for her."
     mc "我不知道。她正在找一所离学校近一点、价格实惠的房子，希望我能为她安排。"
+    
 # game/code/d05/d05s05b.rpy:102
 translate chinese d05s05_apt2_829bd270:
 
     # mh "Well, there's a place near the College that I've been thinking about buying and fixing up... if we strike a deal, when could she move in?"
     mh "嗯，学校附近有个地方，我一直在考虑买下来修整一下……如果我们达成协议，她什么时候可以搬进去？"
+    
 # game/code/d05/d05s05b.rpy:103
 translate chinese d05s05_apt2_40661ae5:
 
     # mc "Stacy arrives tomorrow, so literally anytime."
     mc "史黛西明天就到了，所以随时都可以。"
+    
 # game/code/d05/d05s05b.rpy:105
 translate chinese d05s05_apt2_83ff1077:
 
     # mh "Hmm. The paperwork is all ready, but I wouldn't be able to take ownership until Monday. Then it would take me a couple days..."
     mh "嗯，手续都准备好了，但我要到星期一才能取得所有权。然后我要花上几天时间……"
+    
 # game/code/d05/d05s05b.rpy:106
 translate chinese d05s05_apt2_83671762:
 
     # mc "A couple of days? That can't be right. {w}You already bought the place, didn't you?"
     mc "几天？这不可能吧。{w}你已经买下这个地方了吧？"
+    
 # game/code/d05/d05s05b.rpy:108
 translate chinese d05s05_apt2_79812529:
 
     # mh "Fine. You caught me lying. I already own the place, but I'm still having some work done on it. I don't know when it will be ready, but soon."
     mh "好吧。被你抓到我撒谎了。这房子已经是我的了，但我还在装修。我不知道什么时候能完工，但应该很快了。"
+    
 # game/code/d05/d05s05b.rpy:109
 translate chinese d05s05_apt2_f5d69345:
 
     # mc "What kind of place are we talking about?"
     mc "我们说的是什么样的地方？"
+    
 # game/code/d05/d05s05b.rpy:111
 translate chinese d05s05_apt2_f23f702c:
 
     # mh "One bedroom, one bathroom. All new appliances and fixtures. I already had the plumbing modernized and the electricity rewired... fresh drywall..."
-    mh "一室一卫。所有的电器和装置都是新的。我已经把管道现代化了，电线也重新布线了……新的干式墙……"
+    mh "一室一卫。所有电器和装置都是新的。我已经把管道现代化了，电线也重新布线了……新的干式墙……"
+    
 # game/code/d05/d05s05b.rpy:112
 translate chinese d05s05_apt2_b1b11b02:
 
     # mc "You're kidding me. Sounds like you sank a fortune into this already."
     mc "你在开玩笑吧。听起来你已经在这上面花了一大笔钱了。"
+    
 # game/code/d05/d05s05b.rpy:114
 translate chinese d05s05_apt2_b3c2ffe7:
 
     # mh "Does it? I wouldn't want to rent a place that I wouldn't live in..."
     mh "是吗？我可不想租一个我不愿意住的地方……"
+    
 # game/code/d05/d05s05b.rpy:115
 translate chinese d05s05_apt2_56399bc8:
 
     # mc "So, how much are you thinking rent would be?"
     mc "那么，你觉得租金会是多少？"
+    
 # game/code/d05/d05s05b.rpy:117
 translate chinese d05s05_apt2_ed0a972e:
 
     # mh "I triple checked all the math this time. The rent will be $1200/mo, which includes utilities."
     mh "我这次把所有的数学计算都查了三遍。租金是1200美元/月，包括水电费。"
+    
 # game/code/d05/d05s05b.rpy:134
 translate chinese d05s05_sympathy_41fbeee9:
 
     # mc "That sounds like a lot. Stacy is just a poor college student, couldn't you cut her a break?"
     mc "听起来很多啊。史黛西只是个穷大学生，你就不能放她一马吗？"
+    
 # game/code/d05/d05s05b.rpy:136
 translate chinese d05s05_sympathy_55a1a228:
 
     # mh "I sympathize, but that's bad for business. If she can't afford the rent maybe she should try something else."
     mh "我很同情啊，但这对生意不好。如果她付不起房租，也许她应该试试别的。"
+    
 # game/code/d05/d05s05b.rpy:137
 translate chinese d05s05_sympathy_38d17585:
 
     # mc "I'm sure she could afford the rent, if it was a little less... maybe $800/mo?"
     mc "如果少一点的话，我相信她能付得起房租……也许800美元/月？"  
+    
 # game/code/d05/d05s05b.rpy:139
 translate chinese d05s05_sympathy_26f2d147:
 
     # mh "You want a lower price, that makes sense, but what you've just told me is that I might get stiffed and have to evict her. Too risky."
     mh "你想要更低的价格，有道理，但你刚才告诉我的是，我可能会被骗，不得不把她赶出去。风险太大。"
+    
 # game/code/d05/d05s05b.rpy:140
 translate chinese d05s05_sympathy_ed28e768:
 
     # mct "Crap, that really backfired."
     mct "糟了，真是适得其反。"
+    
 # game/code/d05/d05s05b.rpy:147
 translate chinese d05s05_screwyourself_d310227f:
 
     # mc "It's a bit much, but $1200 might be manageable."
     mc "虽然有点多，但1200美元也许可以应付。"
+    
 # game/code/d05/d05s05b.rpy:149
 translate chinese d05s05_screwyourself_abbe76bc:
 
     # mh "Wait, she's starting college in the autumn? She'll be a freshman?"
     mh "等等，她秋天就要上大学了？她要上大一了？"
+    
 # game/code/d05/d05s05b.rpy:150
 translate chinese d05s05_screwyourself_cf1adef2:
 
@@ -406,132 +436,158 @@ translate chinese d05s05_screwyourself_ae1eac20:
 translate chinese d05s05_screwyourself_33bc65e9:
 
     # mc "Oh yeah, I hadn't thought of that."
-    mc "哦，是哎，我没有想到这一点。"
+    mc "哦，是哎，我没想到这一点。"
+    
 # game/code/d05/d05s05b.rpy:155
 translate chinese d05s05_screwyourself_21fff34d:
 
     # mh "What about you? Where are you living?"
     mh "那你呢？你住在哪里？"
+    
 # game/code/d05/d05s05b.rpy:156
 translate chinese d05s05_screwyourself_79549b86:
 
     # mc "Well, I'm currently in a dorm."
     mc "嗯，我现在住在宿舍。"
+    
 # game/code/d05/d05s05b.rpy:158
 translate chinese d05s05_screwyourself_3e8d8624:
 
     # mh "So, how about this: You co-sign the documents. She lives in the apartment for the Summer, and you move in at the beginning of the semester."
     mh "那这样吧。你们共同签署文件。她暑假住在公寓里，你学期初搬进来。"
+    
 # game/code/d05/d05s05b.rpy:159
 translate chinese d05s05_screwyourself_f2e8b328:
 
     # mc "I... I suppose that could work."
-    mc "我……我想这可以。"
+    mc "我……我想可以。"
+    
 # game/code/d05/d05s05b.rpy:161
 translate chinese d05s05_screwyourself_cff8ff90:
 
     # mh "Of course, you'll both be responsible for the rent, and both be listed as tenants."
     mh "当然，你们都要负责房租，而且都是租客。"  
+    
 # game/code/d05/d05s05b.rpy:162
 translate chinese d05s05_screwyourself_295ff1b0:
 
     # mc "I doubt we'll want to share a 1 bedroom apartment at the same time, but... yeah."
-    mc "我怀疑我们是否愿意同时合租一间一居室的公寓，但是……行吧。"  
+    mc "我不确定我们是否愿意同时合租一间一居室的公寓，但是……行吧。"  
+    
 # game/code/d05/d05s05b.rpy:164
 translate chinese d05s05_screwyourself_92110a4a:
 
     # mh "Think of it like a time-share."
     mh "就当是分时租赁吧。"
+    
 # game/code/d05/d05s05b.rpy:165
 translate chinese d05s05_screwyourself_e472b1a4:
 
     # mc "Okay, but neither of us are signing anything until we both see the place."
     mc "好吧，但是在看到房子之前，我们都不会签任何东西。"
+    
 # game/code/d05/d05s05b.rpy:167
 translate chinese d05s05_screwyourself_7f4a0c40:
 
     # mh "Of course."
     mh "当然。"
+    
 # game/code/d05/d05s05b.rpy:173
 translate chinese d05s05_capitalist_1a4c400b:
 
     # mc "Can I give you some advice? Something I've learned in my business classes..."
     mc "我能给你一些建议吗？是我在商业课上学到的东西……"
+    
 # game/code/d05/d05s05b.rpy:174
 translate chinese d05s05_capitalist_01cba904:
 
     # mh "What's that?"
     mh "什么建议？"
+    
 # game/code/d05/d05s05b.rpy:175
 translate chinese d05s05_capitalist_9890d2e5:
 
     # mc "You need to think about the future."
     mc "你需要考虑未来。"
+    
 # game/code/d05/d05s05b.rpy:177
 translate chinese d05s05_capitalist_6274e4f9:
 
     # mc "You've got yourself stuck with one beautiful apartment here that no one is renting, and you're already trying to do the same with the next place."
     mc "你这里有一套漂亮的公寓，却没人租，而在下一个地方你也还是打算做同样的事情。"
+    
 # game/code/d05/d05s05b.rpy:179
 translate chinese d05s05_capitalist_3b167374:
 
     # mh "Go on."
     mh "继续。"
+    
 # game/code/d05/d05s05b.rpy:180
 translate chinese d05s05_capitalist_2945c8bd:
 
     # mc "You need advertising, sure, but more than that you need to build up a reputation."
     mc "当然，你需要广告宣传，但更重要的是，你需要建立声誉。"
+    
 # game/code/d05/d05s05b.rpy:181
 translate chinese d05s05_capitalist_eacba234:
 
     # mc "You need people to know that you can be relied upon. You need people to talk you up and think of you when they're looking to rent a place."
-    mc "你需要让人们知道你是值得信赖的。你需要人们在找房子的时候说起你，想到你。"
+    mc "你需要让人们知道你是值得信赖的。你需要人们在找房子的时候提到你，想到你。"
+    
 # game/code/d05/d05s05b.rpy:183
 translate chinese d05s05_capitalist_61732d55:
 
     # mh "You're speaking in generalities. Get to the point."
     mh "你只是泛泛而谈。说重点。"
+    
 # game/code/d05/d05s05b.rpy:184
 translate chinese d05s05_capitalist_b8c03784:
 
     # mc "Stacy isn't particularly popular in high school, but she's one of those wonderful, reliable, smart people that everyone will want to know in college."
     mc "史黛西在高中时并不是很受欢迎，但她是那种优秀、可靠、聪明的人，每个人都想在大学里认识她。"
+    
 # game/code/d05/d05s05b.rpy:185
 translate chinese d05s05_capitalist_cd2d4b85:
 
     # mc "If she gets this apartment, then every freshmen is going to hear about it, and when they're looking for a place sophomore year they'll be knocking on your door."
     mc "如果她得到了这套公寓，那么每个新生都会听说这件事，当有人大二要找房子时，他们会来找你的。"
+    
 # game/code/d05/d05s05b.rpy:187
 translate chinese d05s05_capitalist_0ba6d803:
 
     # mh "Uh huh. And what is this goodwill and advertising going to cost me?"
     mh "嗯哼。那这个商誉和广告要花我多少钱呢？"
+    
 # game/code/d05/d05s05b.rpy:188
 translate chinese d05s05_capitalist_7ec233dc:
 
     # mc "Not much. Just drop the rent down to $800/mo to ensure she has nothing but positive things to say about the place."
-    mc "并不多。只要把房租降到800元/月，保证她对这个地方只有正面的评价。"
+    mc "并不多。只要把房租降到800美元/月，保证她对这个地方只有正面评价。"
+    
 # game/code/d05/d05s05b.rpy:190
 translate chinese d05s05_capitalist_268106c2:
 
     # mh "You're a very persuasive young man."
     mh "你是个很有说服力的年轻人。"
+    
 # game/code/d05/d05s05b.rpy:191
 translate chinese d05s05_capitalist_a7888ad7:
 
     # mc "Does that mean we have a deal?"
     mc"这是不是意味着我们成交了？" 
+    
 # game/code/d05/d05s05b.rpy:193
 translate chinese d05s05_capitalist_512b5213:
 
     # mh "Sure, why not. I assume you'll want to see the place before she signs anything."
     mh "当然，为什么不呢。我想在她签署任何东西之前，你会想看看这个地方的。"
+    
 # game/code/d05/d05s05b.rpy:194
 translate chinese d05s05_capitalist_2bd6b602:
 
     # mc "Of course. Just call me when it's ready."
     mc "当然可以。准备好了就给我打电话。"
+    
 # game/code/d05/d05s05b.rpy:201
 translate chinese d05s05_end_2037a8c9:
 
@@ -543,6 +599,7 @@ translate chinese d05s05_end_c6cf6bc0:
 
     # mc "It's probably about the first apartment she showed me today. There was a squatter who kinda trashed the place."
     mc "大概是她今天带我去看的第一套公寓吧。有个擅自居住的人把那个地方搞得一团糟。"
+    
 # game/code/d05/d05s05b.rpy:204
 translate chinese d05s05_end_e462b279:
 
@@ -553,77 +610,92 @@ translate chinese d05s05_end_e462b279:
 translate chinese d05s05_end_fc154ab8:
 
     # mc "Yeah. Can you tell her that we worked out a deal? I'm going to take off."
-    mc "是啊。你能告诉她我们达成了协议吗？我要走了。"
+    mc "是啊。你能告诉她我们达成协议了吗？我要走了。"
+    
 # game/code/d05/d05s05b.rpy:207
 translate chinese d05s05_end_e46abdb8:
 
     # mh "Sure, sure. No problem."
     mh "当然。没问题。"
+    
 # game/code/d05/d05s05b.rpy:209
 translate chinese d05s05_end_553f409b:
 
     # mh "Oh, [mcname], how did things work out for you at the Party the other night?"
-    mh "哦，[mcname]，那天晚上你在Party上的表现如何？"
+    mh "哦，[mcname]，那天晚上你在派对上的表现如何？"
+    
 # game/code/d05/d05s05b.rpy:210
 translate chinese d05s05_end_5d1ba2f3:
 
     # mc "Terrific. Met the girl of my dreams, we stayed up talking all night, and have our first date tomorrow."
     mc "很棒。遇到了我的梦中情人，我们聊了一夜，明天是我们的第一次约会。"
+    
 # game/code/d05/d05s05b.rpy:212
 translate chinese d05s05_end_77f56a6c:
 
     # mh "Good for you! I hope you're taking her somewhere nice."
     mh "好啊！但愿你会带她去个好地方。"
+    
 # game/code/d05/d05s05b.rpy:213
 translate chinese d05s05_end_0b286d62:
 
     # mc "Do you know Nora's Coffee Shop?"
     mc "你知道诺拉咖啡馆吗？"
+    
 # game/code/d05/d05s05b.rpy:215
 translate chinese d05s05_end_0e90a45f:
 
     # mh "Seriously? You know that coffee dates aren't real dates."
-    mh "认真的吗？你知道咖啡之约不是真正的约会。"
+    mh "认真的吗？你知道喝咖啡不算真正的约会吧。"
+    
 # game/code/d05/d05s05b.rpy:216
 translate chinese d05s05_end_6d93348e:
 
     # mc "Lydia will be performing there. I hooked her up with a gig, and we're going to have the date around her concert."
     mc "莉迪亚会在那里表演。我给她安排了一场演出，我们会把约会定在她的演唱会前后。"
+    
 # game/code/d05/d05s05b.rpy:218
 translate chinese d05s05_end_68f427db:
 
     # mh "I stand corrected, that does sound... {w}Lydia? You don't mean Lydia Cox, do you?"
     mh "我要更正一下，这听起来确实……{w}莉迪亚？你不会是说莉迪亚·考克斯吧？"
+    
 # game/code/d05/d05s05b.rpy:219
 translate chinese d05s05_end_95b68525:
 
     # mc "Yeah. She'll be singing at Nora's tomorrow evening."
     mc "是啊。她明天晚上会在诺拉那里唱歌。"
+    
 # game/code/d05/d05s05b.rpy:221
 translate chinese d05s05_end_8f7c2b52:
 
     # mh "Wow. Would you mind if I show up? Do I need to buy a ticket or..."
-    mh "哇，你介意我去吗？我需要买票还是……22。"
+    mh "哇，你介意我去吗？我需要买票还是……"
+    
 # game/code/d05/d05s05b.rpy:222
 translate chinese d05s05_end_25daa428:
 
     # mc "No ticket necessary. Just grab a drink while you're there."
     mc "不需要门票。到时点杯喝的就好了。"
+    
 # game/code/d05/d05s05b.rpy:224
 translate chinese d05s05_end_c5b86ed4:
 
     # mh "Cool. Maybe I'll mention it to a few people."
     mh "很酷。也许我会跟别的几个人提一下。"
+    
 # game/code/d05/d05s05b.rpy:226
 translate chinese d05s05_end_231838a7:
 
     # mc "Please do. Invite Vanessa when she gets off her call."
     mc "那拜托了。等瓦妮莎打完电话后，记得请她来。"
+    
 # game/code/d05/d05s05b.rpy:227
 translate chinese d05s05_end_18d36efe:
 
     # mh "Thanks. Alright, well, I'll see you there."
     mh "谢谢。好吧，那到时候见啦。"
+    
 # game/code/d05/d05s05b.rpy:229
 translate chinese d05s05_end_020285ce:
 
@@ -635,19 +707,23 @@ translate chinese d05s05_end_5104b7e2:
 
     # mct "Alright, Stacy's got an apartment... or will have one soon."
     mct "好了，史黛西的公寓搞定了……或者很快就会有了。"
+    
 # game/code/d05/d05s05b.rpy:235
 translate chinese d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct "我可以把这件事从我的担心清单上划掉。"
+    mct "我可以把这件事从我的忧虑清单上划掉了。"
+    
 translate chinese strings:
 
     # game/code/d05/d05s05b.rpy:121
     old "Appeal for Sympathy"
     new "打同情牌"
+    
     # game/code/d05/d05s05b.rpy:121
     old "Say that you will Co-sign"
     new "说你会共同签署"
+    
     # game/code/d05/d05s05b.rpy:121
     old "Think about the Future"
     new "思考未来"
