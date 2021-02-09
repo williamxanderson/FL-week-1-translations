@@ -820,7 +820,7 @@ translate chinese d05s05_apt1_0f6dffd9:
 translate chinese d05s05_apt1_7766093c:
 
     # arj "Well, you got [d05s05_points] for those pictures. Good job, I guess."
-    arj  "好吧，你的那些照片得到了[[d05s05_points]点。我猜干得不错。"
+    arj  "好吧，你的那些照片得到了[d05s05_points]点。我猜干得不错。"
 
 # game/code/d05/d05s05a.rpy:280
 translate chinese d05s05_apt1_eed0d91d:
