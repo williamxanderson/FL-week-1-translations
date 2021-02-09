@@ -760,7 +760,7 @@ translate chinese d05s05_apt1_606e2d02:
 translate chinese d05s05_apt1_43e16ded:
 
     # arj "Did you really upload those pictures?"
-    arj 你真的上传了那些照片吗？"
+    arj "你真的上传了那些照片吗？"
 
 # game/code/d05/d05s05a.rpy:263
 translate chinese d05s05_apt1_eb570281:
