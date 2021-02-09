@@ -94,7 +94,7 @@ translate chinese replay_d05s06_58cbe7e0:
 translate chinese replay_d05s06_a88c1e18:
 
     # mc "Yeah. I get that it isn't a turn-on for you, but isn't it just another liquid?"
-    mc "是啊，我知道这对你来说并没有多刺激，但它不就是换了个液体吗？"
+    mc "是啊，我知道这并不是你的性奋点，但它不就是换了个液体吗？"
 
 # game/code/d05/d05s06.rpy:53
 translate chinese replay_d05s06_259b3350:
@@ -166,13 +166,13 @@ translate chinese replay_d05s06_308f34a6:
 translate chinese replay_d05s06_c3b5b156:
 
     # mc "What? No, I was just trying to think of some way to trick your mind."
-    mc "什么？不啊，我只是在想办法可以骗过你的大脑。"
+    mc "什么？不啊，我只是在想可以迷惑你大脑的办法。"
 
 # game/code/d05/d05s06.rpy:69
 translate chinese replay_d05s06_7357a1a6:
 
     # mesfl "Make believe it's tomato juice instead of urine?"
-    mesfl "把它当成番茄汁而不是尿？"
+    mesfl "把它当成番茄汁而不是尿吗？"
 
 # game/code/d05/d05s06.rpy:71
 translate chinese replay_d05s06_87a42576:
@@ -220,37 +220,37 @@ translate chinese replay_d05s06_6877d803:
 translate chinese replay_d05s06_59c804c3:
 
     # mesfl "I see through them too easily."
-    mesfl "  我太容易看穿他们了。 "
+    mesfl "我太容易看穿他们了。"
 
 # game/code/d05/d05s06.rpy:80
 translate chinese replay_d05s06_ffe7c7f6:
 
     # mc "Good to know."
-    mc "  这样啊。 "
+    mc "这样啊。"
 
 # game/code/d05/d05s06.rpy:83
 translate chinese replay_d05s06_5660401a:
 
     # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "  这种把戏对明不起作用，对我也不会起作用！ "
+    mesfl "这种把戏对明不起作用，对我也不会起作用！"
 
 # game/code/d05/d05s06.rpy:84
 translate chinese replay_d05s06_dbd03970:
 
     # mc "Would it help - could you convince yourself - that it is something else? Like white grape juice?"
-    mc "   这样行吗--你能不能说服自己--这是是别的东西？比如白葡萄汁？ "
+    mc "这样行吗--你能不能说服自己--这是别的东西？比如白葡萄汁？"
 
 # game/code/d05/d05s06.rpy:85
 translate chinese replay_d05s06_46a54fc9:
 
     # mesfl "You mentioned that before? What is it with you and white grape juice?"
-    mesfl "  你以前提到过吧？你怎么老爱提白葡萄汁？"
+    mesfl "你以前提到过的吧？你怎么老爱提白葡萄汁？"
 
 # game/code/d05/d05s06.rpy:86
 translate chinese replay_d05s06_7184d152:
 
     # mc "It just has a similar color, taste, smell..."
-    mc "   只是它的颜色、味道、气味都很像…… "
+    mc "只是它的颜色、味道、气味都很像……"
 
 # game/code/d05/d05s06.rpy:88
 translate chinese replay_d05s06_e1e1704e:
@@ -262,25 +262,25 @@ translate chinese replay_d05s06_e1e1704e:
 translate chinese replay_d05s06_afdfb9b6:
 
     # mc "Why not? It's just unfermented white wine."
-    mc "   为什么不试试呢？这只是未发酵的白葡萄酒。 "
+    mc "为什么不试试呢？这只是未发酵的白葡萄酒。"
 
 # game/code/d05/d05s06.rpy:90
 translate chinese replay_d05s06_2ef7e7b9:
 
     # mesfl "Okay, you need to stop while there are still things in this world that I can drink without thinking they might be pee."
-    mesfl "  好吧，在趁着这个世上还有我可以喝的东西，我也还不会去想它们可能是尿的时候，你得赶紧停下来。 "
+    mesfl "好吧，在趁着这个世上还有我可以喝的东西，我也还不会去想它们可能是尿的时候，你得赶紧停下来。"
 
 # game/code/d05/d05s06.rpy:92
 translate chinese replay_d05s06_713d84e6:
 
     # mc "Okay, so... what are we going to do here, then?"
-    mc " 好吧，那……那我们在这里做什么？ "
+    mc "好吧，那……那我们在这里做什么？"
 
 # game/code/d05/d05s06.rpy:93
 translate chinese replay_d05s06_348925bb:
 
     # mesfl "I'm just going to have to woman up and take it. {w}After you, of course."
-    mesfl "我只能像个女人一样接受它了。{w}当然是在你之后。"
+    mesfl "我要做个坚强的女性来接受它。{w}当然，是在你之后。"
 
 # game/code/d05/d05s06.rpy:94
 translate chinese replay_d05s06_40f2d569:
@@ -298,7 +298,7 @@ translate chinese replay_d05s06_4eeb2475:
 translate chinese replay_d05s06_a79c6d84:
 
     # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "如果我因喝了你的尿而受到精神创伤，我就没法放松，更没法撒尿。"
+    mesfl "如果我因为喝了你的尿而受到精神创伤，我就没法放松，更没法撒尿。"
 
 # game/code/d05/d05s06.rpy:97
 translate chinese replay_d05s06_e708499c:
@@ -670,7 +670,7 @@ translate chinese replay_d05s06_3ae9c107:
 translate chinese replay_d05s06_669fbfb9:
 
     # mc "Okay, you might want to close your eyes for this part."
-    mc "好吧，这期间你最好闭上眼睛。”"
+    mc "好吧，这期间你最好闭上眼睛。"
 
 # game/code/d05/d05s06.rpy:230
 translate chinese replay_d05s06_f4b94ba8:
@@ -688,7 +688,7 @@ translate chinese replay_d05s06_6651ab87:
 translate chinese replay_d05s06_f5f6e43b:
 
     # mesfl "Gah! Tomato! Tomato!"
-    mesfl "啊！西红柿！西红柿!"
+    mesfl "啊！西红柿！西红柿！"
 
 # game/code/d05/d05s06.rpy:240
 translate chinese replay_d05s06_6a1f8d95:
@@ -892,7 +892,7 @@ translate chinese d05s06_Body_7a394560:
 translate chinese d05s06_Body_165bf938:
 
     # mesfl "Like my breasts and torso? Maybe my legs and feet?"
-    mesfl "比如我的奶子和上半身？还是说尿我腿和脚上？"
+    mesfl "比如我的奶子和上半身？也可以试试尿我腿和脚上？"
 
 # game/code/d05/d05s06.rpy:331
 translate chinese d05s06_Body_02de425e:
@@ -1392,7 +1392,7 @@ translate chinese strings:
 
     # game/code/d05/d05s06.rpy:100
     old "No problem."
-    new "没问题"
+    new "没问题。"
 
     # game/code/d05/d05s06.rpy:100
     old "No thanks."
@@ -1408,7 +1408,7 @@ translate chinese strings:
 
     # game/code/d05/d05s06.rpy:279
     old "Pee on Min's Face"
-    new "尿在明的脸上”"
+    new "尿在明的脸上"
 
     # game/code/d05/d05s06.rpy:279
     old "Pee on Min's Body"
