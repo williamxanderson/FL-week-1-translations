@@ -76,13 +76,13 @@ translate chinese d05s07_alone_9dd24297:
 translate chinese d05s07_reject_333e2e70:
 
     # dd "I'm sorry, I changed my mind. This was a bad idea."
-    dd "对不起，我改变主意了。这是个坏主意。"
+    dd "对不起，我改变主意了。这样很不明智。"
 
 # game/code/d05/d05s07.rpy:55
 translate chinese d05s07_reject_a6a0fe51:
 
     # mc "What? No, I didn't mean..."
-    mc "什么？不，我不是说…… "
+    mc "什么？不，我不是说……"
 
 # game/code/d05/d05s07.rpy:56
 translate chinese d05s07_reject_c4021729:
@@ -124,7 +124,7 @@ translate chinese d05s07_daisy_c16bfa37:
 translate chinese d05s07_daisy_96e5432e:
 
     # dd "No, I know that. He's partying with Dahlia over at our dorm."
-    dd "不，我知道。他和黛丽娅在我们宿舍那边开派对呢。 "
+    dd "不，我知道。他和黛丽娅在我们宿舍那边开派对呢。"
 
 # game/code/d05/d05s07.rpy:76
 translate chinese d05s07_daisy_c162ea8d:
@@ -346,13 +346,13 @@ translate chinese d05s07_daisy_5e270359:
 translate chinese d05s07_daisy_54b2b0f1:
 
     # mc "My sister is coming to town tomorrow. She should be here around noon."
-    mc "我妹妹明天要来城里。她中午左右应该就到了。"
+    mc "我妹妹明天要来城里。她中午应该就到了。"
 
 # game/code/d05/d05s07.rpy:143
 translate chinese d05s07_daisy_4b50ea01:
 
     # mc "An old friend is coming to town tomorrow. She should be here around noon."
-    mc "我一个老朋友明天要来城里。她中午左右应该就到了。 "
+    mc "我一个老朋友明天要来城里。她中午应该就到了。 "
 
 # game/code/d05/d05s07.rpy:144
 translate chinese d05s07_daisy_66b1418d:
@@ -364,7 +364,7 @@ translate chinese d05s07_daisy_66b1418d:
 translate chinese d05s07_daisy_80118ae5:
 
     # mc "Better you, than... oh, yeah. I guess she'd think you're my girlfriend."
-    mc "最好是你……哦，好吧。我猜她会认为你是我的女朋友。 "
+    mc "你最好……哦，好吧。我猜她会认为你是我的女朋友。 "
 
 # game/code/d05/d05s07.rpy:146
 translate chinese d05s07_daisy_8bb3f2ae:
@@ -382,25 +382,25 @@ translate chinese d05s07_daisy_c8b79f00:
 translate chinese d05s07_daisy_9dd24297:
 
     # mct "Stacy will be here tomorrow morning. I hope it isn't awkward after the last time we saw each other..."
-    mct "史黛西明天早上会来。我希望距离我们上次见面后不会很尴尬…… "
+    mct "史黛西明天早上会来。我希望距离我们上次见面后不会很尴尬……"
 
 # game/code/d05/d05s07.rpy:167
 translate chinese d05s07_after_flashback_59599f27:
 
     # mct "And that was the last time I saw my sister before I left..."
-    mct "那是我离开前最后一次见到我妹妹…… "
+    mct "那是我离开前最后一次见到我妹妹……"
 
 # game/code/d05/d05s07.rpy:169
 translate chinese d05s07_after_flashback_2be38987:
 
     # mct "And that was the last time I saw Stacy before I left..."
-    mct "那是我离开前最后一次见到史黛西…… "
+    mct "那是我离开前最后一次见到史黛西……"
 
 # game/code/d05/d05s07.rpy:170
 translate chinese d05s07_after_flashback_2db480d8:
 
     # mct "Oh, yeah... Seeing her again tomorrow could be a little awkward..."
-    mct "哦，是啊，明天再见到她可能会有点尴尬…… "
+    mct "哦，是啊，明天再见到她可能会有点尴尬……"
 
 translate chinese strings:
 
@@ -410,13 +410,13 @@ translate chinese strings:
 
     # game/code/d05/d05s07.rpy:77
     old "Let Daisy Leave"
-    new "让黛西离开 "
+    new "让黛西离开"
 
     # game/code/d05/d05s07.rpy:101
     old "Nude is Comfortable"
-    new "裸着很舒服 "
+    new "裸着很舒服"
 
     # game/code/d05/d05s07.rpy:101
     old "You could borrow some of my clothes"
-    new "你可以借我的衣服穿 "
+    new "你可以借我的衣服穿"
 
