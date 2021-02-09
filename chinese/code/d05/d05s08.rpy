@@ -52,7 +52,7 @@ translate chinese replay_d05s08_5c912fca:
 translate chinese replay_d05s08_d59a223b:
 
     # mct "She should leave and not stare at me!"
-    mct "她应该离开，也不该盯着我看！"
+    mct "她应该离开的，也不该盯着我看！"
 
 # game/code/d05/d05s08.rpy:37
 translate chinese replay_d05s08_01ab749a:
@@ -76,7 +76,7 @@ translate chinese replay_d05s08_03d321ee:
 translate chinese replay_d05s08_5f7762c1:
 
     # sy "Hey [mcname]! You know that you are not the only one who needs the shower in the house. Right?"
-    sy "嘿[mcname]! 你知道家里又不是只有你一个人需要洗澡。对吧？"
+    sy "嘿[mcname]！你知道家里又不是只有你一个人需要洗澡。对吧？"
 
 # game/code/d05/d05s08.rpy:47
 translate chinese replay_d05s08_c6fa6fa9:
@@ -94,7 +94,7 @@ translate chinese replay_d05s08_7abf0e24:
 translate chinese replay_d05s08_910e2bc4:
 
     # mct "Oh wow! She is!"
-    mct "哇哦! 她是说真的!"
+    mct "哇哦！她是说真的！"
 
 # game/code/d05/d05s08.rpy:59
 translate chinese replay_d05s08_38ba3d93:
@@ -106,7 +106,7 @@ translate chinese replay_d05s08_38ba3d93:
 translate chinese replay_d05s08_efd61c91:
 
     # mct "Woah! I can hear her peeing!"
-    mct "哇! 我都能听到她尿尿的声音了！"
+    mct "哇！我都能听到她尿尿的声音了！"
 
 # game/code/d05/d05s08.rpy:64
 translate chinese replay_d05s08_f0fd8e08:
@@ -190,7 +190,7 @@ translate chinese replay_d05s08_ef4decb2:
 translate chinese replay_d05s08_0c0766d9:
 
     # mct "No way! Is she doing what I think she's doing?"
-    mct "没门！她是在做我想的事情吗？"
+    mct "没门！她是在做我想的那事吗？"
 
 # game/code/d05/d05s08.rpy:133
 translate chinese replay_d05s08_deb3618a:
