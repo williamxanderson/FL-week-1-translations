@@ -118,7 +118,7 @@ translate chinese d05s05e_25ce065a:
 translate chinese d05s05e_c12bd5a6:
 
     # mct "She's probably being blackmailed like I am, but I don't think it is a good idea to ask this through the app..."
-    mct " 她可能像我一样被勒索了，但我觉得通过软件问这个问题不是个好主意……"
+    mct "她可能像我一样被勒索了，但我觉得通过软件问这个问题不是个好主意……"
 
 # game/code/d05/extended/d05s05e.rpy:72
 translate chinese d05s05e_d32da9d1:
@@ -202,7 +202,7 @@ translate chinese d05s05e_8ec78ec9:
 translate chinese d05s05e_e3cc21eb:
 
     # mct "Probably not, but I'm not going to say that."
-    mct "可能不是，但我不会那么说。"
+    mct "可能不是哦，但我不会那么说。"
 
 # game/code/d05/extended/d05s05e.rpy:92
 translate chinese d05s05e_f6abb886:
