@@ -574,7 +574,7 @@ translate chinese d05s05_capitalist_268106c2:
 translate chinese d05s05_capitalist_a7888ad7:
 
     # mc "Does that mean we have a deal?"
-    mc"这是不是意味着我们成交了？" 
+    mc "这是不是意味着我们成交了？" 
     
 # game/code/d05/d05s05b.rpy:193
 translate chinese d05s05_capitalist_512b5213:
