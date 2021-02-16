@@ -70,7 +70,7 @@ translate chinese d06s03_6ebec084:
 translate chinese d06s03_85f46a5d:
 
     # arj "I mean, I'm not a lesbian. But if I was, I would never let you out of my sight!"
-    arj "我的意思是，我不是女同。但如果我是，我肯定会抓紧你不放的!"
+    arj "我的意思是，我不是拉拉。但如果我是，我肯定会抓紧你不放的!"
 
 # game/code/d06/d06s03.rpy:50
 translate chinese d06s03_00c5d18d:
@@ -136,7 +136,7 @@ translate chinese d06s03_f1a79add:
 translate chinese d06s03_3e9da8db:
 
     # mc "What! Why? {w}Oh, right, that diet thing."
-    mc "什么！为什么？ {w}哦对了，你在减肥。"
+    mc "什么！为什么？{w}哦对了，你在减肥。"
 
 # game/code/d06/d06s03.rpy:70
 translate chinese d06s03_9ca42be1:
@@ -238,7 +238,7 @@ translate chinese replay_d06s03k_15cbf5f7:
 translate chinese replay_d06s03k_e9b178a4:
 
     # arj "Every fucking time! {w}I swear, it was like Karen was addicted to your cum."
-    arj "tmd每次都是这样！{w}我敢说，凯伦好像对你的精液上瘾了。"
+    arj "TMD每次都是这样！{w}我敢说，凯伦好像对你的精液上瘾了。"
 
 # game/code/d06/d06s03.rpy:123
 translate chinese replay_d06s03k_5bafa646:
@@ -256,7 +256,7 @@ translate chinese replay_d06s03k_834a511a:
 translate chinese replay_d06s03k_f36517f3:
 
     # sy "*Nom nom nom* {w}Bukkake or gangbang?"
-    sy "*吧唧吧唧* {w}颜射还是轮奸啊??"
+    sy "*吧唧吧唧* {w}颜射还是轮奸啊？"
 
 # game/code/d06/d06s03.rpy:129
 translate chinese replay_d06s03k_e5b9faca:
@@ -364,7 +364,7 @@ translate chinese replay_d06s03k_f89a8d7d:
 translate chinese replay_d06s03k_c1ce59f7:
 
     # arj "She decided to avoid conflict by not telling him... or anyone... that she was breaking up with him."
-    arj "她要和他分手，但她决定不告诉他……或其他任何人……，这样就能避免冲突。"
+    arj "她要和他分手，但她决定不告诉他……或其他任何人……这样就能避免冲突。"
 
 # game/code/d06/d06s03.rpy:239
 translate chinese replay_d06s03k_24fb4913:
@@ -388,7 +388,7 @@ translate chinese replay_d06s03k_dccf58e5:
 translate chinese replay_d06s03k_0e99acd3:
 
     # arj "She was. So, she just avoided places he might be... like class... or our dorm room."
-    arj "她是疯了。所以，所以她避开了他可能会出现的地方……比如教室……或者我们的寝室。"
+    arj "她是疯了。所以她避开了他可能会出现的地方……比如教室……或者我们的寝室。"
 
 # game/code/d06/d06s03.rpy:244
 translate chinese replay_d06s03k_484cb41c:
@@ -418,7 +418,7 @@ translate chinese replay_d06s03k_8f614fec:
 translate chinese replay_d06s03k_1424a319:
 
     # arj "So this guy that I had rarely seen with clothes on was just hanging out in my dorm room. Watching tv, studying, etc."
-    arj "所以在我看来，这个几乎就没怎么穿过衣服的家伙就在我的寝室里闲逛。看电视，学习，等等吧。"
+    arj "所以在我看来，这个几乎就没怎么穿过衣服的家伙就在我的寝室里晃悠。看电视，学习，等等吧。"
 
 # game/code/d06/d06s03.rpy:266
 translate chinese replay_d06s03k_63088402:
@@ -562,7 +562,7 @@ translate chinese replay_d06s03k_4b96e999:
 translate chinese replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname]只是很淡定地回答，\"哦，嘿，凯伦。爱洛丝和我正要  看电影。你想加入吗？不是吧。\""
+    arj "[mcname]只是很淡定地回答，\"哦，嘿，凯伦。爱洛丝和我正要看电影。你想一起吗？\""
 
 # game/code/d06/d06s03.rpy:334
 translate chinese replay_d06s03k_790de301:
@@ -574,7 +574,7 @@ translate chinese replay_d06s03k_790de301:
 translate chinese replay_d06s03k_1884434d:
 
     # arj "Seriously. Karen just turned around and walked out of the room."
-    arj "说真的。凯伦只是转身走出了房间。"
+    arj "说真的。凯伦当下转身走出了房间。"
 
 # game/code/d06/d06s03.rpy:338
 translate chinese replay_d06s03k_fed8f3ef:
@@ -640,7 +640,7 @@ translate chinese replay_d06s03k_c17ef8ec:
 translate chinese replay_d06s03k_814eb795:
 
     # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off of her skin routine and still craving your cum."
-    sy "你知道啊，如果有个女孩在校园里走来走去，可能就会很尴尬的……希望脱掉衣服，渴望着你的精液。"
+    sy "你知道啊，如果有个女孩在校园里走来走去，可能就会很尴尬的……{w}希望脱掉衣服，渴望着你的精液。"
 
 # game/code/d06/d06s03.rpy:358
 translate chinese replay_d06s03k_64f15c98:
@@ -784,7 +784,7 @@ translate chinese replay_d06s03k_7581db4f:
 translate chinese replay_d06s03k_8705052e:
 
     # mc "I mean, you're both welcome at the concert, and..."
-    mc "我是说，你们两个都可以去音乐会，而且……"
+    mc "我觉得，你们两个都可以去音乐会，而且……"
 
 # game/code/d06/d06s03.rpy:401
 translate chinese replay_d06s03k_2b199260:
@@ -826,7 +826,7 @@ translate chinese replay_d06s03k_7acfa79d:
 translate chinese replay_d06s03k_d12a2084:
 
     # arj "Don't worry about Stacy. I'll take good care of her."
-    arj "不要担心史黛西。我会好好照顾她的。"
+    arj "别担心史黛西。我会好好照顾她的。"
 
 # game/code/d06/d06s03.rpy:411
 translate chinese replay_d06s03k_cfce055e:
@@ -892,7 +892,7 @@ translate chinese replay_d06s03k_ae279de7:
 translate chinese replay_d06s03k_1bf611ed:
 
     # sy "If you and Lydia really hit it off tonight, and you decide to swing by AmRose's to pick me up later..."
-    sy "如果你今晚和莉迪亚真的很合得来，你也决定晚点去阿姆罗斯那里接我……"
+    sy "如果你今晚和莉迪亚真的很合得来，你也决定晚点去爱洛丝那里接我……"
 
 # game/code/d06/d06s03.rpy:428
 translate chinese replay_d06s03k_f49fff8f:
