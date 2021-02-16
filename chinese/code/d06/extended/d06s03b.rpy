@@ -40,7 +40,7 @@ translate chinese d06s03b_f40136cf:
 translate chinese d06s03b_bedfcb32:
 
     # mc "It's nice to meet you. I hope we didn't get off on the wrong foot."
-    mc "很高兴认识你。希望我们一开始没给对方留下不好的印象"
+    mc "很高兴认识你。希望我们一开始没给对方留下不好的印象。"
 
 # game/code/d06/extended/d06s03b.rpy:15
 translate chinese d06s03b_7b60ab6e:
@@ -130,7 +130,7 @@ translate chinese d06s03b_048beabe:
 translate chinese d06s03b_943c146c:
 
     # mct "Wow, she went from sullen and shy to energetic in a flash."
-    mct "哇，她一下子从阴沉害羞变成了精力充沛的阳西。"
+    mct "哇，她一下子从阴沉害羞变成了精力充沛的样子。"
 
 # game/code/d06/extended/d06s03b.rpy:46
 translate chinese d06s03b_1423028f:
@@ -142,7 +142,7 @@ translate chinese d06s03b_1423028f:
 translate chinese d06s03b_837d5ced:
 
     # jf "Oh, yes! I almost forgot. I really should show you!"
-    jf "哦对了! 我差点忘了。我真该给你看看！"
+    jf "哦对了！差点忘了。我真该给你看看！"
 
 # game/code/d06/extended/d06s03b.rpy:49
 translate chinese d06s03b_014fbfc6:
@@ -160,7 +160,7 @@ translate chinese d06s03b_8a61639f:
 translate chinese d06s03b_bb4cb76f:
 
     # jf "Is that it?"
-    jf "是吗？"
+    jf "就这样吗？"
 
 # game/code/d06/extended/d06s03b.rpy:55
 translate chinese d06s03b_b61d2cee:
@@ -178,7 +178,7 @@ translate chinese d06s03b_7b8b245e:
 translate chinese d06s03b_58b4c58a:
 
     # mc "Nothing much. Just wanted to know what that was about. Are you homeless or something?"
-    mc "没有什么要紧的事。我只是想知道是怎么回事。你是无家可归吗？"
+    mc "没什么要紧的事。我只是想知道是怎么回事。你是无家可归吗？"
 
 # game/code/d06/extended/d06s03b.rpy:61
 translate chinese d06s03b_f23fa052:
@@ -208,7 +208,7 @@ translate chinese d06s03b_1bf60051:
 translate chinese d06s03b_b25e657d:
 
     # jf "You want your character to be the best it can be. You want to win the game."
-    jf "你希望你的角色是最好的。你想赢得游戏。"
+    jf "你希望你的角色是最好的。你想赢得游戏吧。"
 
 # game/code/d06/extended/d06s03b.rpy:71
 translate chinese d06s03b_efc9c27f:
@@ -226,19 +226,19 @@ translate chinese d06s03b_468e9004:
 translate chinese d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "对，解锁成就，尝试100%通关。我懂的。"
+    mc "对，解锁成就，尝试100%%%通关。我懂的。"
 
 # game/code/d06/extended/d06s03b.rpy:77
 translate chinese d06s03b_80425743:
 
     # jf "Well, I heard about an opportunity to gain some mad points in that app, and I went for it."
-    jf "嗯，我听说在那个应用里有一个获得疯狂点数的机会，我就去争取了。"
+    jf "嗯，听说在那个软件里有一个疯狂获得点数的机会，我就去争取了。"
 
 # game/code/d06/extended/d06s03b.rpy:79
 translate chinese d06s03b_27e8d8c3:
 
     # mc "What kind of opportunity?"
-    mc "什么样的机会？"
+    mc "什么机会？"
 
 # game/code/d06/extended/d06s03b.rpy:81
 translate chinese d06s03b_0ff4a79f:
@@ -274,7 +274,7 @@ translate chinese d06s03b_e764ae66:
 translate chinese d06s03b_c1618306:
 
     # mc "Makes sense. So, you went across town and went inside."
-    mc "有道理。所以，你穿过了市区，进去了。"
+    mc "有道理。所以，你穿过了市区，进到那个房子里了。"
 
 # game/code/d06/extended/d06s03b.rpy:93
 translate chinese d06s03b_02bd4534:
@@ -322,7 +322,7 @@ translate chinese d06s03b_112a393a:
 translate chinese d06s03b_b32767f4:
 
     # jf "It just felt so liberating to be alone in an empty apartment, so while I was taking a break from cleaning..."
-    jf "一个人待在空荡荡的公寓里感觉很自由，所以当我从打扫累了，抽空休息的时候……"
+    jf "一个人待在空荡荡的公寓里感觉很自由，所以当我打扫累了，抽空休息的时候……"
 
 # game/code/d06/extended/d06s03b.rpy:109
 translate chinese d06s03b_781e05ad:
