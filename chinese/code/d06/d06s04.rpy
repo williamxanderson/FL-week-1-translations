@@ -388,7 +388,7 @@ translate chinese d06s04_30e6f256:
 translate chinese d06s04_b1119bcd:
 
     # lc "Modern music requires instruments. I have no band, so I would have to ask Nora to flip on the karaoke machine, and then..."
-    lc "现代音乐需要乐器。我没有乐队，所以我得让Nora打开卡拉OK机，然后……"
+    lc "现代音乐需要乐器。我没有乐队，所以我得让诺拉打开卡拉OK机，然后……"
 
 # game/code/d06/d06s04.rpy:128
 translate chinese d06s04_5dea05c0:
@@ -496,7 +496,7 @@ translate chinese d06s04_4eaefda0:
 translate chinese d06s04_c825f487:
 
     # lc "Sure. The acoustics are terrific."
-    lc "当然，音响效果好极了。"
+    lc "当然，声音效果好极了。"
 
 # game/code/d06/d06s04.rpy:160
 translate chinese d06s04_f7085f7c:
@@ -562,7 +562,7 @@ translate chinese d06s04_171afb12:
 translate chinese d06s04_9dc588da:
 
     # mc "Yep. Not all the time, but sometimes when I shower I start making proclamations about economic policy, or the environment, that sort of thing."
-    mc "是啊。不是一直这样，但有时当我洗澡时，我会开始发表关于经济政策或环境之类的宣言。"
+    mc "是啊。虽不是一直这样，但有时当我洗澡时，我会开始发表关于经济政策或环境之类的宣言。"
 
 # game/code/d06/d06s04.rpy:184
 translate chinese d06s04_ed1aed5b:
@@ -808,7 +808,7 @@ translate chinese d06s04_7a25b912:
 translate chinese d06s04_04eedbbd:
 
     # nk "Of course! Take all the time you need. Whenever you walk up there I'll flip on the mic."
-    nk "当然！你可以慢慢来。你一走过去，我就打开风。"
+    nk "当然！你可以慢慢来。你一走过去，我就打开麦克风。"
 
 # game/code/d06/d06s04.rpy:256
 translate chinese d06s04_41ab9799:
@@ -820,7 +820,7 @@ translate chinese d06s04_41ab9799:
 translate chinese d06s04_f70c68dc:
 
     # nk "Oh! More customers! Back soon - I'm so busy!"
-    nk "哦！又有客人了！马上回来--我很忙！"
+    nk "哦！又有客人了！马上回来--我真忙！"
 
 # game/code/d06/d06s04.rpy:261
 translate chinese d06s04_7408563a:
@@ -844,7 +844,7 @@ translate chinese d06s04_6cc41a18:
 translate chinese d06s04_2928997d:
 
     # lc "I need to pee- {w}I mean, bathroom. Use the bathroom."
-    lc "我想尿尿--{w}我是说，上厕所。用浴室。"
+    lc "我想尿尿--{w}我是说，洗手间。我想去洗手间。"
 
 # game/code/d06/d06s04.rpy:266
 translate chinese d06s04_79cdf4f3:
@@ -856,7 +856,7 @@ translate chinese d06s04_79cdf4f3:
 translate chinese d06s04_8b5b1546:
 
     # mct "I should probably do that too. I have no idea how long she'll be performing."
-    mct "我也应该这样做。我不知道她会表演多久。"
+    mct "我也应该去吧。我不知道她会表演多久。"
 
 translate chinese strings:
 
