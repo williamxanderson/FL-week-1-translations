@@ -28,7 +28,7 @@ translate chinese d06s02_bc9ef99b:
 translate chinese d06s02_c363cfa8:
 
     # mct "Just a week ago I had a wonderful time with her back at home."
-    mct "就在一周前，我和她在家里度过了一段美好的时光。"
+    mct "就在一周前，我和她在家里度过了一段美好时光。"
 
 # game/code/d06/d06s02.rpy:18
 translate chinese d06s02_af3ff97c:
@@ -40,7 +40,7 @@ translate chinese d06s02_af3ff97c:
 translate chinese d06s02_f364efcd:
 
     # mct "That was a nice yoga session..."
-    mct "那是个很棒的瑜伽课……"
+    mct "有很棒的瑜伽课……"
 
 # game/code/d06/d06s02.rpy:36
 translate chinese d06s02_b7ef2e2e:
@@ -130,7 +130,7 @@ translate chinese d06s02_76fdbdea:
 translate chinese d06s02_0a28a2bf:
 
     # mc "Wow! You are not a little girl anymore!"
-    mc "哇哦！ 你不再是个小女孩了！"
+    mc "哇哦！你不再是个小女孩了！"
 
 # game/code/d06/d06s02.rpy:113
 translate chinese d06s02_1819af0c:
