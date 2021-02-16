@@ -22,7 +22,7 @@ translate chinese replay_d06s01_dc648576:
 translate chinese replay_d06s01_529ca68a:
 
     # mct "This is the perfect way to start a day."
-    mct "真是开启一天的绝美方式。"
+    mct "这样开启一天再好不过了。"
 
 # game/code/d06/d06s01.rpy:64
 translate chinese replay_d06s01_8ddcc085:
@@ -136,7 +136,7 @@ translate chinese replay_d06s01_98737939:
 translate chinese replay_d06s01_cd1b79c2:
 
     # dd "I'm really really sorry. I forgot-"
-    dd "我真的真的很抱歉。我忘了--"
+    dd "我真的超级抱歉。我忘了--"
 
 # game/code/d06/d06s01.rpy:121
 translate chinese replay_d06s01_349e5fa1:
@@ -196,7 +196,7 @@ translate chinese replay_d06s01_ba528c5e:
 translate chinese replay_d06s01_f5dc2625:
 
     # mct "Damn. This day just keeps getting better and better."
-    mct "我靠。今天真是越来越好了。"
+    mct "我靠。今天真是越来越妙了。"
 
 # game/code/d06/d06s01.rpy:135
 translate chinese replay_d06s01_3ae53ad4:
@@ -220,7 +220,7 @@ translate chinese replay_d06s01_2a147d4c:
 translate chinese replay_d06s01_2f186902:
 
     # dd "Oh you are so hard! Feels like letting a rock inside me!"
-    dd "喔，你好硬啊！就像是一块石头在我体内！"
+    dd "喔，你好硬啊！感觉像是我让一块石头进来了！"
 
 # game/code/d06/d06s01.rpy:150
 translate chinese replay_d06s01_6437fd6f:
@@ -478,7 +478,7 @@ translate chinese strings:
 
     # game/code/d06/d06s01.rpy:176
     old "Warn Daisy"
-    new "警告黛西"
+    new "提醒黛西"
 
     # game/code/d06/d06s01.rpy:176
     old "Creampie Surprise"
