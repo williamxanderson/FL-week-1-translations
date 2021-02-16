@@ -226,7 +226,7 @@ translate chinese d06s03b_468e9004:
 translate chinese d06s03b_70889b81:
 
     # mc "Yeah, unlock the achievements, try to 100%% the game. I get that."
-    mc "对，解锁成就，尝试100%%%通关。我懂的。"
+    mc "对，解锁成就，尝试100%%通关。我懂的。"
 
 # game/code/d06/extended/d06s03b.rpy:77
 translate chinese d06s03b_80425743:
