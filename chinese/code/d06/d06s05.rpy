@@ -136,7 +136,7 @@ translate chinese d06s05_cf55418a:
 translate chinese d06s05_b2c32c8f:
 
     # mc "Get out before you piss me off and I change my mind."
-    mc "在你惹毛我，让我改变主意之前滚出去。"
+    mc "在你惹毛我，让我改变主意之前赶紧滚出去。"
 
 # game/code/d06/d06s05.rpy:61
 translate chinese d06s05_03ac690a:
