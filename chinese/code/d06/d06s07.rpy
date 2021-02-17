@@ -1012,7 +1012,7 @@ translate chinese d06s07_goodend_411d305f:
 translate chinese d06s07_goodend_07eef455:
 
     # mc "Wow!"
-    mc "哇！!"
+    mc "哇！"
 
 # game/code/d06/d06s07.rpy:413
 translate chinese d06s07_goodend_dabcef68:
@@ -1078,7 +1078,7 @@ translate chinese d06s07_goodend_96ff00de:
 translate chinese d06s07_goodend_4d1c4fd5:
 
     # nk "Yep. The only one hitting on me lately was this girl..."
-    nk "是的。最近唯一跟我搭讪的是个女孩……"
+    nk "是啊。最近唯一跟我搭讪的是个女孩……"
 
 # game/code/d06/d06s07.rpy:427
 translate chinese d06s07_goodend_0c9dea51:
