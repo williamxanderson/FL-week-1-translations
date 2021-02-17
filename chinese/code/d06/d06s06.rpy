@@ -190,13 +190,13 @@ translate chinese replay_d06s06_6e7b90b5:
 translate chinese replay_d06s06_abf44079:
 
     # lc "My time thinking. How I've"
-    lc "在做无谓的追思吗。我是"
+    lc "在做无谓的追思吗。我是如何"
 
 # game/code/d06/d06s06.rpy:66
 translate chinese replay_d06s06_9480a0b5:
 
     # lc "Grown up and I've missed out."
-    lc "我是如何成长至今，而又如何错过的啊。"
+    lc "成长至今，而又如何错过的啊。"
 
 # game/code/d06/d06s06.rpy:69
 translate chinese replay_d06s06_cb742c7d_1:
