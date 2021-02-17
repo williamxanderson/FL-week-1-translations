@@ -58,7 +58,7 @@ translate chinese d06s09_1fb4b6c2:
 translate chinese d06s09_eaf49338:
 
     # sy "Where does he go?"
-    sy "他去哪儿了?"
+    sy "他去哪儿了？"
 
 # game/code/d06/d06s09.rpy:23
 translate chinese d06s09_99fd0e4a:
@@ -238,7 +238,7 @@ translate chinese d06s09_13981781:
 translate chinese d06s09_8a130c45:
 
     # mc "Just some funny cats..."
-    mc "J就是一些有趣的猫……"
+    mc "就是一些有趣的猫……"
 
 # game/code/d06/d06s09.rpy:78
 translate chinese d06s09_f24dbc17:
