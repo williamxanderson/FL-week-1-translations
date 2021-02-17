@@ -70,7 +70,7 @@ translate chinese replay_d06s11_280d4ae6:
 translate chinese replay_d06s11_1756b85b:
 
     # jf "Did this room have a photo studio in it before? I don't think so!"
-    jf "这个房间以前有摄影室吗？应该没有吧！!"
+    jf "这个房间以前有摄影室吗？应该没有吧！"
 
 # game/code/d06/extended/d06s11.rpy:50
 translate chinese replay_d06s11_1ea08fa5:
@@ -124,7 +124,7 @@ translate chinese replay_d06s11_86951418:
 translate chinese replay_d06s11_021de18f:
 
     # jf "Do you want see me in one?"
-    jf "你想看我穿上一件吗？"
+    jf "你想看我穿一件吗？"
 
 # game/code/d06/extended/d06s11.rpy:66
 translate chinese replay_d06s11_5338a908:
@@ -184,7 +184,7 @@ translate chinese replay_d06s11_fe1f3d58:
 translate chinese replay_d06s11_4aa08efe:
 
     # mct "She even has a whole changing room with mirrors here... How bizarre!"
-    mct "她甚至有一整间带镜子的更衣室…… 真奇怪！"
+    mct "她甚至有一整间带镜子的更衣室……真奇怪！"
 
 # game/code/d06/extended/d06s11.rpy:81
 translate chinese replay_d06s11_829a3f95:
@@ -244,7 +244,7 @@ translate chinese replay_d06s11_a1751165:
 translate chinese replay_d06s11_f2f49958:
 
     # jf "Now I need you pull that device of yours that you are so good with and use it!"
-    jf "现在我需要你拿出你擅长的那个装置，好好用它!"
+    jf "现在我需要你拿出你擅长的那个东西，好好用它!"
 
 # game/code/d06/extended/d06s11.rpy:98
 translate chinese replay_d06s11_317aadbc:
@@ -364,7 +364,7 @@ translate chinese replay_d06s11_e7484960:
 translate chinese replay_d06s11_7b8bab7a:
 
     # mct "Damn... Seems like the fun is over..."
-    mct "该死的……看来乐子没了……"
+    mct "该死……看来乐子没了……"
 
 # game/code/d06/extended/d06s11.rpy:147
 translate chinese replay_d06s11_a15d334c:
