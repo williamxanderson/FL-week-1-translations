@@ -40,7 +40,7 @@ translate chinese replay_d06s10_499af60e:
 translate chinese replay_d06s10_66205701:
 
     # "female voice" "What? Shhhh."
-    "女声" "什么？嘘"
+    "女声" "什么？嘘。"
 
 # game/code/d06/d06s10.rpy:23
 translate chinese replay_d06s10_63666237:
@@ -52,7 +52,7 @@ translate chinese replay_d06s10_63666237:
 translate chinese replay_d06s10_392cca71:
 
     # "female voice" "We won't be testing that.{w}.. tonight."
-    "女声" "我们可不要测试这个。{w}……今晚不要。"
+    "女声" "我可不要冒险试试。{w}……今晚不要。"
 
 # game/code/d06/d06s10.rpy:25
 translate chinese replay_d06s10_e013177b:
@@ -100,7 +100,7 @@ translate chinese replay_d06s10_070843b5:
 translate chinese replay_d06s10_bf92424b:
 
     # mct "Dammit! Why does my cock feel so good against her ass."
-    mct "妈的! 为什么我的老二在她屁股上感觉这么好。"
+    mct "妈的！为什么我的老二在她屁股上感觉这么好。"
 
 # game/code/d06/d06s10.rpy:41
 translate chinese replay_d06s10_7fb59a6d:
@@ -208,7 +208,7 @@ translate chinese replay_d06s10_a8f3f37d:
 translate chinese replay_d06s10_44cf3a69:
 
     # "female voice" "Did you hear that? I think your roommate is having good dreams."
-    "女声" "你听到了吗？我想你的室友在做个美梦呢。"
+    "女声" "你听到了吗？我想你室友在做个美梦呢。"
 
 # game/code/d06/d06s10.rpy:102
 translate chinese replay_d06s10_7ff738c6:
