@@ -112,7 +112,7 @@ translate chinese d06s08_ee4643d0:
 translate chinese d06s08_528773d2:
 
     # mh "Okay, so I keep myself busy, right? I've got the legal stuff, and the property-owner stuff, and the hormone stuff..."
-    mh "好吧，所以我让自己很忙，对吧？我要忙法律方面，还有业主方面，还有荷尔蒙方面的东西……"
+    mh "好吧，首先我让自己很忙，对吧？我要忙法律方面，还有业主方面，还有荷尔蒙方面的东西……"
 
 # game/code/d06/d06s08.rpy:64
 translate chinese d06s08_a3bcabce:
@@ -466,7 +466,7 @@ translate chinese replay_d06s08_4702ffc1:
 translate chinese replay_d06s08_8d19f43e:
 
     # mct "Or do I want to take a more dominant role and take her as a fuckbuddy; show her that I'm not just some \"nice\" guy."
-    mct "还是我想要一个更主导的角色，把她当成炮友;让她知道我这人并没有那么\"好\" 。"
+    mct "还是我想要一个更主导的角色，把她当成炮友；让她知道我这人并没有那么\"好\" 。"
 
 # game/code/d06/d06s08.rpy:181
 translate chinese d06s08_bdsm_99a23e43:
@@ -526,7 +526,7 @@ translate chinese d06s08_bdsm_acd70953:
 translate chinese d06s08_bdsm_bbf94cb4:
 
     # mh "Tell me that you want it."
-    mh "告诉我你想要它。"
+    mh "说你想要它。"
 
 # game/code/d06/d06s08.rpy:200
 translate chinese d06s08_bdsm_a7abea2e:
