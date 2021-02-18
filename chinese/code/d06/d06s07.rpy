@@ -472,7 +472,7 @@ translate chinese replay_d06s07_ca57dd25:
 translate chinese replay_d06s07_a15864c7:
 
     # nk "Ye-e-es!"
-    nk "好~爽~！!"
+    nk "好~爽~！"
 
 # game/code/d06/d06s07.rpy:178
 translate chinese replay_d06s07_14375c2c:
@@ -508,7 +508,7 @@ translate chinese replay_d06s07_40171cd7:
 translate chinese replay_d06s07_6b06b42b:
 
     # nk "Almost there! Almost! {w}Keep fucking my tight little twat!"
-    nk "快了快了！我要来了！{w}继续肏我又紧又窄的小贱穴吧！!"
+    nk "快了快了！我要来了！{w}继续肏我又紧又窄的小贱穴吧！"
 
 # game/code/d06/d06s07.rpy:208
 translate chinese replay_d06s07_8f2c715c:
@@ -1102,7 +1102,7 @@ translate chinese d06s07_goodend_cfe8fa9e:
 translate chinese d06s07_goodend_5f81c210:
 
     # nk "Well, don't take too long to recover. I really do have to clean this place."
-    nk "好吧，别恢复太久了。我真的得打扫这个地方了。 "
+    nk "好吧，别恢复太久了。我真的得打扫这个地方了。"
 
 # game/code/d06/d06s07.rpy:432
 translate chinese d06s07_goodend_7e826f5c:
