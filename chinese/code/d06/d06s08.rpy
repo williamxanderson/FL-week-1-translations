@@ -628,7 +628,7 @@ translate chinese d06s08_bdsm_4fcc96c5:
 translate chinese d06s08_bdsm_b326c5d3:
 
     # mc "I'm going to cum, slut!"
-    mc "我要射了，贱人！!"
+    mc "我要射了，贱人！"
 
 # game/code/d06/d06s08.rpy:290
 translate chinese d06s08_bdsm_92870834:
