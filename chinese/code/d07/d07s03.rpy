@@ -76,7 +76,7 @@ translate chinese d07s03_a3b25634:
 translate chinese d07s03_93ed8f02:
 
     # mc "Well I'm mostly here for the sun and the beach, but might watch the kayaking too!"
-    mc "呃我主要是来晒晒太阳、享受海滩的，但也可能会看皮划艇比赛！ "
+    mc "呃我主要是来晒晒太阳、享受海滩的，但也可能会看皮划艇比赛！"
 
 # game/code/d07/d07s03.rpy:36
 translate chinese d07s03_4db1fc88:
