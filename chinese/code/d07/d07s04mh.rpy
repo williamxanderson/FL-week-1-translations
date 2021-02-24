@@ -652,329 +652,329 @@ translate chinese replay_d07s04mh_875d2f35:
 translate chinese replay_d07s04mh_be7862f2:
 
     # mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
-    mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
+    mh "我有个主意……{w}你觉得打我屁股能得多少点数？"
 
 # game/code/d07/d07s04mh.rpy:204
 translate chinese replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
-    mc "Don't know, but it should be a fair number of points!"
+    mc "不知道，但应该会有不少点数吧！"
 
 # game/code/d07/d07s04mh.rpy:206
 translate chinese replay_d07s04mh_40e1c558:
 
     # mh "But not my butt... I want you to spank my hard cock!"
-    mh "But not my butt... I want you to spank my hard cock!"
+    mh "那不要打我的屁股……来打我的硬鸡巴！"
 
 # game/code/d07/d07s04mh.rpy:207
 translate chinese replay_d07s04mh_066098c5:
 
     # mc "Wow! You don't mind?"
-    mc "Wow! You don't mind?"
+    mc "哇！你不介意吗？?"
 
 # game/code/d07/d07s04mh.rpy:209
 translate chinese replay_d07s04mh_64095358:
 
     # mh "Come on. My cock is hard without your permission. I need a punishment."
-    mh "Come on. My cock is hard without your permission. I need a punishment."
+    mh "来吧。没有你的允许，我的鸡巴已经硬了。我需要惩罚。"
 
 # game/code/d07/d07s04mh.rpy:211
 translate chinese replay_d07s04mh_3c42ea0c:
 
     # mh "Come on. I'm a big girl - I can take it. Besides, it will be fun."
-    mh "Come on. I'm a big girl - I can take it. Besides, it will be fun."
+    mh "来吧。我是个大姑娘--可以承受的。另外，也会很有趣吧。"
 
 # game/code/d07/d07s04mh.rpy:218
 translate chinese replay_d07s04mh_3838af4a:
 
     # mc "Wow. I'd love to do that even if there weren't any points involved."
-    mc "Wow. I'd love to do that even if there weren't any points involved."
+    mc "哇。即使没有任何积点数，我也会很乐意的。"
 
 # game/code/d07/d07s04mh.rpy:224
 translate chinese replay_d07s04mh_ea0b62bf:
 
     # mc "Let's just enjoy this lovely beach for now."
-    mc "Let's just enjoy this lovely beach for now."
+    mc "我们现在就来享受这个可爱的海滩吧。"
 
 # game/code/d07/d07s04mh.rpy:226
 translate chinese replay_d07s04mh_97d551cf:
 
     # mh "Okay. Let me know if you change your mind."
-    mh "Okay. Let me know if you change your mind."
+    mh "好啊。如果你改变主意，就告诉我。"
 
 # game/code/d07/d07s04mh.rpy:230
 translate chinese replay_d07s04mh_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Are you ready?"
+    mc "准备好了吗？"
 
 # game/code/d07/d07s04mh.rpy:231
 translate chinese replay_d07s04mh_880182b2:
 
     # mh "Can't wait! Do it!"
-    mh "Can't wait! Do it!"
+    mh "早等不及了！来吧！"
 
 # game/code/d07/d07s04mh.rpy:236
 translate chinese replay_d07s04mh_019aa78a:
 
     # mh "Oh! Wow!"
-    mh "Oh! Wow!"
+    mh "哦！喔！"
 
 # game/code/d07/d07s04mh.rpy:238
 translate chinese replay_d07s04mh_a90d40b8:
 
     # mh "Do it again!"
-    mh "Do it again!"
+    mh "再来一次！"
 
 # game/code/d07/d07s04mh.rpy:253
 translate chinese d07s04mh_slap_loop_50902d64:
 
     # mh "Ah-h-h!! Don't stop!"
-    mh "Ah-h-h!! Don't stop!"
+    mh "呃-啊！别停！"
 
 # game/code/d07/d07s04mh.rpy:256
 translate chinese d07s04mh_slap_loop_a0fdeb30:
 
     # mh "I see you also like it?"
-    mh "I see you also like it?"
+    mh "我看你也很喜欢吧？"
 
 # game/code/d07/d07s04mh.rpy:258
 translate chinese d07s04mh_slap_loop_8ffe1317:
 
     # mc "Can't stop!"
-    mc "Can't stop!"
+    mc "停不下来啊！"
 
 # game/code/d07/d07s04mh.rpy:271
 translate chinese d07s04mh_slap_loop_8ecd622d:
 
     # mh "Weren't you gonna take some pics?"
-    mh "Weren't you gonna take some pics?"
+    mh "你不是要拍照片吗？"
 
 # game/code/d07/d07s04mh.rpy:273
 translate chinese d07s04mh_slap_loop_33f3f6ca:
 
     # mc "Oh, right! I almost forgot."
-    mc "Oh, right! I almost forgot."
+    mc "哦，对了！我差点忘了。"
 
 # game/code/d07/d07s04mh.rpy:284
 translate chinese d07s04mh_slap_loop_9b781cfc:
 
     # mh "More! Please!"
-    mh "More! Please!"
+    mh "再来点！求你了！"
 
 # game/code/d07/d07s04mh.rpy:287
 translate chinese d07s04mh_slap_loop_eba8ec46:
 
     # mc "I think that's enough..."
-    mc "I think that's enough..."
+    mc "我想这已经够了……"
 
 # game/code/d07/d07s04mh.rpy:288
 translate chinese d07s04mh_slap_loop_cacd4ed4:
 
     # mh "You think so? Okay."
-    mh "You think so? Okay."
+    mh "你这么看吗？好吧。"
 
 # game/code/d07/d07s04mh.rpy:296
 translate chinese d07s04mh_slap_cum_ff2f11ee:
 
     # mh "Aa-a-ah!"
-    mh "Aa-a-ah!"
+    mh "啊-啊啊！"
 
 # game/code/d07/d07s04mh.rpy:297
 translate chinese d07s04mh_slap_cum_e4dc8f2c:
 
     # mc "Holy... Wow!"
-    mc "Holy... Wow!"
+    mc "我靠……哇！"
 
 # game/code/d07/d07s04mh.rpy:299
 translate chinese d07s04mh_slap_cum_f2121907:
 
     # mc "Did you just..."
-    mc "Did you just..."
+    mc "你刚才是不是……"
 
 # game/code/d07/d07s04mh.rpy:300
 translate chinese d07s04mh_slap_cum_1288d732:
 
     # mh "Cum all over you? Yes... Sorry..."
-    mh "Cum all over you? Yes... Sorry..."
+    mh "射了你一身？是啊……对不起……"
 
 # game/code/d07/d07s04mh.rpy:301
 translate chinese d07s04mh_slap_cum_2e124c8e:
 
     # mc "Just from spanking it??"
-    mc "Just from spanking it??"
+    mc "就因为打了屁股??"
 
 # game/code/d07/d07s04mh.rpy:303
 translate chinese d07s04mh_slap_cum_5425a225:
 
     # mh "I guess I was too excited and it was too sensitive!"
-    mh "I guess I was too excited and it was too sensitive!"
+    mh "我想我是太兴奋了，太敏感了！"
 
 # game/code/d07/d07s04mh.rpy:305
 translate chinese d07s04mh_slap_cum_d67642ac:
 
     # mc "I'm... I..."
-    mc "I'm... I..."
+    mc "我……我……"
 
 # game/code/d07/d07s04mh.rpy:307
 translate chinese d07s04mh_slap_cum_cac7cca3:
 
     # mh "I'm sorry, if this was a bit unexpected..."
-    mh "I'm sorry, if this was a bit unexpected..."
+    mh "如果出乎你的意料了，对不起了……"
 
 # game/code/d07/d07s04mh.rpy:310
 translate chinese d07s04mh_slap_cum_0a7f71d9:
 
     # mc "Get over here and clean it up."
-    mc "Get over here and clean it up."
+    mc "过来给我清理干净。"
 
 # game/code/d07/d07s04mh.rpy:311
 translate chinese d07s04mh_slap_cum_67b0297b:
 
     # mh "Yes, sir. I'm happy to serve."
-    mh "Yes, sir. I'm happy to serve."
+    mh "好的，主人。很乐意为您服务。"
 
 # game/code/d07/d07s04mh.rpy:312
 translate chinese d07s04mh_slap_cum_a5aa6f45:
 
     # mc "Don't stop until it is perfectly clean."
-    mc "Don't stop until it is perfectly clean."
+    mc "没弄干净不要停。"
 
 # game/code/d07/d07s04mh.rpy:314
 translate chinese d07s04mh_slap_cum_84dad565:
 
     # mh "Let me clean that up for you."
-    mh "Let me clean that up for you."
+    mh "让我来帮您清理吧。"
 
 # game/code/d07/d07s04mh.rpy:315
 translate chinese d07s04mh_slap_cum_22399957:
 
     # mh "Oh, what a mess I made."
-    mh "Oh, what a mess I made."
+    mh "哦，我弄得好乱啊。"
 
 # game/code/d07/d07s04mh.rpy:316
 translate chinese d07s04mh_slap_cum_5c45cdde:
 
     # mh "It's going to be as clean as I can make it."
-    mh "It's going to be as clean as I can make it."
+    mh "我会尽量把它弄干净的。"
 
 # game/code/d07/d07s04mh.rpy:322
 translate chinese d07s04mh_slap_cum_aa6d20e6:
 
     # mh "Hm-m-m! Yummy!"
-    mh "Hm-m-m! Yummy!"
+    mh "嗯-唔！好真吃！"
 
 # game/code/d07/d07s04mh.rpy:324
 translate chinese d07s04mh_slap_cum_27bbca3c:
 
     # mh "How are you?"
-    mh "How are you?"
+    mh "你还好吗？"
 
 # game/code/d07/d07s04mh.rpy:325
 translate chinese d07s04mh_slap_cum_c39818e4:
 
     # mc "I'm still processing this! You just ate your cum from my cock!"
-    mc "I'm still processing this! You just ate your cum from my cock!"
+    mc "我还在消化呢！你刚刚吃了我鸡巴上的精液！"
 
 # game/code/d07/d07s04mh.rpy:327
 translate chinese d07s04mh_slap_cum_85845439:
 
     # mh "Did you enjoy it?"
-    mh "Did you enjoy it?"
+    mh "你喜欢吗？"
 
 # game/code/d07/d07s04mh.rpy:329
 translate chinese d07s04mh_slap_cum_1a944efe:
 
     # mh "Do you want me to keep going?"
-    mh "Do you want me to keep going?"
+    mh "想让我继续吗？"
 
 # game/code/d07/d07s04mh.rpy:344
 translate chinese d07s04mh_polly_3b01b4e9:
 
     # pw "Oops-s-s!"
-    pw "Oops-s-s!"
+    pw "啊哦！"
 
 # game/code/d07/d07s04mh.rpy:345
 translate chinese d07s04mh_polly_1f7a9c0c:
 
     # mc "Hm-m-m... {w}Polly!"
-    mc "Hm-m-m... {w}Polly!"
+    mc "嗯-哼……{w}波莉！"
 
 # game/code/d07/d07s04mh.rpy:347
 translate chinese d07s04mh_polly_fe7e1ff3:
 
     # pw "I'm very sorry, I thought it was empty here..."
-    pw "I'm very sorry, I thought it was empty here..."
+    pw "真抱歉，我还以为这里没有人……"
 
 # game/code/d07/d07s04mh.rpy:351
 translate chinese d07s04mh_polly_94b80ba4:
 
     # mh "Oh my god..."
-    mh "Oh my god..."
+    mh "我的天哪……"
 
 # game/code/d07/d07s04mh.rpy:352
 translate chinese d07s04mh_polly_1801c904:
 
     # mc "Hey. I'm sorry... There shouldn't be anyone here..."
-    mc "Hey. I'm sorry... There shouldn't be anyone here..."
+    mc "嘿，对不起……这里不应该有人的……"
 
 # game/code/d07/d07s04mh.rpy:353
 translate chinese d07s04mh_polly_4e955109:
 
     # mh "I can't... someone just..."
-    mh "I can't... someone just..."
+    mh "我不能……刚有人……."
 
 # game/code/d07/d07s04mh.rpy:354
 translate chinese d07s04mh_polly_3f9eabcf:
 
     # mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
-    mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
+    mc "别担心！不会有事的！我认识那个女孩。她不会告诉任何人的。"
 
 # game/code/d07/d07s04mh.rpy:356
 translate chinese d07s04mh_polly_80ec799e:
 
     # mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
-    mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
+    mh "这可不是玩笑！我是个名声在外的律师！ 我不能让海滩性爱八卦到处流传！"
 
 # game/code/d07/d07s04mh.rpy:357
 translate chinese d07s04mh_polly_35c05d95:
 
     # mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
-    mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
+    mc "当然，我会跟她谈谈，确保她不会说出去。"
 
 # game/code/d07/d07s04mh.rpy:359
 translate chinese d07s04mh_polly_c9779ea7:
 
     # mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
-    mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
+    mh "对不起。我知道这不是你的错。我不喜欢这样暴露的感觉……我需要冷静会。"
 
 # game/code/d07/d07s04mh.rpy:361
 translate chinese d07s04mh_polly_09081efa:
 
     # mc "It's okay. Let's get dressed, then I'll go find her."
-    mc "It's okay. Let's get dressed, then I'll go find her."
+    mc "没事的。我们穿好衣服，然后我去找她。"
 
 # game/code/d07/d07s04mh.rpy:363
 translate chinese d07s04mh_polly_b162b831:
 
     # mc "It's okay. Let's just get dressed and head back."
-    mc "It's okay. Let's just get dressed and head back."
+    mc "没事的。我们穿好衣服就回去吧。"
 
 translate chinese strings:
 
     # game/code/d07/d07s04mh.rpy:214
     old "I love everything about that idea"
-    new "I love everything about that idea"
+    new "我很喜欢这个想法"
 
     # game/code/d07/d07s04mh.rpy:214
     old "That would make me uncomfortable"
-    new "That would make me uncomfortable"
+    new "那会让我很不舒服"
 
     # game/code/d07/d07s04mh.rpy:242
     old "Slap her again"
-    new "Slap her again"
+    new "再打她一巴掌"
 
     # game/code/d07/d07s04mh.rpy:242
     old "That is enough"
-    new "That is enough"
+    new "这就够了"
 
