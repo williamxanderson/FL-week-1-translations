@@ -28,7 +28,7 @@ translate chinese replay_d07s04dw_8ea31ffa:
 translate chinese replay_d07s04dw_56f20b65:
 
     # dw "That won't do at all. I can't have you insulting me with your limp clit."
-    dw "根本不行。我不能让你用那软绵绵的阴蒂来侮辱我。."
+    dw "根本不行。我不能让你用那软绵绵的阴蒂来侮辱我。"
 
 # game/code/d07/d07s04dw.rpy:25
 translate chinese replay_d07s04dw_1f8c15b2:
