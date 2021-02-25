@@ -526,7 +526,7 @@ translate chinese replay_d07s04pw_918fea83:
 translate chinese replay_d07s04pw_d4f4e063:
 
     # pw "No, I'm glad. It means you enjoyed it."
-    pw "不啊，我很高兴。这说明你很享受。
+    pw "不啊，我很高兴。这说明你很享受。"
 
 # game/code/d07/d07s04pw.rpy:227
 translate chinese replay_d07s04pw_5cad942d:
