@@ -640,7 +640,7 @@ translate chinese d07s05_sexscene_sexslave_0989a5a0:
 translate chinese d07s05_sexscene_sexslave_630b5ec6:
 
     # arj "Of course."
-    arj 当然。"
+    arj "当然。"
 
 # game/code/d07/d07s05.rpy:297
 translate chinese d07s05_sexscene_sexslave_2683af68:
