@@ -16,7 +16,7 @@ translate chinese replay_d07s05_6ddf657c:
 translate chinese replay_d07s05_effc3342:
 
     # arj "Oh good. I was starting to get worried."
-    arj "哦，那就好。我开始担心了。"
+    arj "哦，那就好。我都担心了。"
 
 # game/code/d07/d07s05.rpy:44
 translate chinese replay_d07s05_dca10557:
@@ -70,7 +70,7 @@ translate chinese replay_d07s05_296d4375:
 translate chinese replay_d07s05_c05261c7:
 
     # mc "Did I tell you, that you look great in this bikini?"
-    mc "我有没有告诉过你，你穿这比基尼很好看？"
+    mc "我跟你说过没，你穿这比基尼很好看？"
 
 # game/code/d07/d07s05.rpy:62
 translate chinese replay_d07s05_7d5fc015:
@@ -118,13 +118,13 @@ translate chinese replay_d07s05_98edd919:
 translate chinese replay_d07s05_79a9111e:
 
     # arj "She didn't want you to think of her as naive or inexperienced. She wanted to feel like she could blow your mind."
-    arj "她不想让你觉得幼稚或没有经验。她想给你留个深刻印象的。"
+    arj "她不想让你觉得幼稚或没有经验。她想给你留下深刻印象的。"
 
 # game/code/d07/d07s05.rpy:77
 translate chinese replay_d07s05_c66ddfd2:
 
     # mc "Huh. I guess I can understand that."
-    mc "啊，我想我理解了。"
+    mc "啊，我好像明白了。"
 
 # game/code/d07/d07s05.rpy:79
 translate chinese replay_d07s05_63189e84:
@@ -286,7 +286,7 @@ translate chinese replay_d07s05_15175fc5:
 translate chinese replay_d07s05_d847a964:
 
     # mc "What's the difference?"
-    mc "有什么区别吗?"
+    mc "有什么区别吗？"
 
 # game/code/d07/d07s05.rpy:120
 translate chinese replay_d07s05_c96ba2c6:
@@ -406,7 +406,7 @@ translate chinese replay_d07s05_80e74037:
 translate chinese replay_d07s05_6d18c4f3:
 
     # arj "Is that really how you thought about her? When you talk about dating her, do you remember anything other than sex?"
-    arj "你真的是这样想她的吗？当你说到和她约会的时候，除了性，你还记得其他事情吗？"
+    arj "你真是这样想她的吗？当说到和她约会的时候，除了性，你还记得其他事情吗？"
 
 # game/code/d07/d07s05.rpy:150
 translate chinese replay_d07s05_fc92953b:
@@ -418,7 +418,7 @@ translate chinese replay_d07s05_fc92953b:
 translate chinese replay_d07s05_71e9493c:
 
     # arj "When she decided to break up with you, when she ghosted you, even when she came in and yelled while we were watching that movie..."
-    arj "当她决定和你分手的时候，她消失的时候，甚至当我们看那部电影的，她进来大喊大叫的时候……"
+    arj "当她决定和你分手的时候，她消失的时候，甚至当我们看那部电影，她进来大喊大叫的时候……"
 
 # game/code/d07/d07s05.rpy:153
 translate chinese replay_d07s05_ab799f84:
@@ -472,7 +472,7 @@ translate chinese replay_d07s05_ee613fca:
 translate chinese replay_d07s05_5b2356fd:
 
     # arj "Look, I'm not going to interfere with you and Lydia. It doesn't bother me."
-    arj "听着，我不会干涉你和莉迪亚的事。这并不困扰我。"
+    arj "听着，我不会干涉你和莉迪亚的事。这个我是无所谓的。"
 
 # game/code/d07/d07s05.rpy:167
 translate chinese replay_d07s05_436e1d6b:
@@ -544,7 +544,7 @@ translate chinese d07s05_decision_42ce8206:
 translate chinese d07s05_decision_08583d28:
 
     # "Narrator" "AmRose is integral to this story. Rejecting her might tear apart the fabric of the universe, spawn infinite alternate realities, and cause severe writer cramps."
-    "旁白" "爱洛丝是这个故事不可或缺的一部分。拒绝她可能会撕裂故事宇宙的架构，产生无限另类现实，并导致严重的书写痉挛。"
+    "旁白" "爱洛丝是这个故事不可或缺的一部分。拒绝她可能会撕裂故事宇宙的架构，产生无限的交替世界，并导致严重的作家痛性痉挛。"
 
 # game/code/d07/d07s05.rpy:238
 translate chinese d07s05_decision_cd89a15d:
@@ -634,13 +634,13 @@ translate chinese d07s05_sexscene_sexslave_181aa982:
 translate chinese d07s05_sexscene_sexslave_0989a5a0:
 
     # mc "If I told you to suck my dick right now, would you do it?"
-    mc "如果我现在让你给我口交，你会做吗？"
+    mc "如果我现在让你给我口交，你会照做吗？"
 
 # game/code/d07/d07s05.rpy:295
 translate chinese d07s05_sexscene_sexslave_630b5ec6:
 
     # arj "Of course."
-    arj 当然会。"
+    arj 当然。"
 
 # game/code/d07/d07s05.rpy:297
 translate chinese d07s05_sexscene_sexslave_2683af68:
@@ -652,7 +652,7 @@ translate chinese d07s05_sexscene_sexslave_2683af68:
 translate chinese d07s05_sexscene_sexslave_bc8f4d6a:
 
     # arj "If that is what you want."
-    arj "如果这是你想要的话。"
+    arj "如果你想要这样的话。"
 
 # game/code/d07/d07s05.rpy:302
 translate chinese d07s05_sexscene_sexslave_3ff89278:
