@@ -58,7 +58,7 @@ translate chinese d07s06_994a682a:
 translate chinese d07s06_a287b0df:
 
     # arj "Yeah, I'm a red-head! I like that color!"
-    arj "是啊，我是红头发嘛！ 我喜欢这个颜色！"
+    arj "是啊，我是红头发嘛！我喜欢这个颜色！"
 
 # game/code/d07/d07s06.rpy:46
 translate chinese d07s06_1503936b:
@@ -130,7 +130,7 @@ translate chinese d07s06_07164542:
 translate chinese d07s06_0eebabfd:
 
     # mc "{i}Hey, Squizzle! Sorry for missing your message! How about a challenge for you?{/i}"
-    mc "{i}嘿，斯奎兹！对不起，错过了你的消息！给你来个挑战怎么样？{/i}"
+    mc "{i}嘿，斯奎兹！对不起错过了你的消息！给你来个挑战怎么样？{/i}"
 
 # game/code/d07/d07s06.rpy:68
 translate chinese d07s06_2629181c:
@@ -160,13 +160,13 @@ translate chinese d07s06_abcfe2cd:
 translate chinese d07s06_0077b03c:
 
     # mesfl "{i}Wow! That is actually hard! But I'll do it! See you tomorrow in college!{/i}"
-    mesfl "{i}哇！这其实很难！ 但是我可以做到的！ 明天大学见！{/i}"
+    mesfl "{i}哇！这其实很难！但是我可以做到的！明天大学见！{/i}"
 
 # game/code/d07/d07s06.rpy:81
 translate chinese d07s06_fa69ab0e:
 
     # lc "{i}Thanks again for the terrific time I had yesterday. Looking forward to seeing you again soon. XOXO{/i}"
-    lc "{i}得再次谢谢我昨天度过的美好时光呀。期待很快再见你。抱抱亲亲{/i}"
+    lc "{i}得再次谢谢我昨天度过的美好时光呀。真想很快再见到你。抱抱亲亲{/i}"
 
 # game/code/d07/d07s06.rpy:82
 translate chinese d07s06_34c94c9d:
@@ -184,7 +184,7 @@ translate chinese d07s06_7784c542:
 translate chinese d07s06_d9eb1096:
 
     # nk "{i}This weekend has been so busy! Thank you!!{/i}"
-    nk "{i}这个周末太忙了！ 谢谢你!!{/i}"
+    nk "{i}这个周末太忙了！谢谢你!!{/i}"
 
 # game/code/d07/d07s06.rpy:91
 translate chinese d07s06_0951f301:
@@ -250,7 +250,7 @@ translate chinese d07s06_efadb704:
 translate chinese d07s06_ca5535dc:
 
     # mc "{i}Hey Polly! I know we left thing not on the best terms. I'm sorry about that. But I need to ask you a favor.{/i}"
-    mc "{i}嘿，波莉！我知道我们分手时关系不太好。我很抱歉。但是我需要你帮个忙。{/i}"
+    mc "{i}嘿，波莉！我知道我们分别时关系不太好。我很抱歉。但是我需要你帮个忙。{/i}"
 
 # game/code/d07/d07s06.rpy:113
 translate chinese d07s06_ab403922:
@@ -262,13 +262,13 @@ translate chinese d07s06_ab403922:
 translate chinese d07s06_9d9ef36c:
 
     # mc "{i}You saw something today on a beach, and I would kindly ask you to not tell anyone about this. This is very important. Can you promise me that?{/i}"
-    mc "{i}你今天在海滩上看到的一幕请不要告诉任何人。这一点非常重要。你能答应我吗？{/i}"
+    mc "{i}你今天在海滩上看到的那一幕请不要告诉任何人。这一点非常重要。你能答应我吗？{/i}"
 
 # game/code/d07/d07s06.rpy:116
 translate chinese d07s06_74c0b212:
 
     # pw "{i}Your secret is safe with me.{w} But can you tell me who was that with you? I'm just curious to know.{/i}"
-    pw "{i}我会保守你的秘密的。{w}但是你能告诉我和你一起的是谁吗?我只是很想知道。{/i}"
+    pw "{i}我会保守你的秘密的。{w}但是你能告诉我和你一起的是谁吗？我只是很好奇。{/i}"
 
 # game/code/d07/d07s06.rpy:117
 translate chinese d07s06_fca65595:
@@ -316,7 +316,7 @@ translate chinese d07s06_fde0636c:
 translate chinese d07s06_6422c89a:
 
     # mh "{i}I mean we both were there and I knew what I was doing, so is not all on you.{/i}"
-    mh "{i}我的意思是，我们都在那里，我知道我在做什么，所以不全是你的错。{/i}"
+    mh "{i}我的意思是，我们当时都在，我知道自己在做什么，所以不全是你的错。{/i}"
 
 # game/code/d07/d07s06.rpy:131
 translate chinese d07s06_7116c168:
@@ -526,7 +526,7 @@ translate chinese d07s06_gameover_5ee2d666:
 translate chinese d07s06_gameover_412a6c9d:
 
     # "Narrator" "Compromising photos of [mcname] were published online."
-    "旁白" "[mcname]的照片被发布在网上。"
+    "旁白" "[mcname]的裸露照片被发布在网上。"
 
 # game/code/d07/d07s06.rpy:277
 translate chinese d07s06_gameover_bca35b7e:
