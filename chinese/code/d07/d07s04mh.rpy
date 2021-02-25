@@ -16,7 +16,7 @@ translate chinese replay_d07s04mh_14b46182:
 translate chinese replay_d07s04mh_89ff56b8:
 
     # mc "Hey Lyssa. I wasn't sure if I would find you here. I ran into Vanessa earlier."
-    mc "嘿丽莎。本来我还不确定在这里能不能找到你。我之前碰到了瓦妮莎。   "
+    mc "嘿丽莎。本来我还不确定在这里能不能找到你。我之前碰到了瓦妮莎。"
 
 # game/code/d07/d07s04mh.rpy:26
 translate chinese replay_d07s04mh_50ca0ce6:
@@ -670,7 +670,7 @@ translate chinese replay_d07s04mh_40e1c558:
 translate chinese replay_d07s04mh_066098c5:
 
     # mc "Wow! You don't mind?"
-    mc "哇！你不介意吗？?"
+    mc "哇！你不介意吗？"
 
 # game/code/d07/d07s04mh.rpy:209
 translate chinese replay_d07s04mh_64095358:
