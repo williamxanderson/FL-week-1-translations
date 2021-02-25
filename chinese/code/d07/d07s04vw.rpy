@@ -40,7 +40,7 @@ translate chinese d07s04vw_0c8d1e5b:
 translate chinese d07s04vw_d709ce56:
 
     # vw "Thank you, but maybe I wasn't talking about my swimsuit."
-    vw "谢谢你，但也许我说的不是我的泳衣呢。"
+    vw "谢谢你，但也许我说的不是泳衣呢。"
 
 # game/code/d07/d07s04vw.rpy:34
 translate chinese d07s04vw_b03a43c8:
@@ -52,7 +52,7 @@ translate chinese d07s04vw_b03a43c8:
 translate chinese d07s04vw_0663205d:
 
     # vw "Such a charmer. So, did you want to see my secret place?"
-    vw "真是个万人迷。你想看看我的秘密之所吗?"
+    vw "真是个万人迷。你想看看我的秘密之所吗？"
 
 # game/code/d07/d07s04vw.rpy:37
 translate chinese d07s04vw_2dcfda20:
