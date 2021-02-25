@@ -220,7 +220,7 @@ translate chinese d07s06_89d8f715:
 translate chinese d07s06_331b588e:
 
     # mk "{i}You know what I want. You know where I live. Come over anytime.{/i}"
-    mk "{i}你知道我想要什么。也知道我住在哪。随时都可以过来哈。 {/i}"
+    mk "{i}你知道我想要什么。也知道我住在哪。随时都可以过来哈。{/i}"
 
 # game/code/d07/d07s06.rpy:102
 translate chinese d07s06_28d6c65a:
