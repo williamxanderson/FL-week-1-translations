@@ -34,7 +34,7 @@ translate chinese d04s02_632c3f13:
 translate chinese d04s02_b5adc9c6:
 
     # mc "And that cologne of his is... pungent."
-    mc "而且他的古龙水也很……刺鼻。
+    mc "而且他的古龙水也很……刺鼻。"
 
 # game/code/d04/d04s02.rpy:33
 translate chinese d04s02_d7300822:
@@ -563,4 +563,3 @@ translate chinese strings:
     # game/code/d04/d04s02.rpy:61
     old "Just shower and leave"
     new "洗完澡就走吧"
-
