@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:616
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "用{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n制作"
+    new "通过下列方式制作 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
