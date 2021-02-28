@@ -52,7 +52,7 @@ translate chinese replay_d03s15_9fafe0b6:
 translate chinese replay_d03s15_cc7cdfa7:
 
     # mct "What was her nickname... {w}Vesna?"
-    mct 她叫什么来着……{w}维斯纳？"
+    mct "她叫什么来着……{w}维斯纳？"
 
 # game/code/d03p2/d03s15.rpy:48
 translate chinese replay_d03s15_6a3ac709:
@@ -131,4 +131,3 @@ translate chinese replay_d03s15_4f17a13e:
 
     # mct "Shit! Someone is coming!"
     mct "妈的！有人来了！"
-
