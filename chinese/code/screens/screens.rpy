@@ -4,99 +4,99 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:260
     old "Back"
-    new "Back"
+    new "返回"
 
     # game/code/screens/screens.rpy:261
     old "History"
-    new "History"
+    new "历史"
 
     # game/code/screens/screens.rpy:262
     old "Skip"
-    new "Skip"
+    new "跳过"
 
     # game/code/screens/screens.rpy:263
     old "Auto"
-    new "Auto"
+    new "自动"
 
     # game/code/screens/screens.rpy:264
     old "Save"
-    new "Save"
+    new "保存"
 
     # game/code/screens/screens.rpy:265
     old "Q.Save"
-    new "Q.Save"
+    new "Q.保存"
 
     # game/code/screens/screens.rpy:266
     old "Q.Load"
-    new "Q.Load"
+    new "Q.加载"
 
     # game/code/screens/screens.rpy:267
     old "Prefs"
-    new "Prefs"
+    new "偏好设置"
 
     # game/code/screens/screens.rpy:309
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "从周[FLSS.week.prev]开始继续"
 
     # game/code/screens/screens.rpy:313
     old "Start"
-    new "Start"
+    new "开始"
 
     # game/code/screens/screens.rpy:319
     old "Main Menu"
-    new "Main Menu"
+    new "主菜单"
 
     # game/code/screens/screens.rpy:331
     old "Load"
-    new "Load"
+    new "加载"
 
     # game/code/screens/screens.rpy:340
     old "Preferences"
-    new "Preferences"
+    new "偏好设定"
 
     # game/code/screens/screens.rpy:345
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "在Patreon上支持"
 
     # game/code/screens/screens.rpy:349
     old "Join Discord"
-    new "Join Discord"
+    new "加入Discord"
 
     # game/code/screens/screens.rpy:353
     old "Switch Language"
-    new "Switch Language"
+    new "切换语言"
 
     # game/code/screens/screens.rpy:368
     old "End Replay"
-    new "End Replay"
+    new "结束回放"
 
     # game/code/screens/screens.rpy:376
     old "About"
-    new "About"
+    new "关于我们"
 
     # game/code/screens/screens.rpy:381
     old "Help"
-    new "Help"
+    new "帮助"
 
     # game/code/screens/screens.rpy:385
     old "Quit"
-    new "Quit"
+    new "退出"
 
     # game/code/screens/screens.rpy:610
     old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
+    new "版本[config.version!t]\n"
 
     # game/code/screens/screens.rpy:616
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
+    new "用{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n制作"
 
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
-    new "(set a name before saving your progress)"
+    new "(在保存进度前，先设定一个名字)"
 
     # game/code/screens/screens.rpy:686
     old "Current save name:"
-    new "Current save name:"
+    new "当前保存名称："
 
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -104,7 +104,7 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:719
     old "empty slot"
-    new "empty slot"
+    new "空槽"
 
     # game/code/screens/screens.rpy:737
     old "«"
