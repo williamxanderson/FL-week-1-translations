@@ -622,7 +622,7 @@ translate chinese d04s05_slut_ee3acc68:
 translate chinese d04s05_confession_fe1be999:
 
     # arj "It all started a couple weeks ago, when you were sick."
-    arj "这一切都始于几个星期前，那时你生病了。
+    arj "这一切都始于几个星期前，那时你生病了。"
 
 # game/code/d04/d04s05.rpy:257
 translate chinese d04s05_confession_79c47cfd:
@@ -1377,4 +1377,3 @@ translate chinese strings:
     # game/code/d04/d04s05.rpy:39
     old "Oh bother, it's a drunken slut."
     new "哎，真讨厌，这是个喝醉了的荡妇。"
-
