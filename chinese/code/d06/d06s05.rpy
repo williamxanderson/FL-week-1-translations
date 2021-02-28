@@ -712,7 +712,7 @@ translate chinese d06s05_mk_tr_65fb144d:
 translate chinese d06s05_mk_tr_981c093b:
 
     # mc "Cool. You sticking around for the concert?"
-    mc "酷。你要留下来看音乐会吗？
+    mc "酷。你要留下来看音乐会吗？"
 
 # game/code/d06/d06s05.rpy:216
 translate chinese d06s05_mk_tr_a6a7d61e:
@@ -843,4 +843,3 @@ translate chinese strings:
     # game/code/d06/d06s05.rpy:245
     old "Send it to me"
     new "把它发给我"
-
