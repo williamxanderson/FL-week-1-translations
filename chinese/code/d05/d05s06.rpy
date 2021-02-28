@@ -1234,7 +1234,7 @@ translate chinese d05s06_after_29199b72:
 translate chinese d05s06_after_685a6a73:
 
     # mc "Good to know. Thanks for looking that up."
-    mc "还好知道了。谢谢你帮我查了一下。
+    mc "还好知道了。谢谢你帮我查了一下。"
 
 # game/code/d05/d05s06.rpy:435
 translate chinese d05s06_after_df69e211:
@@ -1413,4 +1413,3 @@ translate chinese strings:
     # game/code/d05/d05s06.rpy:279
     old "Pee on Min's Body"
     new "尿在明的身上"
-
