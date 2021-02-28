@@ -16,7 +16,7 @@ translate chinese end_of_week_f457ab7a:
 translate chinese failed_mp_5d0c3fdc:
 
     # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "您的设备无法保存不同周的游戏进度。\n请允许性趣探测器应用写入外部存储设备。
+    "您的设备无法保存不同周的游戏进度。\n请允许性趣探测器应用写入外部存储设备。"
 
 # game/code/labels.rpy:53
 translate chinese failed_mp_cd72322d:
@@ -173,4 +173,3 @@ translate chinese strings:
     # game/code/labels.rpy:26
     old "What is your name? (Default name - Mike)"
     new "你叫什么名字？(默认名字--迈克)"
-
