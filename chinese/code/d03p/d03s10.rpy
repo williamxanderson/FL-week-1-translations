@@ -388,7 +388,7 @@ translate chinese d03s10_be5c5a5e:
 translate chinese d03s10_f0c237f9:
 
     # aw "And about the events... There are three of them."
-    aw "关于活动……这里有三个。
+    aw "关于活动……这里有三个。"
 
 # game/code/d03p/d03s10.rpy:227
 translate chinese d03s10_d7491b7d:
@@ -424,7 +424,7 @@ translate chinese d03s10_fde05df5:
 translate chinese d03s10_d70591a0:
 
     # aw "Ah, I wasn't sure how you identify."
-    aw ""啊，我还不知道你的身份啦。"
+    aw "啊，我还不知道你的身份啦。"
 
 # game/code/d03p/d03s10.rpy:240
 translate chinese d03s10_dc717e68:
@@ -979,4 +979,3 @@ translate chinese strings:
     # game/code/d03p/d03s10.rpy:497
     old "That's Enough For Tonight"
     new "今晚就到此为止"
-
