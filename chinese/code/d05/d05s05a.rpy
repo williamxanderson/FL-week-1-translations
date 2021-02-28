@@ -724,7 +724,7 @@ translate chinese d05s05_apt1_cd2fc66b:
 translate chinese d05s05_apt1_3cf09fc4:
 
     # arj "Hi Vanessa, this is [mcname]. He's the one I was telling you about."
-    arj "嗨，瓦妮莎，这是[mcname]。他就是我跟你说的那个人。
+    arj "嗨，瓦妮莎，这是[mcname]。他就是我跟你说的那个人。"
 
 # game/code/d05/d05s05a.rpy:255
 translate chinese d05s05_apt1_3206e7d9:
@@ -911,4 +911,3 @@ translate chinese d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "我送你去下个地方吧。"
-
