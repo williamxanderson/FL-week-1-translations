@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/code/classes/classes.rpy:116
     old "sister"
-    new "姐妹"
+    new "妹妹"
 
     # game/code/classes/classes.rpy:116
     old "best friend{#female}"
@@ -12,7 +12,7 @@ translate chinese strings:
 
     # game/code/classes/classes.rpy:119
     old "brother"
-    new "兄弟"
+    new "哥哥"
 
     # game/code/classes/classes.rpy:119
     old "best friend{#male}"
@@ -20,7 +20,7 @@ translate chinese strings:
 
     # game/code/classes/classes.rpy:128
     old "sis"
-    new "姐"
+    new "妹"
 
     # game/code/classes/classes.rpy:128
     old "friend{#female}"
@@ -28,7 +28,7 @@ translate chinese strings:
 
     # game/code/classes/classes.rpy:131
     old "bro"
-    new "哥们"
+    new "老哥"
 
     # game/code/classes/classes.rpy:131
     old "friend{#male}"
