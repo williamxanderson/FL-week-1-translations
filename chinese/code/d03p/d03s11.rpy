@@ -526,7 +526,7 @@ translate chinese replay_d03s11_94ad77e4:
 translate chinese replay_d03s11_9ae3d8ca:
 
     # mh "You know what? Sure, take a look!"
-    mh 你知道吗？当然可以，你看看吧！"
+    mh "你知道吗？当然可以，你看看吧！"
 
 # game/code/d03p/d03s11.rpy:278
 translate chinese replay_d03s11_9d9cf38e:
@@ -579,4 +579,3 @@ translate chinese strings:
     # game/code/d03p/d03s11.rpy:261
     old "Demand to see her pussy"
     new "要求看她的小穴"
-
