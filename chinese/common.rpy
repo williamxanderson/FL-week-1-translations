@@ -324,7 +324,7 @@ translate chinese strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new " 此处未启用交互式编导器。"
+    new "此处未启用交互式编导器。"
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -636,63 +636,63 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:551
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "自动语音已启用。按'v'键禁用。"
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Empty Slot."
+    new "空槽。"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "Previous"
+    new "上一个"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new "Next"
+    new "下一个"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "手柄映射"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Developer Menu"
+    new "开发者菜单"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "互动总监(D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "重新加载游戏(Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "Console (Shift+O)"
+    new "控制台(Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "变量显示器"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "图像座标捡选器"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new "Filename List"
+    new "文件名列表"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
+    new "显示图像加载日志(F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
+    new "隐藏图像加载日志(F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new "Image Attributes"
+    new "图像属性"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -704,51 +704,51 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "无可查看内容。"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new "Hide deleted"
+    new "隐藏删除项"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new "Show deleted"
+    new "显示删除项"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new "Return to the developer menu"
+    new "返回至开发者菜单"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new "Rectangle: %r"
+    new "矩形：%r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Mouse position: %r"
+    new "鼠标位置：%r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "Right-click or escape to quit."
+    new "点击右键或escape键退出。"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new "Rectangle copied to clipboard."
+    new "矩形已复制到剪贴板。"
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new "Position copied to clipboard."
+    new "位置已复制到剪贴板。"
 
     # renpy/common/_developer/developer.rpym:507
     old "Type to filter: "
-    new "Type to filter: "
+    new "输入要过滤的类型："
 
     # renpy/common/_developer/developer.rpym:635
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "材质：[tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:639
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:649
     old "✔ "
@@ -764,35 +764,35 @@ translate chinese strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "Displayable Inspector"
+    new "可显示的检查器"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new "Size"
+    new "尺寸"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new "Style"
+    new "风格"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new "Location"
+    new "位置"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new "Inspecting Styles of [displayable_name!q]"
+    new "检查[displayable_name!q]的样式"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new "displayable:"
+    new "可显示的："
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new "        (no properties affect the displayable)"
+    new "        (属性不影响可显示内容))"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new "        (default properties omitted)"
+    new "        (默认属性省略)"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
@@ -808,91 +808,91 @@ translate chinese strings:
 
     # renpy/common/00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "正在连接App Store\n请等待……"
+    new "正在连接应用商店\n请稍候……"
 
     # renpy/common/00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "移动设备The Ren'Py Updater的更新."
+    new "移动设备不支持 Ren'Py Updater。"
 
     # renpy/common/00updater.rpy:494
     old "An error is being simulated."
-    new "检测到一个错误."
+    new "检测到一个错误。"
 
     # renpy/common/00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
-    new "该项目不支持更新，或者是正在更新的文件已被删除."
+    new "该项目不支持更新，或者是正在更新的文件已被删除。"
 
     # renpy/common/00updater.rpy:692
     old "This account does not have permission to perform an update."
-    new "此账户没有权限更新."
+    new "此账户没有权限更新。"
 
     # renpy/common/00updater.rpy:695
     old "This account does not have permission to write the update log."
-    new "此账户没有权利写入更新日志."
+    new "此帐户没有权限写入更新日志。"
 
     # renpy/common/00updater.rpy:722
     old "Could not verify update signature."
-    new "无法验证更新签名."
+    new "无法验证更新签名。"
 
     # renpy/common/00updater.rpy:997
     old "The update file was not downloaded."
-    new "更新的文件没有被成功下载."
+    new "更新的文件未被成功下载。"
 
     # renpy/common/00updater.rpy:1015
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "更新的文件被正确的解压 - 它可能已经损坏."
+    new "更新文件没有正确的摘要--摘要可能已损坏。"
 
     # renpy/common/00updater.rpy:1071
     old "While unpacking {}, unknown type {}."
-    new "解压时 {}, 未知的种类 {}."
+    new "解压{}时，出现未知类型{}。"
 
     # renpy/common/00updater.rpy:1439
     old "Updater"
-    new "更新"
+    new "更新器"
 
     # renpy/common/00updater.rpy:1446
     old "An error has occured:"
-    new "检测出一个错误:"
+    new "发生了一个错误："
 
     # renpy/common/00updater.rpy:1448
     old "Checking for updates."
-    new "检查是否为最新版本."
+    new "正在检查更新。"
 
     # renpy/common/00updater.rpy:1450
     old "This program is up to date."
-    new "已是最新版本."
+    new "该程序已为最新版本。"
 
     # renpy/common/00updater.rpy:1452
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] 现在可用. 是否下载?"
+    new "[u.version] 现在可用。是否安装？"
 
     # renpy/common/00updater.rpy:1454
     old "Preparing to download the updates."
-    new "正在准备下载更新内容."
+    new "准备下载更新。"
 
     # renpy/common/00updater.rpy:1456
     old "Downloading the updates."
-    new "下载更新内容."
+    new "下载更新。"
 
     # renpy/common/00updater.rpy:1458
     old "Unpacking the updates."
-    new "正在解压更新内容."
+    new "正在解压更新。"
 
     # renpy/common/00updater.rpy:1460
     old "Finishing up."
-    new "正在结束中."
+    new "完成更新。"
 
     # renpy/common/00updater.rpy:1462
     old "The updates have been installed. The program will restart."
-    new "更新内容已经下载完成. 程序会自行重启."
+    new "更新内容已下载完成。程序将自行重启。"
 
     # renpy/common/00updater.rpy:1464
     old "The updates have been installed."
-    new "更新内容已下载完成."
+    new "更新内容已下载完成。"
 
     # renpy/common/00updater.rpy:1466
     old "The updates were cancelled."
-    new "更新内容已被删除."
+    new "更新被取消。"
 
     # renpy/common/00updater.rpy:1481
     old "Proceed"
@@ -900,7 +900,7 @@ translate chinese strings:
 
     # renpy/common/00gallery.rpy:592
     old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
+    new "[count]的图像[index]已锁定。"
 
     # renpy/common/00gallery.rpy:612
     old "prev"
@@ -916,7 +916,7 @@ translate chinese strings:
 
     # renpy/common/00gallery.rpy:615
     old "return"
-    new "关闭"
+    new "返回"
 
     # renpy/common/00gltest.rpy:70
     old "Renderer"
@@ -968,43 +968,43 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:163
     old "Tearing"
-    new "Screen Tearing"
+    new "画面撕裂"
 
     # renpy/common/00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "新的选择会在下次重启时生效."
+    new "更改将在下次运行该程序时生效。"
 
     # renpy/common/00gltest.rpy:213
     old "Performance Warning"
-    new "Performance Warning"
+    new "性能警告"
 
     # renpy/common/00gltest.rpy:218
     old "This computer is using software rendering."
-    new "此电脑正在使用渲染软件."
+    new "此电脑正在使用渲染软件。"
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
-    new "此电脑未使用着色器."
+    new "此电脑未使用着色器。"
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "此电脑正在缓慢显示图象."
+    new "此电脑正在缓慢显示图像。"
 
     # renpy/common/00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "此电脑在显示图像时遇到问题: [problem]."
+    new "此电脑显示图像有问题: [problem]."
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "电脑的图像显示器已经过期或者无法正常运行. 这会使加载图像时缓慢或者失败. 更新DirectX来解决这个问题."
+    new "电脑的图像显示器可能过时或不能正常运行。这会使加载图像速度缓慢或者失败. 更新DirectX来解决这个问题。"
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "电脑的图像显示器已经过期或者无法正常运行. 这会使加载图像时缓慢或者失败. "
+    new "电脑的图像显示器可能过时或不能正常运行。这会使加载图像速度缓慢或者失败。"
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
-    new "DirectX正在更新"
+    new "更新DirectX"
 
     # renpy/common/00gltest.rpy:242
     old "Continue, Show this warning again"
@@ -1012,23 +1012,23 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new "继续，不要再次显示警告"
+    new "继续，不再显示警告"
 
     # renpy/common/00gltest.rpy:264
     old "Updating DirectX."
-    new "DirectX更新中."
+    new "DirectX更新中。"
 
     # renpy/common/00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "DirectX Web设置已启动. 它可能开始在任务栏中最小化. 请按照提示安装DirectX。"
+    new "DirectX安装程序已启动。它可能会在任务栏中最小化。请按照提示安装DirectX。"
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Note:{/b} 默认情况下，Microsoft的DirectX Web安装程序将安装Bing工具栏. 如果您不希望使用此工具栏，请取消选中相应的框."
+    new "{b}注意：{/b} 默认情况下，微软的DirectX安装程序将默认安装Bing工具栏。若您不希望使用此工具栏，请取消选中相应的框。"
 
     # renpy/common/00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "安装完成后，请单击下面的重新启动该程序."
+    new "安装完成后，请单击下面的按钮重新启动该程序。"
 
     # renpy/common/00gltest.rpy:278
     old "Restart"
@@ -1064,59 +1064,59 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:540
     old "Opens the traceback.txt file in a text editor."
-    new "在文本编辑器中打开traceback.txt文件."
+    new "在文本编辑器中打开traceback.txt文件。"
 
     # renpy/common/_errorhandling.rpym:542
     old "Copy BBCode"
-    new "Copy BBCode"
+    new "复制BBCode"
 
     # renpy/common/_errorhandling.rpym:544
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "将traceback.txt文件复制到剪贴板，作为论坛的BB代码，如 https://lemmasoft.renai.us/。"
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy Markdown"
-    new "复制优惠码"
+    new "复制Markdown"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "将traceback.txt文件作为优惠码复制到剪贴板到Discord上."
+    new "将traceback.txt文件复制到剪贴板，作为 Discord 的 Markdown。"
 
     # renpy/common/_errorhandling.rpym:577
     old "An exception has occurred."
-    new "检测到异常."
+    new "检测到异常。"
 
     # renpy/common/_errorhandling.rpym:597
     old "Rollback"
-    new "Rollback"
+    new "回退"
 
     # renpy/common/_errorhandling.rpym:599
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试回到上一个时间点，以使您可以保存或选择其他选项."
+    new "尝试回到上一个时间点，以使您可以保存或选择其他选项。"
 
     # renpy/common/_errorhandling.rpym:602
     old "Ignore"
-    new "忽略."
+    new "忽略"
 
     # renpy/common/_errorhandling.rpym:606
     old "Ignores the exception, allowing you to continue."
-    new "忽略异常并继续."
+    new "忽略异常并继续。"
 
     # renpy/common/_errorhandling.rpym:608
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "忽略异常并继续，这有可能会导致别的问题."
+    new "忽略异常并继续。这有可能会导致别的问题。"
 
     # renpy/common/_errorhandling.rpym:612
     old "Reload"
-    new "重新加载."
+    new "重新加载"
 
     # renpy/common/_errorhandling.rpym:614
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "从磁盘重新加载游戏，并在可能的情况下保存和恢复游戏状."
+    new "从磁盘重新加载游戏，并在可能的情况下保存和恢复游戏状。"
 
     # renpy/common/_errorhandling.rpym:617
     old "Console"
-    new "Console"
+    new "控制台"
 
     # renpy/common/_errorhandling.rpym:619
     old "Opens a console to allow debugging the problem."
@@ -1124,15 +1124,15 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:629
     old "Quits the game."
-    new "退出游戏."
+    new "退出游戏。"
 
     # renpy/common/_errorhandling.rpym:653
     old "Parsing the script failed."
-    new "解析脚本失败."
+    new "解析脚本失败。"
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the errors.txt file in a text editor."
-    new "在文本编辑器中打开errors.txt文件."
+    new "在文本编辑器中打开errors.txt文件。"
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
@@ -1140,4 +1140,4 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "将errors.txt文件作为Markdown 复制剪贴板到Discord上."
+    new "将errors.txt文件复制到剪贴板，作为 Discord 的 Markdown。"
