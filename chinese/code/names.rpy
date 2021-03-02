@@ -2,7 +2,9 @@
 
 translate chinese strings:
 
-    # script.rpy:11
+    old "Fetish Locator"
+    new "Fetish Locator"
+
     old "Pete"
     new "Pete"
 
