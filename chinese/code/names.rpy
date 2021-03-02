@@ -2,9 +2,6 @@
 
 translate chinese strings:
 
-    old "Fetish Locator"
-    new "Fetish Locator"
-
     old "Pete"
     new "Pete"
 
