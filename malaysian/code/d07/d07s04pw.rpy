@@ -358,7 +358,7 @@ translate malaysian replay_d07s04pw_17187955:
 translate malaysian replay_d07s04pw_ac45e6c9:
 
     # pw "I don't think so. {w}Oh! I meant you're so amazing at munching carpet, that I might enjoy that even more than licking your tushie."
-    pw "Saya tidak fikir begitu. {W}Oh! Maksud saya, awak sangat hebat ketika menjilat saya, sehingga saya mungkin menikmatinya lebih daripada menjilat pantat anda."
+    pw "Saya tidak fikir begitu. {w}Oh! Maksud saya, awak sangat hebat ketika menjilat saya, sehingga saya mungkin menikmatinya lebih daripada menjilat pantat anda."
 
 # game/code/d07/d07s04pw.rpy:157
 translate malaysian replay_d07s04pw_c1dff962:
