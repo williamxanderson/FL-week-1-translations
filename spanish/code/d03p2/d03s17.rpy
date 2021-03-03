@@ -564,7 +564,7 @@ translate spanish d03s17_69934e54:
 translate spanish d03s17_1416eb4a:
 
     # lc "...the right thing to do. {i}Someone{/i} had to... {w}I—I'm glad you did."
-    lc "...lo correcto. {i}Alguien{/ i} tenía que... {w} Yo — me alegro que lo hayas hecho."
+    lc "...lo correcto. {i}Alguien{/i} tenía que... {w} Yo — me alegro que lo hayas hecho."
 
 # game/code/d03p2/d03s17.rpy:146
 translate spanish d03s17_bb6a67dc:
@@ -757,4 +757,3 @@ translate spanish d03s17_68ec10d7:
 
     # mc "I don't."
     mc "Yo no..."
-
