@@ -39,7 +39,7 @@ translate chinese strings:
     new "扎克"
 
     old "Squizzie"
-    new "Squizzie"
+    new "斯奎西"
 
     old "Squizzle"
     new "斯奎兹"
@@ -81,7 +81,7 @@ translate chinese strings:
     new "杰西"
 
     old "HairyHarry"
-    new "HairyHarry"
+    new "长毛哈里"
 
     old "Vanessa Webb"
     new "瓦妮莎·韦伯"
@@ -102,13 +102,13 @@ translate chinese strings:
     new "纹身女孩"
 
     old "Ronald Nordin"
-    new "Ronald Nordin"
+    new "罗纳德·诺丁"
 
     old "Zarah Waller"
-    new "Zarah Waller"
+    new "萨拉·沃勒"
 
     old "Amber-Rose"
-    new "Amber-Rose"
+    new "爱洛丝"
 
     old "Girl voice"
     new "女孩的声音"
