@@ -3,103 +3,103 @@
 translate chinese strings:
 
     old "Pete"
-    new "Pete"
+    new "皮特"
 
     old "All"
-    new "All"
+    new "全部"
 
     old "Girl"
-    new "Girl"
+    new "女孩"
 
     old "Lydia"
-    new "Lydia"
+    new "莉迪亚"
 
     old "Min"
-    new "Min"
+    new "明"
 
     old "Anthony"
-    new "Anthony"
+    new "安东尼"
 
     old "Kevin"
-    new "Kevin"
+    new "凯文"
 
     old "Chloe"
-    new "Chloe"
+    new "克洛伊"
 
     old "Stacy"
-    new "Stacy"
+    new "史黛西"
 
     old "Polly"
-    new "Polly"
+    new "波莉"
 
     old "Nora"
-    new "Nora"
+    new "诺拉"
 
     old "Zach"
-    new "Zach"
+    new "扎克"
 
     old "Squizzie"
     new "Squizzie"
 
     old "Squizzle"
-    new "Squizzle"
+    new "斯奎兹"
 
     old "Daisy"
-    new "Daisy"
+    new "黛西"
 
     old "Maria"
-    new "Maria"
+    new "玛丽亚"
 
     old "Dahlia"
-    new "Dahlia"
+    new "黛丽娅"
 
     old "Allison"
-    new "Allison"
+    new "艾莉森"
 
     old "Vesna"
-    new "Vesna"
+    new "维斯纳"
 
     old "Talia"
-    new "Talia"
+    new "塔利亚"
 
     old "Cynthia"
-    new "Cynthia"
+    new "辛西娅"
 
     old "Lyssa"
-    new "Lyssa"
+    new "丽莎"
 
     old "Hana"
-    new "Hana"
+    new "哈娜"
 
     old "Dario"
-    new "Dario"
+    new "达里奥"
 
     old "Terrell"
-    new "Terrell"
+    new "特雷尔"
 
     old "Jessie"
-    new "Jessie"
+    new "杰西"
 
     old "HairyHarry"
     new "HairyHarry"
 
     old "Vanessa Webb"
-    new "Vanessa Webb"
+    new "瓦妮莎·韦伯"
 
     old "QueenB"
-    new "QueenB"
+    new "奎恩"
 
     old "Mr.D1cky"
-    new "Mr.D1cky"
+    new "迪克先生"
 
     old "URLittlePony"
-    new "URLittlePony"
+    new "你的小马驹"
 
     old "Some dude"
-    new "Some dude"
+    new "某位老兄"
 
     old "Tattooed Girl"
-    new "Tattooed Girl"
+    new "纹身女孩"
 
     old "Ronald Nordin"
     new "Ronald Nordin"
@@ -111,28 +111,28 @@ translate chinese strings:
     new "Amber-Rose"
 
     old "Girl voice"
-    new "Girl voice"
+    new "女孩的声音"
 
     old "Anon"
-    new "Anon"
+    new "匿名"
 
     old "Barista"
-    new "Barista"
+    new "咖啡师"
 
     old "Voice"
-    new "Voice"
+    new "说话声"
 
     old "female voice"
-    new "female voice"
+    new "女声"
 
     old "Narrator"
-    new "Narrator"
+    new "旁白"
 
     old "Developer"
-    new "Developer"
+    new "开发者"
 
     old "Fetish Locator Retention"
-    new "Fetish Locator Retention"
+    new "性趣探测器留存"
 
     old "What is your name in Fetish Locator app?"
-    new "What is your name in Fetish Locator app?"
+    new "在性趣探测器软件中你想叫什么名字？"
