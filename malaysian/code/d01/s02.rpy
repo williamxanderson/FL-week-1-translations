@@ -442,7 +442,7 @@ translate malaysian d01s02_894e1070:
 translate malaysian d01s02_8c8fbdfc:
 
     # mct "Okay, I'm supposed to enter my name. I'm not stupid enough to put my real name {i}and{/i} list of my fetishes! I'll make up a fake name."
-    mct "Baiklah, aku sepatutnya masukkan nama sendiri dan bukannya aku tak cukup bodoh untuk meletakkan nama sebenar {i}dan{/ i} senarai fetish aku! Kena jugalah buat nama palsu."
+    mct "Baiklah, aku sepatutnya masukkan nama sendiri dan bukannya aku tak cukup bodoh untuk meletakkan nama sebenar {i}dan{/i} senarai fetish aku! Kena jugalah buat nama palsu."
 
 # game/code/d01/s02.rpy:231
 translate malaysian d01s02_0b7e083d:
