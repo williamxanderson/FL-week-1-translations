@@ -1006,7 +1006,7 @@ translate malaysian replay_d03s13_27399a26:
 translate malaysian replay_d03s13_fee771f6:
 
     # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes "Jangan ragu-ragu untuk menggunakan salah satu pancuran mandian. Terdapat banyak air panas.{W} .. dan sejuk."
+    mes "Jangan ragu-ragu untuk menggunakan salah satu pancuran mandian. Terdapat banyak air panas.{w} .. dan sejuk."
 
 # game/code/d03p/d03s13.rpy:533
 translate malaysian replay_d03s13_4dbf8248:
