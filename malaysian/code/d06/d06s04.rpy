@@ -742,7 +742,7 @@ translate malaysian d06s04_f0839bf2:
 translate malaysian d06s04_6bb47dad:
 
     # mc "Looks like people are settling in. {w}Oh, here comes Nora."
-    mc "Nampaknya orang sudah bersedia. {W} Oh, ini dia Nora."
+    mc "Nampaknya orang sudah bersedia. {w}Oh, ini dia Nora."
 
 # game/code/d06/d06s04.rpy:264
 translate malaysian d06s04_12c82fd5:
