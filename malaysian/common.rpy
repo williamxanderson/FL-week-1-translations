@@ -1141,12 +1141,3 @@ translate malaysian strings:
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Menyalin fail errors.txt file ke papan klip sebagai Markdown untuk Discord."
-
-# TODO: Translation updated at 2021-02-06 13:12
-
-translate malaysian strings:
-
-    # renpy/common/_errorhandling.rpym:599
-    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Mencuba kembali ke masa sebelumnya, yang membolehkan anda menyimpan atau memilih pilihan lain."
-
