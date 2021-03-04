@@ -240,5 +240,5 @@ translate malaysian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 7: Evening"
-    new "Hari Ketujuh: Evening"
+    new "Hari Ketujuh: Petang"
 
