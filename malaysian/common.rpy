@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-01-01 19:31
+﻿# TODO: Translation updated at 2021-03-04 09:32
 
 translate malaysian strings:
 
@@ -284,7 +284,7 @@ translate malaysian strings:
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
-    new "File page [text]"
+    new "Halaman file [text]"
 
     # renpy/common/00action_file.rpy:631
     old "Page {}"
@@ -336,7 +336,7 @@ translate malaysian strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Done"
+    new "Selesai"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -760,7 +760,7 @@ translate malaysian strings:
 
     # renpy/common/_developer/developer.rpym:657
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}✔ gambar ramalan (good){/color}\n{color=#fcc}✘ gambar yang tidak diramalkan (bad){/color}\n{color=#fff}Seret untuk gerak.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
@@ -1091,8 +1091,8 @@ translate malaysian strings:
     new "Kembalikan"
 
     # renpy/common/_errorhandling.rpym:599
-    old "Mencuba mengembali ke masa sebelumnya, yang membolehkan anda menyimpan atau memilih pilihan lain."
-    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Mencuba kembali ke masa sebelumnya, yang membolehkan anda menyimpan atau memilih pilihan lain."
 
     # renpy/common/_errorhandling.rpym:602
     old "Ignore"
@@ -1148,5 +1148,5 @@ translate malaysian strings:
 
     # renpy/common/_errorhandling.rpym:599
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Mencuba kembali ke masa sebelumnya, yang membolehkan anda menyimpan atau memilih pilihan lain."
 
