@@ -220,7 +220,7 @@ translate malaysian strings:
 
     # game/code/screens/screens.rpy:1087
     old "Enter"
-    new "Masuk"
+    new "Enter"
 
     # game/code/screens/screens.rpy:1088
     old "Advances dialogue and activates the interface."
