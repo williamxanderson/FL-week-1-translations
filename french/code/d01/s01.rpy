@@ -16,7 +16,7 @@ translate french d01s01_c294ff8d:
 translate french d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"Le meilleur jour de votre vie ne commence jamais avec un réveil.\"{w} Je suis sûr que quelqu'un de très intélligent a dit cela."
+    mct "\"Le meilleur jour de votre vie ne commence jamais avec l'alarme d'un réveil.\"{w} Je suis sûr que quelqu'un de très intélligent a dit cela."
 
 # game/code/d01/s01.rpy:35
 translate french d01s01_860125d7:
@@ -28,19 +28,19 @@ translate french d01s01_860125d7:
 translate french d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "Je n'ai jamais eu de bonnes notes à l'école. Ça a même été très dur pour moi d'entrer à l'université."
+    mct "Je n'ai jamais eu de bonnes notes à l'école. Ça a même été très dur pour moi d'entrer au College."
 
 # game/code/d01/s01.rpy:38
 translate french d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "C'est ma seconde année d'étude en administration des affaires. Je ne suis pas sûr d'aimer ça mais au moins je suis doué."
+    mct "C'est ma seconde année d'étude en administration des affaires. Je ne suis pas sûr d'aimer ça, mais au moins je suis doué."
 
 # game/code/d01/s01.rpy:39
 translate french d01s01_308f75bc:
 
     # mct "It's better to have a diploma than nothing."
-    mct "C'est mieux d'avoir un diplôme que rien."
+    mct "Il vaut mieux avoir avoir un diplôme que rien."
 
 # game/code/d01/s01.rpy:40
 translate french d01s01_5c531e30:
@@ -52,13 +52,13 @@ translate french d01s01_5c531e30:
 translate french d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "C'est vraiment dommage d'avoir raté les dernières semaines de cours. Ça pourrait avoir un impacte négatif sur mes chances de réussir mon année."
+    mct "C'est vraiment dommage d'avoir raté les dernières semaines de cours. Ça pourrait avoir un impact négatif sur mes chances de réussir mon année."
 
 # game/code/d01/s01.rpy:43
 translate french d01s01_0edfd832:
 
     # mct "Before that I was far from being ready, but I might need to spend a lot more time studying to make it."
-    mct "Avant ça j'étais loin d'être prêt, du coup je devrais passer plus de temps à étudier pour réussir."
+    mct "Avant ça j'étais loin d'être prêt, du coup je devrais passer beaucoup plus de temps à étudier pour réussir."
 
 # game/code/d01/s01.rpy:44
 translate french d01s01_74274f26:
@@ -70,13 +70,13 @@ translate french d01s01_74274f26:
 translate french d01s01_1539c406:
 
     # mct "And I still don't have a girlfriend."
-    mct "Et en plus j'ai toujours pas de petite amie."
+    mct "Et en plus je n'ai toujours pas de petite amie."
 
 # game/code/d01/s01.rpy:47
 translate french d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "Ça, ça m'ennuie encore plus que le fait d'être complètement désemparé pour mes examens."
+    mct "Ça, ça m'ennuie encore plus que le fait que je ne sois pas préparé du tout pour mes examens."
 
 # game/code/d01/s01.rpy:48
 translate french d01s01_9a9a27f1:
@@ -94,7 +94,7 @@ translate french d01s01_4b3873dc:
 translate french d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "Je vais me concentrer et essayer de ne pas me faire distraire par aucunes filles."
+    mct "Je vais me concentrer et essayer de ne me faire distraire par aucune fille."
 
 # game/code/d01/s01.rpy:55
 translate french d01s01_a6a59a59:
@@ -112,7 +112,7 @@ translate french d01s01_967030d1:
 translate french d01s01_690e4aae:
 
     # mct "Pete snuck a girl into our room."
-    mct "Pete a furtivement laissé entrer une fille dans notre chambre."
+    mct "Pete a furtivement fait entrer une fille dans notre chambre."
 
 # game/code/d01/s01.rpy:61
 translate french d01s01_0450e07b:
@@ -136,13 +136,13 @@ translate french d01s01_c7996105:
 translate french d01s01_0ace8bbf:
 
     # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "Elle a l'air d'être une personne intéressante... {w}J'aimerais bien sortir avec elle."
+    mct "Elle m'a l'air intéressante... {w}J'adorerais sortir avec elle."
 
 # game/code/d01/s01.rpy:66
 translate french d01s01_f3a9ab90:
 
     # mct "I want to see more of her. That might be a bad idea. I should go take a shower."
-    mct "J'ai envie d'en voir plus. Ce serait une mauvaise idée. Je devrais aller prendre ma douche."
+    mct "J'ai bien envie d'en voir plus. C'est peut être une mauvaise idée. Je devrais aller prendre ma douche."
 
 # game/code/d01/s01.rpy:77
 translate french d01s01_d14b5b5a:
@@ -154,7 +154,7 @@ translate french d01s01_d14b5b5a:
 translate french d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "Comment ai-je pu manquer ce que Pete a pu faire avec elle hier soir?"
+    mct "Comment ai-je pu manquer ce que Pete a fait avec elle hier soir?"
 
 # game/code/d01/s01.rpy:80
 translate french d01s01_41c6ea21:
@@ -226,13 +226,13 @@ translate french d01s01_e514adfa:
 translate french d01s01_95cf4b4e:
 
     # pb "Don't worry. This is [mcname]. He's a nice guy. He won't hurt you."
-    pb "Ne t'inquiètes pas. Voici [mcname]. C'est un super gars. Il ne te fera pas de mal."
+    pb "Ne t'inquiète pas. Voici [mcname]. C'est un super gars. Il ne te fera pas de mal."
 
 # game/code/d01/s01.rpy:100
 translate french d01s01_4488ce59:
 
     # pb "[mcname] is probably the nicest guy there is. He is always nice to girls and respects them."
-    pb "[mcname] est sûrement le mec le plus gentil qui existe. Il est toujours correct et respectueux envers les filles."
+    pb "[mcname] est sûrement le mec le plus gentil qui soit. Il est toujours correct et respectueux envers les filles."
 
 # game/code/d01/s01.rpy:101
 translate french d01s01_f8dac6be:
@@ -262,7 +262,7 @@ translate french d01s01_6e61b5a0:
 translate french d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "Fille" "Ouais? {i}CONNARD!{/i} Tu te souviens même pas de mon nom?!"
+    "Fille" "Ouais? {i}CONNARD!{/i} Tu ne te souviens même pas de mon nom?!"
 
 # game/code/d01/s01.rpy:109
 translate french d01s01_54356a5f:
@@ -298,7 +298,7 @@ translate french d01s01_fec04e89:
 translate french d01s01_05b92bec:
 
     # pb "Well. I had to at least try a guess. In my head, I call her \"That girl who sucks like a vacuum cleaner\"."
-    pb "Et bah. Au moins j'ai tenté ma chance. Dans ma tête, je l'appelle \"La fille qui suce comme un aspirateur\"."
+    pb "Et bien. Au moins j'ai essayé de deviner. Dans ma tête, je l'appelle \"La fille qui suce comme un aspirateur\"."
 
 # game/code/d01/s01.rpy:122
 translate french d01s01_c0d577fc:
@@ -358,7 +358,7 @@ translate french d01s01_shower_538449c8:
 translate french d01s01_shower_89e84dfc:
 
     # mct "I need to come up with a plan to ask her out."
-    mct "Je dois trouver un moyen de lui proposer un rendez-vous."
+    mct "Je dois trouver un moyen pour l'inviter à sortir avec moi."
 
 # game/code/d01/s01.rpy:145
 translate french d01s01_shower_30b83c14:
@@ -472,13 +472,13 @@ translate french d01s01_shower_0e59eaaa:
 translate french d01s01_shower_09d9eada:
 
     # pb "You know what? Let me make it up to you. How about I help you to ask that girl out..."
-    pb "Tu sais quoi? Je vais te revaudre ça. Et si je t'aidais à demander à une fille de sortir avec toi..."
+    pb "Tu sais quoi? Laisse-moi me racheter. Et si je t'aidais à demander à cette fille de sortir avec toi..."
 
 # game/code/d01/s01.rpy:194
 translate french d01s01_shower_b616feb3:
 
     # pb "What was her name?"
-    pb "C'est quoi son nom?"
+    pb "C'est quoi son nom déjà?"
 
 # game/code/d01/s01.rpy:197
 translate french d01s01_shower_c10a1144:
@@ -490,7 +490,7 @@ translate french d01s01_shower_c10a1144:
 translate french d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "Parfait! C'est ça! Je veux t'aider, frère. Je déteste te voir gaspiller ton temps à l'université."
+    pb "Parfait! C'est ça! Je veux t'aider, mon pote. Je déteste te voir gaspiller ton temps au College."
 
 # game/code/d01/s01.rpy:201
 translate french d01s01_shower_edd8bfa0:
@@ -550,13 +550,13 @@ translate french d01s01_shower_a00c613f:
 translate french d01s01_shower_4b55edea:
 
     # zw "If you weren't on the team, you'd be cleaning the whole gym tonight."
-    zw "Si vous ne faisiez pas partie de l'équipe, je vous aurais ordonné de nettoyer toute la salle de gym ce soir."
+    zw "Si vous ne faisiez pas partie de l'équipe, je vous aurais ordonné de nettoyer tout le gymnase ce soir."
 
 # game/code/d01/s01.rpy:218
 translate french d01s01_shower_f9708cb5:
 
     # zw "Consider yourself very lucky! This is your last chance Butler."
-    zw "Considérez vous très chanceux! C'est votre dernière chance Butler."
+    zw "Considérez-vous très chanceux! C'est votre dernière chance Butler."
 
 # game/code/d01/s01.rpy:221
 translate french d01s01_shower_bdeb0236:
@@ -724,7 +724,7 @@ translate french d01s01_shower_3e9ffa5f:
 translate french d01s01_shower_03d60ad0:
 
     # zw "Both of you will help empty out the trash after the game tonight."
-    zw "Vous aiderez tous deux à vider les poubelles après le match ce soir."
+    zw "Vous aiderez tous les deux à vider les poubelles après le match ce soir."
 
 # game/code/d01/s01.rpy:274
 translate french d01s01_shower_bb83081f:
@@ -736,7 +736,7 @@ translate french d01s01_shower_bb83081f:
 translate french d01s01_shower_3c49c9a9:
 
     # zw "...and I'll be checking too. If you bail, I'll make sure you aren't allowed to take finals."
-    zw "...et je viendrai surveiller. Si vous séchez la punition, je m'assurerai que vous ne puissiez pas passer vos examens."
+    zw "...et je viendrai surveiller. Si vous séchez la punition, je m'assurerais que vous ne puissiez pas passer vos examens."
 
 # game/code/d01/s01.rpy:277
 translate french d01s01_shower_5e7d96e5:
@@ -767,5 +767,5 @@ translate french strings:
 translate french d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct "She looks like an interesting person... {w}I would love to date a girl like her."
+    mct "Elle m'a l'air intéressante... {w}J'adorerais sortir avec une fille comme elle."
 
