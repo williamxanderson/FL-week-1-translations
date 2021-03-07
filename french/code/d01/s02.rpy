@@ -4,7 +4,7 @@
 translate french d01s02_4ee8cc8f:
 
     # "9:00 AM"
-    "09h00"
+    "09H00"
 
 # game/code/d01/s02.rpy:99
 translate french d01s02_5b6f8a2b:
@@ -460,7 +460,7 @@ translate french d01s02_c23c0e83:
 translate french d01s02_fcbe40cd:
 
     # fl "Do you like Cumshot fetish?"
-    fl "Aimes-tu le fétichisme de l'éjaculation?"
+    fl "Aimez-vous le fétichisme de l'éjaculation?"
 
 # game/code/d01/s02.rpy:248
 translate french d01s02_015d20de:
