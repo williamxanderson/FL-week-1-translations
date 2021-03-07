@@ -112,13 +112,13 @@ translate french s03_51ee3ede:
 translate french s03_5d7ba797:
 
     # fl "Do you want to see her swallowing all of that hot jizz?"
-    fl "Do you want to see her swallowing all of that hot jizz?"
+    fl "Voulez-vous la voir avaler tout ce sperme chaud?"
 
 # game/code/d01/s03.rpy:101
 translate french s03_353c7bff:
 
     # fl "We have that for you!"
-    fl "We have that for you!"
+    fl "Nous avons ça pour vous!"
 
 # game/code/d01/s03.rpy:102
 translate french s03_466f3426:
