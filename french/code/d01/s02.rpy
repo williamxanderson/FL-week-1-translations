@@ -4,13 +4,13 @@
 translate french d01s02_4ee8cc8f:
 
     # "9:00 AM"
-    "09h00"
+    "09H00"
 
 # game/code/d01/s02.rpy:99
 translate french d01s02_5b6f8a2b:
 
     # mct "Back to my normal routine and another history class."
-    mct "De retour à ma routine normale et un nouveau cours d'histoire."
+    mct "De retour à ma routine habituelle et un nouveau cours d'histoire."
 
 # game/code/d01/s02.rpy:101
 translate french d01s02_0fc96c86:
@@ -130,7 +130,7 @@ translate french d01s02_3a75ee50:
 translate french d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "Je me suis réveillé ce matin et la première chose devant moi a été une fille super canon... à l'autre bout de la chambre! T'arrives à y croire toi?!"
+    mc "Je me suis réveillé ce matin et la première chose devant moi a été une fille super canon... juste de l'autre côté de la chambre! T'arrives à y croire toi?!"
 
 # game/code/d01/s02.rpy:140
 translate french d01s02_28e2321d:
@@ -142,13 +142,13 @@ translate french d01s02_28e2321d:
 translate french d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "Si seulement c'était la mienne. Pete l'a ramenée dans notre chambre... et tu sais comment c'est risqué avec notre conseillère de la résidence!"
+    mc "Si seulement c'était la mienne. Pete l'a ramenée dans notre chambre... et tu sais à quel point c'est risqué avec notre conseillère de la résidence!"
 
 # game/code/d01/s02.rpy:144
 translate french d01s02_b11c099d:
 
     # kb "True story! You can't joke around with Miss Waller."
-    kb "Ça c'est bien vrai! On plaisante pas avec Madame Waller."
+    kb "Ça c'est bien vrai! On ne plaisante pas avec Madame Waller."
 
 # game/code/d01/s02.rpy:146
 translate french d01s02_bc5dc4cc:
@@ -172,7 +172,7 @@ translate french d01s02_d59a0b93:
 translate french d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "Ah, putain! J'avais oublié comment c'est ennuyant."
+    mct "Ah, putain! J'avais oublié à quel point c'est ennuyant."
 
 # game/code/d01/s02.rpy:154
 translate french d01s02_0bd30138:
@@ -184,7 +184,7 @@ translate french d01s02_0bd30138:
 translate french d01s02_4ab34b9f:
 
     # mc "My [game.stacytitle] is coming here to study at our college. I went home to help her pack, then got sick, and had to stay there until I felt well enough to travel again."
-    mc "Ma [game.stacytitle] va venir étudier ici. Je suis retourné à la maison pour l'aider à faire ses valises, puis suis tombé malade, et j'ai dû rester jusqu'à me sentir assez bien pour voyager à nouveau."
+    mc "Ma [game.stacytitle] va venir étudier ici. Je suis retourné à la maison pour l'aider à faire ses valises, puis je suis tombé malade, et j'ai dû rester jusqu'à me sentir assez bien pour voyager à nouveau."
 
 # game/code/d01/s02.rpy:158
 translate french d01s02_b2a40943:
@@ -202,7 +202,7 @@ translate french d01s02_8e9364a8:
 translate french d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "Il s'est vite fait passé de nouvelles choses. Tout le monde est stressé avec les examens."
+    kb "Il s'est passé quelques nouveaux trucs je dirais. Tout le monde est stressé avec les examens."
 
 # game/code/d01/s02.rpy:164
 translate french d01s02_a3f1d4fd:
@@ -214,19 +214,19 @@ translate french d01s02_a3f1d4fd:
 translate french d01s02_94ba6d1d:
 
     # mc "Yeah, I heard them talking about some kind of party."
-    mc "Ouais, je les ai entendu parler d'une fête."
+    mc "Ouais, je les ai entendu parler d'une sorte de fête."
 
 # game/code/d01/s02.rpy:168
 translate french d01s02_d8095c2a:
 
     # kb "I don't know about any party."
-    kb "Je ne suis au courant de rien."
+    kb "Je ne suis au pas courant au sujet de cette fête."
 
 # game/code/d01/s02.rpy:169
 translate french d01s02_4bc28f05:
 
     # kb "Hmm...maybe they want to throw a party to celebrate the fact they're back together?"
-    kb "Hmm... peut-être qu'ils organisent une fête pour célébrer le fait qu'ils sortent de novueau ensemble?"
+    kb "Hmm... peut-être qu'ils organisent une fête pour célébrer le fait qu'ils sortent de nouveau ensemble?"
 
 # game/code/d01/s02.rpy:171
 translate french d01s02_0999e95f:
@@ -250,19 +250,19 @@ translate french d01s02_e473e3b9:
 translate french d01s02_849955f3:
 
     # kb "Anyway, are you ready for finals?"
-    kb "Enfin bon, t'es prêt pour les examens?"
+    kb "Enfin bon, t'es prêt pour les exams?"
 
 # game/code/d01/s02.rpy:179
 translate french d01s02_3d70f645:
 
     # mc "I tried to study last night, but I wasn't even able to get caught up with the stuff from the last two weeks that I missed."
-    mc "J'ai essayé d'étudier hier soir, mais j'ai pas réussi à rattraper ce que j'ai manqué pendant mes deux semaines d'absence."
+    mc "J'ai essayé d'étudier hier soir, mais je n'ai même pas réussi à rattraper ce que j'ai manqué pendant mes deux semaines d'absence."
 
 # game/code/d01/s02.rpy:180
 translate french d01s02_e3497235:
 
     # mc "I was so tired I could have slept through an earthquake {i}...and probably did{/i} after that. I didn't even hear Pete fucking that chick!"
-    mc "J'étais tellement fatigué que j'aurais pu dormir pendant un tremblement de terre {i}... et c'est probablement ce que j'ai fait{/i} après avoir étudié. J'ai même pas entendu Pete baiser cette meuf!"
+    mc "J'étais tellement fatigué que j'aurais pu dormir pendant un tremblement de terre {i}... et c'est probablement ce que j'ai fait{/i} après avoir étudié. Je n'ai même pas entendu Pete baiser cette meuf!"
 
 # game/code/d01/s02.rpy:182
 translate french d01s02_680a44d1:
@@ -274,7 +274,7 @@ translate french d01s02_680a44d1:
 translate french d01s02_0edae168:
 
     # mc "I don't think it'll make a difference."
-    mc "Je pense pas que ça fasse une quelconque différence."
+    mc "Je ne pense pas que ça fasse une quelconque différence."
 
 # game/code/d01/s02.rpy:185
 translate french d01s02_57555de8:
@@ -298,7 +298,7 @@ translate french d01s02_34948fd5:
 translate french d01s02_ed823cb2:
 
     # kb "Yeah, she is doing great!"
-    kb "Ouais, elle se porte bien!"
+    kb "Ouais, elle va bien!"
 
 # game/code/d01/s02.rpy:193
 translate french d01s02_91e0cd29:
@@ -328,7 +328,7 @@ translate french d01s02_1e70073e:
 translate french d01s02_b49f37d6:
 
     # kb "Yeah. It's new. I found it a of couple weeks ago. Somebody local made it."
-    kb "Ouais. Elle est nouvelle. Je l'ai découverte y'a quelques semaines. C'est quelqu'un d'ici qui l'a créée."
+    kb "Ouais. C'est nouveau. Je l'ai découverte y'a quelques semaines. C'est quelqu'un d'ici qui l'a créée."
 
 # game/code/d01/s02.rpy:203
 translate french d01s02_eb9b3580:
@@ -364,13 +364,13 @@ translate french d01s02_21b8afaf:
 translate french d01s02_3b056b7a:
 
     # kb "I don't think anyone outside of our college knows about it."
-    kb "Je ne pense pas que qui que ce soit en dehors de l'université soit au courant qu'elle existe."
+    kb "Je ne pense pas que qui que ce soit en dehors du College connaisse son existence."
 
 # game/code/d01/s02.rpy:212
 translate french d01s02_8e1260f5:
 
     # kb "Your info is kept anonymous and it's only shown to someone if you want it to be. You can control the settings in the app."
-    kb "Tes informations sont gardées anonymes et peuvent être divulguées à quelqu'un seulement si tu le décides. Tu peux gérer les paramètres dans l'application."
+    kb "Tes infos sont gardées anonymes et peuvent être divulguées à quelqu'un seulement si tu le décides. Tu peux gérer les paramètres dans l'application."
 
 # game/code/d01/s02.rpy:214
 translate french d01s02_a106da0d:
@@ -442,13 +442,13 @@ translate french d01s02_0b7e083d:
 translate french d01s02_f5ea78a4:
 
     # mct "Let's try to listen to the professor."
-    mct "Essayons de faire attention à ce que dis la professeur."
+    mct "Essayons de faire attention à ce que dis le professeur."
 
 # game/code/d01/s02.rpy:241
 translate french d01s02_0893f58e:
 
     # "Around ten minutes later..."
-    "Environ dix minutes plus tard..."
+    "Une dizaine de minutes plus tard..."
 
 # game/code/d01/s02.rpy:244
 translate french d01s02_c23c0e83:
@@ -460,7 +460,7 @@ translate french d01s02_c23c0e83:
 translate french d01s02_fcbe40cd:
 
     # fl "Do you like Cumshot fetish?"
-    fl "As-tu le fétichisme de l'éjaculation?"
+    fl "Aimez-vous le fétichisme de l'éjaculation?"
 
 # game/code/d01/s02.rpy:248
 translate french d01s02_015d20de:
@@ -478,7 +478,7 @@ translate french d01s02_699878f6:
 translate french d01s02_2c28bb2f:
 
     # mc "Why did it only send me one question just about one fetish?"
-    mc "Pourquoi est-ce que ça m'a posé une seule question sur ce fétichisme uniquement?"
+    mc "Pourquoi ça ne m'a posé qu'une seule question, juste sur un seul fétichisme?"
 
 # game/code/d01/s02.rpy:256
 translate french d01s02_f6203809:
@@ -508,7 +508,7 @@ translate french d01s02_5f431293:
 translate french d01s02_cdd73384:
 
     # kb "Yeah, it works a little differently and the app is always changing. Sometimes, it does strange things. You'll see."
-    kb "Ouais, ça fonctionne un peu différemment et l'application change tout le temps. Parfois, elle fait des choses bizarres. Tu verras."
+    kb "Ouais, ça fonctionne un peu différemment et l'application change tout le temps. Parfois, elle fait des choses étranges. Tu verras."
 
 # game/code/d01/s02.rpy:266
 translate french d01s02_4076254e:
@@ -526,7 +526,7 @@ translate french d01s02_30d051be:
 translate french d01s02_2d4947fa:
 
     # mct "Hmmm ... it's not showing or doing anything."
-    mct "Hmmm... rien ne se passe."
+    mct "Hmmm... Ca ne montre ou ne fait rien de particulier."
 
 # game/code/d01/s02.rpy:279
 translate french d01s02_91e0cd29_1:
@@ -568,7 +568,7 @@ translate french d01s02_56ac7286:
 translate french d01s02_e5ad10eb:
 
     # mc "Hey, Kev. It was nice talking to you, but I haven't talked to AmRose since I got back."
-    mc "Hey, Kev. C'était super de discuter avec toi, mais j'ai pas encore parlé à AmRose depuis mon retour."
+    mc "Hey, Kev. C'était sympa de discuter avec toi, mais je n'ai pas encore parlé à AmRose depuis mon retour."
 
 # game/code/d01/s02.rpy:291
 translate french d01s02_75652096:
@@ -580,7 +580,7 @@ translate french d01s02_75652096:
 translate french d01s02_ea86f4d4:
 
     # mc "Yeah, sure, see you there and thanks for the app. I'll continue to check it out."
-    mc "Ouais, ok, on se retrouve là bas et merci pour l'application. Je vais continuer de passer du temps dessus."
+    mc "Ouais, ok, on se retrouve là bas et merci pour l'application. Je continuerai à jeter un oeil dessus."
 
 # game/code/d01/s02.rpy:294
 translate french d01s02_9ea2f78c:
@@ -610,7 +610,7 @@ translate french replay_d01s02_f3b3d28f:
 translate french replay_d01s02_b199b51f:
 
     # arj "You were gone for two weeks and when you get back you don't even say Hi!"
-    arj "T'étais absent pendant deux semaines et à ton retour tu ne viens même pas me saluer!"
+    arj "Tu as été absent pendant deux semaines et à ton retour tu ne viens même pas me saluer!"
 
 # game/code/d01/s02.rpy:303
 translate french replay_d01s02_ed0f5321:
@@ -622,7 +622,7 @@ translate french replay_d01s02_ed0f5321:
 translate french replay_d01s02_3469a83b:
 
     # arj "Yeah, you were too distracted trying to hear what we were saying about Lydia."
-    arj "Ouais, t'étais trop distrait à essayer d'écouter ce qu'on disait sur Lydia."
+    arj "Ouais, t'étais trop occupé à essayer d'écouter ce qu'on disait sur Lydia."
 
 # game/code/d01/s02.rpy:307
 translate french replay_d01s02_507086ef:
@@ -664,13 +664,13 @@ translate french replay_d01s02_ed592207:
 translate french replay_d01s02_36026660:
 
     # arj "C'mon, like, you never listen in history class."
-    arj "Mais allez, genre, t'écoutes jamais en cours d'histoire."
+    arj "Mais allez, genre, tu n'écoutes jamais en cours d'histoire."
 
 # game/code/d01/s02.rpy:322
 translate french replay_d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "C'est vrai, mais sois pas si énervée. Je t'ai ramené un film, tu vas l'adorer."
+    mc "C'est vrai, mais ne sois pas si énervée. Je t'ai ramené un film, tu vas l'adorer."
 
 # game/code/d01/s02.rpy:324
 translate french replay_d01s02_84a64c74:
@@ -700,7 +700,7 @@ translate french replay_d01s02_0e7f0158:
 translate french replay_d01s02_9f24c4a8:
 
     # mct "I need to focus on what AmRose saying... {w}But I can't!"
-    mct "Je dois me concentrer sur ce que AmRose dit... {w}Mais j'arrive pas!"
+    mct "Je dois me concentrer sur ce que me dit AmRose... {w}Mais je n'y arrive pas!"
 
 # game/code/d01/s02.rpy:334
 translate french replay_d01s02_7ab8cb7f:
@@ -730,13 +730,13 @@ translate french replay_d01s02_b5006555:
 translate french replay_d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
-    mc "Et je ne vais pas te dire de quoi il parle. Tu vas adorer, j'en suis certain."
+    mc "Et je ne vais pas te dire de quoi il parle. Tu vas adorer, j'en suis sûr."
 
 # game/code/d01/s02.rpy:349
 translate french replay_d01s02_7bb488f1:
 
     # mc "You were talking about me not listening History lectures?"
-    mc "Tu parlais du fait que je n'écoute pas au cours d'histoire?"
+    mc "Tu parlais du fait que je n'écoute pas en cours d'histoire?"
 
 # game/code/d01/s02.rpy:353
 translate french replay_d01s02_37f824cb:
@@ -772,13 +772,13 @@ translate french replay_d01s02_f9adf382:
 translate french replay_d01s02_15f6a903:
 
     # mc "Sure, we can do that!"
-    mc "Bien sûr, on peut faire ça!"
+    mc "Bien sûr, ça peut se faire!"
 
 # game/code/d01/s02.rpy:368
 translate french replay_d01s02_cf97b7f3:
 
     # mct "How is it possible that only I'm seeing it?! They're doing it right in the front row!"
-    mct "Comment est-ce possible que je sois le seul à voir ça?! Ils le font au premier rang!"
+    mct "Comment est-il possible que je sois le seul à voir ça?! Ils le font au premier rang!"
 
 # game/code/d01/s02.rpy:369
 translate french replay_d01s02_bb084984:
@@ -820,13 +820,13 @@ translate french replay_d01s02_1e1e3d11:
 translate french replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-    mc "Je dois vider les poubelles après le match de basketball ce soir parce que Madame Waller a vu une fille sortir de notre chambre ce matin."
+    mc "Je dois vider les poubelles ce soir, après le match de basketball, parce que Madame Waller a vu une fille sortir de notre chambre ce matin."
 
 # game/code/d01/s02.rpy:384
 translate french replay_d01s02_3b00d1ca:
 
     # arj "You brought a girl to your room?!"
-    arj "T'as ramené une fille dans votre chambre?!"
+    arj "T'as ramené une fille dans ta chambre?!"
 
 # game/code/d01/s02.rpy:386
 translate french replay_d01s02_3a95b93e:
@@ -874,7 +874,7 @@ translate french replay_d01s02_ccc69cb6:
 translate french replay_d01s02_3f29ebba:
 
     # mct "Is he gonna to finish now?!"
-    mct "Il va finir maintenant?!"
+    mct "Est-ce qu'il va finir maintenant?!"
 
 # game/code/d01/s02.rpy:406
 translate french replay_d01s02_91b13306:
@@ -886,7 +886,7 @@ translate french replay_d01s02_91b13306:
 translate french replay_d01s02_1ec6e58e:
 
     # mct "That's actually really hot!"
-    mct "C'est vraiment super excitant!"
+    mct "C'est vraiment super chaud!"
 
 # game/code/d01/s02.rpy:412
 translate french replay_d01s02_4cd44184_2:
@@ -910,7 +910,7 @@ translate french replay_d01s02_b065aa01:
 translate french replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "Je l'ai déjà vu de toute façon. Je voulais seulement que tu le voies aussi."
+    mc "Je l'ai déjà vu de toute façon. Je voulais juste que tu le voies aussi."
 
 # game/code/d01/s02.rpy:426
 translate french replay_d01s02_5f5a449a:
@@ -928,7 +928,7 @@ translate french replay_d01s02_ca5f0fd9:
 translate french replay_d01s02_ad429af8:
 
     # mct "Her body language is definitely flirtatious!"
-    mct "Son langage corporel est définitivement coquin!"
+    mct "Son langage corporel est clairement celui du flirt!"
 
 # game/code/d01/s02.rpy:431
 translate french replay_d01s02_4cd44184_3:
@@ -940,7 +940,7 @@ translate french replay_d01s02_4cd44184_3:
 translate french replay_d01s02_578606f6:
 
     # mct "Did she just swallow his whole load?"
-    mct "Est-ce qu'elle vient d'avaler toute sa semence?"
+    mct "Est-ce qu'elle vient juste d'avaler toute sa semence?"
 
 # game/code/d01/s02.rpy:436
 translate french replay_d01s02_015d20de_1:
@@ -958,7 +958,7 @@ translate french replay_d01s02_27953c55:
 translate french replay_d01s02_468b4c54:
 
     # mct "That's probably the hottest thing I've seen in my life!"
-    mct "C'est probablement la chose la plus sexy que j'aie vu de toute ma vie!"
+    mct "C'est probablement la chose la plus chaude que j'aie vu de toute ma vie!"
 
 # game/code/d01/s02.rpy:444
 translate french replay_d01s02_3090eac0:
@@ -982,7 +982,7 @@ translate french replay_d01s02_39681987:
 translate french replay_d01s02_9879f0c8:
 
     # mc "Hmmm. I didn't know you could be so persuasive! Okay, let's do it tonight."
-    mc "Hmmm. Je ne savais pas que je pouvais être aussi persuasif! Ok, faisons ça ce soir."
+    mc "Hmmm. Je ne savais pas que je pouvais être aussi persuasive! Ok, faisons ça ce soir."
 
 # game/code/d01/s02.rpy:457
 translate french replay_d01s02_8ba3d6f6:
@@ -1030,13 +1030,13 @@ translate french replay_d01s02_f5f3b3e1:
 translate french replay_d01s02_de19de29:
 
     # arjt "I'm sure he is. He just got super hard when I invited him."
-    arjt "Je suis certaine qu'il s'attend à plus. Il vient de bander super fort quand je l'ai invité."
+    arjt "Je suis certaine qu'il s'attend à plus. Il a commencé à bander super fort quand je l'ai invité."
 
 # game/code/d01/s02.rpy:476
 translate french replay_d01s02_ae5cc99b:
 
     # arjt "What should I do?! We were friends for so long. He never showed any interest in me."
-    arjt "Qu'est-ce que je devrais faire?! On était amis depuis si longtemps. Il ne m'a jamais montré un quelconque intérêt."
+    arjt "Qu'est-ce que je devrais faire?! On est amis depuis si longtemps. Il n'a jamais montré aucun intérêt pour moi."
 
 # game/code/d01/s02.rpy:477
 translate french replay_d01s02_037e9ef7:
@@ -1048,7 +1048,7 @@ translate french replay_d01s02_037e9ef7:
 translate french replay_d01s02_55d3d3cd:
 
     # mct "Oh man! I'm so hard after I saw how Min swallowed a handful of Antony's cum!"
-    mct "Oh wow! Je suis tellement dur après avoir vu Min avaller sa main remplie du sperme d'Antony!"
+    mct "Oh wow! Je suis tellement dur après avoir vu Min avaler sa main remplie du sperme d'Antony!"
 
 # game/code/d01/s02.rpy:482
 translate french replay_d01s02_85246e7f:
@@ -1100,7 +1100,7 @@ translate french strings:
 
     # game/code/d01/s02.rpy:340
     old "You asked why I was gone for two weeks!"
-    new "Tu as demandé pourquoi j'étais absent pendant deux semaines!"
+    new "Tu as demandé pourquoi j'ai été absent pendant deux semaines!"
 
     # game/code/d01/s02.rpy:413
     old "See the movie after that"
@@ -1124,29 +1124,29 @@ translate french strings:
 translate french d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "They broke up over the winter break..."
+    mct "Ils ont rompu pendant les vacances d'hiver..."
 
 # game/code/d01/s02.rpy:94
 translate french d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct "A couple weeks ago they still hated each other"
+    mct "Ils se détestaient il y a encore deux semaines"
 
 # game/code/d01/s02.rpy:96
 translate french d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct "Look at them now. Are they dating again?"
+    mct "Regarde les maintenant. Ils sortent à nouveau ensemble?"
 
 # game/code/d01/s02.rpy:319
 translate french replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc "C'est vrai, mais ne sois pas si énervée. Je t'ai ramené un film, tu vas l'adorer."
 
 # game/code/d01/s02.rpy:416
 translate french replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
+    mct "Est-ce qu'il va finir maintenant?!"
 
