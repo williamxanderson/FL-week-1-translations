@@ -4,109 +4,109 @@
 translate french s03_97dc2f80:
 
     # "5:00 PM"
-    "5:00 PM"
+    "17H00"
 
 # game/code/d01/s03.rpy:62
 translate french s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "Looks like I'm the first one here."
+    mct "On dirait que je suis le premier arrivé."
 
 # game/code/d01/s03.rpy:63
 translate french s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
+    mct "Kevin et sa [game.chloekevin] devraient bientôt arriver. Le match va bientôt commencer."
 
 # game/code/d01/s03.rpy:65
 translate french s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
-    mct "Watching Min swallow Antony's cum was amazing!"
+    mct "Regarder Min avaler le sperme d'Antony était incroyable!"
 
 # game/code/d01/s03.rpy:66
 translate french s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "C'est encore plus excitant de regarder quelqu'un que tu connais le faire, plus que de juste le voir dans un porno."
 
 # game/code/d01/s03.rpy:67
 translate french s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
+    mct "Je me demande si cela a quelque chose à voir avec l'application Fetish Locator? Juste avant ça, elle posait la question sur fétichisme de l'éjaculation et quelques minutes plus tard je vois Min avaler le sperme d'Antony."
 
 # game/code/d01/s03.rpy:68
 translate french s03_6224a6c7:
 
     # mct "That couldn't have been a coincidence. I need to check the app."
-    mct "That couldn't have been a coincidence. I need to check the app."
+    mct "Ca ne peut pas être une coïncidence. Il faut que je vérifie l'app."
 
 # game/code/d01/s03.rpy:70
 translate french s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Min giving a handjob was amazing."
+    mct "Voir Min faire une branlette à Antony était incroyable."
 
 # game/code/d01/s03.rpy:71
 translate french s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "C'est encore plus excitant de regarder quelqu'un que tu connais le faire, plus que de juste le voir dans un porno."
 
 # game/code/d01/s03.rpy:73
 translate french s03_0f54bf1c:
 
     # mct "Oh. There's a new message from the app."
-    mct "Oh. There's a new message from the app."
+    mct "Oh. Il y a un nouveau message de l'application."
 
 # game/code/d01/s03.rpy:75
 translate french s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
+    fl "Mr. D1cky et Squizzle vienne de terminer le Cumshot challenge. Ils ont tous les deux obtenus 25 points. Restez à l'écoute pour le prochain défi demain!"
 
 # game/code/d01/s03.rpy:76
 translate french s03_c65e5cc5:
 
     # mct "The app says someone got points for a challenge. What's that all about?"
-    mct "The app says someone got points for a challenge. What's that all about?"
+    mct "L'application dit que quelqu'un a obtenu des points pour un défi. De quoi sagit-il?"
 
 # game/code/d01/s03.rpy:81
 translate french s03_f3bcd7af:
 
     # fl "Do you want to see the challenge results?"
-    fl "Do you want to see the challenge results?"
+    fl "Voulez-vous voir les résultats du défi?"
 
 # game/code/d01/s03.rpy:87
 translate french s03_4fc128f8:
 
     # mct "That's Min and Antony!"
-    mct "That's Min and Antony!"
+    mct "C'est Min et Antony!"
 
 # game/code/d01/s03.rpy:88
 translate french s03_b2eb8c22:
 
     # mct "They were filming it for the challenge too!"
-    mct "They were filming it for the challenge too!"
+    mct "Ils le filmaient aussi pour le défi!"
 
 # game/code/d01/s03.rpy:89
 translate french s03_2c9cac9e:
 
     # mct "I knew it wasn't a coincidence."
-    mct "I knew it wasn't a coincidence."
+    mct "Je savais que ce n'était pas une coïncidence."
 
 # game/code/d01/s03.rpy:90
 translate french s03_885c6cf3:
 
     # mct "Wow! The app made them do it. It's actually really popular on campus."
-    mct "Wow! The app made them do it. It's actually really popular on campus."
+    mct "Wow! L'application les a amenés à faire ça. C'est vraiment très populaire sur le campus."
 
 # game/code/d01/s03.rpy:93
 translate french s03_51ee3ede:
 
     # fl "Do you want to see more pictures?"
-    fl "Do you want to see more pictures?"
+    fl "Voulez-vous voir plus d'images?"
 
 # game/code/d01/s03.rpy:97
 translate french s03_5d7ba797:
