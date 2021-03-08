@@ -4,13 +4,13 @@
 translate french s04_2433015c:
 
     # "6:00 PM"
-    "6:00 PM"
+    "18H00"
 
 # game/code/d01/s04.rpy:162
 translate french s04_0afa175b:
 
     # mct "There's Pete."
-    mct "There's Pete."
+    mct "Voilà Pete."
 
 # game/code/d01/s04.rpy:163
 translate french s04_669664cb:
@@ -22,37 +22,37 @@ translate french s04_669664cb:
 translate french s04_e0ad8b16:
 
     # pb "Hey, there you are."
-    pb "Hey, there you are."
+    pb "Hey, te voilà."
 
 # game/code/d01/s04.rpy:171
 translate french s04_a60fb28f:
 
     # mc "Hey! Nice game! Congrats!"
-    mc "Hey! Nice game! Congrats!"
+    mc "Hey! Beau match! Félicitations!"
 
 # game/code/d01/s04.rpy:173
 translate french s04_dd8f8ec0:
 
     # pb "Thanks. It was easy but the next game is gonna be a lot harder."
-    pb "Thanks. It was easy but the next game is gonna be a lot harder."
+    pb "Merci. C'était facile mais le prochain match sera beaucoup plus difficile."
 
 # game/code/d01/s04.rpy:175
 translate french s04_7671f8f6:
 
     # mc "Then good luck with the next one."
-    mc "Then good luck with the next one."
+    mc "Alors bonne chance pour le prochain."
 
 # game/code/d01/s04.rpy:179
 translate french s04_723a5c65:
 
     # mc "I'm gonna start cleaning up. I wanna to finish this as quick as possible."
-    mc "I'm gonna start cleaning up. I wanna to finish this as quick as possible."
+    mc "Je vais commencer à nettoyer. Je veux finir ça le plus vite possible."
 
 # game/code/d01/s04.rpy:181
 translate french s04_589977f4:
 
     # pb "I'm here to help."
-    pb "I'm here to help."
+    pb "Je suis là pour t'aider."
 
 # game/code/d01/s04.rpy:182
 translate french s04_4a5e5694:
@@ -64,151 +64,151 @@ translate french s04_4a5e5694:
 translate french s04_63fa3f9f:
 
     # pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
-    pb "I know Miss Waller got you for the girl I had in the room. There's no way I'm gonna let you do it alone."
+    pb "Je sais que Madame Waller t'as puni pour la fille que j'ai ramenée dans la chambre. Il n'y a pas moyen que je te laisse faire ça tout seul."
 
 # game/code/d01/s04.rpy:186
 translate french s04_5ea01134:
 
     # mc "Thanks! We'll finish this a lot quicker together."
-    mc "Thanks! We'll finish this a lot quicker together."
+    mc "Merci! On va finir ça beaucoup plus vite ensemble."
 
 # game/code/d01/s04.rpy:189
 translate french s04_08628ae2:
 
     # mc "Okay, let's get going."
-    mc "Okay, let's get going."
+    mc "OK, On y va."
 
 # game/code/d01/s04.rpy:191
 translate french s04_ce231830:
 
     # pb "Sorry for getting you in trouble too."
-    pb "Sorry for getting you in trouble too."
+    pb "Désolé de t'avoir aussi mis dans le pétrain."
 
 # game/code/d01/s04.rpy:193
 translate french s04_a3eeb706:
 
     # mc "Don't sweat it. Maybe next time I'll bring a girl and you'll have to help me clean."
-    mc "Don't sweat it. Maybe next time I'll bring a girl and you'll have to help me clean."
+    mc "Ne t'inquiète pas. Peut-être que la prochaine fois ce sera moi qui ramènerai une fille et tu devras m'aider à nettoyer."
 
 # game/code/d01/s04.rpy:195
 translate french s04_9ed47da9:
 
     # pb "Hahaha! Right!"
-    pb "Hahaha! Right!"
+    pb "Hahaha! C'est ça!"
 
 # game/code/d01/s04.rpy:197
 translate french s04_c707ac05:
 
     # mc "No. I'm serious."
-    mc "No. I'm serious."
+    mc "Non. Je suis sérieux."
 
 # game/code/d01/s04.rpy:199
 translate french s04_62e10323:
 
     # pb "Sure."
-    pb "Sure."
+    pb "Bien sûr."
 
 # game/code/d01/s04.rpy:203
 translate french s04_05a0e74a:
 
     # pb "Sorry. I forgot to ask this morning, how's your [game.stacytitle]?"
-    pb "Sorry. I forgot to ask this morning, how's your [game.stacytitle]?"
+    pb "Désolé. J'ai oublié de te demander ce matin, comment va ta [game.stacytitle]?"
 
 # game/code/d01/s04.rpy:205
 translate french s04_85e1c87a:
 
     # mc "She's doing great! She's changed a lot."
-    mc "She's doing great! She's changed a lot."
+    mc "Elle va très bien! Elle a beaucoup changé."
 
 # game/code/d01/s04.rpy:207
 translate french s04_fc1333cc:
 
     # pb "How so?"
-    pb "How so?"
+    pb "Comment ça?"
 
 # game/code/d01/s04.rpy:209
 translate french s04_785ba4a3:
 
     # mc "She used to be a nerdy, chubby girl the last time I saw her but now she's turned into this super slim sporty chick."
-    mc "She used to be a nerdy, chubby girl the last time I saw her but now she's turned into this super slim sporty chick."
+    mc "C'était une fille un peu geek et potelée la dernière fois que je l'ai vue mais maintenant c'est devenue une fille super mince et sportive."
 
 # game/code/d01/s04.rpy:211
 translate french s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
+    pb "Wow! On dirait une belle transformation. Ce n'est plus une geek?"
 
 # game/code/d01/s04.rpy:213
 translate french s04_7407f7c1:
 
     # mc "Oh, she is still super good with computers, but now she started running, is doing yoga and stuff like that. I don't know where she finds the time to do everything."
-    mc "Oh, she is still super good with computers, but now she started running, is doing yoga and stuff like that. I don't know where she finds the time to do everything."
+    mc "Oh, elle est toujours super douée avec les ordinateurs, mais elle a commencé à courir, fait du yoga et d'autres trucs comme ça. Je ne sais pas où elle trouve le temps de tout faire."
 
 # game/code/d01/s04.rpy:215
 translate french s04_bb8ac82c:
 
     # pb "Cool. When she will be here?"
-    pb "Cool. When she will be here?"
+    pb "Cool. Quand est-ce qu'elle arrive?"
 
 # game/code/d01/s04.rpy:217
 translate french s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
+    mc "Hey! Pas touche à ma [game.stacytitle]! N'y pense même pas!"
 
 # game/code/d01/s04.rpy:219
 translate french s04_b6043fc1:
 
     # pb "Don't worry. I have enough pussy."
-    pb "Don't worry. I have enough pussy."
+    pb "T'inquiète pas. J'ai suffisamment de chattes."
 
 # game/code/d01/s04.rpy:221
 translate french s04_188e648b:
 
     # pb "But I can't promise I won't be thinking about her!"
-    pb "But I can't promise I won't be thinking about her!"
+    pb "Mais je ne peux pas te promettre que je ne penserai pas à elle!"
 
 # game/code/d01/s04.rpy:223
 translate french s04_e93ca3c5:
 
     # mc "Haha! You dirty prick!"
-    mc "Haha! You dirty prick!"
+    mc "Haha! Sale queutard!"
 
 # game/code/d01/s04.rpy:225
 translate french s04_add5108b:
 
     # pb "Guilty. But by your description of her, I'm pretty sure you thought about her yourself."
-    pb "Guilty. But by your description of her, I'm pretty sure you thought about her yourself."
+    pb "Coupable. Mais d'après ta description, je suis presque sûr que tu penses à elle toi-même."
 
 # game/code/d01/s04.rpy:227
 translate french s04_aaadf451:
 
     # mc "What the fuck, dude? She's my [game.stacytitle]!"
-    mc "What the fuck, dude? She's my [game.stacytitle]!"
+    mc "Qu'est ce que tu racontes, mec? C'est ma [game.stacytitle]!"
 
 # game/code/d01/s04.rpy:229
 translate french s04_8bacdffc:
 
     # pb "And I bet it didn't stop you from thinking about her hot ass."
-    pb "And I bet it didn't stop you from thinking about her hot ass."
+    pb "Et je parie que ça ne t'a pas empêché de penser à son joli cul."
 
 # game/code/d01/s04.rpy:231
 translate french s04_57bcb3d0:
 
     # mct "I have to hand it to him, he's got a good point there."
-    mct "I have to hand it to him, he's got a good point there."
+    mct "Je dois le reconnaître, il marque un point là."
 
 # game/code/d01/s04.rpy:239
 translate french s04_bf4b3c03:
 
     # mct "It was a nice morning. Hung out with all my friends that are still in the city."
-    mct "It was a nice morning. Hung out with all my friends that are still in the city."
+    mct "C'était une belle matinée. J'ai passé du temps avec tous mes amis encore en ville."
 
 # game/code/d01/s04.rpy:241
 translate french s04_85bba9dd:
 
     # mct "Time to help Stacy get things packed for the trip back."
-    mct "Time to help Stacy get things packed for the trip back."
+    mct "Il est temps d'aider Stacy à préparer ses affaires pour le voyage de retour."
 
 # game/code/d01/s04.rpy:250
 translate french s04_015d20de:
@@ -220,85 +220,85 @@ translate french s04_015d20de:
 translate french s04_d20045c6:
 
     # mct "Should I watch her doing yoga?"
-    mct "Should I watch her doing yoga?"
+    mct "Est-ce que je devrais la regarder faire du yoga?"
 
 # game/code/d01/s04.rpy:268
 translate french s04_4a0540d1:
 
     # mct "Damn! My [game.stacytitle]'s so hot now!"
-    mct "Damn! My [game.stacytitle]'s so hot now!"
+    mct "Mince! Ma [game.stacytitle] est si hot maintenant!"
 
 # game/code/d01/s04.rpy:280
 translate french s04_a77fd7d6:
 
     # mct "Oh shit!"
-    mct "Oh shit!"
+    mct "Oh merde!"
 
 # game/code/d01/s04.rpy:282
 translate french s04_b90f9b1f:
 
     # sy "Hey! How long you've been watching me?"
-    sy "Hey! How long you've been watching me?"
+    sy "Hey! Depuis combien de temps tu me regardes?"
 
 # game/code/d01/s04.rpy:283
 translate french s04_a8795464:
 
     # mc "I just got here."
-    mc "I just got here."
+    mc "Je viens d'arriver."
 
 # game/code/d01/s04.rpy:284
 translate french s04_546ebee6:
 
     # mc "This used to be {i}my{/i} room ya know."
-    mc "This used to be {i}my{/i} room ya know."
+    mc "J'ai l'habitude que ce soit {i}ma{/i} chambre tu sais."
 
 # game/code/d01/s04.rpy:285
 translate french s04_50ed2d63:
 
     # sy "Well, it's not anymore."
-    sy "Well, it's not anymore."
+    sy "Et bien, ça ne l'est plus."
 
 # game/code/d01/s04.rpy:286
 translate french s04_cd8fb47a:
 
     # mc "Old habits are hard to break."
-    mc "Old habits are hard to break."
+    mc "Les vieilles habitudes sont dures à perdre."
 
 # game/code/d01/s04.rpy:287
 translate french s04_b13589e4:
 
     # sy "You still could have knocked."
-    sy "You still could have knocked."
+    sy "Tu aurais pu quand même frapper."
 
 # game/code/d01/s04.rpy:288
 translate french s04_fab00458:
 
     # sy "Or were you actually trying to see me naked?"
-    sy "Or were you actually trying to see me naked?"
+    sy "Ou essayais-tu en fait de me voir nue?"
 
 # game/code/d01/s04.rpy:289
 translate french s04_f2eaa3d2:
 
     # mc "You aren't naked!"
-    mc "You aren't naked!"
+    mc "Tu n'es pas nue!"
 
 # game/code/d01/s04.rpy:292
 translate french s04_5bfce982:
 
     # sy "What if I'd been doing it naked? Would you still watch me?"
-    sy "What if I'd been doing it naked? Would you still watch me?"
+    sy "Et si je l'avais fait toute nue? Tu me regarderais encore?"
 
 # game/code/d01/s04.rpy:294
 translate french s04_c16c614e:
 
     # mc "What?! Why would you be doing yoga naked?!"
-    mc "What?! Why would you be doing yoga naked?!"
+    mc "Quoi?! Pourquoi ferais-tu du yoga toute nue?!"
 
 # game/code/d01/s04.rpy:296
 translate french s04_5eceac14:
 
     # sy "I do it sometimes when no ones home. It feels very natural."
-    sy "I do it sometimes when no ones home. It feels very natural."
+    sy "Je le fais parfois quand il n'y a personne à la maison. C'est très naturel."
 
 # game/code/d01/s04.rpy:298
 translate french s04_53494d9e:
@@ -310,7 +310,7 @@ translate french s04_53494d9e:
 translate french s04_68b5edbe:
 
     # sy "Ahaha! You dumbass."
-    sy "Ahaha! You dumbass."
+    sy "Ahaha! Espèce d'idiot."
 
 # game/code/d01/s04.rpy:301
 translate french s04_2b35b6fe:
@@ -322,79 +322,79 @@ translate french s04_2b35b6fe:
 translate french s04_0d186106:
 
     # sy "Are you gonna help me pack these boxes or not?"
-    sy "Are you gonna help me pack these boxes or not?"
+    sy "Tu vas m'aider à emballer ces cartons ou pas?"
 
 # game/code/d01/s04.rpy:307
 translate french s04_51d6bfc1:
 
     # mct "What the hell?! I immediately got hard when she asked me that question, about watching her naked."
-    mct "What the hell?! I immediately got hard when she asked me that question, about watching her naked."
+    mct "C'est quoi ce bordel?! Je suis immédiatement devenu dur quand elle m'a posé cette question, sur le fait de la regarder nue."
 
 # game/code/d01/s04.rpy:308
 translate french s04_cf53d3a1:
 
     # mct "She made it sound like it was a joke but was it?"
-    mct "She made it sound like it was a joke but was it?"
+    mct "Elle l'a fait sur le ton de la blague mais en était-ce une?"
 
 # game/code/d01/s04.rpy:322
 translate french s04_1d82d6f1:
 
     # pb "Hey?! You there?!"
-    pb "Hey?! You there?!"
+    pb "Hé?! T'es là?!"
 
 # game/code/d01/s04.rpy:324
 translate french s04_e6592bd6:
 
     # mc "Yeah! No. I mean ... yeah, I'm here."
-    mc "Yeah! No. I mean ... yeah, I'm here."
+    mc "Ouais! Non. Je veux dire ... ouais, je suis là."
 
 # game/code/d01/s04.rpy:325
 translate french s04_589bedff:
 
     # mc "Okay, let's change the subject."
-    mc "Okay, let's change the subject."
+    mc "OK, changeons de sujet."
 
 # game/code/d01/s04.rpy:326
 translate french s04_e06e17b7:
 
     # mc "Tell me about that girl from this morning. Where did you meet her?"
-    mc "Tell me about that girl from this morning. Where did you meet her?"
+    mc "Parle moi de la fille de ce matin. Où l'as-tu rencontrée?"
 
 # game/code/d01/s04.rpy:328
 translate french s04_ab758b66:
 
     # pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
-    pb "Uhmm. I don't really know anything about her. I just met her at a party. She was looking to get laid and so I was happy to fuck her."
+    pb "Uhmm. Je ne sais pas grand chose à son sujet. Je l'ai juste rencontrée dans une fête. Elle cherchait à s’envoyer en l’air et j'ai donc été heureux de la baiser."
 
 # game/code/d01/s04.rpy:330
 translate french s04_ca0ca19e:
 
     # pb "I thought we'd talk about Lydia. Isn't she the one you want?"
-    pb "I thought we'd talk about Lydia. Isn't she the one you want?"
+    pb "J'ai pensé qu'on pourrait parler de Lydia. Ce n'est pas celle que tu veux?"
 
 # game/code/d01/s04.rpy:332
 translate french s04_2fbb7006:
 
     # mc "Absolutely."
-    mc "Absolutely."
+    mc "Absolument."
 
 # game/code/d01/s04.rpy:334
 translate french s04_f77f1f18:
 
     # pb "I might have an idea about how you can hook up with her."
-    pb "I might have an idea about how you can hook up with her."
+    pb "J'ai peut être une idée sur la façon dont tu peux la brancher."
 
 # game/code/d01/s04.rpy:336
 translate french s04_28c73e5c:
 
     # mc "That's great! Hold that thought, I have to piss."
-    mc "That's great! Hold that thought, I have to piss."
+    mc "C'est super! Garde cette idée en tête, je dois pisser."
 
 # game/code/d01/s04.rpy:338
 translate french s04_62e10323_1:
 
     # pb "Sure."
-    pb "Sure."
+    pb "Bien sûr."
 
 # game/code/d01/s04.rpy:352
 translate french replay_d01s04_d355e38f:
