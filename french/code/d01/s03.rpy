@@ -124,31 +124,31 @@ translate french s03_353c7bff:
 translate french s03_466f3426:
 
     # fl "Are you ready to see her doing it?"
-    fl "Are you ready to see her doing it?"
+    fl "Etes-vous prêt à la voir le faire?"
 
 # game/code/d01/s03.rpy:105
 translate french s03_d9cfaba0:
 
     # fl "For only 5 points you can see her gulping down the whole load of his man juice!"
-    fl "For only 5 points you can see her gulping down the whole load of his man juice!"
+    fl "Pour seulement 5 points vous pouvez la voir avaler toute la charge de son jus d'homme!"
 
 # game/code/d01/s03.rpy:106
 translate french s03_6a6390e7:
 
     # mct "Damn! I knew there'd be a catch!"
-    mct "Damn! I knew there'd be a catch!"
+    mct "Merde! Je savais qu'il y avait un piège!"
 
 # game/code/d01/s03.rpy:107
 translate french s03_fcaf7297:
 
     # mct "Nothing is free in this world today!"
-    mct "Nothing is free in this world today!"
+    mct "Rien n'est gratuit dans ce monde aujourd'hui!"
 
 # game/code/d01/s03.rpy:118
 translate french s03_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hé!"
 
 # game/code/d01/s03.rpy:119
 translate french s03_b5163395:
@@ -160,349 +160,349 @@ translate french s03_b5163395:
 translate french s03_d7b2b802:
 
     # mc "Your [game.chloekevin] isn't coming?"
-    mc "Your [game.chloekevin] isn't coming?"
+    mc "Ta [game.chloekevin] ne vient pas?"
 
 # game/code/d01/s03.rpy:122
 translate french s03_62edb21b:
 
     # mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
-    mct "That's actually a good thing. I can ask him about the points in the app, while his [game.chloekevin] isn't here."
+    mct "C'est en fait une bonne chose. Je peux lui poser des questions au sujet des points dans l'appli, tant que sa [game.chloekevin] n'est pas là."
 
 # game/code/d01/s03.rpy:124
 translate french s03_e3f6f543:
 
     # kb "She's coming, but seems like she's late."
-    kb "She's coming, but seems like she's late."
+    kb "Elle vient, mais on dirait qu'elle est en retard."
 
 # game/code/d01/s03.rpy:126
 translate french s03_8f035c98:
 
     # mc "I thought she was a huge fan."
-    mc "I thought she was a huge fan."
+    mc "Je pensais que c'était une grande fan."
 
 # game/code/d01/s03.rpy:128
 translate french s03_db55105b:
 
     # kb "She is. Just doing something else I guess."
-    kb "She is. Just doing something else I guess."
+    kb "Elle l'est. Elle fait juste autre chose, je suppose."
 
 # game/code/d01/s03.rpy:129
 translate french s03_f760e3a2:
 
     # kb "Is Pete playing today?"
-    kb "Is Pete playing today?"
+    kb "Est-ce que Pete joue aujourd'hui?"
 
 # game/code/d01/s03.rpy:131
 translate french s03_bd2d7257:
 
     # mc "I think so. He asked me to come to the game."
-    mc "I think so. He asked me to come to the game."
+    mc "Je pense que oui. Il m'a demandé de venir au match."
 
 # game/code/d01/s03.rpy:133
 translate french s03_5becafc6:
 
     # mc "We talked about hanging out after the game."
-    mc "We talked about hanging out after the game."
+    mc "On a parlé de traîner après le match."
 
 # game/code/d01/s03.rpy:135
 translate french s03_869de14a:
 
     # mc "Okay the game's starting."
-    mc "Okay the game's starting."
+    mc "OK, le match commence."
 
 # game/code/d01/s03.rpy:136
 translate french s03_45f11869:
 
     # mc "Cool and Pete is playing today."
-    mc "Cool and Pete is playing today."
+    mc "Cool, Pete joue aujourdhui."
 
 # game/code/d01/s03.rpy:137
 translate french s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "It's not like your [game.chloekevin] to miss the beginning of the game."
+    mc "Ce n'est pas comme si ta [game.chloekevin] manquait le début du match."
 
 # game/code/d01/s03.rpy:139
 translate french s03_f0c9a692:
 
     # kb "Huh?"
-    kb "Huh?"
+    kb "Hein?"
 
 # game/code/d01/s03.rpy:140
 translate french s03_2762f280:
 
     # mc "So, about the app."
-    mc "So, about the app."
+    mc "Donc, à propos de l'application."
 
 # game/code/d01/s03.rpy:142
 translate french s03_82ad7de8:
 
     # mc "I checked it out a little bit. Looks unusual."
-    mc "I checked it out a little bit. Looks unusual."
+    mc "Je l'ai regardée un peu. Elle a l'air inhabituelle."
 
 # game/code/d01/s03.rpy:145
 translate french s03_e0d4ae87:
 
     # mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
-    mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+    mc "C'est quoi cette histoire de points que tu dois obtenir pour pouvoir faire des choses dans l'application? Il y avait un message disant que quelqu'un a gagné 25 points."
 
 # game/code/d01/s03.rpy:147
 translate french s03_512c71de:
 
     # mc "What's this about the points in the app? There was a message that someone won 25 points."
-    mc "What's this about the points in the app? There was a message that someone won 25 points."
+    mc "C'est quoi cette histoire de points dans l'application? Il y avait un message disant que quelqu'un a gagné 25 points."
 
 # game/code/d01/s03.rpy:149
 translate french s03_8cfb41dc:
 
     # kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
-    kb "Oh, right. You can earn points by doing some of the challenges or submitting pics of anything you do for the fetish of the day."
+    kb "Oh, c'est vrai. Tu peux gagner des points en relevant certains défis ou en envoyant des photos de tout ce que tu fais en relation avec le fétichisme du jour."
 
 # game/code/d01/s03.rpy:150
 translate french s03_fad68f12:
 
     # kb "And of course you can just buy points. This is the monetization model of the app."
-    kb "And of course you can just buy points. This is the monetization model of the app."
+    kb "Et bien sûr, tu peux simplement acheter des points. C'est le modèle de monétisation de l'application."
 
 # game/code/d01/s03.rpy:153
 translate french s03_e3e28c1f:
 
     # mc "And the points are used to unlock these nude pics?"
-    mc "And the points are used to unlock these nude pics?"
+    mc "Et les points sont utilisés pour débloquer ces photos de nus?"
 
 # game/code/d01/s03.rpy:155
 translate french s03_c558ce34:
 
     # mc "And what are these points for? How do I use them?"
-    mc "And what are these points for? How do I use them?"
+    mc "Et à quoi servent ces points? Comment je les utilise?"
 
 # game/code/d01/s03.rpy:157
 translate french s03_4380cc6b:
 
     # kb "There are certain things you can buy in the app. You'll see."
-    kb "There are certain things you can buy in the app. You'll see."
+    kb "Il y a certaines choses que tu peux acheter dans l'application. Tu verras."
 
 # game/code/d01/s03.rpy:159
 translate french s03_13e198df:
 
     # mc "You can only use them to buy stuff in the app?"
-    mc "You can only use them to buy stuff in the app?"
+    mc "Tu peux seulement les utiliser pour acheter des trucs dans l'application?"
 
 # game/code/d01/s03.rpy:161
 translate french s03_a4e43508:
 
     # kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
-    kb "Not only. You can also spend points to vote for the next fetish of the day or even to start a new challenge yourself!"
+    kb "Pas seulement. Tu peux aussi dépenser des points pour voter pour le prochain fétichisme du jour ou même démarrer un nouveau challenge toi-même!"
 
 # game/code/d01/s03.rpy:163
 translate french s03_3447f061:
 
     # mc "I see! This actually sounds interesting!"
-    mc "I see! This actually sounds interesting!"
+    mc "Je vois! Ca me semble vraiment intéressant!"
 
 # game/code/d01/s03.rpy:164
 translate french s03_9c1b0d21:
 
     # mc "Where do I look to see how many points I have?"
-    mc "Where do I look to see how many points I have?"
+    mc "Où est-ce que je regarde pour voir combien de points j'ai?"
 
 # game/code/d01/s03.rpy:165
 translate french s03_1ce017f2:
 
     # kb "Right here in the app, dumbass!"
-    kb "Right here in the app, dumbass!"
+    kb "Juste ici dans l'application, imbécile!"
 
 # game/code/d01/s03.rpy:167
 translate french s03_386726f7:
 
     # mc "Oh, I see. 0 points."
-    mc "Oh, I see. 0 points."
+    mc "Oh, Je vois. 0 points."
 
 # game/code/d01/s03.rpy:168
 translate french s03_8f41ab32:
 
     # kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
-    kb "Yeah, you start with 0 points, and you can earn them by uploading things and..."
+    kb "Ouais, Tu commences avec 0 points, et tu peux en gagner en envoyant des trucs et..."
 
 # game/code/d01/s03.rpy:171
 translate french s03_71858fb4:
 
     # mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
-    mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+    mct "Hé, voilà Chloé! Ca ne lui ressemble pas de rater les dix premières minutes du match."
 
 # game/code/d01/s03.rpy:172
 translate french s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
+    mct "Je me souviens, une fois, on était en retard parce que son [game.kevinchloe] avait oublié ses clefs. Elle était tellement énervée."
 
 # game/code/d01/s03.rpy:173
 translate french s03_c1b53bcc:
 
     # mc "There's your [game.chloekevin]."
-    mc "There's your [game.chloekevin]."
+    mc "Voilà ta [game.chloekevin]."
 
 # game/code/d01/s03.rpy:175
 translate french s03_b46c5fef:
 
     # mc "Hey Chloe!"
-    mc "Hey Chloe!"
+    mc "Salut Chloé!"
 
 # game/code/d01/s03.rpy:176
 translate french s03_445766d5:
 
     # kb "There you are!"
-    kb "There you are!"
+    kb "Te voilà!"
 
 # game/code/d01/s03.rpy:177
 translate french s03_cafe1f84:
 
     # cb "Hey Kev. Hey [mcname]."
-    cb "Hey Kev. Hey [mcname]."
+    cb "Salut Kev. Salut [mcname]."
 
 # game/code/d01/s03.rpy:180
 translate french s03_66baf98c:
 
     # cb "[mcname] you were gone for a couple weeks. Kevin said you went back home?"
-    cb "[mcname] you were gone for a couple weeks. Kevin said you went back home?"
+    cb "[mcname] tu es parti pendant quelques semaines. Kevin a dit que tu étais rentré chez toi?"
 
 # game/code/d01/s03.rpy:182
 translate french s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "Yeah, I went home to help my [game.stacytitle]."
+    mc "Ouais, je suis rentré chez moi pour aider ma [game.stacytitle]."
 
 # game/code/d01/s03.rpy:184
 translate french s03_889ca342:
 
     # cb "Are you sure it was a good idea to miss two weeks of classes right before finals?"
-    cb "Are you sure it was a good idea to miss two weeks of classes right before finals?"
+    cb "Tu es sûr que c'était une bonne idée de manquer deux semaines de cours juste avant les exams?"
 
 # game/code/d01/s03.rpy:186
 translate french s03_dfae6d5f:
 
     # mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
-    mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
+    mc "Et bien, en fait, l'idée était d'aller l'aider pour le week-end et le début de la semaine suivante. J'étais censé rentrer le mardi."
 
 # game/code/d01/s03.rpy:187
 translate french s03_bd39d731:
 
     # mc "As it turned out I got sick while I was there and had to stay longer."
-    mc "As it turned out I got sick while I was there and had to stay longer."
+    mc "Mais je suis tombé malade pendant que j'étais là-bas et j'ai dû rester plus longtemps."
 
 # game/code/d01/s03.rpy:189
 translate french s03_bf198033:
 
     # cb "Ah, I see."
-    cb "Ah, I see."
+    cb "Ah, Je vois."
 
 # game/code/d01/s03.rpy:191
 translate french s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "By the way, when is your [game.stacytitle] coming?"
+    kb "Au fait, quand est-ce que ta [game.stacytitle] arrive?"
 
 # game/code/d01/s03.rpy:193
 translate french s03_393ded45:
 
     # mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
-    mc "She'll start with us next year, but she's coming at the end of the week, to spend the summer in the city."
+    mc "Elle commencera avec nous l'année prochaine, mais elle arrive à la fin de la semaine, pour passer l'été en ville."
 
 # game/code/d01/s03.rpy:194
 translate french s03_a1819be4:
 
     # mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
-    mc "She wants to find a job for summer, but first, I'll try to help her to find a place to live."
+    mc "Elle veut trouver un job pour l'été, mais avant, Je vais essayer de l'aider à trouver un endroit où vivre."
 
 # game/code/d01/s03.rpy:196
 translate french s03_6736810d:
 
     # cb "Nice! I'm looking forward meeting her."
-    cb "Nice! I'm looking forward meeting her."
+    cb "Cool! Je suis impatiente de la rencontrer."
 
 # game/code/d01/s03.rpy:198
 translate french s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
+    mc "On était très proches quand on était enfants, mais quand l'école a commencé, nous avons pris des chemins différents un certain temps."
 
 # game/code/d01/s03.rpy:199
 translate french s03_f549b1a7:
 
     # mc "The last two weeks though, we had a chance to get caught up with each other's lives."
-    mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+    mc "Mais ces deux dernières semaines, on a eu la chance de se retrouver et de rattraper le temps perdu."
 
 # game/code/d01/s03.rpy:200
 translate french s03_89560423:
 
     # mct "Yeah. the last two weeks were very special."
-    mct "Yeah. the last two weeks were very special."
+    mct "Ouais. Les deux dernières semaines ont été très spéciales."
 
 # game/code/d01/s03.rpy:201
 translate french s03_f48cacac:
 
     # mct "It all started with ..."
-    mct "It all started with ..."
+    mct "Tout a commencé avec ..."
 
 # game/code/d01/s03.rpy:212
 translate french s03_0fc36193:
 
     # "Two weeks ago."
-    "Two weeks ago."
+    "Deux semaines plus tôt."
 
 # game/code/d01/s03.rpy:213
 translate french s03_243a4b25:
 
     # mct "It's been a long time since I've been home!"
-    mct "It's been a long time since I've been home!"
+    mct "Ca faisait longtemps que je n'étais pas rentré à la maison!"
 
 # game/code/d01/s03.rpy:214
 translate french s03_c772efaa:
 
     # mc "Hello! I'm home!"
-    mc "Hello! I'm home!"
+    mc "Bonjour! Je suis rentré!"
 
 # game/code/d01/s03.rpy:223
 translate french s03_0c398970:
 
     # sy "Heeeey! Big [game.mctitle], you're here!"
-    sy "Heeeey! Big [game.mctitle], you're here!"
+    sy "Heeeey! Grand [game.mctitle], tu es là!"
 
 # game/code/d01/s03.rpy:231
 translate french s03_512059d9:
 
     # mct "Is that my [game.stacytitle]?! She looks completely different!"
-    mct "Is that my [game.stacytitle]?! She looks completely different!"
+    mct "C'est ma [game.stacytitle]?! Elle a l'air complètement différente!"
 
 # game/code/d01/s03.rpy:232
 translate french s03_9c23b148:
 
     # mc "It been a long time! You've really changed!"
-    mc "It been a long time! You've really changed!"
+    mc "Ca fait longtemps! Tu as vraiment changé!"
 
 # game/code/d01/s03.rpy:233
 translate french s03_6137e902:
 
     # sy "It's only been a year. It's just new make up. I didn't change that much."
-    sy "It's only been a year. It's just new make up. I didn't change that much."
+    sy "Ca fait seulement un an. C'est juste un nouveau maquillage. Je n'ai pas changé tant que ça."
 
 # game/code/d01/s03.rpy:234
 translate french s03_90fe6173:
 
     # mc "Yeah right! Come here and give me a hug."
-    mc "Yeah right! Come here and give me a hug."
+    mc "Ouais c'est vrai! Viens ici et fais-moi un câlin."
 
 # game/code/d01/s03.rpy:238
 translate french s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
+    mct "Elle peut dire que c'est juste le maquillage, mais elle a beaucoup changé! Elle était un peu potelée mais maintenant, elle a complètement changé. Regarde comme elle est mince."
 
 # game/code/d01/s03.rpy:241
 translate french s03_34b58f6f:
 
     # sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
+    sy "Merci d'être venu m'aider. Je sais que ta mère t'a demandé de la faire, mais je suis vraiment contente que tu sois là!"
 
 # game/code/d01/s03.rpy:243
 translate french s03_ff6ceecb:
