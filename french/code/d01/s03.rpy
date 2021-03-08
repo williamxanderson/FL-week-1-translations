@@ -502,193 +502,193 @@ translate french s03_3773d819:
 translate french s03_34b58f6f:
 
     # sy "Thanks for coming to help me. I know Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Merci d'être venu m'aider. Je sais que ta mère t'a demandé de la faire, mais je suis vraiment contente que tu sois là!"
+    sy "Merci d'être venu m'aider. Je sais que maman t'a demandé de la faire, mais je suis vraiment contente que tu sois là!"
 
 # game/code/d01/s03.rpy:243
 translate french s03_ff6ceecb:
 
     # sy "Thanks for coming to help me. I know your Mom talked you into doing it, but I'm really happy that you're here!"
-    sy "Thanks for coming to help me. I know your Mom talked you into doing it, but I'm really happy that you're here!"
+    sy "Merci d'être venu m'aider. Je sais que ta mère t'a demandé de la faire, mais je suis vraiment contente que tu sois là!"
 
 # game/code/d01/s03.rpy:245
 translate french s03_3f658ef2:
 
     # mc "Yeah, I didn't really want to come but now, since I'm done driving, I'm happy to be home."
-    mc "Yeah, I didn't really want to come but now, since I'm done driving, I'm happy to be home."
+    mc "Ouais, je ne voulais pas vraiment venir mais maintenant, vu que j'ai fini de conduire, je suis heureux d'être à la maison."
 
 # game/code/d01/s03.rpy:246
 translate french s03_194515ad:
 
     # mc "And I want to see my old room."
-    mc "And I want to see my old room."
+    mc "Et je veux voir mon ancienne chambre."
 
 # game/code/d01/s03.rpy:248
 translate french s03_bb43ef78:
 
     # sy "Yeah. About that ... "
-    sy "Yeah. About that ... "
+    sy "Ouais. A propos de ça... "
 
 # game/code/d01/s03.rpy:249
 translate french s03_6b946a07:
 
     # sy "we re-did your room. It's a home gym now."
-    sy "we re-did your room. It's a home gym now."
+    sy "On a refait ta chambre. C'est une salle de gym à domicile maintenant."
 
 # game/code/d01/s03.rpy:251
 translate french s03_618c4526:
 
     # mc "What?! When?!"
-    mc "What?! When?!"
+    mc "Quoi?! Quand?!"
 
 # game/code/d01/s03.rpy:253
 translate french s03_71b636b0:
 
     # sy "Uhmmm ... I think it was before Christmas."
-    sy "Uhmmm ... I think it was before Christmas."
+    sy "Uhmmm ... Je pense que c'était avant Noël."
 
 # game/code/d01/s03.rpy:255
 translate french s03_7485624e:
 
     # mc "Wait, what?! Where's all my stuff?"
-    mc "Wait, what?! Where's all my stuff?"
+    mc "Attends, quoi?! Où sont toutes mes affaires?"
 
 # game/code/d01/s03.rpy:256
 translate french s03_70ba1dff:
 
     # mct "I had a huge porn collection hidden in my room!"
-    mct "I had a huge porn collection hidden in my room!"
+    mct "J'avais une énorme collection de porno cachée dans ma chambre!"
 
 # game/code/d01/s03.rpy:258
 translate french s03_c20ff6cc:
 
     # sy "It's all in the basement in boxes."
-    sy "It's all in the basement in boxes."
+    sy "Tout est au sous-sol dans des boîtes."
 
 # game/code/d01/s03.rpy:260
 translate french s03_8fb9c235:
 
     # mc "Wait. Who moved my stuff there?"
-    mc "Wait. Who moved my stuff there?"
+    mc "Attends. Qui a déplacé mes affaires là-bas?"
 
 # game/code/d01/s03.rpy:262
 translate french s03_0fb40c1d:
 
     # sy "We all did."
-    sy "We all did."
+    sy "On l'a tous fait."
 
 # game/code/d01/s03.rpy:264
 translate french s03_a0bd2106:
 
     # mct "Oh no!"
-    mct "Oh no!"
+    mct "Oh non!"
 
 # game/code/d01/s03.rpy:265
 translate french s03_2937c97b:
 
     # mc "Why didn't anyone tell me?!"
-    mc "Why didn't anyone tell me?!"
+    mc "Pourquoi personne ne me l'a dit?!"
 
 # game/code/d01/s03.rpy:266
 translate french s03_466eb08f:
 
     # mct "OMG! I can't imagine the whole family finding my porn collection together. That is so embarrassing!"
-    mct "OMG! I can't imagine the whole family finding my porn collection together. That is so embarrassing!"
+    mct "OMG! Je ne peux pas imaginer toute la famille tomber sur ma collection de porno. C'est tellement embarrassant!"
 
 # game/code/d01/s03.rpy:268
 translate french s03_f66a3101:
 
     # sy "Nobody thought you'd care!"
-    sy "Nobody thought you'd care!"
+    sy "Personne n'a pensé que tu t'en souciais!"
 
 # game/code/d01/s03.rpy:271
 translate french s03_f77a57f2:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before Mom and Dad found it!"
-    sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before Mom and Dad found it!"
+    sy "Ahaha! Tu devrais voir ta tête maintenant! Ne t'inquiète pas, j'ai caché ton énorme collection de porno avant que maman et papa ne la trouvent!"
 
 # game/code/d01/s03.rpy:273
 translate french s03_e28a76e6:
 
     # sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before your Mom and Dad found it!"
-    sy "Ahaha! You should see the look on your face right now! Don't worry I hid your huge porn collection before your Mom and Dad found it!"
+    sy "Ahaha! Tu devrais voir ta tête maintenant! Ne t'inquiète pas, j'ai caché ton énorme collection de porno avant que ta mère et ton père ne la trouvent!"
 
 # game/code/d01/s03.rpy:275
 translate french s03_9a1cc2a7:
 
     # mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
-    mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
+    mct "Oh non! Ma [game.stacytitle] a trouvé ma collection de porno! Il y avait des trucs bizarres là-dedans! Des trucs super pervers!"
 
 # game/code/d01/s03.rpy:276
 translate french s03_c1e7f53c:
 
     # mc "Damn."
-    mc "Damn."
+    mc "Putain."
 
 # game/code/d01/s03.rpy:278
 translate french s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
+    sy "Quoi? Et où est mon \"Merci [game.stacytitle], pour avoir caché mon porno à maman et papa pour moi\"?"
 
 # game/code/d01/s03.rpy:280
 translate french s03_e666a618:
 
     # mc "Ughhh. Thanks, I guess!"
-    mc "Ughhh. Thanks, I guess!"
+    mc "Ughhh. Merci, Je suppose!"
 
 # game/code/d01/s03.rpy:282
 translate french s03_a4e311cb:
 
     # sy "You're very welcome!"
-    sy "You're very welcome!"
+    sy "Avec grand plaisir!"
 
 # game/code/d01/s03.rpy:284
 translate french s03_03fd1f24:
 
     # mc "What did you do with it? You threw it away right?"
-    mc "What did you do with it? You threw it away right?"
+    mc "Qu'est ce que tu en as fait? Tu l'as jetée, c'est ça?"
 
 # game/code/d01/s03.rpy:286
 translate french s03_36e2bc2f:
 
     # sy "What? Why would I do that? I hid it in my room!"
-    sy "What? Why would I do that? I hid it in my room!"
+    sy "Quoi? Pourquoi j'aurais fait ça? Je l'ai cachée dans ma chambre!"
 
 # game/code/d01/s03.rpy:288
 translate french s03_d86e0385:
 
     # mct "I hope she didn't go through it. There was a lot of nasty stuff there!"
-    mct "I hope she didn't go through it. There was a lot of nasty stuff there!"
+    mct "J'espère qu'elle ne l'a pas fouillée. Il y avait beaucoup de choses dégoûtantes là-dedans!"
 
 # game/code/d01/s03.rpy:289
 translate french s03_4df439fc:
 
     # mc "In your room?"
-    mc "In your room?"
+    mc "Dans ta chambre?"
 
 # game/code/d01/s03.rpy:292
 translate french s03_1804d0b4:
 
     # sy "Yeah, it was either my room or Mom and Dad finding it! What would you have preferred?"
-    sy "Yeah, it was either my room or Mom and Dad finding it! What would you have preferred?"
+    sy "Ouais, c'était soit ma chambre, soit maman et papa qui la trouvaient! Qu'est ce que tu aurais préféré?"
 
 # game/code/d01/s03.rpy:294
 translate french s03_a13f14eb:
 
     # sy "Yeah, it was either my room or your Mom and Dad finding it! What would you have preferred?"
-    sy "Yeah, it was either my room or your Mom and Dad finding it! What would you have preferred?"
+    sy "Ouais, c'était soit ma chambre, soit ta mère et ton père qui la trouvaient! Qu'est ce que tu aurais préféré?"
 
 # game/code/d01/s03.rpy:296
 translate french s03_7f98be7a:
 
     # mc "I would have preferred no one messing with the stuff in the first place."
-    mc "I would have preferred no one messing with the stuff in the first place."
+    mc "J'aurais préféré que personne ne touche à ces affaires avant tout."
 
 # game/code/d01/s03.rpy:298
 translate french s03_e7dada6b:
 
     # sy "That wasn't one of the options I had."
-    sy "That wasn't one of the options I had."
+    sy "Ce n'était pas une des options que j'avais."
 
 # game/code/d01/s03.rpy:300
 translate french s03_4ed6b3bd:
