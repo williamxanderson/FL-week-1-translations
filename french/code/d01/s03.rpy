@@ -694,67 +694,67 @@ translate french s03_e7dada6b:
 translate french s03_4ed6b3bd:
 
     # mc "Ok, let's go. You can give it all back to me before mom and dad get here."
-    mc "Ok, let's go. You can give it all back to me before mom and dad get here."
+    mc "Ok, allons-y. Tu peux me rendre tout ça avant que maman et papa ne soient là."
 
 # game/code/d01/s03.rpy:304
 translate french s03_30c2f9ee:
 
     # sy "Nu-uh! Not going to happen!"
-    sy "Nu-uh! Not going to happen!"
+    sy "Nu-uh! Ca n'arrivera pas!"
 
 # game/code/d01/s03.rpy:306
 translate french s03_f34c0d3c:
 
     # mc "What?! Why?!"
-    mc "What?! Why?!"
+    mc "Quoi?! Pourquoi?!"
 
 # game/code/d01/s03.rpy:309
 translate french s03_e4a6e6ee:
 
     # sy "It belongs to me now!"
-    sy "It belongs to me now!"
+    sy "Ca m'appartient maintenant!"
 
 # game/code/d01/s03.rpy:311
 translate french s03_a051fdaf:
 
     # mc "What?! You didn't watch it did you?"
-    mc "What?! You didn't watch it did you?"
+    mc "Quoi?! Tu ne l'as pas regardée n'est-ce pas?"
 
 # game/code/d01/s03.rpy:313
 translate french s03_ca204ea0:
 
     # sy "Oh, silly [game.mctitle]! We moved everything 6 months ago. What do you think?!"
-    sy "Oh, silly [game.mctitle]! We moved everything 6 months ago. What do you think?!"
+    sy "Oh, pauvre [game.mctitle]! On a déménagé tout ça il y a 6 mois. Qu'est ce que tu crois?!"
 
 # game/code/d01/s03.rpy:315
 translate french s03_f4f33007:
 
     # sy "But I have to admit, your collection is very impressive. I'd need another year to watch everything."
-    sy "But I have to admit, your collection is very impressive. I'd need another year to watch everything."
+    sy "Mais je dois admettre, ta collection est vraiment impressionnante. J'aurais besoin d'une année supplémentaire pour tout regarder."
 
 # game/code/d01/s03.rpy:319
 translate french s03_73bfe911:
 
     # mc "It was for research! It's not mine! ...and you shouldn't be watching it either!"
-    mc "It was for research! It's not mine! ...and you shouldn't be watching it either!"
+    mc "C'était pour des recherches! Elle n'est pas à moi! ... et tu n'aurais pas dû regarder non plus!"
 
 # game/code/d01/s03.rpy:321
 translate french s03_1120c9ba:
 
     # sy "Oh, big [game.mctitle]! You're so cute with your lame excuses!"
-    sy "Oh, big [game.mctitle]! You're so cute with your lame excuses!"
+    sy "Oh, grand [game.mctitle]! Tu es si mignon avec tes excuses bidons!"
 
 # game/code/d01/s03.rpy:322
 translate french s03_079510f8:
 
     # mc "But it's true! There was a lot of weird stuff in there! It wasn't mine! It was for my research!"
-    mc "But it's true! There was a lot of weird stuff in there! It wasn't mine! It was for my research!"
+    mc "Mais c'est vrai! Il y avait plein de trucs bizarres là-dedans! Ce n'était pas à moi! C'était pour mes recherches!"
 
 # game/code/d01/s03.rpy:325
 translate french s03_678330d7:
 
     # sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
-    sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
+    sy "Ouauis, bien sûr! Et tu avais besoin de tout ça pour tes recherches! Tant de porno t'aurais pris des années à regarder!"
 
 # game/code/d01/s03.rpy:327
 translate french s03_2f1b80f7:
@@ -766,25 +766,25 @@ translate french s03_2f1b80f7:
 translate french s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+    mct "Bon sang! Quand est-elle devenue si intelligente et insistante? Qu'est-il arrivé à ma petite [game.stacytitle] potelée et mignonne?"
 
 # game/code/d01/s03.rpy:331
 translate french s03_82d48b48:
 
     # sy "And if you say it's for research, then you don't need it anymore, and I definitely need to keep it to educate myself!"
-    sy "And if you say it's for research, then you don't need it anymore, and I definitely need to keep it to educate myself!"
+    sy "Et si tu dis que c'est pour des recherches, alors tu n'en as plus besoin, et je dois absolument le garder pour m'instruire!"
 
 # game/code/d01/s03.rpy:333
 translate french s03_ecbd1a15:
 
     # sy "I've {i}learned{/i} so many things since I started {i}researching{/i} it! Best research material ever!"
-    sy "I've {i}learned{/i} so many things since I started {i}researching{/i} it! Best research material ever!"
+    sy "J'ai {i}appris{/i} tellement de choses depuis que j'ai commencé à {i}étudier{/i} ça! Le meilleur matériel de recherche qui soit!"
 
 # game/code/d01/s03.rpy:335
 translate french s03_2d37d8da:
 
     # mc "Who are you and what have you done with my [game.stacytitle]?!"
-    mc "Who are you and what have you done with my [game.stacytitle]?!"
+    mc "Qui êtes-vous et qu'avez-vous fait de ma [game.stacytitle]?!"
 
 # game/code/d01/s03.rpy:337
 translate french s03_53494d9e:
@@ -796,37 +796,37 @@ translate french s03_53494d9e:
 translate french s03_16179f26:
 
     # mc "Stop it! It's not for you and you shouldn't be watching it! Give it to me now!"
-    mc "Stop it! It's not for you and you shouldn't be watching it! Give it to me now!"
+    mc "Arrête ça! Ce n'est pas pour toi et tu n'aurais pas dû le regarder! Donne le moi maintenant!"
 
 # game/code/d01/s03.rpy:343
 translate french s03_e6eb0ce7:
 
     # sy "Wow! Big [game.mctitle]'s so angry!"
-    sy "Wow! Big [game.mctitle]'s so angry!"
+    sy "Wow! Grand [game.mctitle] est tellement en colère!"
 
 # game/code/d01/s03.rpy:345
 translate french s03_83282cee:
 
     # sy "Ahaha-h! Let's just say it was payment for my services."
-    sy "Ahaha-h! Let's just say it was payment for my services."
+    sy "Ahaha-h! Disons simplement que c'était un paiement pour mes services."
 
 # game/code/d01/s03.rpy:347
 translate french s03_e3294529:
 
     # mc "What kind of services?!"
-    mc "What kind of services?!"
+    mc "Quel genre de services?!"
 
 # game/code/d01/s03.rpy:350
 translate french s03_5a215e99:
 
     # sy "Hiding the porn from Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
-    sy "Hiding the porn from Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
+    sy "Cacher le porno à maman et papa. Tu crois que c'était facile de le sortir de ta chambre et de la cacher dans la mienne?! Je ne vois aucune gratitude!"
 
 # game/code/d01/s03.rpy:352
 translate french s03_39193b30:
 
     # sy "Hiding the porn from your Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
-    sy "Hiding the porn from your Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
+    sy "Cacher le porno à ta mère et ton père. Tu crois que c'était facile de le sortir de ta chambre et de la cacher dans la mienne?! Je ne vois aucune gratitude!"
 
 # game/code/d01/s03.rpy:354
 translate french s03_9f53f7f8:
@@ -838,37 +838,37 @@ translate french s03_9f53f7f8:
 translate french s03_e7b88e90:
 
     # mc "Whatever."
-    mc "Whatever."
+    mc "Peu importe."
 
 # game/code/d01/s03.rpy:357
 translate french s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
+    mct "C'est tellement gênant que ma [game.stacytitle] ait regardé tous mes pornos cochons. Qu'est-ce qu'elle pense de moi maintenant qu'elle peut voir que je suis un vrai pervers?!"
 
 # game/code/d01/s03.rpy:359
 translate french s03_ed8939ee:
 
     # sy "Okay. Let's bring your luggage upstairs."
-    sy "Okay. Let's bring your luggage upstairs."
+    sy "Ok. Emmenons tes bagages à l'étage."
 
 # game/code/d01/s03.rpy:363
 translate french s03_76357526:
 
     # mc "Wait! If my room is gone, where am I going to sleep?!"
-    mc "Wait! If my room is gone, where am I going to sleep?!"
+    mc "Attends! si ma chambre n'est plus là, où est-ce que je vais dormir?!"
 
 # game/code/d01/s03.rpy:366
 translate french s03_76ce9e3b:
 
     # sy "The couch in the living room. It's all yours!"
-    sy "The couch in the living room. It's all yours!"
+    sy "Le canapé dans le salon. Il est tout à toi!"
 
 # game/code/d01/s03.rpy:367
 translate french s03_a6d42c57:
 
     # mc "Oh no! That couch is horrible!"
-    mc "Oh no! That couch is horrible!"
+    mc "Oh non! Ce canapé est horrible!"
 
 # game/code/d01/s03.rpy:368
 translate french s03_3b066aa9:
@@ -880,189 +880,189 @@ translate french s03_3b066aa9:
 translate french s03_b9a8291c:
 
     # cb "Are you there?!"
-    cb "Are you there?!"
+    cb "Tu es là?!"
 
 # game/code/d01/s03.rpy:381
 translate french s03_152a6da9:
 
     # mct "I was deep in thought about my trip back home."
-    mct "I was deep in thought about my trip back home."
+    mct "J'étais perdu dans les pensées de mon retour à la maison."
 
 # game/code/d01/s03.rpy:383
 translate french s03_0e33b5fd:
 
     # mc "Huh? What?"
-    mc "Huh? What?"
+    mc "Hein? Quoi?"
 
 # game/code/d01/s03.rpy:385
 translate french s03_7dacf9c7:
 
     # cb "I asked - are you ready for the finals?"
-    cb "I asked - are you ready for the finals?"
+    cb "Je t'ai demandé - es-tu prêt pour les exams?"
 
 # game/code/d01/s03.rpy:387
 translate french s03_961606eb:
 
     # kb "Dude. You were, like, hypnotized."
-    kb "Dude. You were, like, hypnotized."
+    kb "Mec. T'étais, genre, hypnotisé."
 
 # game/code/d01/s03.rpy:389
 translate french s03_112e54ef:
 
     # mc "Sorry, I was lost in thought."
-    mc "Sorry, I was lost in thought."
+    mc "Désolé, j'étais perdu dans mes pensées."
 
 # game/code/d01/s03.rpy:390
 translate french s03_bbd5aa4c:
 
     # mc "Finals. Right."
-    mc "Finals. Right."
+    mc "Les exams. C'est vrai."
 
 # game/code/d01/s03.rpy:391
 translate french s03_c965df86:
 
     # mc "Still looking for a miracle."
-    mc "Still looking for a miracle."
+    mc "Toujours à la recherche d'un miracle."
 
 # game/code/d01/s03.rpy:393
 translate french s03_62473507:
 
     # cb "Ahaha! Good luck with that."
-    cb "Ahaha! Good luck with that."
+    cb "Ahaha! Bonne chance pour ça."
 
 # game/code/d01/s03.rpy:395
 translate french s03_025dccec:
 
     # "A couple minutes later."
-    "A couple minutes later."
+    "Quelques minutes plus tard."
 
 # game/code/d01/s03.rpy:397
 translate french s03_975c11f7:
 
     # mct "Chloe's doing something with her phone."
-    mct "Chloe's doing something with her phone."
+    mct "Chloé trafique son téléphone."
 
 # game/code/d01/s03.rpy:399
 translate french s03_e170028d:
 
     # mct "Wait!"
-    mct "Wait!"
+    mct "Attends!"
 
 # game/code/d01/s03.rpy:400
 translate french s03_5cadae4c:
 
     # mct "I know that logo."
-    mct "I know that logo."
+    mct "Je connais ce logo."
 
 # game/code/d01/s03.rpy:401
 translate french s03_0bd22bc6:
 
     # mct "Chloe is using the Fetish Locator app too!"
-    mct "Chloe is using the Fetish Locator app too!"
+    mct "Chloé utilise aussi l'application Fetish Locator!"
 
 # game/code/d01/s03.rpy:403
 translate french s03_d2e57a99:
 
     # mct "Does Kevin know she downloaded it?"
-    mct "Does Kevin know she downloaded it?"
+    mct "Est-ce que Kevin sait qu'elle l'a téléchargé?"
 
 # game/code/d01/s03.rpy:405
 translate french s03_0065676a:
 
     # mct "What if he sees her pictures like I just saw pictures of Min and Antony?"
-    mct "What if he sees her pictures like I just saw pictures of Min and Antony?"
+    mct "Et s'il voyait ses photos comme je viens de voir les photos de Min et Antony?"
 
 # game/code/d01/s03.rpy:406
 translate french s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
+    mct "Est-ce qu'il pourrait reconnaître que ce sont des photos de sa [game.chloekevin]?"
 
 # game/code/d01/s03.rpy:407
 translate french s03_f842849b:
 
     # mct "Is she submitting something?"
-    mct "Is she submitting something?"
+    mct "Est-ce qu'elle est en train d'envoyer quelque chose?"
 
 # game/code/d01/s03.rpy:408
 translate french s03_f6e85cb6:
 
     # mct "Is that why she was late for the game?"
-    mct "Is that why she was late for the game?"
+    mct "Est-ce que c'est pour ça qu'elle était en retard pour le match?"
 
 # game/code/d01/s03.rpy:411
 translate french s03_927e0e84:
 
     # mct "Oops! She noticed me checking out her phone!"
-    mct "Oops! She noticed me checking out her phone!"
+    mct "Oups! Elle a remarqué que je matais son téléphone!"
 
 # game/code/d01/s03.rpy:412
 translate french s03_75b90e3f:
 
     # mct "Hmmm. That's a strange smile on her face."
-    mct "Hmmm. That's a strange smile on her face."
+    mct "Hmmm. C'est un sourire étrange sur son visage."
 
 # game/code/d01/s03.rpy:415
 translate french s03_ac8adf19:
 
     # kb "Wow! What an awesome game! Our team crushed them!"
-    kb "Wow! What an awesome game! Our team crushed them!"
+    kb "Wow! Quel match génial! Notre équipe les a écrasés!"
 
 # game/code/d01/s03.rpy:418
 translate french s03_148420d0:
 
     # mc "Hey guys, I'm gonna go start cleaning so I can to be out of here as quick as possible."
-    mc "Hey guys, I'm gonna go start cleaning so I can to be out of here as quick as possible."
+    mc "Hé les gars, Je vais commencer à nettoyer pour pouvoir sortir d'ici le plus vite possible."
 
 # game/code/d01/s03.rpy:420
 translate french s03_2cdd333e:
 
     # mc "Hey guys, I'm gonna go look for Pete before he bounces."
-    mc "Hey guys, I'm gonna go look for Pete before he bounces."
+    mc "Hé les gars, Je file voir Pete avant qu'il ne s'échappe."
 
 # game/code/d01/s03.rpy:422
 translate french s03_2437e2e8:
 
     # kb "See ya tomorrow."
-    kb "See ya tomorrow."
+    kb "A demain."
 
 # game/code/d01/s03.rpy:424
 translate french s03_612ea6bb:
 
     # cb "Later."
-    cb "Later."
+    cb "A plus tard."
 
 translate french strings:
 
     # game/code/d01/s03.rpy:82
     old "See the cumshot challenge results"
-    new "See the cumshot challenge results"
+    new "Regarder les résultats du défi d'éjaculation"
 
     # game/code/d01/s03.rpy:82
     old "Don't open it"
-    new "Don't open it"
+    new "Ne pas l'ouvrir"
 
     # game/code/d01/s03.rpy:94
     old "Yes"
-    new "Yes"
+    new "Oui"
 
     # game/code/d01/s03.rpy:94
     old "No"
-    new "No"
+    new "Non"
 
     # game/code/d01/s03.rpy:98
     old "Yes! I want to see how she is swallowing this hot load of cum"
-    new "Yes! I want to see how she is swallowing this hot load of cum"
+    new "Oui! Je veux voir comment elle avale cette chaude charge de sperme"
 
     # game/code/d01/s03.rpy:98
     old "No I'll pass this time"
-    new "No I'll pass this time"
+    new "Non je passe pour cette fois-ci"
 
     # game/code/d01/s03.rpy:316
     old "Tell her the kinky porn is just for research purposes"
-    new "Tell her the kinky porn is just for research purposes"
+    new "Dites-lui que le porno pervers est juste pour de la recherche"
 
     # game/code/d01/s03.rpy:316
     old "Push her to return the porn to you"
-    new "Push her to return the porn to you"
+    new "Poussez-la à vous rendre le porno"
 
