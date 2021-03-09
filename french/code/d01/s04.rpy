@@ -22,7 +22,7 @@ translate french s04_669664cb:
 translate french s04_e0ad8b16:
 
     # pb "Hey, there you are."
-    pb "Hey, te voilà."
+    pb "Hé, te voilà."
 
 # game/code/d01/s04.rpy:171
 translate french s04_a60fb28f:
