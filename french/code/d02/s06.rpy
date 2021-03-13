@@ -40,7 +40,7 @@ translate french d02s06_5e8dc635:
 translate french d02s06_2a2bc255:
 
     # mc "({i}Let`s take a shower and go to the studies.{/i})"
-    mc "({i}Prenons une douche et allons étudier..{/i})"
+    mc "({i}Prenons une douche et allons étudier.{/i})"
 
 # game/code/d02/s06.rpy:41
 translate french d02s06_4ee8cc8f:
