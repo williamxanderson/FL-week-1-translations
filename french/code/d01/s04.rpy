@@ -418,7 +418,7 @@ translate french replay_d01s04_3eef3a8e:
 translate french replay_d01s04_a31fe0ae:
 
     # "Girl voice" "Get in here!"
-    "Girl voice" "Viens ici!"
+    "Voix de fille" "Viens ici!"
 
 # game/code/d01/s04.rpy:356
 translate french replay_d01s04_6a2d8399:
@@ -442,7 +442,7 @@ translate french replay_d01s04_5cd1cde6:
 translate french replay_d01s04_b695f088:
 
     # "Girl voice" "Shut the fuck up and give me your dick."
-    "Girl voice" "Ferme-là et donne moi ta bite."
+    "Voix de fille" "Ferme-là et donne moi ta bite."
 
 # game/code/d01/s04.rpy:368
 translate french replay_d01s04_b4ad5312:
@@ -484,7 +484,7 @@ translate french replay_d01s04_289df95c:
 translate french replay_d01s04_1c3e2998:
 
     # "Girl voice" "Just cum faster! I need your jizz!"
-    "Girl voice" "Jouis plus vite! J'ai besoin de ton sperme!"
+    "Voix de fille" "Jouis plus vite! J'ai besoin de ton sperme!"
 
 # game/code/d01/s04.rpy:379
 translate french replay_d01s04_dc2d9f45:
