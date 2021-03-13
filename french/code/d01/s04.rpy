@@ -882,5 +882,5 @@ translate french strings:
 
     # game/code/d01/s04.rpy:523
     old "Don't go to AmRose and try to earn some points"
-    new "Ne pas aller chez AmRose et essayer de gagner des points "
+    new "Ne pas aller chez AmRose et essayer de gagner des points"
 
