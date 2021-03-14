@@ -208,7 +208,7 @@ translate french replay_d02s11a_9c96da1c:
 translate french replay_d02s11a_fbc435bb:
 
     # nkt "Who was that? {w}I'm so confused. {w}It was nice though... {w}I need that again."
-    nkt "Qui était-ce? {w}Je suis si confuse. {w}C’était bien cependant... {w}J’ai besoin de ça à nouveau."
+    nkt "Qui était-ce? {w}Je suis si confuse. {w}C’était bien cependant... {w}J’en veux encore."
 
 # game/code/d02/d02s11a.rpy:234
 translate french replay_d02s11a_5f34dcb0:
