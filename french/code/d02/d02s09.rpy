@@ -400,7 +400,7 @@ translate french d02s09_f2d314d2:
 translate french d02s09_70a53646:
 
     # mc "No, I'm being serious! Just so you know, I study business administration. I know what I'm talking about."
-    mc "Non, je suis sérieux! Pour ta gouverne, j’étudie l’administration des affaires. Je sais de quoi je parle.."
+    mc "Non, je suis sérieux! Pour ta gouverne, j’étudie l’administration des affaires. Je sais de quoi je parle."
 
 # game/code/d02/d02s09.rpy:165
 translate french d02s09_029783f8:
