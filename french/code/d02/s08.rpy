@@ -478,7 +478,7 @@ translate french d02s08_c637657a:
 translate french d02s08_0a777fd6:
 
     # mc "Okay this was a mistake…"
-    mc "Ok, c'était une erreur…"
+    mc "Ok, c'était une erreur..."
 
 # game/code/d02/s08.rpy:235
 translate french d02s08_9a996112:
@@ -604,7 +604,7 @@ translate french d02s08_e526a903:
 translate french d02s08_cae56461:
 
     # mc "Okay. How are we doing this?"
-    mc "D’accord. Comment on procède??"
+    mc "D’accord. Comment on procède?"
 
 # game/code/d02/s08.rpy:277
 translate french d02s08_1c53abca:
