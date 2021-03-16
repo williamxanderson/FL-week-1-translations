@@ -28,7 +28,7 @@ translate french replay_d02s12_a845d2ff:
 translate french replay_d02s12_a75262f1:
 
     # mc "That was Hot! I thought you were going to undress her right then & there."
-    mc "C’était chaud! Je pensais que tu allais la déshabiller "ici et maintenant"."
+    mc "C’était chaud! Je pensais que tu allais la déshabiller \"ici et maintenant\"."
 
 # game/code/d02/d02s12.rpy:144
 translate french replay_d02s12_b151f3c0:
