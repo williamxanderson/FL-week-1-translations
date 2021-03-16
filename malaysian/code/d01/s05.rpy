@@ -400,7 +400,7 @@ translate malaysian d01s05_arj_d6d68383:
 translate malaysian d01s05_arj_effdd36e:
 
     # arj "What party?"
-    arj "What party?"
+    arj "Parti apa?"
 
 # game/code/d01/s05.rpy:416
 translate malaysian d01s05_arj_3d73858e:

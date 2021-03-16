@@ -250,7 +250,7 @@ translate malaysian d04s03_a4fcb7ef:
 translate malaysian d04s03_cbb2b9b2:
 
     # sy "It really took me some time to realize that the guy I liked so much actually called me that..."
-    sy "It really took me some time to realize that the guy I liked so much actually called me that..."
+    sy "Saya sangat memerlukan masa untuk menyedari bahawa lelaki yang sangat saya gemari sebenarnya memanggil saya begitu..."
 
 # game/code/d04/d04s03.rpy:91
 translate malaysian d04s03_b6bacd89:
@@ -795,4 +795,3 @@ translate malaysian strings:
     # game/code/d04/d04s03.rpy:161
     old "Move on the conversation"
     new "Teruskan perbualan"
-

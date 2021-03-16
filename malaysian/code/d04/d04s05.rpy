@@ -82,7 +82,7 @@ translate malaysian d04s05_friend_88367aef:
 translate malaysian d04s05_friend_0b1a76f4:
 
     # mc "Well, let's get this out of you."
-    mc "Jadi, mari keluarkan ini dari anda." 
+    mc "Jadi, mari keluarkan ini dari anda."
 
 # game/code/d04/d04s05.rpy:82
 translate malaysian d04s05_friend_c49be0b2:
@@ -172,7 +172,7 @@ translate malaysian d04s05_friend_915f75eb:
 translate malaysian d04s05_friend_b770b1a3:
 
     # mc "Or at least I'll hear you stop singing and come running."
-    mc "Or at least I'll hear you stop singing and come running."
+    mc "Atau sekurang-kurangnya saya akan mendengar awak berhenti menyanyi dan berlari ke sini."
 
 # game/code/d04/d04s05.rpy:114
 translate malaysian d04s05_friend_2129b5ce:
@@ -592,7 +592,7 @@ translate malaysian d04s05_slut_1d7ad725:
 translate malaysian d04s05_slut_2abd92a8:
 
     # mc "So... do you want to tell me what's going on?"
-    mc "So... do you want to tell me what's going on?"
+    mc "Jadi... adakah awak ingin memberitahu saya apa yang berlaku?"
 
 # game/code/d04/d04s05.rpy:262
 translate malaysian d04s05_slut_0abc600f:
@@ -1377,4 +1377,3 @@ translate malaysian strings:
     # game/code/d04/d04s05.rpy:42
     old "Oh bother, it's a drunken slut."
     new "Aduh, ini pelacur yang sangat mabuk."
-

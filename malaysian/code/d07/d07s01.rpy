@@ -262,7 +262,7 @@ translate malaysian d07s01_cc14cc1b:
 translate malaysian d07s01_5803bd01:
 
     # mc "He's not going to know."
-    mc "He's not going to know."
+    mc "Dia tidak akan tahu."
 
 # game/code/d07/d07s01.rpy:98
 translate malaysian d07s01_06e07c7f:
@@ -587,4 +587,3 @@ translate malaysian d07s01_8959c8e4:
 
     # sy "Fine! Let's go. I want to see AmRose."
     sy "Baiklah! Mari pergi. Saya mahu berjumpa dengan AmRose."
-

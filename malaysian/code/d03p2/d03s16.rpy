@@ -454,7 +454,7 @@ translate malaysian d03s16_28d8696a:
 translate malaysian d03s16_a44bb34f:
 
     # dd "We lost. I guess I didn't try hard enough."
-    dd "We lost. I guess I didn't try hard enough."
+    dd "Kita kalah. Saya rasa saya tidak cukup berusaha."
 
 # game/code/d03p2/d03s16.rpy:211
 translate malaysian d03s16_30303254:
@@ -977,4 +977,3 @@ translate malaysian replay_d03s16_fb8a9aaf:
 
     # mct "I gotta get up there before something happens."
     mct "Aku mesti sampai di sana sebelum sesuatu berlaku."
-

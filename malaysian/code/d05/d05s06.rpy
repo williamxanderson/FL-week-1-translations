@@ -808,7 +808,7 @@ translate malaysian replay_d05s06_cc37f097:
 translate malaysian replay_d05s06_4489e6de:
 
     # mesfl "That's disgusting, I'm sorry."
-    mesfl "That's disgusting, I'm sorry."
+    mesfl "Ianya menjijikkan, saya minta maaf."
 
 # game/code/d05/d05s06.rpy:288
 translate malaysian replay_d05s06_d758c0c6:

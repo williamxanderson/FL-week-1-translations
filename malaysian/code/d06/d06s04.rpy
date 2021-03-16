@@ -196,7 +196,7 @@ translate malaysian d06s04_26eaade0:
 translate malaysian d06s04_5d9bffb9:
 
     # lc "Oh, cool. Is she coming tonight?"
-    lc "Oh, cool. Is she coming tonight?"
+    lc "Oh, baiklak. Adakah dia akan datang malam ini?"
 
 # game/code/d06/d06s04.rpy:90
 translate malaysian d06s04_b2873d03:
@@ -772,13 +772,13 @@ translate malaysian d06s04_5435f724:
 translate malaysian d06s04_f31a453a:
 
     # lc "Oh, okay. Good."
-    lc "Oh, okay. Good."
+    lc "Oh, okay. baik."
 
 # game/code/d06/d06s04.rpy:270
 translate malaysian d06s04_4448bb63:
 
     # mc "So, there's no stress. You've already accomplished the goal of bringing people here."
-    mc "So, there's no stress. You've already accomplished the goal of bringing people here."
+    mc "Jadi, tidak ada tekanan. Awak sudah berjaya mencapai matlamat untuk membawa orang ke sini."
 
 # game/code/d06/d06s04.rpy:271
 translate malaysian d06s04_6eb5001c:

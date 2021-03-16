@@ -196,13 +196,13 @@ translate malaysian replay_d03s11_8a654d62:
 translate malaysian replay_d03s11_fc205a0e:
 
     # aw "Sorry, that's neither of us."
-    aw "Sorry, that's neither of us."
+    aw "Maaf, itu bukan kami."
 
 # game/code/d03p/d03s11.rpy:127
 translate malaysian replay_d03s11_9fb09c50:
 
     # mct "She can speak for both of them?!"
-    mct "She can speak for both of them?!"
+    mct "Dia boleh bercakap untuk mereka berdua?!"
 
 # game/code/d03p/d03s11.rpy:129
 translate malaysian replay_d03s11_b9913c20:
@@ -550,7 +550,7 @@ translate malaysian replay_d03s11_17011966:
 translate malaysian replay_d03s11_51f281e1:
 
     # mc "Wait, but how is that?!"
-    mc "Wait, but how is that?!"
+    mc "Tunggu, tapi bagaimana?!"
 
 # game/code/d03p/d03s11.rpy:330
 translate malaysian replay_d03s11_ba2f6047:
@@ -579,4 +579,3 @@ translate malaysian strings:
     # game/code/d03p/d03s11.rpy:287
     old "Demand to see her pussy"
     new "Minta untuk melihat pepeknya"
-

@@ -106,7 +106,7 @@ translate malaysian replay_d04s02_ae9053df:
 translate malaysian replay_d04s02_23ccac6c:
 
     # mct "I should get going..."
-    mct "I should get going..."
+    mct "Saya mesti pergi..."
 
 # game/code/d04/d04s02.rpy:91
 translate malaysian d04s02_domdbj_d89bd8c8:
@@ -563,4 +563,3 @@ translate malaysian strings:
     # game/code/d04/d04s02.rpy:64
     old "Just shower and leave"
     new "Hanya mandi dan pergi"
-

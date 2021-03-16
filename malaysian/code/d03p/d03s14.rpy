@@ -178,7 +178,7 @@ translate malaysian replay_d03s14_79098cbd:
 translate malaysian replay_d03s14_a298c546:
 
     # mct "Where did he come from?"
-    mct "Where did he come from?"
+    mct "Dari mana dia datang?"
 
 # game/code/d03p/d03s14.rpy:132
 translate malaysian replay_d03s14_dcf176b0:
@@ -370,7 +370,7 @@ translate malaysian replay_d03s14_9d6c35ca:
 translate malaysian replay_d03s14_3b5590fc:
 
     # tm "Anything?"
-    tm "Anything?"
+    tm "Ada apa-apa?"
 
 # game/code/d03p/d03s14.rpy:207
 translate malaysian replay_d03s14_5f6a9766:
@@ -514,7 +514,7 @@ translate malaysian replay_d03s14_af434bf1:
 translate malaysian replay_d03s14_f39f70a4:
 
     # tm "Come here, darling. Let me taste him from your mouth!"
-    tm "Come here, darling. Let me taste him from your mouth!"
+    tm "Datang ke sini, sayang. Biarkan saya merasainya dari mulut awak!"
 
 # game/code/d03p/d03s14.rpy:281
 translate malaysian replay_d03s14_bd0601da:
@@ -683,4 +683,3 @@ translate malaysian replay_d03s14_e15b25a7:
 
     # mct "I need to go find some release... or a cold shower..."
     mct "Aku perlu pergi mencari tempat untuk melepas... atau mandi air sejuk ..."
-

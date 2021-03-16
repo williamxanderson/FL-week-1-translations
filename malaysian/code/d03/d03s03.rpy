@@ -250,7 +250,7 @@ translate malaysian replay_d03s03a_51da9775:
 translate malaysian replay_d03s03a_bbe7b2c5:
 
     # mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
-    mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
+    mct "Ada sesuatu yang pelik dengan Chloe. Itu adalah kali kedua aku melihat dia dalam keadaan sebegitu..."
 
 # game/code/d03/d03s03.rpy:181
 translate malaysian replay_d03s03a_666716d9:
@@ -274,7 +274,7 @@ translate malaysian replay_d03s03a_c44637b6:
 translate malaysian replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "At least this way I won't be late to meet AmRose at the cafeteria."
+    mct "Sekurang-kurangnya dengan cara ini aku tidak akan terlambat untuk berjumpa AmRose di kafeteria."
 
 # game/code/d03/d03s03.rpy:192
 translate malaysian replay_d03s03a_d6e81c94:
@@ -394,7 +394,7 @@ translate malaysian replay_d03s03a_6371a3c8:
 translate malaysian replay_d03s03a_001815b5:
 
     # zw "What the hell do you think you're doing?!"
-    zw "What the hell do you think you're doing?!"
+    zw "Apa yang awak fikir awak lakukan?!"
 
 # game/code/d03/d03s03.rpy:270
 translate malaysian replay_d03s03a_46cb644d:
@@ -615,4 +615,3 @@ translate malaysian strings:
     # game/code/d03/d03s03.rpy:241
     old "Just let them be caught by Miss Waller"
     new "Biarkan sahaja mereka"
-

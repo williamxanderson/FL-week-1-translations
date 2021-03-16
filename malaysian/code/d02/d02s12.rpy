@@ -232,7 +232,7 @@ translate malaysian replay_d02s12_41830349:
 translate malaysian replay_d02s12_146e4232:
 
     # pw "I would say that you were a lesbian."
-    pw "I would say that you were a lesbian."
+    pw "Saya akan mengatakan bahawa awak seorang lesbian."
 
 # game/code/d02/d02s12.rpy:261
 translate malaysian replay_d02s12_62798c5e:
@@ -387,4 +387,3 @@ translate malaysian strings:
     # game/code/d02/d02s12.rpy:237
     old "Refuse to do it"
     new "Jangan lakukannya"
-

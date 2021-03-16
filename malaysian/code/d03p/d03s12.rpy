@@ -40,7 +40,7 @@ translate malaysian replay_d03s12_4e85cb4d:
 translate malaysian replay_d03s12_d1ac8a91:
 
     # "Tattooed Girl" "Oh, um, hello."
-    "Tattooed Girl" "Oh, um, hello."
+    "Gadis Bertatu" "Oh, um, hello."
 
 # game/code/d03p/d03s12.rpy:36
 translate malaysian replay_d03s12_6b5360d6:
@@ -52,13 +52,13 @@ translate malaysian replay_d03s12_6b5360d6:
 translate malaysian replay_d03s12_e50a3498:
 
     # "Tattooed Girl" "Yeah, I remember you. Pete's roommate."
-    "Tattooed Girl" "Ya, saya ingat awak. Kawan sebilik Pete."
+    "Gadis Bertatu" "Ya, saya ingat awak. Kawan sebilik Pete."
 
 # game/code/d03p/d03s12.rpy:40
 translate malaysian replay_d03s12_475429b9:
 
     # "Tattooed Girl" "Maybe I was too hard on you about that."
-    "Tattooed Girl" "Rasanya ianya terlalu kasar pada awak mengenai perkara itu."
+    "Gadis Bertatu" "Rasanya ianya terlalu kasar pada awak mengenai perkara itu."
 
 # game/code/d03p/d03s12.rpy:41
 translate malaysian replay_d03s12_554711fb:
@@ -70,13 +70,13 @@ translate malaysian replay_d03s12_554711fb:
 translate malaysian replay_d03s12_9c6619ba:
 
     # "Tattooed Girl" "Forgiven. Let's start over. I'm QueenB."
-    "Tattooed Girl" "Dimaafkan. Mari mulakan semula. Saya QueenB."
+    "Gadis Bertatu" "Dimaafkan. Mari mulakan semula. Saya QueenB."
 
 # game/code/d03p/d03s12.rpy:46
 translate malaysian replay_d03s12_6cf19068:
 
     # "Tattooed Girl" "I'm QueenB. {w}[mcname]? Aren't you Pete's roommate?"
-    "Tattooed Girl" "Saya QueenB. {w}[mcname]? Bukankah awak rakan sebilik Pete?"
+    "Gadis Bertatu" "Saya QueenB. {w}[mcname]? Bukankah awak rakan sebilik Pete?"
 
 # game/code/d03p/d03s12.rpy:47
 translate malaysian replay_d03s12_a458e77f:
@@ -262,7 +262,7 @@ translate malaysian replay_d03s12_7cb31097:
 translate malaysian replay_d03s12_a97ee254:
 
     # mc "I think I'll just let her be. {w}We barely met."
-    mc "I think I'll just let her be. {w}We barely met."
+    mc "Saya fikir saya akan membiarkannya. {w}Kami baru sahaja bertemu."
 
 # game/code/d03p/d03s12.rpy:127
 translate malaysian replay_d03s12_da8271f6:
@@ -322,7 +322,7 @@ translate malaysian replay_d03s12_b13c77c2:
 translate malaysian replay_d03s12_191559e1:
 
     # mc "What's up?"
-    mc "What's up?"
+    mc "Ada apa?"
 
 # game/code/d03p/d03s12.rpy:142
 translate malaysian replay_d03s12_e6897846:
@@ -371,4 +371,3 @@ translate malaysian replay_d03s12_6b55f4de:
 
     # mct "I guess I still have time to visit one more event."
     mct "Aku rasa masih ada masa untuk mengunjungi satu lagi acara."
-

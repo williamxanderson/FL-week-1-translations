@@ -340,7 +340,7 @@ translate malaysian replay_d03s13_a777d207:
 translate malaysian replay_d03s13_a9060406:
 
     # mc "I have a challenge for you."
-    mc "I have a challenge for you."
+    mc "Saya mempunyai cabaran untuk anda."
 
 # game/code/d03p/d03s13.rpy:224
 translate malaysian replay_d03s13_f69fbcb4:
@@ -808,7 +808,7 @@ translate malaysian replay_d03s13_c0b9cd37:
 translate malaysian replay_d03s13_efeb6de5:
 
     # mes "DAMN IT!"
-    mes "DAMN IT!"
+    mes "CELAKA!"
 
 # game/code/d03p/d03s13.rpy:457
 translate malaysian replay_d03s13_9025af82:
@@ -982,13 +982,13 @@ translate malaysian replay_d03s13_f699dd96:
 translate malaysian replay_d03s13_7c55351f:
 
     # mes "I think you'll be a good fit for her, and I am her best friend."
-    mes "I think you'll be a good fit for her, and I am her best friend."
+    mes "Saya fikir awak akan sesuai dengannya, dan saya adalah kawan baiknya."
 
 # game/code/d03p/d03s13.rpy:528
 translate malaysian replay_d03s13_915ecf9a:
 
     # mc "Do you mean...?"
-    mc "Do you mean...?"
+    mc "Adakah awak bermaksud ...?"
 
 # game/code/d03p/d03s13.rpy:530
 translate malaysian replay_d03s13_7ab50454:
@@ -1049,4 +1049,3 @@ translate malaysian strings:
     # game/code/d03p/d03s13.rpy:338
     old "Shake Hands in Acceptance"
     new "Bersalaman Dengan Penerimaan"
-

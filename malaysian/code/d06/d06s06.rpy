@@ -10,7 +10,7 @@ translate malaysian replay_d06s06_89264846:
 translate malaysian replay_d06s06_311d5e38:
 
     # nk "No problem sweetheart!"
-    nk "No problem sweetheart!"
+    nk "Tiada masalah sayang!"
 
 # game/code/d06/d06s06.rpy:7
 translate malaysian replay_d06s06_48be522f:
@@ -299,4 +299,3 @@ translate malaysian replay_d06s06_585f4226:
 
     # lc "I couldn't have done it without you."
     lc "Saya tidak dapat melakukannya tanpa awak."
-

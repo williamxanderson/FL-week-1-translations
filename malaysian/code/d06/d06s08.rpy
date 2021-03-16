@@ -694,7 +694,7 @@ translate malaysian d06s08_romance_58ddd19a:
 translate malaysian d06s08_romance_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Adakah begitu?"
 
 # game/code/d06/d06s08.rpy:378
 translate malaysian d06s08_romance_0ac30693:
@@ -784,7 +784,7 @@ translate malaysian d06s08_romance_dcfe9d31:
 translate malaysian d06s08_romance_2d6cf871:
 
     # mh "I never thought of it this way. It just sort of happened."
-    mh "I never thought of it this way. It just sort of happened."
+    mh "Saya tidak pernah memikirkannya dengan cara ini. Ia hanya berlaku."
 
 # game/code/d06/d06s08.rpy:431
 translate malaysian d06s08_romance_b9c2bc04:

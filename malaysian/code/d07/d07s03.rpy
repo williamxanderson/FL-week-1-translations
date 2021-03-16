@@ -268,7 +268,7 @@ translate malaysian d07s03_d4e74349:
 translate malaysian d07s03_af2fdb7a:
 
     # arj "Oh... I didn't realize you stayed there all night... it must have been some Party."
-    arj "Oh... I didn't realize you stayed there all night... it must have been some Party."
+    arj "Oh... Saya tidak menyedari awak tinggal di sana sepanjang malam... pasti ada Parti."
 
 # game/code/d07/d07s03.rpy:116
 translate malaysian d07s03_4460bd7f:
@@ -293,4 +293,3 @@ translate malaysian d07s03_80956c5e:
 
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "Mungkin ini adalah masa yang tepat untuk aku mencari Lyssa dan Vanessa."
-

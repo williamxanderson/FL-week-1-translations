@@ -214,7 +214,7 @@ translate malaysian replay_d07s04hr_2d3fc1ab:
 translate malaysian replay_d07s04hr_6c1772d7:
 
     # mc "Fine, show me!"
-    mc "Fine, show me!"
+    mc "Baiklah, tunjuklah saya!"
 
 # game/code/d07/d07s04hr.rpy:105
 translate malaysian replay_d07s04hr_80748694:

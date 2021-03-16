@@ -730,7 +730,7 @@ translate malaysian d07s05_sexmenu_06d5d957:
 translate malaysian d07s05_spank_26811192:
 
     # arj "Do you think you could...?"
-    arj "Do you think you could...?"
+    arj "Adakah anda fikir awak boleh...?"
 
 # game/code/d07/d07s05.rpy:492
 translate malaysian d07s05_spank_6dc30624:
@@ -886,7 +886,7 @@ translate malaysian d07s05_spank_9cd45890:
 translate malaysian d07s05_spank_a2eaca06_1:
 
     # mc "Did it hurt?"
-    mc "Did it hurt?"
+    mc "Adakah ia sakit?"
 
 # game/code/d07/d07s05.rpy:570
 translate malaysian d07s05_spank_bce9c6fa:

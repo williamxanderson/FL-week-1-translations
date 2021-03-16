@@ -202,7 +202,7 @@ translate malaysian replay_d03s02_add2ee8c:
 translate malaysian replay_d03s02_3f96f9ed:
 
     # mct "What should I do now?!"
-    mct "What should I do now?!"
+    mct "Apa aku perlu lakukan sekarang?!"
 
 # game/code/d03/d03s02.rpy:203
 translate malaysian replay_d03s02_34030409:
@@ -261,4 +261,3 @@ translate malaysian strings:
     # game/code/d03/d03s02.rpy:199
     old "Start masturbating yourself"
     new "Mula melancap diri sendiri"
-

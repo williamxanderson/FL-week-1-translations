@@ -310,7 +310,7 @@ translate malaysian d03s17_8882cc1f:
 translate malaysian d03s17_74fcf77a:
 
     # mc "That was a crappy joke, I admit. I'm just kidding! {w}Heh, I don't really know what to tell ya'."
-    mc "That was a crappy joke, I admit. I'm just kidding! {w}Heh, I don't really know what to tell ya'."
+    mc "Saya akui ianya gurauan yang teruk. Saya cuma bergurau! {w}Heh, saya betul-betul tidak tahu apa yang harus diberitahu awak."
 
 # game/code/d03p2/d03s17.rpy:176
 translate malaysian d03s17_6d6d834a:
@@ -400,19 +400,19 @@ translate malaysian d03s17_1eb813d8:
 translate malaysian d03s17_4cfb31dc:
 
     # lc "Wow! Awkward."
-    lc "Wow! Awkward."
+    lc "Wah! Canggung."
 
 # game/code/d03p2/d03s17.rpy:218
 translate malaysian d03s17_837c5ca3:
 
     # mc "Yeah, I won't be working there again this summer."
-    mc "Yeah, I won't be working there again this summer."
+    mc "Yeah, Saya tidak akan bekerja di sana lagi pada musim panas ini."
 
 # game/code/d03p2/d03s17.rpy:221
 translate malaysian d03s17_f29b9256:
 
     # lc "That's probably for the best."
-    lc "That's probably for the best."
+    lc "Itu mungkin untuk yang terbaik."
 
 # game/code/d03p2/d03s17.rpy:224
 translate malaysian d03s17_5003d836:
@@ -551,4 +551,3 @@ translate malaysian d03s17_9e91f89f:
 
     # mc "I wouldn't dream of being anywhere else."
     mc "Saya tidak berani akan bermimpi berada di tempat lain."
-

@@ -58,7 +58,7 @@ translate malaysian d06s07_a8c58dd4:
 translate malaysian d06s07_53895856:
 
     # mc "No problem. It was my pleasure."
-    mc "No problem. It was my pleasure."
+    mc "Tiada masalah. Saya sudi membantu awak."
 
 # game/code/d06/d06s07.rpy:38
 translate malaysian d06s07_7b14f405:
@@ -328,7 +328,7 @@ translate malaysian replay_d06s07_db8e089a:
 translate malaysian replay_d06s07_0ddcc167:
 
     # mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
-    mc "Oh, um, okay. {w}Yeah, well, um... I'm just wrapping up a few things here..."
+    mc "Oh, um, okay. {w}Yeah, jadi, um... Saya sedang menghabiskan sesuatu disini..."
 
 # game/code/d06/d06s07.rpy:136
 translate malaysian replay_d06s07_5bf4fd36:
@@ -1213,4 +1213,3 @@ translate malaysian strings:
     # game/code/d06/d06s07.rpy:241
     old "Creampie without warning"
     new "Creampie tanpa amaran"
-

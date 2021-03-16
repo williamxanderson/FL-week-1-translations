@@ -478,7 +478,7 @@ translate malaysian replay_d01s04_1a227f42:
 translate malaysian replay_d01s04_289df95c:
 
     # "Girl voice" "Umgh..."
-    "Girl voice" "Umgh..."
+    "Suara Perempuan" "Umgh..."
 
 # game/code/d01/s04.rpy:340
 translate malaysian replay_d01s04_1c3e2998:
@@ -616,7 +616,7 @@ translate malaysian replay_d01s04_2b354a63:
 translate malaysian replay_d01s04_3bb39644:
 
     # mct "Okay, let's do it."
-    mct "Okay, let's do it."
+    mct "Okay, mari kita lakukannya."
 
 # game/code/d01/s04.rpy:393
 translate malaysian replay_d01s04_5030c35c:
@@ -883,4 +883,3 @@ translate malaysian strings:
     # game/code/d01/s04.rpy:481
     old "Don't go to AmRose and try to earn some points"
     new "Jangan pergi ke AmRose cuba meraihkan mata"
-

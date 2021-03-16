@@ -556,13 +556,13 @@ translate malaysian d04s04p2_2485f494:
 translate malaysian d04s04p2_55d54e33:
 
     # lc "Although, now that you mention it, there is something I would like to know... {w}if it isn't too personal..."
-    lc "Although, now that you mention it, there is something I would like to know... {w}if it isn't too personal..."
+    lc "Walaupun begitu, setelah awak menyebutnya, ada sesuatu yang ingin saya ketahui... {w}jika awak tidak keberatan..."
 
 # game/code/d04/d04s04.rpy:192
 translate malaysian d04s04p2_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "Apakau itu?"
 
 # game/code/d04/d04s04.rpy:193
 translate malaysian d04s04p2_83ca9748:
@@ -2331,4 +2331,3 @@ translate malaysian strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "Tak - Aku tidak mahu itu"
-

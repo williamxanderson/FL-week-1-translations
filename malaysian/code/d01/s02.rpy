@@ -1098,7 +1098,7 @@ translate malaysian strings:
 
     # game/code/d01/s02.rpy:341
     old "About the movie!"
-    new "About the movie!"
+    new "Mengenai filem itu!"
 
     # game/code/d01/s02.rpy:341
     old "It was about listening to the lecture!"
@@ -1123,4 +1123,3 @@ translate malaysian strings:
     # game/code/d01/s02.rpy:466
     old "Change of plans! Let's see a movie with AmRose"
     new "Tukar pelan! Mari lihat filem itu dengan AmRose"
-

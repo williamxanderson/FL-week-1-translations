@@ -634,7 +634,7 @@ translate malaysian d01s01_shower_3b636b20:
 translate malaysian d01s01_shower_19408e01:
 
     # pb "No time for shower."
-    pb "No time for shower."
+    pb "Tiada masa untuk mandi."
 
 # game/code/d01/s01.rpy:264
 translate malaysian d01s01_shower_70651338:

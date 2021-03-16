@@ -382,7 +382,7 @@ translate malaysian d05s02_anal_6c4d60d4:
 translate malaysian d05s02_anal_134eb979:
 
     # cb "What?! {w}Oh, okay."
-    cb "What?! {w}Oh, okay."
+    cb "Apa?! {w}Oh, okay."
 
 # game/code/d05/d05s02.rpy:191
 translate malaysian d05s02_anal_29b9ec7c:

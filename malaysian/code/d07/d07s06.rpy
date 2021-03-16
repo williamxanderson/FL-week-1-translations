@@ -538,7 +538,7 @@ translate malaysian d07s06_gameover_bca35b7e:
 translate malaysian d07s06_gameover_27a476bf:
 
     # "Narrator" "[mcname] dropped out of college at the end of the semester."
-    "Narrator" "[mcname] dropped out of college at the end of the semester."
+    "Pencerita" "[mcname] berhenti dari kolej pada akhir semester."
 
 # game/code/d07/d07s06.rpy:301
 translate malaysian d07s06_gameover_f90cb2f8:
@@ -581,4 +581,3 @@ translate malaysian strings:
     # game/code/d07/d07s06.rpy:255
     old "Transfer No Points"
     new "Jangan Pindahkan Mata"
-

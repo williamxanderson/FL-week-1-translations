@@ -382,7 +382,7 @@ translate malaysian d04s01_ffa88548:
 translate malaysian d04s01_f5a15852:
 
     # dd "That is how I ended up there!"
-    dd "That is how I ended up there!"
+    dd "Itulah bagaimana saya berada di sana!"
 
 # game/code/d04/d04s01.rpy:131
 translate malaysian d04s01_136597e7:
@@ -580,4 +580,3 @@ translate malaysian d04s01_16d522f3:
 
     # mes "(whisper) I bet she is."
     mes "(berbisik) Saya yakin ya."
-

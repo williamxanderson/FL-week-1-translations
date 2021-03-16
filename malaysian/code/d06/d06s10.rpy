@@ -136,7 +136,7 @@ translate malaysian replay_d06s10_5246effc:
 translate malaysian replay_d06s10_eed098b8:
 
     # mct "I can't believe I'm getting a hard-on while spooning Stacy."
-    mct "I can't believe I'm getting a hard-on while spooning Stacy."
+    mct "Aku tidak percaya bahawa aku terpacak sambil tidur di belakang Stacy."
 
 # game/code/d06/d06s10.rpy:70
 translate malaysian replay_d06s10_031de517:
@@ -257,4 +257,3 @@ translate malaysian replay_d06s10_b79140a5:
 
     # "female voice" "asshole."
     "suara perempuan" "Bangsat."
-

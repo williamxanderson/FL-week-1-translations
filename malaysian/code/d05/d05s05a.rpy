@@ -22,7 +22,7 @@ translate malaysian d05s05_b97c2d33:
 translate malaysian d05s05_9e6df792:
 
     # mc "Hey AmRose! How are you?"
-    mc "Hey AmRose! How are you?"
+    mc "Hey AmRose! Apa khabar dengan awak?"
 
 # game/code/d05/d05s05a.rpy:23
 translate malaysian d05s05_4ec6d918:
@@ -754,7 +754,7 @@ translate malaysian d05s05_apt1_6414bc23:
 translate malaysian d05s05_apt1_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Baiklah."
 
 # game/code/d05/d05s05a.rpy:285
 translate malaysian d05s05_apt1_43e16ded:
@@ -778,7 +778,7 @@ translate malaysian d05s05_apt1_2cbe889b:
 translate malaysian d05s05_apt1_1792a64b:
 
     # mc "She didn't stick around long enough to ask that."
-    mc "She didn't stick around long enough to ask that."
+    mc "Dia tidak menunggu lama untuk bertanya."
 
 # game/code/d05/d05s05a.rpy:290
 translate malaysian d05s05_apt1_1d3256e8:
@@ -911,4 +911,3 @@ translate malaysian d05s05_apt1_97887db1:
 
     # vw "Let me drive you to the next place."
     vw "Izinkan saya memandu awak ke tempat seterusnya."
-

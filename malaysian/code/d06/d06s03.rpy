@@ -520,19 +520,19 @@ translate malaysian replay_d06s03k_9f83c407:
 translate malaysian replay_d06s03k_a59b4f1a:
 
     # mc "It was unintelligible."
-    mc "It was unintelligible."
+    mc "Ianya tidak dapat difahami."
 
 # game/code/d06/d06s03.rpy:341
 translate malaysian replay_d06s03k_3cbdbcfd:
 
     # arj "It really was. She was just screaming in a high pitched voice for several minutes. I was worried that the R.A. would show up."
-    arj "It really was. She was just screaming in a high pitched voice for several minutes. I was worried that the R.A. would show up."
+    arj "Ia memang begitupun. Dia hanya menjerit selama beberapa minit. Saya bimbang bahawa pengurus asrama akan muncul."
 
 # game/code/d06/d06s03.rpy:342
 translate malaysian replay_d06s03k_33afd300:
 
     # mc "I should have known that Karen was a lunatic."
-    mc "I should have known that Karen was a lunatic."
+    mc "Saya perlu tahu yang Karen itu gila."
 
 # game/code/d06/d06s03.rpy:344
 translate malaysian replay_d06s03k_9b08ca4d:
@@ -574,7 +574,7 @@ translate malaysian replay_d06s03k_790de301:
 translate malaysian replay_d06s03k_1884434d:
 
     # arj "Seriously. Karen just turned around and walked out of the room."
-    arj "Seriously. Karen just turned around and walked out of the room."
+    arj "Serius. Karen hanya menoleh dan berjalan keluar dari bilik."
 
 # game/code/d06/d06s03.rpy:370
 translate malaysian replay_d06s03k_fed8f3ef:
@@ -971,4 +971,3 @@ translate malaysian replay_d06s03k_2b35b6fe:
 
     # mc "..."
     mc "..."
-

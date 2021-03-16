@@ -502,7 +502,7 @@ translate malaysian d03s10_c8de2e04:
 translate malaysian d03s10_750769ec:
 
     # aw "You will be randomly assigned someone else's photo. Your job is to find that person."
-    aw "You will be randomly assigned someone else's photo. Your job is to find that person."
+    aw "Awak akan diberikan foto orang lain secara rawak. Tugas awak adalah mencari orang itu."
 
 # game/code/d03p/d03s10.rpy:286
 translate malaysian d03s10_72f727fc:

@@ -610,7 +610,7 @@ translate malaysian d06s05_mk_tr_1476cf69:
 translate malaysian d06s05_mk_tr_39cdd4c8:
 
     # mc "Yep. She wants some guy to piss in her mouth."
-    mc "Yep. She wants some guy to piss in her mouth."
+    mc "Yep. Dia mahu ada lelaki mengencing di dalam mulutnya."
 
 # game/code/d06/d06s05.rpy:204
 translate malaysian d06s05_mk_tr_26c6fb0f:
@@ -843,4 +843,3 @@ translate malaysian strings:
     # game/code/d06/d06s05.rpy:259
     old "Send it to me"
     new "Hantarkannya kepadaku"
-
