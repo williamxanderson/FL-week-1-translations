@@ -100,7 +100,7 @@ translate french d02s11b_e5e6de84:
 translate french d02s11b_e3251983:
 
     # mc "I have to agree with him on that. I'm sorry for wasting your time."
-    mc "Je suis d’accord avec lui là-dessus. Je suis désolé de t'avoir fait perdre ton temps.."
+    mc "Je suis d’accord avec lui là-dessus. Je suis désolé de t'avoir fait perdre ton temps."
 
 # game/code/d02/d02s11b.rpy:97
 translate french d02s11b_473ecdab:
@@ -466,7 +466,7 @@ translate french strings:
 
     # game/code/d02/d02s11b.rpy:110
     old "Enter with Eyes Down as ordered"
-    new "Entrer en gardant les yeux baissés, comme elle vous l’a ordonné."
+    new "Entrer en gardant les yeux baissés, comme elle vous l’a ordonné"
 
     # game/code/d02/d02s11b.rpy:110
     old "Enter looking at her face"
