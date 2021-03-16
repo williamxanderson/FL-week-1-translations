@@ -628,7 +628,7 @@ translate spanish replay_d03s03_9c82f225:
 translate spanish replay_d03s03a_bbe7b2c5:
 
     # mct "Something is strange with Chloe. That's the second time I've seen her getting fucked..."
-    mct mct "Hay algo extraño con Chloe. Es la segunda vez que la veo follar..."
+    mct "Hay algo extraño con Chloe. Es la segunda vez que la veo follar..."
 
 # game/code/d03/d03s03.rpy:181
 translate spanish replay_d03s03a_666716d9:
