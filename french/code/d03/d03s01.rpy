@@ -28,7 +28,7 @@ translate french d03s01_9f19103a:
 translate french d03s01_98655270:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm bien!"
+    "Fille" "Hmmm bien!"
 
 # game/code/d03/d03s01.rpy:99
 translate french d03s01_9dd77b75:
@@ -40,13 +40,13 @@ translate french d03s01_9dd77b75:
 translate french d03s01_baa2b145:
 
     # "Girl" "Hey! Good morning!"
-    "Girl" "Hey! Bonjour!"
+    "Fille" "Hey! Bonjour!"
 
 # game/code/d03/d03s01.rpy:103
 translate french d03s01_b12c952f:
 
     # "Girl" "I didn't notice that you are awake already!"
-    "Girl" "Je n’avais pas remarqué que tu es déjà réveillé!"
+    "Fille" "Je n’avais pas remarqué que tu es déjà réveillé!"
 
 # game/code/d03/d03s01.rpy:105
 translate french d03s01_b1ca3a85:
@@ -58,7 +58,7 @@ translate french d03s01_b1ca3a85:
 translate french d03s01_3f22d8e7:
 
     # "Girl" "Nice member you have there... {w}although you could use some exercise."
-    "Girl" "Joli membre que tu as là... {w}bien que tu pourrais bien avoir besoin d'un peu d’exercice."
+    "Fille" "Joli membre que tu as là... {w}bien que tu pourrais bien avoir besoin d'un peu d’exercice."
 
 # game/code/d03/d03s01.rpy:113
 translate french d03s01_7f3eaa8b:
@@ -70,7 +70,7 @@ translate french d03s01_7f3eaa8b:
 translate french d03s01_b52f46b1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "Girl" " Je suis Daisy, au fait !"
+    "Fille" "Je suis Daisy, au fait!"
 
 # game/code/d03/d03s01.rpy:118
 translate french d03s01_ee12be68:
@@ -112,7 +112,7 @@ translate french d03s01_9f19103a_1:
 translate french d03s01_98655270_1:
 
     # "Girl" "Hmmm nice!"
-    "Girl" "Hmmm bien!"
+    "Fille" "Hmmm bien!"
 
 # game/code/d03/d03s01.rpy:151
 translate french d03s01_9dd77b75_1:
@@ -124,7 +124,7 @@ translate french d03s01_9dd77b75_1:
 translate french d03s01_baa2b145_1:
 
     # "Girl" "Hey! Good morning!"
-    "Girl" "Hey! Bonjour!"
+    "Fille" "Hey! Bonjour!"
 
 # game/code/d03/d03s01.rpy:155
 translate french d03s01_b1ca3a85_1:
@@ -136,7 +136,7 @@ translate french d03s01_b1ca3a85_1:
 translate french d03s01_c058846f:
 
     # "Girl" "Nice member you have there... {w}but you could use some exercise."
-    "Girl" "Joli membre que tu as là... {w}bien que tu pourrais bien avoir besoin d'un peu d’exercice."
+    "Fille" "Joli membre que tu as là... {w}bien que tu pourrais bien avoir besoin d'un peu d’exercice."
 
 # game/code/d03/d03s01.rpy:159
 translate french d03s01_ae0afd0d:
@@ -148,7 +148,7 @@ translate french d03s01_ae0afd0d:
 translate french d03s01_b52f46b1_1:
 
     # "Girl" "I'm Daisy, by the way!"
-    "Girl" "Je suis Daisy, au fait!"
+    "Fille" "Je suis Daisy, au fait!"
 
 # game/code/d03/d03s01.rpy:163
 translate french d03s01_ee12be68_1:
@@ -328,7 +328,7 @@ translate french d03s01_4381bfed:
 translate french d03s01_15558baa:
 
     # arj "Okay, I'll be there at 12"
-    arj "OK, j'y serai à midi"
+    arj "OK, j'y serai à midi."
 
 # game/code/d03/d03s01.rpy:233
 translate french d03s01_eb06e7c3:
@@ -346,7 +346,7 @@ translate french d03s01_329073c7:
 translate french d03s01_109df485:
 
     # mc "Sure, I have a PE class will meet you there around 12"
-    mc "Bien sûr, j’ai un cours d'éducation physique puis je te retrouve là-bas vers midi"
+    mc "Bien sûr, j’ai un cours d'éducation physique puis je te retrouve là-bas vers midi."
 
 # game/code/d03/d03s01.rpy:239
 translate french d03s01_2f738976:
