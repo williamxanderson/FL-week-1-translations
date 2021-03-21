@@ -166,7 +166,7 @@ translate french replay_d03s03_f9ff9ad3:
 translate french replay_d03s03_0426040e:
 
     # mct "Not my kink... {w}But I can do it if it gets me to Lydia!"
-    mct "Pas mon truc... {w}Mais je peux le faire si ça me rapproche de Lydia !"
+    mct "Pas mon truc... {w}Mais je peux le faire si ça me rapproche de Lydia!"
 
 # game/code/d03/d03s03.rpy:118
 translate french replay_d03s03_cbf0f862:
@@ -226,7 +226,7 @@ translate french replay_d03s03a_eab27164:
 translate french replay_d03s03a_7f4e9f14:
 
     # mct "Sounds like someone is fucking"
-    mct "On dirait que quelqu’un est en train de baiser"
+    mct "On dirait que quelqu’un est en train de baiser."
 
 # game/code/d03/d03s03.rpy:149
 translate french replay_d03s03a_7edff114:
@@ -358,13 +358,13 @@ translate french replay_d03s03a_62b83e22:
 translate french replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
-    mct "Elle va repérer Kevin d’une seconde à l’autre ! {w}Ils vont tous avoir de sérieux ennuis!"
+    mct "Elle va repérer Kevin d’une seconde à l’autre! {w}Ils vont tous avoir de sérieux ennuis!"
 
 # game/code/d03/d03s03.rpy:211
 translate french replay_d03s03a_833a720c:
 
     # mct "Okay, no time to think! "
-    mct "OK, pas le temps de réfléchir! "
+    mct "OK, pas le temps de réfléchir!"
 
 # game/code/d03/d03s03.rpy:213
 translate french replay_d03s03a_de18b8ea:
