@@ -106,7 +106,7 @@ translate french d03s04_0af99806:
 translate french d03s04_d5177348:
 
     # arj "I've been meaning to ask you about that. You went home for a weekend then disappeared for two weeks. What the hell?"
-    arj "Je voulais te poser la question à ce sujet. Tu devais rentrer chez toi pour un week-end, puis tu as disparu pendant deux semaines. Qu’est-ce qu'il s'est passé??"
+    arj "Je voulais te poser la question à ce sujet. Tu devais rentrer chez toi pour un week-end, puis tu as disparu pendant deux semaines. Qu’est-ce qu'il s'est passé?"
 
 # game/code/d03/d03s04.rpy:174
 translate french d03s04_958371ef:
@@ -118,7 +118,7 @@ translate french d03s04_958371ef:
 translate french d03s04_4a93257b:
 
     # arj "Oh, so that's why you didn't call... or text... or reply to messages... "
-    arj "Oh, c’est pour ça que tu n’as pas appelé... ni envoyé de textos... ni répondu aux messages... "
+    arj "Oh, c’est pour ça que tu n’as pas appelé... ni envoyé de textos... ni répondu aux messages..."
 
 # game/code/d03/d03s04.rpy:182
 translate french d03s04_ab919f89:
@@ -226,7 +226,7 @@ translate french d03s04_63d2d1ce:
 translate french d03s04_fb1d4081:
 
     # arj "Ha! Don't worry, we haven't been talking about you behind your back.{w}.. much."
-    arj "Ha! Ne t'inquiéte pas, nous n’avons pas parlé de toi derrière ton dos. {w}.. pas beaucoup."
+    arj "Ha! Ne t'inquiéte pas, nous n’avons pas parlé de toi derrière ton dos.{w}.. pas beaucoup."
 
 # game/code/d03/d03s04.rpy:240
 translate french d03s04_d197d914:
@@ -874,7 +874,7 @@ translate french replay_d03s04_55a9cb3b:
 translate french replay_d03s04_8722e7c0:
 
     # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "Puis AmRose dit  \"Retrouve-moi à la salle de conférence principale à 15h.\""
+    mct "Puis AmRose dit \"Retrouve-moi à la salle de conférence principale à 15h.\""
 
 # game/code/d03/d03s04.rpy:579
 translate french replay_d03s04_4bd08e88:
@@ -898,7 +898,7 @@ translate french replay_d03s04_ea904c23:
 translate french replay_d03s04_896cc2bb:
 
     # mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
-    mct "L’autre personne répond, \"Ca va certainement me faire gagner assez de points! T'es la meilleure!"
+    mct "L’autre personne répond, \"Ca va certainement me faire gagner assez de points! T'es la meilleure!\""
 
 # game/code/d03/d03s04.rpy:591
 translate french replay_d03s04_3ba52c63:
