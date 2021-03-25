@@ -178,7 +178,7 @@ translate french d03s05_850645e2:
 translate french d03s05_6f309b75:
 
     # mct "What did she mean by \"know me already\"?"
-    mct "Qu’est-ce qu’elle voulait dire par  \"il me connaît déjà\"?"
+    mct "Qu’est-ce qu’elle voulait dire par \"il me connaît déjà\"?"
 
 # game/code/d03/d03s05.rpy:89
 translate french d03s05_f31fe6cd:
@@ -490,19 +490,19 @@ translate french d03s05_9a9e8d66:
 translate french d03s05_25122b3c:
 
     # mc "Oh hey, here's something you might enjoy"
-    mc "Oh hé, voilà quelque chose qui pourrait te plaire"
+    mc "Oh hé, voilà quelque chose qui pourrait te plaire."
 
 # game/code/d03/d03s05.rpy:201
 translate french d03s05_38cca946:
 
     # kb "Wow! Nice one!"
-    kb "Waouh ! Joli !"
+    kb "Waouh! Joli!"
 
 # game/code/d03/d03s05.rpy:205
 translate french d03s05_56d54741:
 
     # kb "How did you get that angle without being spotted?"
-    kb "Comment as-tu la prendre sous cet angle sans être repéré ?"
+    kb "Comment as-tu la prendre sous cet angle sans être repéré?"
 
 # game/code/d03/d03s05.rpy:207
 translate french d03s05_fcb9ffe6:
@@ -580,13 +580,13 @@ translate french d03s05_e2074614:
 translate french d03s05_ff8a55e2:
 
     # kb "Sounds good. See ya'"
-    kb "Ca me semble bien. A plus'"
+    kb "Ca me semble bien. A plus'."
 
 # game/code/d03/d03s05.rpy:237
 translate french d03s05_4a28039c:
 
     # mc "Later"
-    mc "A plus tard"
+    mc "A plus tard."
 
 # game/code/d03/d03s05.rpy:244
 translate french d03s05_disappointed_994f4c08:
@@ -646,7 +646,7 @@ translate french d03s05_disappointed_1bac23f7:
 translate french d03s05_disappointed_59f80af9:
 
     # mc "I'm not trying to judge you or embarrass you or anything. I'm just calling it as I see it."
-    mc "Je n’essaie pas de vous juger, de vous embarrasser ou quoi que ce soit d’autre. J’appelle les choses par leur nom.."
+    mc "Je n’essaie pas de vous juger, de vous embarrasser ou quoi que ce soit d’autre. J’appelle les choses par leur nom."
 
 # game/code/d03/d03s05.rpy:265
 translate french d03s05_disappointed_7db1b0f7:
@@ -748,7 +748,7 @@ translate french d03s05_end_6d40b1d9:
 translate french d03s05_end_3d6f5532:
 
     # mc "Ok, see you!"
-    mc "Ok, A plus!"
+    mc "Ok, a plus!"
 
 # game/code/d03/d03s05.rpy:306
 translate french d03s05_end_2aaffd37:
