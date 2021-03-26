@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-10-17 23:20
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 translate turkish strings:
 
@@ -173,10 +173,6 @@ translate turkish strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Disappoint Stacy"
     new "Disappoint Stacy"
-
-# TODO: Translation updated at 2021-01-19 00:06
-
-translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Halloween Bonus - Stacy"

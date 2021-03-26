@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-10-17 23:20
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 translate turkish strings:
 
@@ -14,19 +14,19 @@ translate turkish strings:
     old "You've unlocked a new bonus content"
     new "You've unlocked a new bonus content"
 
-    # game/code/functions.rpy:116
+    # game/code/functions.rpy:122
     old "Mike"
     new "Mike"
 
-    # game/code/functions.rpy:117
+    # game/code/functions.rpy:123
     old "Not_Mike"
     new "Not_Mike"
 
-    # game/code/functions.rpy:129
+    # game/code/functions.rpy:135
     old "The game will replay the scene\naccording to a default playthrough"
     new "The game will replay the scene\naccording to a default playthrough"
 
-    # game/code/functions.rpy:131
+    # game/code/functions.rpy:137
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "The game will try to replay the scene\naccording to your current playthrough"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-10-17 23:20
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 translate turkish strings:
 

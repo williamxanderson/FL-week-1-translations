@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-12-30 20:57
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 # game/code/d07/d07s05.rpy:40
 translate turkish replay_d07s05_db321b44:
@@ -570,361 +570,361 @@ translate turkish d07s05_sexscene_romance_60b8e0dc:
     # mc "Maybe you could be my girlfriend in secret?"
     mc "Maybe you could be my girlfriend in secret?"
 
-# game/code/d07/d07s05.rpy:265
+# game/code/d07/d07s05.rpy:266
 translate turkish d07s05_sexscene_romance_09ddcb22:
 
     # arj "That sounds wonderful."
     arj "That sounds wonderful."
 
-# game/code/d07/d07s05.rpy:266
+# game/code/d07/d07s05.rpy:267
 translate turkish d07s05_sexscene_romance_08e9cf18:
 
     # mc "It really does. {w}What now?"
     mc "It really does. {w}What now?"
 
-# game/code/d07/d07s05.rpy:268
+# game/code/d07/d07s05.rpy:269
 translate turkish d07s05_sexscene_romance_c1a6c399:
 
     # arj "Let me get us out of these clothes. I want to fuck you like crazy."
     arj "Let me get us out of these clothes. I want to fuck you like crazy."
 
-# game/code/d07/d07s05.rpy:269
+# game/code/d07/d07s05.rpy:270
 translate turkish d07s05_sexscene_romance_0e11b73a:
 
     # mc "Right here? In public?"
     mc "Right here? In public?"
 
-# game/code/d07/d07s05.rpy:270
+# game/code/d07/d07s05.rpy:271
 translate turkish d07s05_sexscene_romance_2229a659:
 
     # arj "I don't care. Do you?"
     arj "I don't care. Do you?"
 
-# game/code/d07/d07s05.rpy:271
+# game/code/d07/d07s05.rpy:272
 translate turkish d07s05_sexscene_romance_e5cdf5ea:
 
     # mc "Kinky. I love it!"
     mc "Kinky. I love it!"
 
-# game/code/d07/d07s05.rpy:281
+# game/code/d07/d07s05.rpy:282
 translate turkish d07s05_sexscene_sexslave_195c39ac:
 
     # mc "Let me see if I understand this - you want to be my sex slave and fuck slut."
     mc "Let me see if I understand this - you want to be my sex slave and fuck slut."
 
-# game/code/d07/d07s05.rpy:285
+# game/code/d07/d07s05.rpy:287
 translate turkish d07s05_sexscene_sexslave_a6422911:
 
     # arj "Yes."
     arj "Yes."
 
-# game/code/d07/d07s05.rpy:287
+# game/code/d07/d07s05.rpy:289
 translate turkish d07s05_sexscene_sexslave_e68cc0c4:
 
     # mc "So what, you'd just do whatever kinky shit I want, anytime I want?"
     mc "So what, you'd just do whatever kinky shit I want, anytime I want?"
 
-# game/code/d07/d07s05.rpy:290
+# game/code/d07/d07s05.rpy:292
 translate turkish d07s05_sexscene_sexslave_181aa982:
 
     # arj "Anything you want."
     arj "Anything you want."
 
-# game/code/d07/d07s05.rpy:292
+# game/code/d07/d07s05.rpy:294
 translate turkish d07s05_sexscene_sexslave_0989a5a0:
 
     # mc "If I told you to suck my dick right now, would you do it?"
     mc "If I told you to suck my dick right now, would you do it?"
 
-# game/code/d07/d07s05.rpy:295
+# game/code/d07/d07s05.rpy:297
 translate turkish d07s05_sexscene_sexslave_630b5ec6:
 
     # arj "Of course."
     arj "Of course."
 
-# game/code/d07/d07s05.rpy:297
+# game/code/d07/d07s05.rpy:299
 translate turkish d07s05_sexscene_sexslave_2683af68:
 
     # mc "What if I told you to tongue fuck my dirty asshole?"
     mc "What if I told you to tongue fuck my dirty asshole?"
 
-# game/code/d07/d07s05.rpy:300
+# game/code/d07/d07s05.rpy:302
 translate turkish d07s05_sexscene_sexslave_bc8f4d6a:
 
     # arj "If that is what you want."
     arj "If that is what you want."
 
-# game/code/d07/d07s05.rpy:302
+# game/code/d07/d07s05.rpy:304
 translate turkish d07s05_sexscene_sexslave_3ff89278:
 
     # mc "So, I could bend you over the prof's desk and fuck you during class?"
     mc "So, I could bend you over the prof's desk and fuck you during class?"
 
-# game/code/d07/d07s05.rpy:305
+# game/code/d07/d07s05.rpy:307
 translate turkish d07s05_sexscene_sexslave_457cb8c8:
 
     # arj "It would probably get us both expelled, but I would do it anyway."
     arj "It would probably get us both expelled, but I would do it anyway."
 
-# game/code/d07/d07s05.rpy:306
+# game/code/d07/d07s05.rpy:308
 translate turkish d07s05_sexscene_sexslave_c4ae36ee:
 
     # mc "Wow. Really?"
     mc "Wow. Really?"
 
-# game/code/d07/d07s05.rpy:308
+# game/code/d07/d07s05.rpy:310
 translate turkish d07s05_sexscene_sexslave_34a7cf3c:
 
     # arj "I'd do anything for you, as long as I'm yours."
     arj "I'd do anything for you, as long as I'm yours."
 
-# game/code/d07/d07s05.rpy:310
+# game/code/d07/d07s05.rpy:312
 translate turkish d07s05_sexscene_sexslave_88e171da:
 
     # mc "Alright, then show me."
     mc "Alright, then show me."
 
-# game/code/d07/d07s05.rpy:311
+# game/code/d07/d07s05.rpy:313
 translate turkish d07s05_sexscene_sexslave_cc249327:
 
     # arj "What would you like me to do?"
     arj "What would you like me to do?"
 
-# game/code/d07/d07s05.rpy:312
+# game/code/d07/d07s05.rpy:314
 translate turkish d07s05_sexscene_sexslave_237981f5:
 
     # mc "Strip, completely. Then take off my shorts. I'm going to fuck you senseless - right here in public."
     mc "Strip, completely. Then take off my shorts. I'm going to fuck you senseless - right here in public."
 
-# game/code/d07/d07s05.rpy:314
+# game/code/d07/d07s05.rpy:316
 translate turkish d07s05_sexscene_sexslave_5b441192:
 
     # arj "Yes! Thank you!!!"
     arj "Yes! Thank you!!!"
 
-# game/code/d07/d07s05.rpy:322
+# game/code/d07/d07s05.rpy:324
 translate turkish d07s05_stripping_21f1d29e:
 
     # arj "How do you want me?"
     arj "How do you want me?"
 
-# game/code/d07/d07s05.rpy:326
+# game/code/d07/d07s05.rpy:328
 translate turkish d07s05_stripping_f27ce8bc:
 
     # arj "Do you want my mouth or my pussy?"
     arj "Do you want my mouth or my pussy?"
 
-# game/code/d07/d07s05.rpy:329
+# game/code/d07/d07s05.rpy:331
 translate turkish d07s05_stripping_f5d3e31e:
 
     # arj "Can I touch it please?"
     arj "Can I touch it please?"
 
-# game/code/d07/d07s05.rpy:343
+# game/code/d07/d07s05.rpy:345
 translate turkish d07s05_sexmenu_06d5d957:
 
     # sy "Oh my!"
     sy "Oh my!"
 
-# game/code/d07/d07s05.rpy:490
+# game/code/d07/d07s05.rpy:493
 translate turkish d07s05_spank_26811192:
 
     # arj "Do you think you could...?"
     arj "Do you think you could...?"
 
-# game/code/d07/d07s05.rpy:492
+# game/code/d07/d07s05.rpy:495
 translate turkish d07s05_spank_6dc30624:
 
     # mc "What would you like me to do?"
     mc "What would you like me to do?"
 
-# game/code/d07/d07s05.rpy:494
+# game/code/d07/d07s05.rpy:497
 translate turkish d07s05_spank_337115dc:
 
     # arj "Could you spank me a little. It would really turn me on."
     arj "Could you spank me a little. It would really turn me on."
 
-# game/code/d07/d07s05.rpy:495
+# game/code/d07/d07s05.rpy:498
 translate turkish d07s05_spank_606e2d02:
 
     # mc "Sure."
     mc "Sure."
 
-# game/code/d07/d07s05.rpy:497
+# game/code/d07/d07s05.rpy:500
 translate turkish d07s05_spank_f8b70cce:
 
     # mc "You want me to spank you again?"
     mc "You want me to spank you again?"
 
-# game/code/d07/d07s05.rpy:499
+# game/code/d07/d07s05.rpy:502
 translate turkish d07s05_spank_6fc056e5:
 
     # arj "Yes, please."
     arj "Yes, please."
 
-# game/code/d07/d07s05.rpy:500
+# game/code/d07/d07s05.rpy:503
 translate turkish d07s05_spank_1bf60051:
 
     # mc "Of course."
     mc "Of course."
 
-# game/code/d07/d07s05.rpy:503
+# game/code/d07/d07s05.rpy:506
 translate turkish d07s05_spank_2ea93460:
 
     # mc "I'm going to spank your ass now."
     mc "I'm going to spank your ass now."
 
-# game/code/d07/d07s05.rpy:505
+# game/code/d07/d07s05.rpy:508
 translate turkish d07s05_spank_0816a1fb:
 
     # arj "Yes, [mcname]!"
     arj "Yes, [mcname]!"
 
-# game/code/d07/d07s05.rpy:507
+# game/code/d07/d07s05.rpy:510
 translate turkish d07s05_spank_ee9f7080:
 
     # mc "I'm doing this because I feel like it. You aren't supposed to enjoy it."
     mc "I'm doing this because I feel like it. You aren't supposed to enjoy it."
 
-# game/code/d07/d07s05.rpy:509
+# game/code/d07/d07s05.rpy:512
 translate turkish d07s05_spank_fdea6a28:
 
     # arj "May I have your permission to enjoy it anyway?"
     arj "May I have your permission to enjoy it anyway?"
 
-# game/code/d07/d07s05.rpy:510
+# game/code/d07/d07s05.rpy:513
 translate turkish d07s05_spank_68db800b:
 
     # mc "Sure, if that's what does it for you."
     mc "Sure, if that's what does it for you."
 
-# game/code/d07/d07s05.rpy:513
+# game/code/d07/d07s05.rpy:516
 translate turkish d07s05_spank_b82e5959:
 
     # arj "Permission to get further aroused, sir?"
     arj "Permission to get further aroused, sir?"
 
-# game/code/d07/d07s05.rpy:515
+# game/code/d07/d07s05.rpy:518
 translate turkish d07s05_spank_76874e61:
 
     # mc "Granted."
     mc "Granted."
 
-# game/code/d07/d07s05.rpy:534
+# game/code/d07/d07s05.rpy:537
 translate turkish d07s05_spank_d0a30daa:
 
     # mc "Hold on, I'm going to take some photos of this."
     mc "Hold on, I'm going to take some photos of this."
 
-# game/code/d07/d07s05.rpy:536
+# game/code/d07/d07s05.rpy:539
 translate turkish d07s05_spank_5529d8fe:
 
     # arj "Photos? You have your phone on you?!"
     arj "Photos? You have your phone on you?!"
 
-# game/code/d07/d07s05.rpy:538
+# game/code/d07/d07s05.rpy:541
 translate turkish d07s05_spank_58fe60a4:
 
     # mc "Yeah, I'm going to upload some pics to Fetish Locator. Is that a problem?"
     mc "Yeah, I'm going to upload some pics to Fetish Locator. Is that a problem?"
 
-# game/code/d07/d07s05.rpy:539
+# game/code/d07/d07s05.rpy:542
 translate turkish d07s05_spank_b064c9e7:
 
     # arj "Oh, yeah, of course. {w}I just didn't realize..."
     arj "Oh, yeah, of course. {w}I just didn't realize..."
 
-# game/code/d07/d07s05.rpy:540
+# game/code/d07/d07s05.rpy:543
 translate turkish d07s05_spank_77bd4466:
 
     # mct "She must have left her phone back on the beach, and assumed that I did the same."
     mct "She must have left her phone back on the beach, and assumed that I did the same."
 
-# game/code/d07/d07s05.rpy:541
+# game/code/d07/d07s05.rpy:544
 translate turkish d07s05_spank_02957795:
 
     # mct "She didn't realize someone might have been listening to our conversation."
     mct "She didn't realize someone might have been listening to our conversation."
 
-# game/code/d07/d07s05.rpy:542
+# game/code/d07/d07s05.rpy:545
 translate turkish d07s05_spank_a89d3397:
 
     # arj "What are you waiting for?"
     arj "What are you waiting for?"
 
-# game/code/d07/d07s05.rpy:543
+# game/code/d07/d07s05.rpy:546
 translate turkish d07s05_spank_9fe53b40:
 
     # mc "Right. Let's do this."
     mc "Right. Let's do this."
 
-# game/code/d07/d07s05.rpy:559
+# game/code/d07/d07s05.rpy:562
 translate turkish d07s05_spank_8fd356c3:
 
     # arj "Sorry, I can't... My ass needs some rest please!"
     arj "Sorry, I can't... My ass needs some rest please!"
 
-# game/code/d07/d07s05.rpy:563
+# game/code/d07/d07s05.rpy:566
 translate turkish d07s05_spank_a2eaca06:
 
     # mc "Did it hurt?"
     mc "Did it hurt?"
 
-# game/code/d07/d07s05.rpy:564
+# game/code/d07/d07s05.rpy:567
 translate turkish d07s05_spank_b6ef9f4e:
 
     # arj "Yes... But I'll be fine!"
     arj "Yes... But I'll be fine!"
 
-# game/code/d07/d07s05.rpy:566
+# game/code/d07/d07s05.rpy:569
 translate turkish d07s05_spank_9cd45890:
 
     # arj "I'll get stronger for you!"
     arj "I'll get stronger for you!"
 
-# game/code/d07/d07s05.rpy:569
+# game/code/d07/d07s05.rpy:572
 translate turkish d07s05_spank_a2eaca06_1:
 
     # mc "Did it hurt?"
     mc "Did it hurt?"
 
-# game/code/d07/d07s05.rpy:570
+# game/code/d07/d07s05.rpy:573
 translate turkish d07s05_spank_bce9c6fa:
 
     # arj "Yes..."
     arj "Yes..."
 
-# game/code/d07/d07s05.rpy:571
+# game/code/d07/d07s05.rpy:574
 translate turkish d07s05_spank_eee3679c:
 
     # mc "Good! You wanted this!"
     mc "Good! You wanted this!"
 
-# game/code/d07/d07s05.rpy:573
+# game/code/d07/d07s05.rpy:576
 translate turkish d07s05_spank_3855af0b:
 
     # arj "Yes, I'm sorry! I'll get stronger for you!"
     arj "Yes, I'm sorry! I'll get stronger for you!"
 
-# game/code/d07/d07s05.rpy:579
+# game/code/d07/d07s05.rpy:582
 translate turkish d07s05_cum_d14dff09:
 
     # arj "Are you ready?"
     arj "Are you ready?"
 
-# game/code/d07/d07s05.rpy:581
+# game/code/d07/d07s05.rpy:584
 translate turkish d07s05_cum_57cfe96e:
 
     # arj "Come here!"
     arj "Come here!"
 
-# game/code/d07/d07s05.rpy:603
+# game/code/d07/d07s05.rpy:606
 translate turkish d07s05_cum_4bd436b8:
 
     # "*gulp* {w}*gulp* {w}*gulp*"
     "*gulp* {w}*gulp* {w}*gulp*"
 
-# game/code/d07/d07s05.rpy:606
+# game/code/d07/d07s05.rpy:609
 translate turkish d07s05_cum_52a5a485:
 
     # arj "I waited so long for this! It was amazing!"
@@ -948,27 +948,27 @@ translate turkish strings:
     old "Consider more options"
     new "Consider more options"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Pleasure Her"
     new "Pleasure Her"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Blow Job"
     new "Blow Job"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Face to Face"
     new "Face to Face"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Screw from behind"
     new "Screw from behind"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Spank"
     new "Spank"
 
-    # game/code/d07/d07s05.rpy:347
+    # game/code/d07/d07s05.rpy:349
     old "Cum"
     new "Cum"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-10-17 23:20
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 # game/code/d02/s08.rpy:34
 translate turkish d02s08_ce6bbf32:
@@ -144,475 +144,475 @@ translate turkish d02s08_72f6be47:
     # mct "Seems like she is jogging her way."
     mct "Seems like she is jogging her way."
 
-# game/code/d02/s08.rpy:94
+# game/code/d02/s08.rpy:95
 translate turkish d02s08_62046bc5:
 
     # mct "Yeah. She definitely remembers me."
     mct "Yeah. She definitely remembers me."
 
-# game/code/d02/s08.rpy:98
+# game/code/d02/s08.rpy:99
 translate turkish d02s08_02110e2b:
 
     # mct "But it seems I'm not waiting here for her."
     mct "But it seems I'm not waiting here for her."
 
-# game/code/d02/s08.rpy:99
+# game/code/d02/s08.rpy:100
 translate turkish d02s08_28d847c4:
 
     # mct "Otherwise she would have said something."
     mct "Otherwise she would have said something."
 
-# game/code/d02/s08.rpy:100
+# game/code/d02/s08.rpy:101
 translate turkish d02s08_501971e8:
 
     # mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
     mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
 
-# game/code/d02/s08.rpy:101
+# game/code/d02/s08.rpy:102
 translate turkish d02s08_f3e39b2a:
 
     # mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
     mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
 
-# game/code/d02/s08.rpy:102
+# game/code/d02/s08.rpy:103
 translate turkish d02s08_3df8b771:
 
     # mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
     mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
 
-# game/code/d02/s08.rpy:104
+# game/code/d02/s08.rpy:105
 translate turkish d02s08_e825cb57:
 
     # mct "What a fine woman! How could I make her notice me?"
     mct "What a fine woman! How could I make her notice me?"
 
-# game/code/d02/s08.rpy:110
+# game/code/d02/s08.rpy:111
 translate turkish d02s08_6fb2fbef:
 
     # "Five minutes later"
     "Five minutes later"
 
-# game/code/d02/s08.rpy:122
+# game/code/d02/s08.rpy:123
 translate turkish d02s08_cbee6421:
 
     # mct "I know this girl as well!"
     mct "I know this girl as well!"
 
-# game/code/d02/s08.rpy:123
+# game/code/d02/s08.rpy:124
 translate turkish d02s08_0d3a7eb5:
 
     # mct "This is Polly... {w}Hmmm... {w}Wilson! {w}Right Polly Wilson! {w}We share some classes."
     mct "This is Polly... {w}Hmmm... {w}Wilson! {w}Right Polly Wilson! {w}We share some classes."
 
-# game/code/d02/s08.rpy:126
+# game/code/d02/s08.rpy:127
 translate turkish d02s08_ac6f3cbf:
 
     # mct "Is she also just passing by?"
     mct "Is she also just passing by?"
 
-# game/code/d02/s08.rpy:127
+# game/code/d02/s08.rpy:128
 translate turkish d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
     mct "It looks like she is coming my way..."
 
-# game/code/d02/s08.rpy:129
+# game/code/d02/s08.rpy:130
 translate turkish d02s08_d3a488ff:
 
     # mct "Is it possible that she's the one I'm waiting for here?"
     mct "Is it possible that she's the one I'm waiting for here?"
 
-# game/code/d02/s08.rpy:134
+# game/code/d02/s08.rpy:135
 translate turkish d02s08_03463b6f:
 
     # mct "She is a strange girl. Yet also very intriguing..."
     mct "She is a strange girl. Yet also very intriguing..."
 
-# game/code/d02/s08.rpy:135
+# game/code/d02/s08.rpy:136
 translate turkish d02s08_33b20b0e:
 
     # mct "Interesting. What would her pussy taste?..."
     mct "Interesting. What would her pussy taste?..."
 
-# game/code/d02/s08.rpy:138
+# game/code/d02/s08.rpy:142
 translate turkish d02s08_56b4119b:
 
     # pw "Hey there [mclogin]!"
     pw "Hey there [mclogin]!"
 
-# game/code/d02/s08.rpy:139
+# game/code/d02/s08.rpy:146
 translate turkish d02s08_7f2bed80:
 
     # mc "?!?"
     mc "?!?"
 
-# game/code/d02/s08.rpy:140
+# game/code/d02/s08.rpy:147
 translate turkish d02s08_4f01f556:
 
     # mct "FUCK!!"
     mct "FUCK!!"
 
-# game/code/d02/s08.rpy:142
+# game/code/d02/s08.rpy:149
 translate turkish d02s08_e6db323e:
 
     # pw "Relax! Nerd! We are in this boat together!"
     pw "Relax! Nerd! We are in this boat together!"
 
-# game/code/d02/s08.rpy:144
+# game/code/d02/s08.rpy:151
 translate turkish d02s08_4e36113d:
 
     # mc "What the fuck?! I'm not a nerd!"
     mc "What the fuck?! I'm not a nerd!"
 
-# game/code/d02/s08.rpy:146
+# game/code/d02/s08.rpy:153
 translate turkish d02s08_6fef7bc3:
 
     # pw "Sure you are! I saw you watch anime!"
     pw "Sure you are! I saw you watch anime!"
 
-# game/code/d02/s08.rpy:147
+# game/code/d02/s08.rpy:154
 translate turkish d02s08_e0d6aaf1:
 
     # mc "That doesn't make me a nerd! Just a Japanese animation admirer!"
     mc "That doesn't make me a nerd! Just a Japanese animation admirer!"
 
-# game/code/d02/s08.rpy:150
+# game/code/d02/s08.rpy:157
 translate turkish d02s08_5acc72df:
 
     # mct "Damn! Why her?! We have like two or three lectures in common, but I barely know anything about her."
     mct "Damn! Why her?! We have like two or three lectures in common, but I barely know anything about her."
 
-# game/code/d02/s08.rpy:151
+# game/code/d02/s08.rpy:158
 translate turkish d02s08_a9034ca8:
 
     # mct "She is a loner. I thought she is a lesbian! She will let me lick her pussy?!"
     mct "She is a loner. I thought she is a lesbian! She will let me lick her pussy?!"
 
-# game/code/d02/s08.rpy:152
+# game/code/d02/s08.rpy:159
 translate turkish d02s08_bbf02707:
 
     # mct "Well she is actually hot, so that wouldn't be a problem for me!"
     mct "Well she is actually hot, so that wouldn't be a problem for me!"
 
-# game/code/d02/s08.rpy:154
+# game/code/d02/s08.rpy:162
 translate turkish d02s08_ffae51ef:
 
     # pw "Whatever you say, nerd!"
     pw "Whatever you say, nerd!"
 
-# game/code/d02/s08.rpy:156
+# game/code/d02/s08.rpy:164
 translate turkish d02s08_baf4f761:
 
     # mc "If I'm a nerd then what are you doing here?"
     mc "If I'm a nerd then what are you doing here?"
 
-# game/code/d02/s08.rpy:158
+# game/code/d02/s08.rpy:166
 translate turkish d02s08_a46130b5:
 
     # pw "I also didn't know who would be waiting for me here. But you will do for this job."
     pw "I also didn't know who would be waiting for me here. But you will do for this job."
 
-# game/code/d02/s08.rpy:160
+# game/code/d02/s08.rpy:168
 translate turkish d02s08_8758203f:
 
     # mc "Okay, so where do we do it?"
     mc "Okay, so where do we do it?"
 
-# game/code/d02/s08.rpy:162
+# game/code/d02/s08.rpy:171
 translate turkish d02s08_bf2abc48:
 
     # pw "Wow, whoa! Not so fast nerdy cowboy! You are not getting my pussy so fast!"
     pw "Wow, whoa! Not so fast nerdy cowboy! You are not getting my pussy so fast!"
 
-# game/code/d02/s08.rpy:164
+# game/code/d02/s08.rpy:174
 translate turkish d02s08_f468fb1d:
 
     # mc "Huh?! You want to have a date first?"
     mc "Huh?! You want to have a date first?"
 
-# game/code/d02/s08.rpy:166
+# game/code/d02/s08.rpy:176
 translate turkish d02s08_9d89f758:
 
     # pw "No, but you would need to do something for me first."
     pw "No, but you would need to do something for me first."
 
-# game/code/d02/s08.rpy:168
+# game/code/d02/s08.rpy:178
 translate turkish d02s08_8eeb5ab5:
 
     # mc "Why? We both will get some points! It is not like we are doing this for my pleasure!"
     mc "Why? We both will get some points! It is not like we are doing this for my pleasure!"
 
-# game/code/d02/s08.rpy:170
+# game/code/d02/s08.rpy:180
 translate turkish d02s08_bf9dde6f:
 
     # pw "Yeah, but I think that you need those points more than I do."
     pw "Yeah, but I think that you need those points more than I do."
 
-# game/code/d02/s08.rpy:173
+# game/code/d02/s08.rpy:185
 translate turkish d02s08_6c1f0c6e:
 
     # pw "So you either agree to do me a favor and then get to eat me out or this pussy is off the table!"
     pw "So you either agree to do me a favor and then get to eat me out or this pussy is off the table!"
 
-# game/code/d02/s08.rpy:175
+# game/code/d02/s08.rpy:188
 translate turkish d02s08_c0de1928:
 
     # pw "No touching this pussy before you do me a favor!"
     pw "No touching this pussy before you do me a favor!"
 
-# game/code/d02/s08.rpy:178
+# game/code/d02/s08.rpy:191
 translate turkish d02s08_17754257:
 
     # mct "What the hell does she want?"
     mct "What the hell does she want?"
 
-# game/code/d02/s08.rpy:179
+# game/code/d02/s08.rpy:192
 translate turkish d02s08_cb0352fb:
 
     # mct "Why is she acting so hot? My blood is boiling!"
     mct "Why is she acting so hot? My blood is boiling!"
 
-# game/code/d02/s08.rpy:181
+# game/code/d02/s08.rpy:194
 translate turkish d02s08_53fe142c:
 
     # mct "I almost believed we would do it right here and now!"
     mct "I almost believed we would do it right here and now!"
 
-# game/code/d02/s08.rpy:182
+# game/code/d02/s08.rpy:195
 translate turkish d02s08_b4413d48:
 
     # mct "So close ... and yet so far."
     mct "So close ... and yet so far."
 
-# game/code/d02/s08.rpy:191
+# game/code/d02/s08.rpy:204
 translate turkish d02s08_d19a4102:
 
     # mc "I think I will pass on this! Doesn't sound fair to me."
     mc "I think I will pass on this! Doesn't sound fair to me."
 
-# game/code/d02/s08.rpy:193
+# game/code/d02/s08.rpy:207
 translate turkish d02s08_979fcb2a:
 
     # pw "Why not?"
     pw "Why not?"
 
-# game/code/d02/s08.rpy:194
+# game/code/d02/s08.rpy:208
 translate turkish d02s08_5e66b2b7:
 
     # mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
     mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
 
-# game/code/d02/s08.rpy:195
+# game/code/d02/s08.rpy:209
 translate turkish d02s08_c31a4bdc:
 
     # mc "But this here is pure pleasure for you. So no, I won't do any favors for you!"
     mc "But this here is pure pleasure for you. So no, I won't do any favors for you!"
 
-# game/code/d02/s08.rpy:197
+# game/code/d02/s08.rpy:211
 translate turkish d02s08_e0297709:
 
     # pw "Okay, suit yourself! Ciao!"
     pw "Okay, suit yourself! Ciao!"
 
-# game/code/d02/s08.rpy:210
+# game/code/d02/s08.rpy:224
 translate turkish d02s08_4b973c1f:
 
     # mct "Let's hope I made the right choice."
     mct "Let's hope I made the right choice."
 
-# game/code/d02/s08.rpy:216
+# game/code/d02/s08.rpy:230
 translate turkish d02s08_43119d08:
 
     # mc "You know what? I think you are bluffing and desperately need those points!"
     mc "You know what? I think you are bluffing and desperately need those points!"
 
-# game/code/d02/s08.rpy:219
+# game/code/d02/s08.rpy:233
 translate turkish d02s08_dd9c88eb:
 
     # pw "You caught me red-handed!"
     pw "You caught me red-handed!"
 
-# game/code/d02/s08.rpy:221
+# game/code/d02/s08.rpy:235
 translate turkish d02s08_987413e2:
 
     # mc "Right! How about we do it in a different way! I have an offer for you!"
     mc "Right! How about we do it in a different way! I have an offer for you!"
 
-# game/code/d02/s08.rpy:223
+# game/code/d02/s08.rpy:238
 translate turkish d02s08_a6dd33bc:
 
     # pw "I'm all ears!"
     pw "I'm all ears!"
 
-# game/code/d02/s08.rpy:224
+# game/code/d02/s08.rpy:239
 translate turkish d02s08_60b9a3bb:
 
     # mc "How about to keep this fair, first, you will blow me!"
     mc "How about to keep this fair, first, you will blow me!"
 
-# game/code/d02/s08.rpy:225
+# game/code/d02/s08.rpy:240
 translate turkish d02s08_823f7b1b:
 
     # mc "You go down on me, I go down on you!"
     mc "You go down on me, I go down on you!"
 
-# game/code/d02/s08.rpy:227
+# game/code/d02/s08.rpy:242
 translate turkish d02s08_f0392530:
 
     # mc "I will eat you out! But first, you will taste my dick!"
     mc "I will eat you out! But first, you will taste my dick!"
 
-# game/code/d02/s08.rpy:229
+# game/code/d02/s08.rpy:244
 translate turkish d02s08_42919ce0:
 
     # mc "Hey, what the fuck?!"
     mc "Hey, what the fuck?!"
 
-# game/code/d02/s08.rpy:231
+# game/code/d02/s08.rpy:246
 translate turkish d02s08_c637657a:
 
     # mc "Where are you going?!"
     mc "Where are you going?!"
 
-# game/code/d02/s08.rpy:233
+# game/code/d02/s08.rpy:248
 translate turkish d02s08_0a777fd6:
 
     # mc "Okay this was a mistake…"
     mc "Okay this was a mistake…"
 
-# game/code/d02/s08.rpy:235
+# game/code/d02/s08.rpy:250
 translate turkish d02s08_9a996112:
 
     # mct "Maybe, in the end, she was not bluffing..."
     mct "Maybe, in the end, she was not bluffing..."
 
-# game/code/d02/s08.rpy:242
+# game/code/d02/s08.rpy:258
 translate turkish d02s08_4d375cbf:
 
     # mct "Seems like I'm not getting points this way..."
     mct "Seems like I'm not getting points this way..."
 
-# game/code/d02/s08.rpy:243
+# game/code/d02/s08.rpy:259
 translate turkish d02s08_d9f9adeb:
 
     # mct "I need to find another way to get points!"
     mct "I need to find another way to get points!"
 
-# game/code/d02/s08.rpy:246
+# game/code/d02/s08.rpy:262
 translate turkish d02s08_cbf2642e:
 
     # mc "Okay - what is the favor?"
     mc "Okay - what is the favor?"
 
-# game/code/d02/s08.rpy:248
+# game/code/d02/s08.rpy:264
 translate turkish d02s08_94b91d88:
 
     # pw "You need to promise that you will do it!"
     pw "You need to promise that you will do it!"
 
-# game/code/d02/s08.rpy:249
+# game/code/d02/s08.rpy:265
 translate turkish d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
     mc "Without knowing what it is?!"
 
-# game/code/d02/s08.rpy:252
+# game/code/d02/s08.rpy:269
 translate turkish d02s08_8115c799:
 
     # pw "Oh you are so boring! Okay, listen here!"
     pw "Oh you are so boring! Okay, listen here!"
 
-# game/code/d02/s08.rpy:253
+# game/code/d02/s08.rpy:270
 translate turkish d02s08_ed9a557d:
 
     # pw "You have to organize a date for me!"
     pw "You have to organize a date for me!"
 
-# game/code/d02/s08.rpy:255
+# game/code/d02/s08.rpy:272
 translate turkish d02s08_28671472:
 
     # mc "I thought you didn't want a date!"
     mc "I thought you didn't want a date!"
 
-# game/code/d02/s08.rpy:257
+# game/code/d02/s08.rpy:275
 translate turkish d02s08_b2232394:
 
     # pw "Not with you silly! There someone I like. You need to help me win her over!"
     pw "Not with you silly! There someone I like. You need to help me win her over!"
 
-# game/code/d02/s08.rpy:259
+# game/code/d02/s08.rpy:277
 translate turkish d02s08_9f8352dd:
 
     # mc "Wait! Her?!"
     mc "Wait! Her?!"
 
-# game/code/d02/s08.rpy:260
+# game/code/d02/s08.rpy:278
 translate turkish d02s08_9f1eb88a:
 
     # mct "I knew it! She's a lesbian!"
     mct "I knew it! She's a lesbian!"
 
-# game/code/d02/s08.rpy:262
+# game/code/d02/s08.rpy:280
 translate turkish d02s08_d4324930:
 
     # pw "Yes her! Is it a problem?"
     pw "Yes her! Is it a problem?"
 
-# game/code/d02/s08.rpy:264
+# game/code/d02/s08.rpy:282
 translate turkish d02s08_9f3a64b6:
 
     # mc "The problem is with your end of the bargain if you are into girls!"
     mc "The problem is with your end of the bargain if you are into girls!"
 
-# game/code/d02/s08.rpy:266
+# game/code/d02/s08.rpy:284
 translate turkish d02s08_1788d88f:
 
     # pw "I'm bi! And I only have to let you lick my pussy! Nothing more!"
     pw "I'm bi! And I only have to let you lick my pussy! Nothing more!"
 
-# game/code/d02/s08.rpy:268
+# game/code/d02/s08.rpy:286
 translate turkish d02s08_cab887a2:
 
     # mc "And who is the girl?"
     mc "And who is the girl?"
 
-# game/code/d02/s08.rpy:270
+# game/code/d02/s08.rpy:288
 translate turkish d02s08_0ad3cdf8:
 
     # pw "She is a barista at a local coffee shop."
     pw "She is a barista at a local coffee shop."
 
-# game/code/d02/s08.rpy:271
+# game/code/d02/s08.rpy:289
 translate turkish d02s08_4f289c5e:
 
     # pw "The problem is that I already know that she isn't into girls ... {w}yet!"
     pw "The problem is that I already know that she isn't into girls ... {w}yet!"
 
-# game/code/d02/s08.rpy:272
+# game/code/d02/s08.rpy:290
 translate turkish d02s08_32887a04:
 
     # pw "That is why I need you for that!"
     pw "That is why I need you for that!"
 
-# game/code/d02/s08.rpy:274
+# game/code/d02/s08.rpy:292
 translate turkish d02s08_e526a903:
 
     # mc "Hmmm."
     mc "Hmmm."
 
-# game/code/d02/s08.rpy:275
+# game/code/d02/s08.rpy:293
 translate turkish d02s08_cae56461:
 
     # mc "Okay. How are we doing this?"
     mc "Okay. How are we doing this?"
 
-# game/code/d02/s08.rpy:277
+# game/code/d02/s08.rpy:295
 translate turkish d02s08_1c53abca:
 
     # pw "Now we're talking! Here is the plan ..."
     pw "Now we're talking! Here is the plan ..."
 
-# game/code/d02/s08.rpy:279
+# game/code/d02/s08.rpy:297
 translate turkish d02s08_ab234c13:
 
     # pw "..."
@@ -620,15 +620,15 @@ translate turkish d02s08_ab234c13:
 
 translate turkish strings:
 
-    # game/code/d02/s08.rpy:185
+    # game/code/d02/s08.rpy:198
     old "Agree to do a favor"
     new "Agree to do a favor"
 
-    # game/code/d02/s08.rpy:185
+    # game/code/d02/s08.rpy:198
     old "Reject the offer"
     new "Reject the offer"
 
-    # game/code/d02/s08.rpy:185
+    # game/code/d02/s08.rpy:198
     old "Make a counteroffer"
     new "Make a counteroffer"
 

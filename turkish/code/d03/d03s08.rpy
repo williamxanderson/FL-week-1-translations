@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-10-17 23:20
+﻿# TODO: Translation updated at 2021-03-26 21:15
 
 # game/code/d03/d03s08.rpy:45
 translate turkish replay_d03s08_dff3938e:
@@ -132,337 +132,337 @@ translate turkish replay_d03s08_fee305e8:
     # mc "Yes, Mistress. Thank you, Mistress."
     mc "Yes, Mistress. Thank you, Mistress."
 
-# game/code/d03/d03s08.rpy:125
+# game/code/d03/d03s08.rpy:127
 translate turkish replay_d03s08_7ff8e153:
 
     # dw "Like that!"
     dw "Like that!"
 
-# game/code/d03/d03s08.rpy:127
+# game/code/d03/d03s08.rpy:130
 translate turkish replay_d03s08_f2ef0d76:
 
     # dw "Suck those heels like a little bitch you are!"
     dw "Suck those heels like a little bitch you are!"
 
-# game/code/d03/d03s08.rpy:130
+# game/code/d03/d03s08.rpy:134
 translate turkish replay_d03s08_fb69ae9e:
 
     # dw "I don't hear anything!"
     dw "I don't hear anything!"
 
-# game/code/d03/d03s08.rpy:132
+# game/code/d03/d03s08.rpy:136
 translate turkish replay_d03s08_29ccb566:
 
     # mc "Sh-shank you Mish-shtresh!"
     mc "Sh-shank you Mish-shtresh!"
 
-# game/code/d03/d03s08.rpy:133
+# game/code/d03/d03s08.rpy:137
 translate turkish replay_d03s08_6c64182c:
 
     # dw "That's a good boy!"
     dw "That's a good boy!"
 
-# game/code/d03/d03s08.rpy:135
+# game/code/d03/d03s08.rpy:139
 translate turkish replay_d03s08_e1dba362:
 
     # dw "Now remove the shoes."
     dw "Now remove the shoes."
 
-# game/code/d03/d03s08.rpy:137
+# game/code/d03/d03s08.rpy:143
 translate turkish replay_d03s08_8aa5494b:
 
     # mc "Like that, Mistress?"
     mc "Like that, Mistress?"
 
-# game/code/d03/d03s08.rpy:139
+# game/code/d03/d03s08.rpy:145
 translate turkish replay_d03s08_f7c1018f:
 
     # dw "You are a quick learner!"
     dw "You are a quick learner!"
 
-# game/code/d03/d03s08.rpy:144
+# game/code/d03/d03s08.rpy:152
 translate turkish replay_d03s08_d58a37ca:
 
     # dw "Yes like that!"
     dw "Yes like that!"
 
-# game/code/d03/d03s08.rpy:151
+# game/code/d03/d03s08.rpy:161
 translate turkish replay_d03s08_9dc3c7b4:
 
     # dw "Oh so good!"
     dw "Oh so good!"
 
-# game/code/d03/d03s08.rpy:154
+# game/code/d03/d03s08.rpy:166
 translate turkish replay_d03s08_bfc39dc1:
 
     # dw "Yes! Suck those dirty toes!"
     dw "Yes! Suck those dirty toes!"
 
-# game/code/d03/d03s08.rpy:156
+# game/code/d03/d03s08.rpy:170
 translate turkish replay_d03s08_027d96c1:
 
     # dw "Yes!"
     dw "Yes!"
 
-# game/code/d03/d03s08.rpy:159
+# game/code/d03/d03s08.rpy:175
 translate turkish replay_d03s08_ef594176:
 
     # dw "A-Ahhh!"
     dw "A-Ahhh!"
 
-# game/code/d03/d03s08.rpy:162
+# game/code/d03/d03s08.rpy:178
 translate turkish replay_d03s08_54d4bd2b:
 
     # dw "You did so well! You will be a very good slave!"
     dw "You did so well! You will be a very good slave!"
 
-# game/code/d03/d03s08.rpy:164
+# game/code/d03/d03s08.rpy:180
 translate turkish replay_d03s08_84d3f304:
 
     # dw "Here! You earned your reward! {w}You may taste your Mistress!"
     dw "Here! You earned your reward! {w}You may taste your Mistress!"
 
-# game/code/d03/d03s08.rpy:168
+# game/code/d03/d03s08.rpy:184
 translate turkish replay_d03s08_ab815d97:
 
     # dw "You may stand up and take off your pants."
     dw "You may stand up and take off your pants."
 
-# game/code/d03/d03s08.rpy:171
+# game/code/d03/d03s08.rpy:187
 translate turkish replay_d03s08_b51f3e07:
 
     # dw "That is quite impressive."
     dw "That is quite impressive."
 
-# game/code/d03/d03s08.rpy:173
+# game/code/d03/d03s08.rpy:189
 translate turkish replay_d03s08_9b327fcf:
 
     # dw "You have my permission to cum... {w}After I leave the room."
     dw "You have my permission to cum... {w}After I leave the room."
 
-# game/code/d03/d03s08.rpy:181
+# game/code/d03/d03s08.rpy:199
 translate turkish replay_d03s08_9dd1f8cf:
 
     # dd "That was..."
     dd "That was..."
 
-# game/code/d03/d03s08.rpy:184
+# game/code/d03/d03s08.rpy:202
 translate turkish replay_d03s08_b00ad55e:
 
     # pb "... incredibly hot. Wow! {w}I didn't know you had that in you!"
     pb "... incredibly hot. Wow! {w}I didn't know you had that in you!"
 
-# game/code/d03/d03s08.rpy:187
+# game/code/d03/d03s08.rpy:206
 translate turkish replay_d03s08_cc4f22d9:
 
     # dd "... yeah."
     dd "... yeah."
 
-# game/code/d03/d03s08.rpy:188
+# game/code/d03/d03s08.rpy:207
 translate turkish replay_d03s08_5c841739:
 
     # mc "Thanks, I guess. Can I see what the photos look like?"
     mc "Thanks, I guess. Can I see what the photos look like?"
 
-# game/code/d03/d03s08.rpy:192
+# game/code/d03/d03s08.rpy:211
 translate turkish replay_d03s08_cead5ef6:
 
     # pb "Oh shit, dude, I'm sorry. We got kinda distracted."
     pb "Oh shit, dude, I'm sorry. We got kinda distracted."
 
-# game/code/d03/d03s08.rpy:193
+# game/code/d03/d03s08.rpy:212
 translate turkish replay_d03s08_1d49defa:
 
     # mc "WHAT?"
     mc "WHAT?"
 
-# game/code/d03/d03s08.rpy:195
+# game/code/d03/d03s08.rpy:214
 translate turkish replay_d03s08_7c0063a9:
 
     # pb "Sorry, sorry, it was just ... "
     pb "Sorry, sorry, it was just ... "
 
-# game/code/d03/d03s08.rpy:197
+# game/code/d03/d03s08.rpy:217
 translate turkish replay_d03s08_a2d674ba:
 
     # mc "Peter Fucking Butler you had better be joking..."
     mc "Peter Fucking Butler you had better be joking..."
 
-# game/code/d03/d03s08.rpy:201
+# game/code/d03/d03s08.rpy:221
 translate turkish replay_d03s08_dcad8ec7:
 
     # pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
     pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
 
-# game/code/d03/d03s08.rpy:203
+# game/code/d03/d03s08.rpy:223
 translate turkish replay_d03s08_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/d03/d03s08.rpy:205
+# game/code/d03/d03s08.rpy:225
 translate turkish replay_d03s08_e74bc882:
 
     # pb "Look, it's done."
     pb "Look, it's done."
 
-# game/code/d03/d03s08.rpy:207
+# game/code/d03/d03s08.rpy:227
 translate turkish replay_d03s08_46c24dd2:
 
     # pb "I... I better go after Dahlia..."
     pb "I... I better go after Dahlia..."
 
-# game/code/d03/d03s08.rpy:209
+# game/code/d03/d03s08.rpy:229
 translate turkish replay_d03s08_3d562443:
 
     # mc "What the fuck?! Seriously..."
     mc "What the fuck?! Seriously..."
 
-# game/code/d03/d03s08.rpy:210
+# game/code/d03/d03s08.rpy:231
 translate turkish replay_d03s08_79505d0d:
 
     # dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
     dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
 
-# game/code/d03/d03s08.rpy:212
+# game/code/d03/d03s08.rpy:233
 translate turkish replay_d03s08_4857882d:
 
     # dd "And looks like you have a bit of a problem there... again."
     dd "And looks like you have a bit of a problem there... again."
 
-# game/code/d03/d03s08.rpy:213
+# game/code/d03/d03s08.rpy:234
 translate turkish replay_d03s08_16139960:
 
     # mc "I guess I do..."
     mc "I guess I do..."
 
-# game/code/d03/d03s08.rpy:216
+# game/code/d03/d03s08.rpy:237
 translate turkish replay_d03s08_df95298c:
 
     # dd "Well, good luck with that!"
     dd "Well, good luck with that!"
 
-# game/code/d03/d03s08.rpy:219
+# game/code/d03/d03s08.rpy:240
 translate turkish replay_d03s08_924e7cee:
 
     # dd "Don't get the wrong idea. I'm just helping out, not getting involved."
     dd "Don't get the wrong idea. I'm just helping out, not getting involved."
 
-# game/code/d03/d03s08.rpy:223
+# game/code/d03/d03s08.rpy:245
 translate turkish replay_d03s08_f0e50dcf:
 
     # dd "Does it feel good when I touch it?"
     dd "Does it feel good when I touch it?"
 
-# game/code/d03/d03s08.rpy:229
+# game/code/d03/d03s08.rpy:251
 translate turkish replay_d03s08_b8f729e4:
 
     # dd "Look me in the eyes!"
     dd "Look me in the eyes!"
 
-# game/code/d03/d03s08.rpy:236
+# game/code/d03/d03s08.rpy:258
 translate turkish replay_d03s08_13636eb2:
 
     # dd "Now just release yourself!"
     dd "Now just release yourself!"
 
-# game/code/d03/d03s08.rpy:240
+# game/code/d03/d03s08.rpy:262
 translate turkish replay_d03s08_232c3f6d:
 
     # mc "O-o-oh!"
     mc "O-o-oh!"
 
-# game/code/d03/d03s08.rpy:242
+# game/code/d03/d03s08.rpy:265
 translate turkish replay_d03s08_88f9ec31:
 
     # dd "It worked! Wow! I like that a lot!"
     dd "It worked! Wow! I like that a lot!"
 
-# game/code/d03/d03s08.rpy:245
+# game/code/d03/d03s08.rpy:268
 translate turkish replay_d03s08_a59262c2:
 
     # dd "See you, Lil' Mister Bigcock!"
     dd "See you, Lil' Mister Bigcock!"
 
-# game/code/d03/d03s08.rpy:257
+# game/code/d03/d03s08.rpy:281
 translate turkish replay_d03s08_2aaffd37:
 
     # fl "You received points from another user!"
     fl "You received points from another user!"
 
-# game/code/d03/d03s08.rpy:261
+# game/code/d03/d03s08.rpy:285
 translate turkish replay_d03s08_407e803d:
 
     # fl "[d03s08_points] points were transferred to you from [pbflname]'s account."
     fl "[d03s08_points] points were transferred to you from [pbflname]'s account."
 
-# game/code/d03/d03s08.rpy:262
+# game/code/d03/d03s08.rpy:286
 translate turkish replay_d03s08_9e5595c3:
 
     # mc "Motherfucker..."
     mc "Motherfucker..."
 
-# game/code/d03/d03s08.rpy:263
+# game/code/d03/d03s08.rpy:287
 translate turkish replay_d03s08_e63e4a96:
 
     # mct "Pete only transferred me a lousy [d03s08_points] points."
     mct "Pete only transferred me a lousy [d03s08_points] points."
 
-# game/code/d03/d03s08.rpy:265
+# game/code/d03/d03s08.rpy:289
 translate turkish replay_d03s08_70b804fe:
 
     # mct "On the other hand it brings me exactly to 50 points. At least I can go to the party."
     mct "On the other hand it brings me exactly to 50 points. At least I can go to the party."
 
-# game/code/d03/d03s08.rpy:271
+# game/code/d03/d03s08.rpy:296
 translate turkish d03s08_isaidno_186867a7:
 
     # dw "Disappointing. {w}Goodbye."
     dw "Disappointing. {w}Goodbye."
 
-# game/code/d03/d03s08.rpy:275
+# game/code/d03/d03s08.rpy:301
 translate turkish d03s08_isaidno_2a252a40:
 
     # pb "Dude, you couldn't just go along with it? {w}I better go after her."
     pb "Dude, you couldn't just go along with it? {w}I better go after her."
 
-# game/code/d03/d03s08.rpy:277
+# game/code/d03/d03s08.rpy:303
 translate turkish d03s08_isaidno_075311e7:
 
     # dd "It is sad that you couldn't commit to the finish..."
     dd "It is sad that you couldn't commit to the finish..."
 
-# game/code/d03/d03s08.rpy:279
+# game/code/d03/d03s08.rpy:305
 translate turkish d03s08_isaidno_a59262c2:
 
     # dd "See you, Lil' Mister Bigcock!"
     dd "See you, Lil' Mister Bigcock!"
 
-# game/code/d03/d03s08.rpy:294
+# game/code/d03/d03s08.rpy:320
 translate turkish d03s08_FL_65229281:
 
     # fl "Daily Challenge Winners: Squizzle & Mr. Dicky"
     fl "Daily Challenge Winners: Squizzle & Mr. Dicky"
 
-# game/code/d03/d03s08.rpy:296
+# game/code/d03/d03s08.rpy:322
 translate turkish d03s08_FL_c1fa40af:
 
     # mct "Looks like Min & Antony won again."
     mct "Looks like Min & Antony won again."
 
-# game/code/d03/d03s08.rpy:298
+# game/code/d03/d03s08.rpy:324
 translate turkish d03s08_FL_4fbb67b5:
 
     # mct "It's not the first time I've seen these winners."
     mct "It's not the first time I've seen these winners."
 
-# game/code/d03/d03s08.rpy:300
+# game/code/d03/d03s08.rpy:326
 translate turkish d03s08_FL_ab071477:
 
     # mct "Damn it. If Pete had only taken pics like he said he would, I might have won this time."
     mct "Damn it. If Pete had only taken pics like he said he would, I might have won this time."
 
-# game/code/d03/d03s08.rpy:302
+# game/code/d03/d03s08.rpy:328
 translate turkish d03s08_FL_2a2f6d5f:
 
     # mct "Good for them, I guess."
