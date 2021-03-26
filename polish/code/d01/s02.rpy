@@ -1124,3 +1124,11 @@ translate polish strings:
     old "Change of plans! Let's see a movie with AmRose"
     new "Change of plans! Let's see a movie with AmRose"
 
+# TODO: Translation updated at 2021-03-26 21:08
+
+translate polish strings:
+
+    # game/code/d01/s02.rpy:224
+    old "What is your name in Fetish Locator app?"
+    new "What is your name in Fetish Locator app?"
+
