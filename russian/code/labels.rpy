@@ -201,3 +201,89 @@ translate russian coming_next_7c16ea83:
 
     # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "И я уверена, что он будет счастлив играть дальше когда вторая неделя выйдет в 2021 году!"
+# TODO: Translation updated at 2021-03-26 21:13
+
+# game/code/labels.rpy:96
+translate russian support_me_993b3326:
+
+    # sy "Hey, Daisy!"
+    sy "Hey, Daisy!"
+
+# game/code/labels.rpy:100
+translate russian support_me_3710a879:
+
+    # dd "Yes, sweety?"
+    dd "Yes, sweety?"
+
+# game/code/labels.rpy:104
+translate russian support_me_d9b46b90:
+
+    # sy "Do you think they know?"
+    sy "Do you think they know?"
+
+# game/code/labels.rpy:112
+translate russian support_me_779a284a:
+
+    # sy "Them! The one behind this screen!"
+    sy "Them! The one behind this screen!"
+
+# game/code/labels.rpy:119
+translate russian support_me_a481faf7:
+
+    # sy "Do you think they know how important their support is to me?"
+    sy "Do you think they know how important their support is to me?"
+
+# game/code/labels.rpy:125
+translate russian support_me_9ce1e5cd:
+
+    # dd "They love you!"
+    dd "They love you!"
+
+# game/code/labels.rpy:128
+translate russian support_me_9581c39d:
+
+    # dd "And I'm sure they know that even a little support means a great deal to you!"
+    dd "And I'm sure they know that even a little support means a great deal to you!"
+
+# game/code/labels.rpy:142
+translate russian coming_next_993b3326:
+
+    # sy "Hey, Daisy!"
+    sy "Hey, Daisy!"
+
+# game/code/labels.rpy:146
+translate russian coming_next_3710a879:
+
+    # dd "Yes, sweety?"
+    dd "Yes, sweety?"
+
+# game/code/labels.rpy:150
+translate russian coming_next_54ac3011:
+
+    # sy "Do you think they will wait?"
+    sy "Do you think they will wait?"
+
+# game/code/labels.rpy:158
+translate russian coming_next_779a284a:
+
+    # sy "Them! The one behind this screen!"
+    sy "Them! The one behind this screen!"
+
+# game/code/labels.rpy:165
+translate russian coming_next_20f6580c:
+
+    # sy "Wait for the next game update, silly."
+    sy "Wait for the next game update, silly."
+
+# game/code/labels.rpy:171
+translate russian coming_next_9ce1e5cd:
+
+    # dd "They love you!"
+    dd "They love you!"
+
+# game/code/labels.rpy:174
+translate russian coming_next_de7eb1b3:
+
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+
