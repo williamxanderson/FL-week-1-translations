@@ -94,7 +94,7 @@ translate french d02s09_9aaf6271:
 translate french d02s09_cbaec6ce:
 
     # "Barista" "My personal favorite is a red eye with cream!"
-    "Barista" "Mon préféré est un "red eye" avec de la crème!"
+    "Barista" "Mon préféré est un \"red eye\" avec de la crème!"
 
 # game/code/d02/d02s09.rpy:55
 translate french d02s09_79133862:
@@ -575,4 +575,3 @@ translate french d02s09_3e062af3:
 
     # nkt "I need to think about this..."
     nkt "J'ai besoin d'y réfléchir..."
-

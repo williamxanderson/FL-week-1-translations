@@ -388,7 +388,7 @@ translate french d02s10_a1d5445a:
 translate french d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
-    mct "Au moins elle parle "affaires" ici!"
+    mct "Au moins elle parle \"affaires\" ici!"
 
 # game/code/d02/d02s10.rpy:295
 translate french d02s10_6ddf750f:
@@ -503,4 +503,3 @@ translate french strings:
     # game/code/d02/d02s10.rpy:320
     old "No Thanks - Do Something Else"
     new "Non merci - Faire autre chose"
-
