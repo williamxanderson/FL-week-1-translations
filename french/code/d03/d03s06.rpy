@@ -172,7 +172,7 @@ translate french d03s06_8288cc92:
 translate french d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj "Oh, salut [mcname]. On était en train d’étudier. Tu as besoin de la salle??"
+    arj "Oh, salut [mcname]. On était en train d’étudier. Tu as besoin de la salle?"
 
 # game/code/d03/d03s06.rpy:90
 translate french d03s06_129c32e6:
@@ -250,9 +250,8 @@ translate french strings:
 
     # game/code/d03/d03s06.rpy:43
     old "First go and check what AmRose is up to"
-    new "Aller d'abord vérifier ce qu'AmRose est en train de faire "
+    new "Aller d'abord vérifier ce qu'AmRose est en train de faire"
 
     # game/code/d03/d03s06.rpy:43
     old "Go back to dorm"
     new "Retourner au dortoir"
-
