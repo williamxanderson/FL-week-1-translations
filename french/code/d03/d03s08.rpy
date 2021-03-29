@@ -52,7 +52,7 @@ translate french replay_d03s08_920d769a:
 translate french replay_d03s08_fed561e0:
 
     # dw "Fair enough. Now, if we are going to do this we are going to do this properly."
-    dw "C'est bien. Maintenant, si nous devons le faire, nous allons le faire correctement.."
+    dw "C'est bien. Maintenant, si nous devons le faire, nous allons le faire correctement."
 
 # game/code/d03/d03s08.rpy:80
 translate french replay_d03s08_bc6c0e9a:
@@ -106,7 +106,7 @@ translate french replay_d03s08_a05bc0de:
 translate french replay_d03s08_8892209a:
 
     # dw "Very well. A good master takes care of her playthings. You may remain clothed for now."
-    dw "Très bien. Un bon maître s’occupe bien de ses jouets. Tu peux rester habillé pour le moment...."
+    dw "Très bien. Un bon maître s’occupe bien de ses jouets. Tu peux rester habillé pour le moment."
 
 # game/code/d03/d03s08.rpy:102
 translate french replay_d03s08_c235903a:
