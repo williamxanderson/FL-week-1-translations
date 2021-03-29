@@ -382,7 +382,7 @@ translate french strings:
 
     # game/code/d03/d03s07.rpy:167
     old "Agree - I want Femdom Foot Worship"
-    new "D’accord - J'aime l'idée de vénérer ses pieds de dominatrice "
+    new "D’accord - J'aime l'idée de vénérer ses pieds de dominatrice"
 
     # game/code/d03/d03s07.rpy:167
     old "Agree - I really need the points"
