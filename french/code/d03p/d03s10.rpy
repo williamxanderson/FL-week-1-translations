@@ -196,7 +196,7 @@ translate french d03s10_b91173bc:
 translate french d03s10_a01b5769:
 
     # amfl "Other than that, the final rule is the most important: Don't be a dick."
-    amfl "Et enfin, la règle finale est la plus importante : ne sois pas un con."
+    amfl "Et enfin, la dernière règle est la plus importante : ne sois pas un connard."
 
 # game/code/d03p/d03s10.rpy:149
 translate french d03s10_cfdc7c3b:
@@ -340,13 +340,13 @@ translate french d03s10_15b4684d:
 translate french d03s10_1fdb4509:
 
     # aw "They don't really hide much, but it makes people feel more comfortable."
-    aw "Il ne cache pas vraiment, mais ils aident les gens à se sentir plus à l'aise."
+    aw "Il ne cache pas grand chose, mais ils permettent aux gens de se sentir plus à l'aise."
 
 # game/code/d03p/d03s10.rpy:210
 translate french d03s10_985967f8:
 
     # aw "Here are the stairs to the third floor, there are also some guests there."
-    aw "Voilà les escaliers pour le troisième étage, il y a aussi quelques invités là-haut."
+    aw "Voilà les escaliers qui mènent au troisième étage, il y a aussi quelques invités là-haut."
 
 # game/code/d03p/d03s10.rpy:211
 translate french d03s10_c707f856:
@@ -358,79 +358,79 @@ translate french d03s10_c707f856:
 translate french d03s10_8dca82fc:
 
     # aw "In addition to the usual party stuff there will be several events."
-    aw "In addition to the usual party stuff there will be several events."
+    aw "En plus de la fête habituelle, il y aura plusieurs événements."
 
 # game/code/d03p/d03s10.rpy:215
 translate french d03s10_e9ead19a:
 
     # aw "They will be happening in different locations around the house."
-    aw "They will be happening in different locations around the house."
+    aw "Ils se produiront dans différents endroits de la maison."
 
 # game/code/d03p/d03s10.rpy:216
 translate french d03s10_e1f63118:
 
     # aw "Try to select the best events for you."
-    aw "Try to select the best events for you."
+    aw "Essaye de choisir les événements qui te conviennent le plus."
 
 # game/code/d03p/d03s10.rpy:217
 translate french d03s10_21b56d06:
 
     # mc "What are the events?"
-    mc "What are the events?"
+    mc "Quels sont ces événements?"
 
 # game/code/d03p/d03s10.rpy:223
 translate french d03s10_be5c5a5e:
 
     # aw "We are on the second floor - which has a pool! I like it here the most!"
-    aw "We are on the second floor - which has a pool! I like it here the most!"
+    aw "Nous sommes au deuxième étage - qui dispose d'une piscine! C'est mon endroit préféré!"
 
 # game/code/d03p/d03s10.rpy:226
 translate french d03s10_f0c237f9:
 
     # aw "And about the events... There are three of them."
-    aw "And about the events... There are three of them."
+    aw "Et à propos des événements... Il y en a trois."
 
 # game/code/d03p/d03s10.rpy:227
 translate french d03s10_d7491b7d:
 
     # aw "The first event you can access through your phone."
-    aw "The first event you can access through your phone."
+    aw "L'accès au premier événement auquel tu peux participer nécessite ton téléphone."
 
 # game/code/d03p/d03s10.rpy:228
 translate french d03s10_0267a139:
 
     # aw "It is called \"Secret Oral Santa\"."
-    aw "It is called \"Secret Oral Santa\"."
+    aw "Il est appelé  \"Le père Noël oral secret\"."
 
 # game/code/d03p/d03s10.rpy:229
 translate french d03s10_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Hein?"
 
 # game/code/d03p/d03s10.rpy:231
 translate french d03s10_390f5f47:
 
     # aw "You start by taking a photo of your privates."
-    aw "You start by taking a photo of your privates."
+    aw "Tu dois commencer par prendre une photo de tes parties intimes."
 
 # game/code/d03p/d03s10.rpy:234
 translate french d03s10_fde05df5:
 
     # mc "You're my tour guide to a clothing-optional fetish party; I think you can say 'penis'."
-    mc "You're my tour guide to a clothing-optional fetish party; I think you can say 'penis'."
+    mc "Tu es ma guide touristique pour une fête fétichiste aux vêtements facultatifs; je pense que tu peux dire 'pénis'."
 
 # game/code/d03p/d03s10.rpy:237
 translate french d03s10_d70591a0:
 
     # aw "Ah, I wasn't sure how you identify."
-    aw "Ah, I wasn't sure how you identify."
+    aw "Ah, je n'étais pas sûr de savoir comment tu te définis."
 
 # game/code/d03p/d03s10.rpy:240
 translate french d03s10_dc717e68:
 
     # mc "Really? Is it this mask? Do I look like I might be a girl?"
-    mc "Really? Is it this mask? Do I look like I might be a girl?"
+    mc "Vraiment? C'est à cause de ce masque? Est-ce que j'ai l'air d'une fille?"
 
 # game/code/d03p/d03s10.rpy:243
 translate french d03s10_89bbbef6:
