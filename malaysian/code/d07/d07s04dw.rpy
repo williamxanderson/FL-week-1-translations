@@ -4,7 +4,7 @@
 translate malaysian replay_d07s04dw_4fc187dc:
 
     # dw "No excuses this time. Strip naked and kneel, bitch."
-    dw "Tiada alasan kali ini. Telanjang dan berlutut, si jalang."
+    dw "Tak ada alasan kali ni. Bogel sekarang lepas tu melutut, bodoh."
 
 # game/code/d07/d07s04dw.rpy:18
 translate malaysian replay_d07s04dw_7fd3a623:
@@ -16,37 +16,37 @@ translate malaysian replay_d07s04dw_7fd3a623:
 translate malaysian replay_d07s04dw_5ddcdedc:
 
     # dw "Good answer. Keep it up."
-    dw "JAwapan yang bagus. Teruskan."
+    dw "Bagus. Teruskan."
 
 # game/code/d07/d07s04dw.rpy:23
 translate malaysian replay_d07s04dw_8ea31ffa:
 
     # dw "Ha! Keep it up. Look at that little dick. {w}Is that a flaccid cock or a large clit?"
-    dw "Ha! Teruskan. Lihatlah batang kecil itu. {w}Adakah itu batang pendek atau kelentit besar?"
+    dw "Ha! Teruskan. Tengoklah kote kecil awak tu. {w}Tu kote lembik atau klit besar?"
 
 # game/code/d07/d07s04dw.rpy:25
 translate malaysian replay_d07s04dw_56f20b65:
 
     # dw "That won't do at all. I can't have you insulting me with your limp clit."
-    dw "Itu sama sekali tidak akan berlaku. Saya tidak boleh membuat awak menghina saya dengan kelentit kecil awak."
+    dw "Tu sama sekali tak akan berlaku. Saya tak boleh buat awak hina saya dengan klit lembik awak tu."
 
 # game/code/d07/d07s04dw.rpy:28
 translate malaysian replay_d07s04dw_1f8c15b2:
 
     # dw "Don't you know that if you're attracted to a woman you're supposed to get a hard-on?"
-    dw "Tidakkah awak tahu bahawa jika awak tertarik dengan seorang wanita awak semestinya akan berereksi?"
+    dw "Awak tak tahu ke yang kalau awak tertarik dengan seseorang perempuan kote awak semestinya jadi tegang?"
 
 # game/code/d07/d07s04dw.rpy:31
 translate malaysian replay_d07s04dw_ac9a70d8:
 
     # mc "I'm sorry, Mistress!"
-    mc "Maafkan saya, Puan!"
+    mc "Maaf, Puan!"
 
 # game/code/d07/d07s04dw.rpy:33
 translate malaysian replay_d07s04dw_9757a6e0:
 
     # dw "Don't tell me that's the best you can do. Do you need medication?"
-    dw "Jangan beritahu saya bahawa itu sahajalah yang paling terbaik boleh awak lakukan. Adakah awak memerlukan ubat?"
+    dw "Jangan cakap yang ni je awak mampu buat. Awak ada perlukan sejenis ubat ke?"
 
 # game/code/d07/d07s04dw.rpy:36
 translate malaysian replay_d07s04dw_e1bd9a22:
@@ -58,49 +58,49 @@ translate malaysian replay_d07s04dw_e1bd9a22:
 translate malaysian replay_d07s04dw_b4f58fea:
 
     # dw "Try harder. {w}Ha! As if you could get any softer."
-    dw "Cuba dengan kuat lagi. {w}Ha! Seolah-olah awak boleh menjadi lebih lembik."
+    dw "Cuba kuat lagi. {w}Ha! Seolah-olah macam awak ni boleh jadi lagi lembik."
 
 # game/code/d07/d07s04dw.rpy:41
 translate malaysian replay_d07s04dw_e3647afc:
 
     # dw "Tell me, oh dickless wonder, what part of my loveliness appeals to you the most?"
-    dw "Beritahu saya, bahagian badan saya yang manakah paling menarik bagi awak?"
+    dw "Cuba bagitahu saya, bahagian badan saya yang mana yang awak paling tertarik?"
 
 # game/code/d07/d07s04dw.rpy:45
 translate malaysian replay_d07s04dw_67251d12:
 
     # mc "Your breasts, Mistress!"
-    mc "Tetek awak, Puan!"
+    mc "Tetek, Puan!"
 
 # game/code/d07/d07s04dw.rpy:46
 translate malaysian replay_d07s04dw_13e8c63c:
 
     # dw "Is that what you want? These lovely tits smothering your face?"
-    dw "Adakah itu yang awak mahu? Tetek saya yang cantik ini menekapi muka awak?"
+    dw "Tu ke yang awak nak? Tetek saya yang cantik ni menekap dekat muka awak?"
 
 # game/code/d07/d07s04dw.rpy:49
 translate malaysian replay_d07s04dw_8b75d725:
 
     # mc "Your ass, Mistress!"
-    mc "Pantat awak, Puan!"
+    mc "Bontot, Puan!"
 
 # game/code/d07/d07s04dw.rpy:50
 translate malaysian replay_d07s04dw_decf223b:
 
     # dw "Is that what you want? This lovely ass smothering your face?"
-    dw "Adakah itu yang awak mahu? Bontot saya yang cantik ini menekapi muka awak?"
+    dw "Tu ke yang awak nak? Bontot saya yang cantik ni menekap dekat muka awak?"
 
 # game/code/d07/d07s04dw.rpy:53
 translate malaysian replay_d07s04dw_3e45d341:
 
     # mc "Your pussy, Mistress!"
-    mc "Pepek awak, Mistress!"
+    mc "Pepek, Mistress!"
 
 # game/code/d07/d07s04dw.rpy:54
 translate malaysian replay_d07s04dw_48ddf090:
 
     # dw "Is that what you want? This delicate cunt smothering your face?"
-    dw "Adakah itu yang awak mahu? Pepek saya yang sedap ini menekapi muka awak?"
+    dw "Itu ke yang awak nak? Pepek saya yang sedap ni menekap dekat muka awak?"
 
 # game/code/d07/d07s04dw.rpy:57
 translate malaysian replay_d07s04dw_c9bf818c:
@@ -112,25 +112,25 @@ translate malaysian replay_d07s04dw_c9bf818c:
 translate malaysian replay_d07s04dw_289e4af9:
 
     # dw "Good, then think about that while I finish off this bottle."
-    dw "Bagus, sekarang fikirkanlah sementara saya menghabiskan botol ini."
+    dw "Bagus, sekarang fikirkan pasal benda tu sementara saya habiskan botol ni."
 
 # game/code/d07/d07s04dw.rpy:60
 translate malaysian replay_d07s04dw_3ebb3f8d:
 
     # dw "Because if you don't have a decent hard-on by the time I finish, then this bottle is getting shoved up your butthole."
-    dw "Kerana jika batang awak pada saat saya selesai, botol ini saya sumbatkan ke dalam bontot awak."
+    dw "Sebab kalau kote awak tak cukup tegang pada saat saya habis, botol ni saya sumbatkan ke dalam bontot awak."
 
 # game/code/d07/d07s04dw.rpy:71
 translate malaysian replay_d07s04dw_616dfb6c:
 
     # dw "Is it working now?"
-    dw "Adakah ia berereksi sekarang?"
+    dw "Dah tegang ke belum?"
 
 # game/code/d07/d07s04dw.rpy:75
 translate malaysian replay_d07s04dw_af10085d:
 
     # dw "Good boy. {w}Was it the thought of the bottle up your ass that made you hard?"
-    dw "Baguslah. {w}Adakah disebabkan dengan memikirkan tentang botol memasuki pantat awak membuatkan awak keras?"
+    dw "Bagus. {w}Ni sebab awak pikirkan tentang botol masuk ke dalam bontot awak ke yang buat awak keras?"
 
 # game/code/d07/d07s04dw.rpy:79
 translate malaysian replay_d07s04dw_c9bf818c_1:
@@ -142,7 +142,7 @@ translate malaysian replay_d07s04dw_c9bf818c_1:
 translate malaysian replay_d07s04dw_72152d11:
 
     # mc "As it pleases you, Mistress!"
-    mc "Seperti yang digembirakan awak, Puan!"
+    mc "Seperti yang Puan nak, Puan!"
 
 # game/code/d07/d07s04dw.rpy:84
 translate malaysian replay_d07s04dw_05d9afc3:
@@ -154,61 +154,61 @@ translate malaysian replay_d07s04dw_05d9afc3:
 translate malaysian replay_d07s04dw_77590806:
 
     # dw "There is no way I'm letting you touch my boobs!"
-    dw "Tidak mungkin saya membiarkan awak memegang tetek saya!"
+    dw "Tak mungkin saya bagi awak pegang tetek saya!"
 
 # game/code/d07/d07s04dw.rpy:88
 translate malaysian replay_d07s04dw_2735b7c8:
 
     # dw "There is no way I'm letting you touch my ass!"
-    dw "Tidak mungkin saya membiarkan awak memegang pantat saya!"
+    dw "Tak mungkin saya bagi awak pegang bontot saya!"
 
 # game/code/d07/d07s04dw.rpy:90
 translate malaysian replay_d07s04dw_25777c4d:
 
     # dw "There is no way I'm letting you anywhere near my pussy!"
-    dw "Tidak mungkin saya membiarkan awak berada di dekat puki saya!"
+    dw "Tak mungkin saya bagi awak ada dekat dengan pepek saya!"
 
 # game/code/d07/d07s04dw.rpy:92
 translate malaysian replay_d07s04dw_41b24667:
 
     # dw "Suck those feet! That's the only way you would touch me!"
-    dw "Hisaplah kaki itu! Itulah hanya satu-satunya cara awak menyentuh saya!"
+    dw "Hisap hujung kaki saya! Hanya tu saja cara awak boleh sentuh saya!"
 
 # game/code/d07/d07s04dw.rpy:95
 translate malaysian replay_d07s04dw_6503afaf:
 
     # dw "And I promise you, that this pathetic dick of yours would never touch me!"
-    dw "Dan saya berjanji kepada awak, bahawa batang awak yang menyedihkan ini tidak akan menyentuh saya!"
+    dw "Dan seperti mana yang saya janji dengan awak, yang kote awak yang menyedihkan ni tak akan sentuh saya!"
 
 # game/code/d07/d07s04dw.rpy:97
 translate malaysian replay_d07s04dw_735e7479:
 
     # dw "Do you hear this? Never!"
-    dw "Adakah awak mendengar ini? Tidak pernah!"
+    dw "Awak dengar ni? Tak akan!"
 
 # game/code/d07/d07s04dw.rpy:99
 translate malaysian replay_d07s04dw_b5ec2984:
 
     # dw "Wait. Stop. It's getting boring. We already did that..."
-    dw "Tunggu dulu. Berhenti. Ia semakin membosankan. Kita sudah melakukannya..."
+    dw "Kejap. Berhenti dulu. Benda ni semakin bosan. Kita dah buat benda tu..."
 
 # game/code/d07/d07s04dw.rpy:101
 translate malaysian replay_d07s04dw_7196ea1d:
 
     # dd "Maybe you should spank him? It's today's fetish."
-    dd "Mungkin awak perlu memukulnya? Ini adalah fetish hari ini."
+    dd "Mungkin awak kena pukul bontot dia? Benda tu adalah fetish hari ni."
 
 # game/code/d07/d07s04dw.rpy:104
 translate malaysian replay_d07s04dw_c351f25b:
 
     # dw "Hmmm! That's a great idea! Daisy! Sometimes you can be a genius!"
-    dw "Hmmm! Itu idea yang bagus! Daisy! Kadang-kadang anda boleh menjadi genius!"
+    dw "Hmmm! Tu idea yang bagus! Daisy! Kadang-kadang awak boleh jadi seorang yang genius!"
 
 # game/code/d07/d07s04dw.rpy:107
 translate malaysian replay_d07s04dw_d1847e33:
 
     # dw "Okay, little boy. Come over here and lay across my lap. It's time for your punishment."
-    dw "Okay, si budak kecil. Mari ke sini dan berbaring di atas peha saya. Sudah tiba masanya untuk hukuman awak."
+    dw "Ok, budak kecil. Mari datang sini lepas tu baring dekat atas peha saya. Sampai masa untuk menghukum awak."
 
 # game/code/d07/d07s04dw.rpy:112
 translate malaysian replay_d07s04dw_c9bf818c_2:
@@ -226,19 +226,19 @@ translate malaysian replay_d07s04dw_a56d7dfb:
 translate malaysian replay_d07s04dw_6c7f1f79:
 
     # dw "Calm down. It's only a spanking."
-    dw "Bertenanglah. Ini hanya pukulan."
+    dw "Bertenanglah. Ni cuma pukul bontot je."
 
 # game/code/d07/d07s04dw.rpy:118
 translate malaysian replay_d07s04dw_612bde74:
 
     # dw "But don't you dare to touch me with this dripping penis of yours!"
-    dw "Tapi jangan berani menyentuh saya dengan zakar awak yang menitis ini!"
+    dw "Tapi jangan berani sentuh saya dengan kote awak yang menitis ni!"
 
 # game/code/d07/d07s04dw.rpy:128
 translate malaysian replay_d07s04dw_20c78831:
 
     # dw "Count! Does your stupid brain know numbers?"
-    dw "Kira! Adakah otak bodoh awak tidak tahu nombor?"
+    dw "Kira cepat! Otak bodoh awak ni tahu nombor ke tak?"
 
 # game/code/d07/d07s04dw.rpy:129
 translate malaysian replay_d07s04dw_94f68702:
@@ -262,13 +262,13 @@ translate malaysian replay_d07s04dw_895ffb2a:
 translate malaysian replay_d07s04dw_fbac869b:
 
     # dw "Daisy, are you taking pictures?"
-    dw "Daisy, adakah awak mengambil gambar?"
+    dw "Daisy, awak ada ambil gambar?"
 
 # game/code/d07/d07s04dw.rpy:143
 translate malaysian replay_d07s04dw_2c776c30:
 
     # dd "Oh, sure, I will!"
-    dd "Oh, baiklah, saya akan!"
+    dd "Oh, boleh, saya ambil gambar!"
 
 # game/code/d07/d07s04dw.rpy:148
 translate malaysian replay_d07s04dw_0b3de059:
@@ -292,13 +292,13 @@ translate malaysian replay_d07s04dw_24a3b38a:
 translate malaysian replay_d07s04dw_7a1f1615:
 
     # dw "This pathetic dick is only getting harder! You like that slapping, don't you?"
-    dw "Batang menyedihkan ini semakin mengeras! Awak suak tamparan itu, bukan?"
+    dw "Kote awak yang menyedihkan ni semakin tegang! Awak suka kena tampar macam tu, kan?"
 
 # game/code/d07/d07s04dw.rpy:162
 translate malaysian replay_d07s04dw_71928b30:
 
     # dw "I bet you wish I would slap you dick as well?"
-    dw "Saya yakin awak berharap saya akan menampar batang awak juga?"
+    dw "Saya yakin yang awak nak saya tampar kote awak juga kan?"
 
 # game/code/d07/d07s04dw.rpy:163
 translate malaysian replay_d07s04dw_c9bf818c_3:
@@ -310,19 +310,19 @@ translate malaysian replay_d07s04dw_c9bf818c_3:
 translate malaysian replay_d07s04dw_d13c4140:
 
     # dw "Mother fucker! Daisy, have you heard this? He tried to trick me into touching his penis!"
-    dw "Kurang ajar! Daisy, adakah awak dengar tadi? Dia cuba menipu saya agar menyentuh kotenya!"
+    dw "Kurang ajar! Daisy, awak dengar tak ni? Dia cuba tipu saya supaya saya sentuh kote dia!"
 
 # game/code/d07/d07s04dw.rpy:167
 translate malaysian replay_d07s04dw_6f0eedc8:
 
     # dw "Didn't I just tell you that I'm never touching this ugly stick of yours?"
-    dw "Bukankah saya hanya memberitahu awak bahawa saya tidak akan menyentuh batang buruk anda?"
+    dw "Bukan ke saya baru bagitahu awak yang saya tak akan sentuh batang buruk awak tu?"
 
 # game/code/d07/d07s04dw.rpy:170
 translate malaysian replay_d07s04dw_33693127:
 
     # mc "I'm sorry, Mistress. What can I-"
-    mc "Saya minta maaf, Puan. Apa yang saya boleh-"
+    mc "Minta maaf, Puan. Apa yang saya boleh-"
 
 # game/code/d07/d07s04dw.rpy:175
 translate malaysian replay_d07s04dw_991705f1:
@@ -334,25 +334,25 @@ translate malaysian replay_d07s04dw_991705f1:
 translate malaysian replay_d07s04dw_66fa2649:
 
     # dd "Do you want me to jerk him off?"
-    dd "Adakah awak mahu saya melancapnya?"
+    dd "Awak nak saya lancap kote dia?"
 
 # game/code/d07/d07s04dw.rpy:178
 translate malaysian replay_d07s04dw_c5340e81:
 
     # dw "Definitely not. I want you to smack his useless erection."
-    dw "Sudah tentu tidak. Saya mahu awak menampar ereksi yang tidak guna ini."
+    dw "Mesti lah tak. Saya nak awak pukul kote tak guna dia tu."
 
 # game/code/d07/d07s04dw.rpy:180
 translate malaysian replay_d07s04dw_25dc2a6c:
 
     # dd "I don't know..."
-    dd "Saya tidak tahu..."
+    dd "Saya tak tahu lah..."
 
 # game/code/d07/d07s04dw.rpy:181
 translate malaysian replay_d07s04dw_89a5604c:
 
     # dw "It won't hurt you. Just give it a slap."
-    dw "Ia tidak akan menyakitkan awak. Tamparlah."
+    dw "Benda tu tak gigit awak. Tamparlah."
 
 # game/code/d07/d07s04dw.rpy:182
 translate malaysian replay_d07s04dw_c007e363:
@@ -364,7 +364,7 @@ translate malaysian replay_d07s04dw_c007e363:
 translate malaysian replay_d07s04dw_6b0a31a4:
 
     # mct "WTF!"
-    mct "APA ANJING!"
+    mct "APA NI!"
 
 # game/code/d07/d07s04dw.rpy:194
 translate malaysian replay_d07s04dw_3e302e80:
@@ -382,69 +382,69 @@ translate malaysian replay_d07s04dw_3a3ccdfb:
 translate malaysian replay_d07s04dw_19b6d525:
 
     # dw "*sigh* Daisy, you need to learn how to inflict pain."
-    dw "*sigh* Daisy, awak perlu belajar bagaimana untuk timbulkan kesakitan."
+    dw "*mengeluh* Daisy, awak kena belajar macam mana nak timbulkan kesakitan."
 
 # game/code/d07/d07s04dw.rpy:197
 translate malaysian replay_d07s04dw_6481489d:
 
     # dd "I just did what you said."
-    dd "Saya hanya melakukan apa yang awak katakan."
+    dd "Saya cuma buat apa yang awak cakap je."
 
 # game/code/d07/d07s04dw.rpy:199
 translate malaysian replay_d07s04dw_e3bd9412:
 
     # dw "The idea is to make it painful, but not to break the toy. {w}This toy can't be played with anymore."
-    dw "Ideanya adalah untuk membuatnya menyakitkan, tapi tidak merosakkan mainan. {w}Mainan ini tidak boleh dimainkan lagi."
+    dw "Ideanya nak kasi ada rasa sakit, tapi bukan nak rosakkan mainan tu. {w}Mainan ni dah tak boleh main lagi dah."
 
 # game/code/d07/d07s04dw.rpy:200
 translate malaysian replay_d07s04dw_a44f829b:
 
     # dd "Oh. I'm sorry, Dahlia."
-    dd "Oh. Maafkan saya, Dahlia."
+    dd "Oh. Minta maaf, Dahlia."
 
 # game/code/d07/d07s04dw.rpy:201
 translate malaysian replay_d07s04dw_b16b8276:
 
     # dw "And you need to work on your aim. You smashed the shit out of his balls..."
-    dw "Dan awak perlu baiki bidikan awak. Awak menamparnya terlalu kuat..."
+    dw "Dan awak perlu baiki sasaran awak. Awak tampar telur dia kuat sangat..."
 
 # game/code/d07/d07s04dw.rpy:202
 translate malaysian replay_d07s04dw_6ae2ebb3:
 
     # dd "Sorry, I will try better next time!"
-    dd "Maaf, saya akan mencuba lebih baik lain kali!"
+    dd "Maaf, saya akan cuba lagi baik nanti!"
 
 # game/code/d07/d07s04dw.rpy:203
 translate malaysian replay_d07s04dw_4ad79623:
 
     # mct "She apologized to Dahlia... What about me and my broken balls?"
-    mct "Dia meminta maaf kepada Dahlia ... Bagaimana dengan saya dan batangku?"
+    mct "Dia minta maaf dekat Dahlia ... Aku ni macam mana dengan telur senak aku ni?"
 
 translate malaysian strings:
 
     # game/code/d07/d07s04dw.rpy:29
     old "I'm sorry, Mistress"
-    new "Saya minta maaf, Puan"
+    new "Maaf, Puan"
 
     # game/code/d07/d07s04dw.rpy:34
     old "No, Mistress. I'm sorry, Mistress"
-    new "Tak, Puan. Saya minta maaf, Puan"
+    new "Tak, Puan. Maafkan saya, Puan"
 
     # game/code/d07/d07s04dw.rpy:42
     old "Your breasts, Mistress"
-    new "Tetek awak, Puan"
+    new "Tetek, Puan"
 
     # game/code/d07/d07s04dw.rpy:42
     old "Your ass, Mistress"
-    new "Pantat awak, Mistress"
+    new "Bontot, Puan"
 
     # game/code/d07/d07s04dw.rpy:42
     old "Your pussy, Mistress"
-    new "Pepek awak, Puan"
+    new "Pepek, Puan"
 
     # game/code/d07/d07s04dw.rpy:76
     old "As it pleases you, Mistress"
-    new "Seperti yang digembirakan awak, Puan"
+    new "Seperti yang Puan nak, Puan!"
 
     # game/code/d07/d07s04dw.rpy:109
     old "Yes, Mistress! Thank you, Mistress"
