@@ -4,7 +4,7 @@
 translate malaysian replay_d07s04mh_73e41fa9:
 
     # mct "I should get my phone. Let's not test the patience of my blackmailer..."
-    mct "Saya kena dapatkan telefon saya. Apa kata kita jangan uji kesabaran pengugut saya ni..."
+    mct "Aku kena dapatkan telefon aku. Apa kata kita jangan uji kesabaran pengugut aku ni..."
 
 # game/code/d07/d07s04mh.rpy:21
 translate malaysian replay_d07s04mh_14b46182:
