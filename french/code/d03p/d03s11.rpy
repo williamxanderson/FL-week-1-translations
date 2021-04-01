@@ -178,7 +178,7 @@ translate french replay_d03s11_a15a5ca4:
 translate french replay_d03s11_8731a120:
 
     # mh "Hi [mcname]! {w}Are you also participating in the events?"
-    mh "Salut [mcname]! {w}Tu participes également aux événements??"
+    mh "Salut [mcname]! {w}Tu participes également aux événements?"
 
 # game/code/d03p/d03s11.rpy:129
 translate french replay_d03s11_48c30c01:
@@ -328,7 +328,7 @@ translate french replay_d03s11_3d11ac26:
 translate french replay_d03s11_17119074:
 
     # cb "You can just do it here, if I can watch… or in the closet over there. {w}It is like a small room and it's empty."
-    cb "Vous pouvez simplement le faire ici, si je peux regarder… ou dans le placard là-bas. {w}C’est comme une petite pièce et elle est vide.."
+    cb "Vous pouvez simplement le faire ici, si je peux regarder… ou dans le placard là-bas. {w}C’est comme une petite pièce et elle est vide."
 
 # game/code/d03p/d03s11.rpy:183
 translate french replay_d03s11_27827121:
