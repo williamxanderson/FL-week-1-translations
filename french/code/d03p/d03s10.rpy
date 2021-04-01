@@ -190,7 +190,7 @@ translate french d03s10_5963d66e:
 translate french d03s10_b91173bc:
 
     # amfl "Clothing is optional, but please keep your mask on."
-    amfl "Les vêtements sont facultatifs, mais s'il te plaît garde ton masque.."
+    amfl "Les vêtements sont facultatifs, mais s'il te plaît garde ton masque."
 
 # game/code/d03p/d03s10.rpy:147
 translate french d03s10_a01b5769:
@@ -286,7 +286,7 @@ translate french d03s10_34c7c201:
 translate french d03s10_1c9803d2:
 
     # mc "He said that clothing is optional?"
-    mc "Il a dit que les vêtements sont facultatifs.?"
+    mc "Il a dit que les vêtements sont facultatifs?"
 
 # game/code/d03p/d03s10.rpy:186
 translate french d03s10_4281502a:
@@ -502,7 +502,7 @@ translate french d03s10_c8de2e04:
 translate french d03s10_750769ec:
 
     # aw "You will be randomly assigned someone else's photo. Your job is to find that person."
-    aw "On t'attribuera au hasard la photo de quelqu’un d’autre. Ton travail consiste à trouver cette personne.."
+    aw "On t'attribuera au hasard la photo de quelqu’un d’autre. Ton travail consiste à trouver cette personne."
 
 # game/code/d03p/d03s10.rpy:278
 translate french d03s10_72f727fc:
