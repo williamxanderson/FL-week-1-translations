@@ -28,7 +28,7 @@ translate malaysian replay_d07s04dd_e48d81e8:
 translate malaysian replay_d07s04dd_802f8800:
 
     # dd "Do a good job and you might even pound this tight pussy."
-    dd "Buat kerja elok-elok lepas tu mungkin awak dapat tebuk pepek ketat saya ni"
+    dd "Buat kerja elok-elok lepas tu mungkin awak dapat tebuk pepek ketat saya ni."
 
 # game/code/d07/d07s04dd.rpy:29
 translate malaysian replay_d07s04dd_026ba716:
