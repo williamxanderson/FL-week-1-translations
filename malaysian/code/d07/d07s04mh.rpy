@@ -4,163 +4,163 @@
 translate malaysian replay_d07s04mh_73e41fa9:
 
     # mct "I should get my phone. Let's not test the patience of my blackmailer..."
-    mct "Saya mesti mendapatkan telefon saya. Jangan menguji kesabaran pemeras ugut saya..."
+    mct "Saya kena dapatkan telefon saya. Apa kata kita jangan uji kesabaran pengugut saya ni..."
 
 # game/code/d07/d07s04mh.rpy:21
 translate malaysian replay_d07s04mh_14b46182:
 
     # mct "I wonder if Lyssa is still at the bar."
-    mct "Saya tertanya-tanya adakah Lyssa masih di bar itu."
+    mct "Agak-agak Lyssa masih ada dekat bar tadi tak."
 
 # game/code/d07/d07s04mh.rpy:26
 translate malaysian replay_d07s04mh_89ff56b8:
 
     # mc "Hey Lyssa. I wasn't sure if I would find you here. I ran into Vanessa earlier."
-    mc "Hey Lyssa. Saya tidak pasti adakah saya akan menemui awak di sini. Saya jumpa Vanessa tadi."
+    mc "Hai Lyssa. Saya tak pasti yang saya akan jumpa awak dekat sini. Saya jumpa Vanessa tadi."
 
 # game/code/d07/d07s04mh.rpy:29
 translate malaysian replay_d07s04mh_50ca0ce6:
 
     # mh "Yeah, she said she was going to go swimming."
-    mh "Yeah, dia mengatakan dia akan pergi berenang."
+    mh "Ha-ah, dia cakap dia nak pergi berenang."
 
 # game/code/d07/d07s04mh.rpy:33
 translate malaysian replay_d07s04mh_e9166642:
 
     # mc "You don't swim?"
-    mc "Awak tidak berenang?"
+    mc "Awak tak berenang ke?"
 
 # game/code/d07/d07s04mh.rpy:35
 translate malaysian replay_d07s04mh_16fd1b22:
 
     # mh "I'm a pretty good swimmer. I just don't go swimming in public anymore."
-    mh "Saya seorang perenang yang cukup baik. Saya tidak lagi berenang di khalayak ramai."
+    mh "Saya pandai juga lah berenang. Cuma saya dah tak berenang dekat kawasan orang awam."
 
 # game/code/d07/d07s04mh.rpy:36
 translate malaysian replay_d07s04mh_56c3991c:
 
     # mc "Why not?"
-    mc "Kenapa pula?"
+    mc "Kenapa tak?"
 
 # game/code/d07/d07s04mh.rpy:38
 translate malaysian replay_d07s04mh_37fc4819:
 
     # mh "There's this massive bulge in my swimsuit..."
-    mh "Terdapat benjolan besar di baju renang saya..."
+    mh "Ada bonggolan besar dalam baju renang saya ni..."
 
 # game/code/d07/d07s04mh.rpy:39
 translate malaysian replay_d07s04mh_3eea6a95:
 
     # mc "Oh, right. {w}Although..."
-    mc "Oh, baiklah. {w}Walaupun..."
+    mc "Oh, ya tak ya. {w}Walau apa pun..."
 
 # game/code/d07/d07s04mh.rpy:41
 translate malaysian replay_d07s04mh_632bdf24:
 
     # mh "Although?"
-    mh "Walaupun?"
+    mh "Walau apa pun?"
 
 # game/code/d07/d07s04mh.rpy:42
 translate malaysian replay_d07s04mh_1e7539e3:
 
     # mc "You don't seem the type to hide who you are. You seem really confident all the time."
-    mc "Awak nampaknya bukan jenis untuk menyembunyikan siapa diri awak. Awak kelihatan sangat yakin sepanjang masa."
+    mc "Awak tak nampak macam orang yang jenis sembunyikan siapa diri awak yang sebenarnya. Awak sentiasa nampak sangat yakin sepanjang masa."
 
 # game/code/d07/d07s04mh.rpy:44
 translate malaysian replay_d07s04mh_fc1c6193:
 
     # mh "Yeah, well, there's a difference between being confident and actively choosing to piss off angry villagers."
-    mh "Ya, ada perbezaan antara yakin dan aktif memilih untuk mengecewakan penduduk kampung yang marah."
+    mh "Ya, tapi, ada perbezaan antara yakin dengan aktif memilih untuk kecewakan penduduk kampung yang marah."
 
 # game/code/d07/d07s04mh.rpy:45
 translate malaysian replay_d07s04mh_acfe3ff9:
 
     # mc "You make it sound like they have torches and pitchforks."
-    mc "Anda membuatnya terdengar seperti mereka mempunyai obor dan serampang."
+    mc "Awak cakap macam dia orang tu ada obor dengan serampang."
 
 # game/code/d07/d07s04mh.rpy:47
 translate malaysian replay_d07s04mh_3b41cad0:
 
     # mh "Oh sure, they don't have any now, but once they see Frankenstein's monster in public..."
-    mh "Oh pasti, mereka tidak ada sekarang, tapi setelah mereka melihat rakasa Frankenstein di khalayak ramai..."
+    mh "Oh ya, dia orang tak ada lah benda tu sekarang, tapi bila dia orang nampak raksasa Frankenstein dekat kawasan orang awam..."
 
 # game/code/d07/d07s04mh.rpy:48
 translate malaysian replay_d07s04mh_c5e6270b:
 
     # mc "Ouch. I hope that never happens to you."
-    mc "Aduh. Saya harap itu tidak akan berlaku kepada awak."
+    mc "Alamak. Saya harap benda tu tak akan berlaku dekat awak."
 
 # game/code/d07/d07s04mh.rpy:50
 translate malaysian replay_d07s04mh_d2e12e85:
 
     # mh "Yeah. How about a change of scenery?"
-    mh "Yeah. Bagaimana dengan perubahan pemandangan?"
+    mh "Iya. Apa kata kita ubah pemandangan?"
 
 # game/code/d07/d07s04mh.rpy:51
 translate malaysian replay_d07s04mh_9b3c4f12:
 
     # mc "Sure, let's go for a walk along the beach."
-    mc "Baiklah, mari kita berjalan-jalan di sepanjang pantai."
+    mc "Boleh, jom kita jalan sepanjang pantai ni."
 
 # game/code/d07/d07s04mh.rpy:53
 translate malaysian replay_d07s04mh_cc38cced:
 
     # mh "Sounds romantic."
-    mh "Kedengaran romantis."
+    mh "Bunyi romantis gitu."
 
 # game/code/d07/d07s04mh.rpy:55
 translate malaysian replay_d07s04mh_57bd43f0:
 
     # mh "Yes, sir!"
-    mh "Ya, tuan!"
+    mh "Betul tu!"
 
 # game/code/d07/d07s04mh.rpy:62
 translate malaysian replay_d07s04mh_c88ad595:
 
     # mc "So... {w}Did you know that Mary Shelley wrote the first science-fiction novel?"
-    mc "Oleh itu ... {w}Tahukah awak bahawa Mary Shelley menulis novel fiksyen ilmiah pertama?"
+    mc "Jadi... {w}Awak tahu tak yang Mary Shelley tulis novel fiksyen-sains yang pertama?"
 
 # game/code/d07/d07s04mh.rpy:63
 translate malaysian replay_d07s04mh_a7f93da1:
 
     # mh "Of course, everyone knows that."
-    mh "Sudah tentu, semua orang tahu itu."
+    mh "Mestilah, semua orang tahu benda tu."
 
 # game/code/d07/d07s04mh.rpy:64
 translate malaysian replay_d07s04mh_640ea8b2:
 
     # mc "Oh... good."
-    mc "Oh... baguslah."
+    mc "Oh... elok lah tu."
 
 # game/code/d07/d07s04mh.rpy:67
 translate malaysian replay_d07s04mh_3f2e8d46:
 
     # mh "Is that your line? Convincing girls that you're some pro-women feminist so you can get into their pants?"
-    mh "Adakah itu ayat awak? Meyakinkan perempuan bahawa anda adalah feminis pro-wanita supaya awak boleh masuk ke dalam seluar mereka?"
+    mh "Itu ayat awak? Nak yakinkan perempuan yang awak ada feminis pro-wanita supaya awak boleh masuk dalam seluar dia orang?"
 
 # game/code/d07/d07s04mh.rpy:68
 translate malaysian replay_d07s04mh_d4d1e01e:
 
     # mc "You'd be surprised how often it works."
-    mc "Awak akan terkejut berapa kerap ia berfungsi."
+    mc "Nanti awak terkejut yang benda ni selalu jadi."
 
 # game/code/d07/d07s04mh.rpy:69
 translate malaysian replay_d07s04mh_80443c92:
 
     # mh "You might need to work on that. It sounds a little rehearsed, and might not be as effective when you get out of school."
-    mh "Awak mungkin perlu mengusahakannya. Kedengarannya seperti dilatih, dan mungkin tidak begitu berkesan ketika awak keluar dari sekolah."
+    mh "Mungkin awak perlu perbaikikan sikit benda tu. Bunyi macam kena berlatih, tapi mungkin tak berkesan sangat masa awak keluar dari sekolah."
 
 # game/code/d07/d07s04mh.rpy:70
 translate malaysian replay_d07s04mh_34d8c666:
 
     # mc "I'll keep that in mind. {w}So, what are you doing here today?"
-    mc "Saya akan ingat itu. {w}Jadi, apa yang awak lakukan di sini hari ini?"
+    mc "Nanti saya ingat benda tu. {w}Jadi, apa yang awak buat dekat sini hari ni?"
 
 # game/code/d07/d07s04mh.rpy:72
 translate malaysian replay_d07s04mh_5e220799:
 
     # mh "Well, a good friend of mine told me I should relax more. {w}Besides, I'm an alumna."
-    mh "Baiklah, seorang kawan baik saya memberitahu saya bahawa saya harus lebih banyak berehat. {w}Selain itu, saya seorang alumna."
+    mh "Sebenarnya, ada seorang kawan baik saya bagitahu yang saya patut lebih banyakkan berehat. {w}Lagi pun, saya seorang alumna."
 
 # game/code/d07/d07s04mh.rpy:73
 translate malaysian replay_d07s04mh_1b4adc6a:
@@ -178,73 +178,73 @@ translate malaysian replay_d07s04mh_cb0e0393:
 translate malaysian replay_d07s04mh_e20c4066:
 
     # mc "Ouch. I'm just a little college boy."
-    mc "Aduh. Saya cuma budak kolej."
+    mc "Alamak. Saya cuma budak kolej je."
 
 # game/code/d07/d07s04mh.rpy:77
 translate malaysian replay_d07s04mh_c50ff26e:
 
     # mh "Well, not so little."
-    mh "Bukannya budak pun."
+    mh "Bukannya budak sangat pun."
 
 # game/code/d07/d07s04mh.rpy:78
 translate malaysian replay_d07s04mh_f6f6414b:
 
     # mc "Ha! Thanks. {w}So, what do you do to relax?"
-    mc "Ha! Terima kasih. {w}Jadi, apa yang awak lakukan untuk berehat?"
+    mc "Ha! Terima kasih. {w}Jadi, apa yang awak buat untuk berehat?"
 
 # game/code/d07/d07s04mh.rpy:80
 translate malaysian replay_d07s04mh_e41d9636:
 
     # mh "Well, I'm a switch, so sometimes I'm a top and sometimes-"
-    mh "Baiklah, saya seorang switch,kadang-kadang saya berada diatas dan kadang-kadang-"
+    mh "Sebenarnya, saya ni jenis tukar-tukar, kadang-kadang saya ada dekat atas dan kadang-kadang-"
 
 # game/code/d07/d07s04mh.rpy:81
 translate malaysian replay_d07s04mh_8012564e:
 
     # mh "Oh, that wasn't what you meant, was it?"
-    mh "Oh, bukan itu yang anda maksudkan, bukan?"
+    mh "Oh, tu bukan maksud awak, kan?"
 
 # game/code/d07/d07s04mh.rpy:82
 translate malaysian replay_d07s04mh_60102376:
 
     # mc "Not exactly, but I could hear some more about that."
-    mc "Tidak betul, tapi saya mahu mendengar lebih banyak mengenai perkara itu."
+    mc "Tak juga, tapi saya boleh je dengar lebih daripada tu."
 
 # game/code/d07/d07s04mh.rpy:87
 translate malaysian replay_d07s04mh_576d67a8:
 
     # mc "But right now, let's go for a swim."
-    mc "Tapi sekarang, mari kita berenang."
+    mc "Tapi sekarang, jom kita berenang."
 
 # game/code/d07/d07s04mh.rpy:89
 translate malaysian replay_d07s04mh_31f4046a:
 
     # mh "What? Why are you naked?"
-    mh "Apa? Kenapa awak berbogel?"
+    mh "Apa? Kenapa awak bogel?"
 
 # game/code/d07/d07s04mh.rpy:90
 translate malaysian replay_d07s04mh_751e45fd:
 
     # mc "You're not wearing a swimsuit, so why should I?"
-    mc "Anda tidak memakai baju renang, jadi kenapa tidak?"
+    mc "Awak tak pakai pun baju renang, jadi kenapa saya kena pakai?"
 
 # game/code/d07/d07s04mh.rpy:92
 translate malaysian replay_d07s04mh_242f8b2d:
 
     # mh "Are you... {w}Do you think it's safe?"
-    mh "Adakah awak... {w}Adakah awak fikir ia selamat?"
+    mh "Biar betul awak... {w}Awak rasa selamat ke?"
 
 # game/code/d07/d07s04mh.rpy:93
 translate malaysian replay_d07s04mh_e8057629:
 
     # mc "I was here earlier. Nobody ever comes here."
-    mc "Saya datang sini tadi. Tidak ada yang pernah datang ke sini."
+    mc "Saya ada dekat sini tadi. Tak ada orang pun yang pernah datang sini."
 
 # game/code/d07/d07s04mh.rpy:100
 translate malaysian replay_d07s04mh_f004ed12:
 
     # mh "Did you do this just to see me undress?"
-    mh "Adakah awak melakukan ini hanya untuk melihat saya menanggalkan pakaian?"
+    mh "Awak buat semua ni semata-mata nak tengok saya tanggalkan pakaian?"
 
 # game/code/d07/d07s04mh.rpy:101
 translate malaysian replay_d07s04mh_6ddddd1f:
@@ -256,157 +256,157 @@ translate malaysian replay_d07s04mh_6ddddd1f:
 translate malaysian replay_d07s04mh_5e2fea49:
 
     # mh "Can I ask you a question? {w}How much experience do you have with BDSM?"
-    mh "Boleh saya tanya awak satu soalan? {w}Berapa banyak pengalaman yang anda ada dengan BDSM?"
+    mh "Boleh saya tanya awak satu soalan? {w}Berapa banyak pengalaman awak dengan BDSM?"
 
 # game/code/d07/d07s04mh.rpy:111
 translate malaysian replay_d07s04mh_476a2fbe:
 
     # mc "None, really. I mean I'm good with knots and have watched a lot of porn."
-    mc "Kosong, sebenarnya. Maksud saya, saya baik dengan ikatan dan menonton banyak pornografi."
+    mc "Kosong, sebenarnya. Maksud saya, saya pandai je dengan ikatan dengan tengok banyak porn."
 
 # game/code/d07/d07s04mh.rpy:114
 translate malaysian replay_d07s04mh_c2f16593:
 
     # mh "You're good with knots? Were you a scout or something?"
-    mh "Awak bagus dengan ikatan? Adakah awak pengakap atau sesuatu?"
+    mh "Awak pandai ikatan? Awak ni pengakap ke apa?"
 
 # game/code/d07/d07s04mh.rpy:115
 translate malaysian replay_d07s04mh_e08709af:
 
     # mc "Nah, I just always found them fun. There's something fascinating about all the different things you can do with a length of rope."
-    mc "Bukan, Saya selalu rasa ianya seronok. Ada sesuatu yang menarik tentang semua perkara yang boleh awak lakukan dengan panjang tali."
+    mc "Bukan, Saya selalu rasa benda tu seronok. Ada sesuatu menarik lah pasal semua perkara yang awak boleh buat dengan hanya tali saja."
 
 # game/code/d07/d07s04mh.rpy:117
 translate malaysian replay_d07s04mh_4d84d999:
 
     # mh "Huh. I've never really thought of that. Do you have any experience tying people up?"
-    mh "Huh. Saya tidak pernah memikirkan perkara itu. Adakah awak mempunyai pengalaman untuk mengikat orang?"
+    mh "Huh. Saya tak pernah terfikir pun macam tu. Awak ada pengalaman ikat orang tak?"
 
 # game/code/d07/d07s04mh.rpy:118
 translate malaysian replay_d07s04mh_c30d6dd8:
 
     # mc "Not since I was a kid. I mean, I've watched fetish videos explaining how to do it properly, but I haven't practiced on anyone."
-    mc "Bukan sejak saya kecil. Maksud saya, saya telah menonton video fetish yang menerangkan cara melakukannya dengan betul, tapi saya tidak berlatih pada sesiapa."
+    mc "Tak ada sejak saya kecil lagi. Maksud saya, saya pernah tengok video fetish yang terangkan cara nak buat benda tu dengan betul, tapi saya tak berlatih dekat sesiapa pun."
 
 # game/code/d07/d07s04mh.rpy:120
 translate malaysian replay_d07s04mh_3f9c9718:
 
     # mh "Wait, wait, wait. You tied people up when you were a kid?"
-    mh "Tunggu, tunggu, tunggu. Awak mengikat orang ketika awak masih kecil?"
+    mh "Jap, jap, jap. Awak ikat orang masa awak kecil lagi?"
 
 # game/code/d07/d07s04mh.rpy:121
 translate malaysian replay_d07s04mh_76f1af9d:
 
     # mc "Sure, you know. Cowboys and Indians, Cops and Robbers, those kinds of games."
-    mc "Betul, awak tahu. Koboi dan India, Polis dan Perompak, permainan seperti itu."
+    mc "Ha-ah. Alah macam Kejar-Kejar, Police and Theif, mainan macam tu."
 
 # game/code/d07/d07s04mh.rpy:123
 translate malaysian replay_d07s04mh_fd73685e:
 
     # mh "We didn't tie people up playing those games when I was a kid."
-    mh "Kami tidak mengikat orang semasa bermain permainan begitu ketika saya masih kecil."
+    mh "Kita orang tak ikat orang masa main permainan macam tu masa saya kecil."
 
 # game/code/d07/d07s04mh.rpy:124
 translate malaysian replay_d07s04mh_ee9c822d:
 
     # mc "Well, I always liked knots."
-    mc "Saya selalu suka ikatan."
+    mc "Saya tak tahu lah awak tapi saya selalu suka dengan ikatan."
 
 # game/code/d07/d07s04mh.rpy:126
 translate malaysian replay_d07s04mh_3f2d57b3:
 
     # mh "Is that something that would interest you? Rope bondage?"
-    mh "Adakah itu sesuatu yang menarik minat awak? Ikatan tali?"
+    mh "Benda macam tu yang awak minat? Ikatan tali?"
 
 # game/code/d07/d07s04mh.rpy:127
 translate malaysian replay_d07s04mh_57f6b408:
 
     # mc "Definitely. I really like the videos where a woman can't move - either because she's tied up or..."
-    mc "Pasti. Saya sangat suka video di mana seorang wanita tidak dapat bergerak - sama ada kerana dia terikat atau..."
+    mc "Semestinya. Saya suka sangat video seorang perempuan tak boleh bergerak - sama ada dia kena ikat atau..."
 
 # game/code/d07/d07s04mh.rpy:128
 translate malaysian replay_d07s04mh_a82de4de:
 
     # mc "What do you call it? Stocks? Pillory?"
-    mc "Apa awak namakannya? Stok?"
+    mc "Apa namanya tu? Stocks? Pillory?"
 
 # game/code/d07/d07s04mh.rpy:130
 translate malaysian replay_d07s04mh_5a0acb90:
 
     # mh "Sure, those work."
-    mh "Ianya begitulah."
+    mh "Ha, macam tu lah kot."
 
 # game/code/d07/d07s04mh.rpy:131
 translate malaysian replay_d07s04mh_9650f79a:
 
     # mc "I mean the kind of thing where someone builds a wall out of wood, and there are holes for the head and hands and feet, so that she can't move at all or see anything behind her."
-    mc "Maksud saya jenis di mana seseorang membina dinding dari kayu, dan ada lubang untuk kepala dan tangan dan kaki, sehingga dia tidak dapat bergerak sama sekali atau melihat apa-apa di belakangnya."
+    mc "Maksud saya yang jenis orang yang bina dinding daripada kayu, lepas tu ada lubang untuk kepala, tangan dengan kaki, supaya dia tak boleh gerak langsung atau tengok apa-apa dekat belakang dia."
 
 # game/code/d07/d07s04mh.rpy:133
 translate malaysian replay_d07s04mh_44237bed:
 
     # mh "Oh, yeah. I think that's called a Stocks Wall or a BDSM Wall. I've never seen one in real life, though."
-    mh "Oh, yeah. Saya rasa itu disebut Dinding Stok atau Dinding BDSM. Saya tidak pernah melihatnya dalam kehidupan sebenar."
+    mh "Oh, ya. Saya rasa tu panggil Dinding Stocks atau Dinding BDSM. Saya tak pernah tengok pun benda tu dekat depan mata saya."
 
 # game/code/d07/d07s04mh.rpy:134
 translate malaysian replay_d07s04mh_a37ad25f:
 
     # mc "I guess it's that sense of power. I would never do anything to a woman without her consent."
-    mc "Saya rasa itulah kekuatan. Saya tidak akan melakukan apa-apa kepada perempuan tanpa persetujuannya."
+    mc "Saya rasa tulah kekuatan. Saya tak akan buat apa-apa dekat perempuan tanpa pengetahuan dia."
 
 # game/code/d07/d07s04mh.rpy:135
 translate malaysian replay_d07s04mh_552705bc:
 
     # mc "At the same time it feels powerful and sexy imagining her unable to stop me from doing whatever I want with her."
-    mc "Pada masa yang sama terasa kuat dan seksi membayangkan dia tidak dapat menghentikan saya daripada melakukan apa sahaja yang saya mahukan dengannya."
+    mc "Pada masa yang sama rasa macam kuat dengan seksi dengan bayangkan dia tak dapat tahan saya daripada buat apa sahaja yang saya nak buat dengan dia."
 
 # game/code/d07/d07s04mh.rpy:136
 translate malaysian replay_d07s04mh_768390a7:
 
     # mc "It's the power of being able to do anything, but choosing to do things she'll enjoy."
-    mc "Ini kekuatan untuk dapat melakukan apa sahaja, tetapi memilih untuk melakukan perkara yang dia akan nikmati."
+    mc "Tulah kekuatan untuk dapat buat apa sahaja, tapi pilih nak buat benda yang dia suka juga."
 
 # game/code/d07/d07s04mh.rpy:138
 translate malaysian replay_d07s04mh_e74dd3b8:
 
     # mh "That's a pretty good description. I think you'll make an excellent top."
-    mh "Itu penerangan yang cukup bagus. Saya fikir awak akan berjaya."
+    mh "Penerangan yang cukup bagus tu. Saya rasa awak akan berjaya."
 
 # game/code/d07/d07s04mh.rpy:139
 translate malaysian replay_d07s04mh_592a17f3:
 
     # mc "Looking forward to it."
-    mc "Amat menantikannya."
+    mc "Harapnya lah, terima kasih."
 
 # game/code/d07/d07s04mh.rpy:144
 translate malaysian replay_d07s04mh_e795481c:
 
     # mh "Can I ask you a question? {w}What do you think of my cock?"
-    mh "Boleh saya tanya awak soalan? {w}Apa pendapat awak tentang batang saya?"
+    mh "Boleh saya tanya awak satu soalan? {w}Apa pendapat awak dengan kote saya?"
 
 # game/code/d07/d07s04mh.rpy:145
 translate malaysian replay_d07s04mh_a448b0f2:
 
     # mc "What do you mean? It's massive and looks magnificent on you."
-    mc "Apa maksud awak? Ini sangat besar dan kelihatan hebat pada awak."
+    mc "Apa maksud awak? Awak punya sangat besar dengan nampak elok dengan awak."
 
 # game/code/d07/d07s04mh.rpy:148
 translate malaysian replay_d07s04mh_4e507aa7:
 
     # mh "I mean... Most guys I've been with fit into two different categories."
-    mh "Maksud saya ... Sebilangan besar lelaki yang saya minat mempunyai dua kategori berbeza."
+    mh "Maksud saya ... Kebanyakan lelaki yang saya minat cuma masuk dua kategori berbeza."
 
 # game/code/d07/d07s04mh.rpy:149
 translate malaysian replay_d07s04mh_90c39b1c:
 
     # mh "Either they're really into my massive member and kinda forget about the rest of me..."
-    mh "Sama ada mereka benar-benar suka pada batang besar saya dan agak melupakan bahagian yang lain saya..."
+    mh "Sama ada dia orang memang suka dekat kote besar saya ni lepas tu agak lupa dengan bahagian lain saya ni..."
 
 # game/code/d07/d07s04mh.rpy:150
 translate malaysian replay_d07s04mh_1979c48e:
 
     # mh "Or they're in love with the rest of me, but can't stand that I've got a dick."
-    mh "Atau mereka jatuh cinta dengan bahagian yang lain, tapi tidak tahan bahawa saya ada batang."
+    mh "Atau dia orang jatuh cinta dengan bahagian lain saya, tapi tak suka hakikat yang saya ada kote."
 
 # game/code/d07/d07s04mh.rpy:151
 translate malaysian replay_d07s04mh_4df22b12:
@@ -418,103 +418,103 @@ translate malaysian replay_d07s04mh_4df22b12:
 translate malaysian replay_d07s04mh_5553c869:
 
     # mh "Yeah, so I'm just wondering which type you are."
-    mh "Yeah, jadi saya hanya tertanya-tanya apakah jenis awak."
+    mh "Hmm, jadi saya terfikir awak jenis yang mana."
 
 # game/code/d07/d07s04mh.rpy:154
 translate malaysian replay_d07s04mh_c7751093:
 
     # mc "Neither. {w}I've never wanted to touch another person's cock before, but your dick isn't a turn-off."
-    mc "Tidak. {w}Saya tidak pernah mahu menyentuh batang orang lain sebelum ini, tapi kemaluan awak bukanlah begitu."
+    mc "Dua-dua tu pun bukan. {w}Saya tak pernah terfikir nak sentuh kote orang lain sebelum ni, tapi kote awak tak ada lah teruk sangat."
 
 # game/code/d07/d07s04mh.rpy:155
 translate malaysian replay_d07s04mh_82cac6c4:
 
     # mc "It is just part of who you are. You're drop dead gorgeous from head to toe, including your hard-on."
-    mc "Itu hanya sebahagian daripada diri awak. Awak sangatlah cantik dari hujung kepala hingga ke hujung kaki, termasuk yang keras."
+    mc "Tu cuma sebahagian daripada diri awak. Awak cantik sangat dari hujung kepala sampai ke hujung kaki, termasuk dengan si tegang awak tu."
 
 # game/code/d07/d07s04mh.rpy:158
 translate malaysian replay_d07s04mh_030f99e2:
 
     # mh "You really think so?"
-    mh "Awak benar-benar berfikir begitu?"
+    mh "Betul cakap awak ni?"
 
 # game/code/d07/d07s04mh.rpy:159
 translate malaysian replay_d07s04mh_6dfd9e38:
 
     # mc "Of course! Have you seen yourself? There's no part of you that is less than amazing."
-    mc "Mestilah! Adakah awak pernah melihat diri awak? Tidak ada bahagian dari awak yang kurang hebat."
+    mc "Mestilah! Pernah tengok diri awak sendiri? Tak ada bahagian awak yang kurang daripada lawa."
 
 # game/code/d07/d07s04mh.rpy:162
 translate malaysian replay_d07s04mh_2086a3e9:
 
     # mh "Ha! {w}So, you don't mind...?"
-    mh "Ha! {w}Jadi, awak tidak kisah...?"
+    mh "Ha! {w}Jadi, awak tak kisah...?"
 
 # game/code/d07/d07s04mh.rpy:163
 translate malaysian replay_d07s04mh_21a87592:
 
     # mc "I've never fantasized about anyone else's penis before, but I dream about doing things with you..."
-    mc "Saya tidak pernah bermimpi mengenai batang orang lain sebelum ini, tapi saya bermimpi melakukan sesuatu dengan awak..."
+    mc "Saya tak pernah pun bayang kote orang lain sebelum ni, tapi saya ada lah tebayang buat sesuatu dengan awak..."
 
 # game/code/d07/d07s04mh.rpy:164
 translate malaysian replay_d07s04mh_1698de1e:
 
     # mc "Like, I wonder what it will feel like to touch it..."
-    mc "Seperti, saya tertanya-tanya bagaimana rasanya untuk menyentuhnya..."
+    mc "Macam contoh, saya terfikir macam mana rasa dia kalau saya sentuh kote awak..."
 
 # game/code/d07/d07s04mh.rpy:166
 translate malaysian replay_d07s04mh_0e09269f:
 
     # mh "You make me feel so sexy when you talk like that."
-    mh "Awak membuatkan saya berasa sangat seksi apabila awak bercakap seperti itu."
+    mh "Awak buat saya rasa seksi sangat bila awak cakap macam tu."
 
 # game/code/d07/d07s04mh.rpy:167
 translate malaysian replay_d07s04mh_300660e3:
 
     # mc "Of course, that's just one part of you I would like to explore."
-    mc "Memanglah, itu hanya satu bahagian dari awak yang ingin saya terokai."
+    mc "Mestilah, tu cuma satu bahagian je dari awak yang saya nak cuba."
 
 # game/code/d07/d07s04mh.rpy:168
 translate malaysian replay_d07s04mh_cdecdf90:
 
     # mc "And I'm definitely not ready for you to try to shove that massive monster up my back door!"
-    mc "Dan saya pasti tidak bersedia untuk awak cuba membawa raksasa besar itu ke pintu belakang saya!"
+    mc "Dan saya pasti yang saya tak sedia untuk awak cuba masukkan raksasa besar tu ke dalam pintu belakang saya ni!"
 
 # game/code/d07/d07s04mh.rpy:172
 translate malaysian replay_d07s04mh_260d5a2b:
 
     # mh "Ha! No worries, I won't rush you on that. {w}But you might want to start training your sphincter."
-    mh "Ha! Jangan risau, saya tidak akan tergesa-gesa. {w}Tapi awak mungkin mahu mula melatih sfinkter awak."
+    mh "Ha! Jangan risau, saya tak paksa awak pun. {w}Tapi awak mungkin nak mula latih sfinkter awak tu."
 
 # game/code/d07/d07s04mh.rpy:173
 translate malaysian replay_d07s04mh_6c62ad1e:
 
     # mc "What if we just practice with your sphincter for a while. I can't wait to be balls deep inside-"
-    mc "Bagaimana jika kita hanya berlatih dengan sfinkter awak sebentar. Saya tidak sabar untuk mendalamkan-"
+    mc "Apa kata kita latih dengan sfinkter awak tu dulu. Saya tak sabar nak masuk dalam-"
 
 # game/code/d07/d07s04mh.rpy:175
 translate malaysian replay_d07s04mh_e4902743:
 
     # mh "Not today, but soon. I want to get to know you a bit better before we go there."
-    mh "Bukan hari ini, tapi tidak lama lagi. Saya ingin mengenali awak dengan lebih baik sebelum kami ke sana."
+    mh "Bukan hari ni, tapi tak lama lagi. Saya nak kenal dengan awak lebih baik dulu sebelum kita ke arah sana."
 
 # game/code/d07/d07s04mh.rpy:176
 translate malaysian replay_d07s04mh_592a17f3_1:
 
     # mc "Looking forward to it."
-    mc "Saya akan menunggukannya."
+    mc "Saya akan tunggu awak."
 
 # game/code/d07/d07s04mh.rpy:183
 translate malaysian replay_d07s04mh_19eeee17:
 
     # mc "You coming?"
-    mc "Awak datang?"
+    mc "Awak nak ikut?"
 
 # game/code/d07/d07s04mh.rpy:184
 translate malaysian replay_d07s04mh_3017eebf:
 
     # mh "I might need to stay in the water a bit longer..."
-    mh "Saya mungkin perlu tinggal di dalam air lama sedikit..."
+    mh "Saya mungkin perlu duduk dalam air lama sikit..."
 
 # game/code/d07/d07s04mh.rpy:185
 translate malaysian replay_d07s04mh_2876efd9:
@@ -526,25 +526,25 @@ translate malaysian replay_d07s04mh_2876efd9:
 translate malaysian replay_d07s04mh_3911b2d8:
 
     # mh "Our discussion... {w}You know... I can't control it!"
-    mh "Perbincangan kita... {w}Awak tahu... Saya tidak dapat mengawalnya!"
+    mh "Perbualan kita... {w}Awak tahu lah... Saya tak boleh kawal saya punya ni!"
 
 # game/code/d07/d07s04mh.rpy:188
 translate malaysian replay_d07s04mh_b8c67f51:
 
     # mc "You mean..."
-    mc "Maksud awak ..."
+    mc "Maksud awak..."
 
 # game/code/d07/d07s04mh.rpy:190
 translate malaysian replay_d07s04mh_bca0bfe4:
 
     # mh "Yes, I mean it is hard as a rock..."
-    mh "Ya, saya bermaksud keras seperti batu..."
+    mh "Ha-ah, maksud saya benda ni keras macam batu..."
 
 # game/code/d07/d07s04mh.rpy:192
 translate malaysian replay_d07s04mh_3de0bf37:
 
     # mc "I got hard as well. You just saw it, right?"
-    mc "Saya juga. Awak baru melihatnya, betul?"
+    mc "Saya juga. Awak baru je nampak, kan?"
 
 # game/code/d07/d07s04mh.rpy:195
 translate malaysian replay_d07s04mh_e2e05496:
@@ -556,163 +556,163 @@ translate malaysian replay_d07s04mh_e2e05496:
 translate malaysian replay_d07s04mh_0bdf9436:
 
     # mc "I'm a bit surprised! You were so confident and secure when I just met you... I didn't expect you to be so shy..."
-    mc "Saya agak terkejut! Awak begitu yakin dan tenang ketika saya baru bertemu dengan awak.. Saya tidak menyangka awak akan begitu pemalu..."
+    mc "Saya agak terkejut! Awak nampak yakin dengan tenang bila saya baru jumpa dengan awak.. Saya tak sangka awak jenis pemalu..."
 
 # game/code/d07/d07s04mh.rpy:199
 translate malaysian replay_d07s04mh_52b59784:
 
     # mh "I feel very confident when I'm dressed, when I'm at work, when people around talk to me without looking at what I have between my legs."
-    mh "Saya berasa sangat yakin ketika berpakaian, ketika bekerja, ketika orang sekeliling bercakap dengan saya tanpa melihat apa yang ada di antara kedua belah kaki saya."
+    mh "Saya rasa yakin sangat bila saya berbaju, masa saya dekat tempat kerja saya, bila orang sekeliling bercakap dengan saya tanpa tengok apa yang ada dekat celah kaki saya ni."
 
 # game/code/d07/d07s04mh.rpy:200
 translate malaysian replay_d07s04mh_69299624:
 
     # mh "I'm not as confident swinging my dick around... in the public place like this."
-    mh "Saya tidak yakin mengayunkan batang saya... di tempat awam seperti ini."
+    mh "Saya tak ada lah yakin sangat dengan hayunkan kote saya ni... dekat tempat awam macam ni."
 
 # game/code/d07/d07s04mh.rpy:202
 translate malaysian replay_d07s04mh_1820ded1:
 
     # mc "There is only me here, and I want nothing more than to see you emerging from the water!"
-    mc "Hanya ada saya di sini, dan saya tidak mahu apa-apa selain melihat awak keluar dari air!"
+    mc "Cuma ada saya je dekat sini, dan saya tak nak benda lain selain daripada tengok awak keluar dari air tu!"
 
 # game/code/d07/d07s04mh.rpy:204
 translate malaysian replay_d07s04mh_0d2b0369:
 
     # mh "Like this?"
-    mh "Macam ini?"
+    mh "Macam ni?"
 
 # game/code/d07/d07s04mh.rpy:206
 translate malaysian replay_d07s04mh_f631a19e:
 
     # mc "Wow! You look great!"
-    mc "Wow! Awak nampak hebat!"
+    mc "Wow! Awak nampak lawa!"
 
 # game/code/d07/d07s04mh.rpy:208
 translate malaysian replay_d07s04mh_565b827b:
 
     # mh "I feel very exposed... {w}But I like your reaction!"
-    mh "Saya berasa sangat terdedah... {w}Tapi saya suka reaksi awak!"
+    mh "Saya rasa terdedah sangat... {w}Tapi saya suka reaksi awak!"
 
 # game/code/d07/d07s04mh.rpy:211
 translate malaysian replay_d07s04mh_2e9df3de:
 
     # mh "Do you like it?"
-    mh "Awak sukakannya?"
+    mh "Awak suka ke?"
 
 # game/code/d07/d07s04mh.rpy:212
 translate malaysian replay_d07s04mh_a76eadc6:
 
     # mc "I'm fascinated by... {w}By all of you!"
-    mc "Saya terpesona dengan... {w}Semuanya!"
+    mc "Saya terpesona dengan... {w}Semua benda pasal awak!"
 
 # game/code/d07/d07s04mh.rpy:214
 translate malaysian replay_d07s04mh_ebe7f5ad:
 
     # mh "For such a young man, you know just the right words to please the lady!"
-    mh "Untuk lelaki muda, awak tahu perkataan yang tepat untuk menggembirakan wanita itu!"
+    mh "Untuk lelaki yang muda, awak tahu perkataan yang sesuai untuk gembirakan perempuan!"
 
 # game/code/d07/d07s04mh.rpy:215
 translate malaysian replay_d07s04mh_842e730f:
 
     # mc "Just speaking from the heart!"
-    mc "Hanya bercakap dari hati!"
+    mc "Cuma cakap dari hati je!"
 
 # game/code/d07/d07s04mh.rpy:217
 translate malaysian replay_d07s04mh_cd509a26:
 
     # mh "Ahah, don't overplay it!"
-    mh "Ahah, janganlah begitu!"
+    mh "Ahah, jangan melebih sangat!"
 
 # game/code/d07/d07s04mh.rpy:219
 translate malaysian replay_d07s04mh_57e270b7:
 
     # mh "Since you were at the Party I guess you play Fetish Locator?"
-    mh "Sejak awak berada di Parti, saya rasa awak bermain Fetish Locator?"
+    mh "Sejak awak ada dekat Parti, saya fikir awak ada main Fetish Locator?"
 
 # game/code/d07/d07s04mh.rpy:220
 translate malaysian replay_d07s04mh_baaf4ef8:
 
     # mc "Yeah, of course. Don't you?"
-    mc "Yeah, Mestilah. Bukankah awak?"
+    mc "Ha-ah, mestilah. Bukan awak pun main ke?"
 
 # game/code/d07/d07s04mh.rpy:221
 translate malaysian replay_d07s04mh_7a99826f:
 
     # mh "I get the Daily Challenge updates, but haven't tried any of them yet."
-    mh "Saya mendapat kemas kini Cabaran Harian, tapi belum mencubanya lagi."
+    mh "Saya dapat kemas kini Cabaran Harian je, tapi belum cuba apa-apa lagi."
 
 # game/code/d07/d07s04mh.rpy:222
 translate malaysian replay_d07s04mh_875d2f35:
 
     # mc "Ah. You want to try?"
-    mc "Ah. Awak mahu cuba?"
+    mc "Ah. Awak nak cuba?"
 
 # game/code/d07/d07s04mh.rpy:224
 translate malaysian replay_d07s04mh_be7862f2:
 
     # mh "I've got an idea... {w}How many points do you think you would get for spanking me?"
-    mh "Saya ada satu idea... {w} Berapa banyak mata yang awak fikir awak akan dapat untuk memukul saya?"
+    mh "Saya ada satu idea... {w}Berapa banyak mata yang awak rasa awak boleh dapat dengan pukul bontot saya?"
 
 # game/code/d07/d07s04mh.rpy:225
 translate malaysian replay_d07s04mh_80a1113c:
 
     # mc "Don't know, but it should be a fair number of points!"
-    mc "Tidak tahu, tapi ini mesti banyak poin!"
+    mc "Tak tahu, tapi ni mesti banyak markah mata boleh dapat!"
 
 # game/code/d07/d07s04mh.rpy:227
 translate malaysian replay_d07s04mh_40e1c558:
 
     # mh "But not my butt... I want you to spank my hard cock!"
-    mh "Tapi bukan pantat saya... Saya mahu awak memukul batang keras saya!"
+    mh "Tapi bukan bontot saya lah... Saya nak awak tampar kote keras saya ni!"
 
 # game/code/d07/d07s04mh.rpy:229
 translate malaysian replay_d07s04mh_066098c5:
 
     # mc "Wow! You don't mind?"
-    mc "Wow! Awak tidak kisah?"
+    mc "Wow! Awak tak kisah ni?"
 
 # game/code/d07/d07s04mh.rpy:232
 translate malaysian replay_d07s04mh_64095358:
 
     # mh "Come on. My cock is hard without your permission. I need a punishment."
-    mh "Marilah. Batang saya keras tanpa kebenaran awak. Saya memerlukan hukuman."
+    mh "Cepatlah. Kote saya tengah tegang ni tanpa kebenaran awak. Saya perlukan hukuman."
 
 # game/code/d07/d07s04mh.rpy:234
 translate malaysian replay_d07s04mh_3c42ea0c:
 
     # mh "Come on. I'm a big girl - I can take it. Besides, it will be fun."
-    mh "Marilah. Saya seorang gadis dewasa - saya boleh mengambilnya. Selain itu, ia akan menyeronokkan."
+    mh "Cepatlah. Saya perempuan yang kuat lah - saya boleh tahan punya. Lagi pun, benda ni jadi seronok nanti."
 
 # game/code/d07/d07s04mh.rpy:241
 translate malaysian replay_d07s04mh_3838af4a:
 
     # mc "Wow. I'd love to do that even if there weren't any points involved."
-    mc "Wow. Saya ingin melakukannya walaupun tidak ada perkara yang terlibat."
+    mc "Wow. Saya teringin nak buat walaupun tak ada markah mata yang terlibat."
 
 # game/code/d07/d07s04mh.rpy:247
 translate malaysian replay_d07s04mh_ea0b62bf:
 
     # mc "Let's just enjoy this lovely beach for now."
-    mc "Mari kita nikmati pantai yang indah ini buat masa ini."
+    mc "Jom kita nikmati pantai yang indah ni buat sementara waktu."
 
 # game/code/d07/d07s04mh.rpy:249
 translate malaysian replay_d07s04mh_97d551cf:
 
     # mh "Okay. Let me know if you change your mind."
-    mh "Okay. Beritahu saya jika awak berubah fikiran."
+    mh "Ok. Bagitahu saya kalau awak ubah fikiran."
 
 # game/code/d07/d07s04mh.rpy:253
 translate malaysian replay_d07s04mh_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Adakah awak bersedia?"
+    mc "Awak dah sedia?"
 
 # game/code/d07/d07s04mh.rpy:254
 translate malaysian replay_d07s04mh_880182b2:
 
     # mh "Can't wait! Do it!"
-    mh "Tidak sabar! Lakukannya!"
+    mh "Tak sabar! Cepat buat!"
 
 # game/code/d07/d07s04mh.rpy:260
 translate malaysian replay_d07s04mh_019aa78a:
@@ -724,7 +724,7 @@ translate malaysian replay_d07s04mh_019aa78a:
 translate malaysian replay_d07s04mh_a90d40b8:
 
     # mh "Do it again!"
-    mh "Lakukannya lagi!"
+    mh "Lagi lagi!"
 
 # game/code/d07/d07s04mh.rpy:278
 translate malaysian d07s04mh_slap_loop_50902d64:
@@ -736,43 +736,43 @@ translate malaysian d07s04mh_slap_loop_50902d64:
 translate malaysian d07s04mh_slap_loop_a0fdeb30:
 
     # mh "I see you also like it?"
-    mh "Saya melihat awak juga menyukainya?"
+    mh "Saya nampak awak suka juga, ya?"
 
 # game/code/d07/d07s04mh.rpy:284
 translate malaysian d07s04mh_slap_loop_8ffe1317:
 
     # mc "Can't stop!"
-    mc "Tidak boleh berhenti!"
+    mc "Tak boleh berhenti!"
 
 # game/code/d07/d07s04mh.rpy:298
 translate malaysian d07s04mh_slap_loop_8ecd622d:
 
     # mh "Weren't you gonna take some pics?"
-    mh "Bukankah awak akan mengambil gambar?"
+    mh "Bukan ke awak nak ambil gambar tadi?"
 
 # game/code/d07/d07s04mh.rpy:300
 translate malaysian d07s04mh_slap_loop_33f3f6ca:
 
     # mc "Oh, right! I almost forgot."
-    mc "Oh, betul! Saya hampir terlupa."
+    mc "Oh, ya tak ya! Saya hampir terlupa."
 
 # game/code/d07/d07s04mh.rpy:312
 translate malaysian d07s04mh_slap_loop_9b781cfc:
 
     # mh "More! Please!"
-    mh "Lagi! Tolonglah!"
+    mh "Lagi! Tolong lah!"
 
 # game/code/d07/d07s04mh.rpy:315
 translate malaysian d07s04mh_slap_loop_eba8ec46:
 
     # mc "I think that's enough..."
-    mc "Saya rasa sudah cukup..."
+    mc "Saya rasa tu saja..."
 
 # game/code/d07/d07s04mh.rpy:316
 translate malaysian d07s04mh_slap_loop_cacd4ed4:
 
     # mh "You think so? Okay."
-    mh "Awak fikir begitu? Baiklah."
+    mh "Betul ke? Ok."
 
 # game/code/d07/d07s04mh.rpy:326
 translate malaysian d07s04mh_slap_cum_ff2f11ee:
@@ -784,31 +784,31 @@ translate malaysian d07s04mh_slap_cum_ff2f11ee:
 translate malaysian d07s04mh_slap_cum_e4dc8f2c:
 
     # mc "Holy... Wow!"
-    mc "Wow!"
+    mc "Wow... gilalah!"
 
 # game/code/d07/d07s04mh.rpy:329
 translate malaysian d07s04mh_slap_cum_f2121907:
 
     # mc "Did you just..."
-    mc "Adakah awak..."
+    mc "Tadi awak baru je ke..."
 
 # game/code/d07/d07s04mh.rpy:330
 translate malaysian d07s04mh_slap_cum_1288d732:
 
     # mh "Cum all over you? Yes... Sorry..."
-    mh "Pancut semuanya kepada awak? Ya... Maaf..."
+    mh "Pancut semua dekat awak? Ha-ah... Maaf..."
 
 # game/code/d07/d07s04mh.rpy:331
 translate malaysian d07s04mh_slap_cum_2e124c8e:
 
     # mc "Just from spanking it??"
-    mc "Hanya dar memukulnya sahaja??"
+    mc "Hanya dengan tampar saja??"
 
 # game/code/d07/d07s04mh.rpy:333
 translate malaysian d07s04mh_slap_cum_5425a225:
 
     # mh "I guess I was too excited and it was too sensitive!"
-    mh "Saya rasa saya terlalu teruja dan terlalu sensitif!"
+    mh "Saya rasa saya terlalu teruja dengan terlalu sensitif!"
 
 # game/code/d07/d07s04mh.rpy:335
 translate malaysian d07s04mh_slap_cum_d67642ac:
@@ -820,43 +820,43 @@ translate malaysian d07s04mh_slap_cum_d67642ac:
 translate malaysian d07s04mh_slap_cum_cac7cca3:
 
     # mh "I'm sorry, if this was a bit unexpected..."
-    mh "Saya minta maaf, jika ianya tidak dijangka..."
+    mh "Saya minta maaf, kalau benda ni tak terjangka..."
 
 # game/code/d07/d07s04mh.rpy:340
 translate malaysian d07s04mh_slap_cum_0a7f71d9:
 
     # mc "Get over here and clean it up."
-    mc "Mari sini dan bersihkannya."
+    mc "Mari sini lepas tu bersihkan."
 
 # game/code/d07/d07s04mh.rpy:341
 translate malaysian d07s04mh_slap_cum_67b0297b:
 
     # mh "Yes, sir. I'm happy to serve."
-    mh "Ya, tuan. Saya gembira dapat berkhidmat."
+    mh "Baik, encik. Saya gembira dapat berkhidmat."
 
 # game/code/d07/d07s04mh.rpy:342
 translate malaysian d07s04mh_slap_cum_a5aa6f45:
 
     # mc "Don't stop until it is perfectly clean."
-    mc "Jangan berhenti sehingga betul-betul bersih."
+    mc "Jangan berhenti sampai betul-betul bersih."
 
 # game/code/d07/d07s04mh.rpy:344
 translate malaysian d07s04mh_slap_cum_84dad565:
 
     # mh "Let me clean that up for you."
-    mh "Biarkan saya membersihkannya untuk awak."
+    mh "Biar saya bersihkan untuk awak."
 
 # game/code/d07/d07s04mh.rpy:345
 translate malaysian d07s04mh_slap_cum_22399957:
 
     # mh "Oh, what a mess I made."
-    mh "Oh, bersepahnya."
+    mh "Oh, bersepahnya lah saya buat."
 
 # game/code/d07/d07s04mh.rpy:346
 translate malaysian d07s04mh_slap_cum_5c45cdde:
 
     # mh "It's going to be as clean as I can make it."
-    mh "Ia akan menjadi bersih seperti yang saya dapat membuatnya."
+    mh "Nanti akan jadi bersih sebersihnya yang saya mampu."
 
 # game/code/d07/d07s04mh.rpy:354
 translate malaysian d07s04mh_slap_cum_aa6d20e6:
@@ -868,25 +868,25 @@ translate malaysian d07s04mh_slap_cum_aa6d20e6:
 translate malaysian d07s04mh_slap_cum_27bbca3c:
 
     # mh "How are you?"
-    mh "Awak bagaimana pula?"
+    mh "Awak macam mana pula?"
 
 # game/code/d07/d07s04mh.rpy:357
 translate malaysian d07s04mh_slap_cum_c39818e4:
 
     # mc "I'm still processing this! You just ate your cum from my cock!"
-    mc "Saya masih lagi memproses ini! Awak baru sahaja makan semen dari batang saya!"
+    mc "Saya masih tengah proses ni! Awak baru je makan semen awak dekat kote saya!"
 
 # game/code/d07/d07s04mh.rpy:359
 translate malaysian d07s04mh_slap_cum_85845439:
 
     # mh "Did you enjoy it?"
-    mh "Adakah awak menikmatinya?"
+    mh "Awak suka tak?"
 
 # game/code/d07/d07s04mh.rpy:361
 translate malaysian d07s04mh_slap_cum_1a944efe:
 
     # mh "Do you want me to keep going?"
-    mh "Adakah awk mahu saya teruskan?"
+    mh "Awak nak saya teruskan ke?"
 
 # game/code/d07/d07s04mh.rpy:378
 translate malaysian d07s04mh_polly_3b01b4e9:
@@ -904,77 +904,77 @@ translate malaysian d07s04mh_polly_1f7a9c0c:
 translate malaysian d07s04mh_polly_fe7e1ff3:
 
     # pw "I'm very sorry, I thought it was empty here..."
-    pw "Saya sangat menyesal, saya fikir ia kosong di sini..."
+    pw "Saya minta maaf sangat, saya ingat tak ada orang dekat sini..."
 
 # game/code/d07/d07s04mh.rpy:387
 translate malaysian d07s04mh_polly_94b80ba4:
 
     # mh "Oh my god..."
-    mh "Oh tidak..."
+    mh "Alamak..."
 
 # game/code/d07/d07s04mh.rpy:389
 translate malaysian d07s04mh_polly_1801c904:
 
     # mc "Hey. I'm sorry... There shouldn't be anyone here..."
-    mc "Hey. Maaf... Sepatutnya tiada orang di sini..."
+    mc "Hey. Minta maaf... Sepatutnya tak ada orang dekat sini..."
 
 # game/code/d07/d07s04mh.rpy:390
 translate malaysian d07s04mh_polly_4e955109:
 
     # mh "I can't... someone just..."
-    mh "Saya tidak boleh... ada orang..."
+    mh "Saya tak boleh... ada orang baru je..."
 
 # game/code/d07/d07s04mh.rpy:391
 translate malaysian d07s04mh_polly_3f9eabcf:
 
     # mc "Don't worry! Nothing bad happened! I know that girl. She won't tell anyone."
-    mc "Jangan risau! Tidak ada yang buruk berlaku! Saya tahu perempua itu. Dia tidak akan memberitahu sesiapa."
+    mc "Jangan risau! Tak ada benda buruk berlaku pun! Saya tahu perempuan tu. Dia tak akan bagitahu sesiapa pun."
 
 # game/code/d07/d07s04mh.rpy:394
 translate malaysian d07s04mh_polly_80ec799e:
 
     # mh "This is not a joke! I'm a lawyer with a reputation! I can't have beach sex stories going around!"
-    mh "Ianya tidak kelakar! Saya seorang peguam dengan reputasi! Saya tidak boleh mempunyai kisah seks pantai!"
+    mh "Benda ni bukan main-main! Saya ni peguam dengan reputasi! Saya tak boleh ada kisah seks pantai berlaku!"
 
 # game/code/d07/d07s04mh.rpy:395
 translate malaysian d07s04mh_polly_35c05d95:
 
     # mc "Sure, I'll talk to her and make sure she doesn't say anything about this."
-    mc "Baiklah, saya akan bercakap dengannya dan memastikan dia tidak mengatakan apa-apa mengenai perkara ini."
+    mc "Ok lah, saya cakap dengan dia lepas tu saya pastikan dia tak sebut apa-apa pun pasal benda ni."
 
 # game/code/d07/d07s04mh.rpy:398
 translate malaysian d07s04mh_polly_c9779ea7:
 
     # mh "Sorry. I know it's not your fault. I don't like feeling exposed like this... I just need to calm down."
-    mh "Maaf. Saya tahu itu bukan salah anda. Saya tidak suka berasa terdedah seperti ini ... saya hanya perlu tenang."
+    mh "Maaf. Saya tahu ni bukan salah awak pun. Saya tak suka rasa terdedah macam ni... saya cuma perlu tenangkan diri."
 
 # game/code/d07/d07s04mh.rpy:400
 translate malaysian d07s04mh_polly_09081efa:
 
     # mc "It's okay. Let's get dressed, then I'll go find her."
-    mc "Tidak mengapa. Mari berpakaian, dan nanti saya akan mencarinya."
+    mc "Tak apa. Jom kita pakai baju, nanti saya cari dia."
 
 # game/code/d07/d07s04mh.rpy:402
 translate malaysian d07s04mh_polly_b162b831:
 
     # mc "It's okay. Let's just get dressed and head back."
-    mc "Tidak mengapa. Mari kita berpakaian dan kembali."
+    mc "Tak apa. Jom kita pakai baju lepas tu balik."
 
 translate malaysian strings:
 
     # game/code/d07/d07s04mh.rpy:237
     old "I love everything about that idea"
-    new "Saya suka segala-galanya mengenai idea itu"
+    new "Saya suka idea tu"
 
     # game/code/d07/d07s04mh.rpy:237
     old "That would make me uncomfortable"
-    new "Itu akan membuatkan saya tidak selesa"
+    new "Tu buat saya rasa tak selesa"
 
     # game/code/d07/d07s04mh.rpy:266
     old "Slap her again"
-    new "Tampar dia lagi"
+    new "Tampar lagi"
 
     # game/code/d07/d07s04mh.rpy:266
     old "That is enough"
-    new "Itu sudah cukup"
+    new "Dah cukup"
 
