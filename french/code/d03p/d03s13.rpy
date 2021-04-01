@@ -916,7 +916,7 @@ translate french replay_d03s13_aaed64e5:
 translate french replay_d03s13_9a3b5c6c:
 
     # mes "I bet you want my mouth{w} ...or my cunt{w}"
-    mes "Je parie que tu veux ma bouche{w} ...ou ma chatte{w}"
+    mes "Je parie que tu veux ma bouche{w} ...ou ma chatte"
 
 # game/code/d03p/d03s13.rpy:483
 translate french replay_d03s13_dc9ef5e7:
