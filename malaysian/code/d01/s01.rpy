@@ -760,4 +760,4 @@ translate malaysian strings:
 
     # game/code/d01/s01.rpy:283
     old "Tell her it is Pete's girl and you had no idea she was in the room"
-    new "Bagitahu dia yang tu kawan Pete lepas tu kau tak tahu yang dia ada dalam bilik"
+    new "Bagitahu dia yang perempuan tu kawan Pete lepas tu kau tak tahu yang dia ada dalam bilik"
