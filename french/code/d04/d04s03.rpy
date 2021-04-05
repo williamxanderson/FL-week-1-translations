@@ -160,7 +160,7 @@ translate french d04s03_0921100a:
 translate french d04s03_a59d8f1f:
 
     # mc "So, tell me what's going on"
-    mc "Alors, dis-moi ce qui se passe"
+    mc "Alors, dis-moi ce qui se passe."
 
 # game/code/d04/d04s03.rpy:60
 translate french d04s03_856c693a:
@@ -214,7 +214,7 @@ translate french d04s03_9471cd4c:
 translate french d04s03_7b949438:
 
     # sy "I started talking to this guy in my CS class. He was kind of nice and gentle and well... {w}I fell for him"
-    sy "J’ai commencé à parler à ce gars dans mon cours d'informatique. Il était assez gentil et charmant et bien... {w}Je suis tombé amoureuse de lui"
+    sy "J’ai commencé à parler à ce gars dans mon cours d'informatique. Il était assez gentil et charmant et bien... {w}Je suis tombé amoureuse de lui."
 
 # game/code/d04/d04s03.rpy:74
 translate french d04s03_eeac9796:
@@ -502,7 +502,7 @@ translate french d04s03_051bd574:
 translate french d04s03_59e3024f:
 
     # sy "The second part is about eating as rarely as possible. The best is once per day, but I have only been able to cut down to twice daily.."
-    sy "La deuxième partie est de manger aussi rarement que possible. Le mieux, c'est une fois par jour, mais je n’ai pu réduire qu'à deux fois par jour.."
+    sy "La deuxième partie est de manger aussi rarement que possible. Le mieux, c'est une fois par jour, mais je n’ai pu réduire qu'à deux fois par jour."
 
 # game/code/d04/d04s03.rpy:165
 translate french d04s03_ca5ea25b:
