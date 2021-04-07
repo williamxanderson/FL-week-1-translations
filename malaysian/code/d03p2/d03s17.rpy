@@ -400,7 +400,7 @@ translate malaysian d03s17_1eb813d8:
 translate malaysian d03s17_4cfb31dc:
 
     # lc "Wow! Awkward."
-    lc "Wah! Canggung."
+    lc "Wow! Janggalnya."
 
 # game/code/d03p2/d03s17.rpy:218
 translate malaysian d03s17_837c5ca3:
