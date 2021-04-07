@@ -778,7 +778,7 @@ translate malaysian d06s04_f31a453a:
 translate malaysian d06s04_4448bb63:
 
     # mc "So, there's no stress. You've already accomplished the goal of bringing people here."
-    mc "Jadi, tidak ada tekanan. Awak sudah berjaya mencapai matlamat untuk membawa orang ke sini."
+    mc "Jadi, janganlah tekanan. Awak sudah berjaya mencapai matlamat untuk membawa orang ke sini."
 
 # game/code/d06/d06s04.rpy:271
 translate malaysian d06s04_6eb5001c:
