@@ -136,7 +136,7 @@ translate malaysian replay_d07s04pw_fc952754:
 translate malaysian replay_d07s04pw_7e7a5d3e:
 
     # pw "I was hoping to see you here today!"
-    pw "Saya memang harap dapat jumpa awak dekat sini hari ni"
+    pw "Saya memang harap dapat jumpa awak dekat sini hari ni!"
 
 # game/code/d07/d07s04pw.rpy:65
 translate malaysian replay_d07s04pw_34b48e6a:
@@ -298,7 +298,7 @@ translate malaysian replay_d07s04pw_a6a59a59:
 translate malaysian replay_d07s04pw_e5359b4d:
 
     # pw "or making you eat my dirty shitbox after I take a dump on your chest..."
-    pw "atau buat awak jilat lubang bontot saya yang kotor lepas saya berak atas dada awak tu..."
+    pw "Atau buat awak jilat lubang bontot saya yang kotor lepas saya berak atas dada awak tu..."
 
 # game/code/d07/d07s04pw.rpy:138
 translate malaysian replay_d07s04pw_cf5983a0:
