@@ -340,7 +340,7 @@ translate malaysian replay_d03s13_a777d207:
 translate malaysian replay_d03s13_a9060406:
 
     # mc "I have a challenge for you."
-    mc "Saya mempunyai cabaran untuk anda."
+    mc "Saya ada cabaran untuk awak."
 
 # game/code/d03p/d03s13.rpy:224
 translate malaysian replay_d03s13_f69fbcb4:
@@ -988,7 +988,7 @@ translate malaysian replay_d03s13_7c55351f:
 translate malaysian replay_d03s13_915ecf9a:
 
     # mc "Do you mean...?"
-    mc "Adakah awak bermaksud ...?"
+    mc "Adakah maksud awak...?
 
 # game/code/d03p/d03s13.rpy:530
 translate malaysian replay_d03s13_7ab50454:
