@@ -173,6 +173,7 @@ translate malaysian strings:
     # game/code/labels.rpy:33
     old "What is your name? (Default name - Mike)"
     new "Siapakah nama anda? (Nama lalai - Mike)"
+
 # TODO: Translation updated at 2021-03-26 21:06
 
 # game/code/labels.rpy:96
@@ -185,37 +186,37 @@ translate malaysian support_me_993b3326:
 translate malaysian support_me_3710a879:
 
     # dd "Yes, sweety?"
-    dd "Yes, sweety?"
+    dd "Ya, sayang?"
 
 # game/code/labels.rpy:104
 translate malaysian support_me_d9b46b90:
 
     # sy "Do you think they know?"
-    sy "Do you think they know?"
+    sy "Adakah awak fikir mereka tahu?"
 
 # game/code/labels.rpy:112
 translate malaysian support_me_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Them! The one behind this screen!"
+    sy "Merekalah! Yang berada di sebalik skrin ini!"
 
 # game/code/labels.rpy:119
 translate malaysian support_me_a481faf7:
 
     # sy "Do you think they know how important their support is to me?"
-    sy "Do you think they know how important their support is to me?"
+    sy "Adakah awak fikir mereka tahu betapa pentingnya sokongan mereka kepada saya?"
 
 # game/code/labels.rpy:125
 translate malaysian support_me_9ce1e5cd:
 
     # dd "They love you!"
-    dd "They love you!"
+    dd "Mereka sayang awak!"
 
 # game/code/labels.rpy:128
 translate malaysian support_me_9581c39d:
 
     # dd "And I'm sure they know that even a little support means a great deal to you!"
-    dd "And I'm sure they know that even a little support means a great deal to you!"
+    dd "Dan saya yakin mereka tahu bahawa walaupun sedikit sokongan bermakna banyak bagi awak!"
 
 # game/code/labels.rpy:142
 translate malaysian coming_next_993b3326:
@@ -227,35 +228,34 @@ translate malaysian coming_next_993b3326:
 translate malaysian coming_next_3710a879:
 
     # dd "Yes, sweety?"
-    dd "Yes, sweety?"
+    dd "Ya, sayang?"
 
 # game/code/labels.rpy:150
 translate malaysian coming_next_54ac3011:
 
     # sy "Do you think they will wait?"
-    sy "Do you think they will wait?"
+    sy "Adakah awak fikir mereka akan menunggu?"
 
 # game/code/labels.rpy:158
 translate malaysian coming_next_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Them! The one behind this screen!"
+    sy "Merekalah! Yang berada di sebalik skrin ini!"
 
 # game/code/labels.rpy:165
 translate malaysian coming_next_20f6580c:
 
     # sy "Wait for the next game update, silly."
-    sy "Wait for the next game update, silly."
+    sy "Tunggu kemas kini permainan seterusnya, dungu."
 
 # game/code/labels.rpy:171
 translate malaysian coming_next_9ce1e5cd:
 
     # dd "They love you!"
-    dd "They love you!"
+    dd "Mereka sayang awak!!"
 
 # game/code/labels.rpy:174
 translate malaysian coming_next_de7eb1b3:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-
+    dd "Dan saya pasti mereka akan lebih gembira bermain apabila minggu 2 akan dikeluarkan pada tahun 2021!"
