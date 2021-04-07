@@ -514,7 +514,7 @@ translate malaysian replay_d03s14_af434bf1:
 translate malaysian replay_d03s14_f39f70a4:
 
     # tm "Come here, darling. Let me taste him from your mouth!"
-    tm "Datang ke sini, sayang. Biarkan saya merasainya dari mulut awak!"
+    tm "Mari sini, sayang. Biarkan saya merasainya dari mulut awak!"
 
 # game/code/d03p/d03s14.rpy:281
 translate malaysian replay_d03s14_bd0601da:
