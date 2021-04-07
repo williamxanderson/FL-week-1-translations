@@ -106,7 +106,7 @@ translate french d04s04_ee87e6f3:
 translate french d04s04_b511c18c:
 
     # nk "My business is mostly about people, getting to know people, learning about people, etc."
-    nk "Mon travail consiste surtout à apprendre à connaître les gens, à en apprendre davantage sur eux, etc.."
+    nk "Mon travail consiste surtout à apprendre à connaître les gens, à en apprendre davantage sur eux, etc."
 
 # game/code/d04/d04s04.rpy:47
 translate french d04s04_19b385a5:
@@ -742,7 +742,7 @@ translate french d04s04p2_e7273555:
 translate french d04s04p2_9c90e485:
 
     # nk "No, um, just coffee..."
-    nk "Non, hum, juste du café"
+    nk "Non, hum, juste du café..."
 
 # game/code/d04/d04s04.rpy:240
 translate french d04s04p2_2aee2ff7:
@@ -1702,7 +1702,7 @@ translate french d04s04p2_09c41f70:
 translate french d04s04p2_08a0bc71:
 
     # mc "Well, let's not go crazy. Maybe just something with less caffeine."
-    mc "Eh bien, faut pas abuser. Peut-être juste quelque chose avec moins de caféine"
+    mc "Eh bien, faut pas abuser. Peut-être juste quelque chose avec moins de caféine."
 
 # game/code/d04/d04s04.rpy:483
 translate french d04s04p2_7410f955:
@@ -1738,13 +1738,13 @@ translate french d04s04p2_349448a0:
 translate french d04s04p2_bf4f3542:
 
     # lc "Oh, and one more thing... {w}How long would it take to set up this coffee shop concert?"
-    lc "Oh, et encore une chose... {w}Combien de temps faudrait-il pour organiser un concert au café ?"
+    lc "Oh, et encore une chose... {w}Combien de temps faudrait-il pour organiser un concert au café?"
 
 # game/code/d04/d04s04.rpy:496
 translate french d04s04p2_7c21a576:
 
     # nk "Oh! I could have it ready for you tomorrow!"
-    nk "Oh! Je pourrais te le préparer pour demain !"
+    nk "Oh! Je pourrais te le préparer pour demain!"
 
 # game/code/d04/d04s04.rpy:498
 translate french d04s04p2_2fb7ac15:
@@ -1900,7 +1900,7 @@ translate french d04s04p2_4368b82d:
 translate french d04s04p2_c58f3dfa:
 
     # mc "So, Lydia, did you want to tell her or should I?"
-    mc "Alors Lydia, tu veux lui dire ou je le fais ?"
+    mc "Alors Lydia, tu veux lui dire ou je le fais?"
 
 # game/code/d04/d04s04.rpy:541
 translate french d04s04p2_16b3f7e2:
