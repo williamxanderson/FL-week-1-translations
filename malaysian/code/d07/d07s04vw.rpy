@@ -202,7 +202,7 @@ translate malaysian replay_d07s04vw_30757c0e:
 translate malaysian replay_d07s04vw_4c29c6e6:
 
     # mct "So dark here... My eyes need to adjust..."
-    mct "Gelapnya... Kena bagi masa sikit untuk mata aku"
+    mct "Gelapnya... Kena bagi masa sikit untuk mata aku..."
 
 # game/code/d07/d07s04vw.rpy:120
 translate malaysian replay_d07s04vw_e52d04a3:
