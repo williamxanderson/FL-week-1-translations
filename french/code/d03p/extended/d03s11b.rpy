@@ -292,7 +292,7 @@ translate french d03s11b_431fcb05:
 translate french d03s11b_cfebbcee:
 
     # mc "No thanks. Exit only. I've never had anything up my back door."
-    mc "Non merci. Sortie seulement. Je n’ai jamais rien eu à ma porte arrière"
+    mc "Non merci. Sortie seulement. Je n’ai jamais rien eu à ma porte arrière."
 
 # game/code/d03p/extended/d03s11b.rpy:127
 translate french d03s11b_a5b7cc0b:
