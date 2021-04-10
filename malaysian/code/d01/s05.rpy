@@ -1037,3 +1037,47 @@ translate malaysian strings:
     # game/code/d01/s05.rpy:515
     old "Cum on AmRose"
     new "Pancut ke AmRose"
+
+# TODO: Translation updated at 2021-04-10 23:13
+
+# game/code/d01/s05.rpy:547
+translate malaysian replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! Kau tertidur, dan aku ingatkan mahu bailk tanpa mengejutkan kau."
+
+# game/code/d01/s05.rpy:548
+translate malaysian replay_d01s05_6bfe9e38_1:
+
+    # arj "Oh, you wanted to sneak out on me."
+    arj "Oh, kau mahu keluar tanpa pengetahuanku."
+
+# game/code/d01/s05.rpy:549
+translate malaysian replay_d01s05_5e84ced2_1:
+
+    # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "No, aku tak mahu kejutkan kau. Kau nampak terlalu nyenyak tidur disitu."
+
+# game/code/d01/s05.rpy:552
+translate malaysian replay_d01s05_8b6b07ae_1:
+
+    # arj "He-he!"
+    arj "He-he!"
+
+# game/code/d01/s05.rpy:553
+translate malaysian replay_d01s05_6bd7d659_1:
+
+    # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Tapi kau betul, aku berasa penat. Filem tadi bagus. Aku akan cari masa untuk habiskan menontonnya."
+
+# game/code/d01/s05.rpy:554
+translate malaysian replay_d01s05_388a66b7_1:
+
+    # mc "Okay! I should get going."
+    mc "Okay! Pergi dulu."
+
+# game/code/d01/s05.rpy:556
+translate malaysian replay_d01s05_910039be_1:
+
+    # arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "Sure! Bagi aku peluk kau dulu. Terima kasih untuk filem tadi."
