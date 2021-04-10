@@ -1082,3 +1082,11 @@ translate polish replay_d01s05_910039be_1:
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Sure! Let me give you a hug first. Thanks for the movie."
 
+# TODO: Translation updated at 2021-04-10 23:16
+
+# game/code/d01/s05.rpy:547
+translate polish replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! You fell asleep, and I thought to leave without waking you up."
+
