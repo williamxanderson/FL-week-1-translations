@@ -294,3 +294,10 @@ translate chinese d07s03_80956c5e:
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "也许现在是去找丽莎和瓦妮莎的好时机。"
 
+# TODO: Translation updated at 2021-04-10 22:43
+
+# game/code/d07/d07s03.rpy:24
+translate chinese d07s03_801dd8de:
+
+    # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
+    mc "是啊，史黛西可能很久没有见过海了。"

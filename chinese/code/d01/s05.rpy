@@ -1037,3 +1037,47 @@ translate chinese strings:
     # game/code/d01/s05.rpy:496
     old "Cum on AmRose"
     new "射在爱洛丝身上"
+
+# TODO: Translation updated at 2021-04-10 22:46
+
+# game/code/d01/s05.rpy:547
+translate chinese replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
+
+# game/code/d01/s05.rpy:548
+translate chinese replay_d01s05_6bfe9e38_1:
+
+    # arj "Oh, you wanted to sneak out on me."
+    arj "哦，你想先开溜。"
+
+# game/code/d01/s05.rpy:549
+translate chinese replay_d01s05_5e84ced2_1:
+
+    # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "没啊，只是你看起来睡得很舒服，我不想叫醒你。"
+
+# game/code/d01/s05.rpy:552
+translate chinese replay_d01s05_8b6b07ae_1:
+
+    # arj "He-he!"
+    arj "呵呵！"
+
+# game/code/d01/s05.rpy:553
+translate chinese replay_d01s05_6bd7d659_1:
+
+    # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "不过你说的没错，我觉得很累。电影是很好看。我很想另外找个时间把它看完。"
+
+# game/code/d01/s05.rpy:554
+translate chinese replay_d01s05_388a66b7_1:
+
+    # mc "Okay! I should get going."
+    mc "好吧！我该走了。"
+
+# game/code/d01/s05.rpy:556
+translate chinese replay_d01s05_910039be_1:
+
+    # arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "好啊！来拥抱一个吧。谢谢你的电影。"
