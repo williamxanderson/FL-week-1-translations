@@ -174,3 +174,11 @@ translate dutch strings:
     old "What is your name? (Default name - Mike)"
     new "What is your name? (Default name - Mike)"
 
+# TODO: Translation updated at 2021-04-10 22:58
+
+# game/code/labels.rpy:115
+translate dutch support_me_002a4473:
+
+    # dd "Know what?"
+    dd "Know what?"
+
