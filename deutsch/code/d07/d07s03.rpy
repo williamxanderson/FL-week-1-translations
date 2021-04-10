@@ -314,3 +314,10 @@ translate deutsch d07s03_5a6fbbce:
     # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
     arj "Oh, sieht du das Mädchen da drüben was sich aufwärmt? Ich denke sie ist im Uni-Team. Ich hab sie noch nie am College gesehen."
 
+# TODO: Translation updated at 2021-04-10 22:51
+
+# game/code/d07/d07s03.rpy:24
+translate deutsch d07s03_801dd8de:
+
+    # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
+    mc "Yea, Stacy hat das Meer schon eine lange Zeit nicht mehr gesehen."

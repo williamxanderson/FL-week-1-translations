@@ -69,7 +69,7 @@ translate deutsch end_1ca2a080:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what you think! Your feedback would help me a lot! Support on Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
     "Danke für das spielen von [config.version] version des Spieles. Bitte lass mich wissen was du von dem Spiel denkst! Dein Feedback hilft mir sehr! Unterstütze uns auf Patreon - {a=https://www.patreon.com/fetishlocator}www.patreon.com/fetishlocator{/a}"
-    
+
     # game/code/labels.rpy:139
 translate deutsch coming_next_19d946e7:
 
@@ -129,6 +129,7 @@ translate deutsch coming_next_7c16ea83:
 
     # dd "And I'm sure he will be happy to play more once the week-2 will be released in 2021!"
     dd "Und ich bin sicher er wird gerne mehr spielen, sobald die zweite Woche 2021 veröffentlicht wird!"
+    
 # TODO: Translation updated at 2021-01-18 23:41
 
 # game/code/labels.rpy:203
@@ -223,3 +224,10 @@ translate deutsch coming_next_de7eb1b3:
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
 
+# TODO: Translation updated at 2021-04-10 22:51
+
+# game/code/labels.rpy:115
+translate deutsch support_me_002a4473:
+
+    # dd "Know what?"
+    dd "Know what?"
