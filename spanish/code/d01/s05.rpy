@@ -1038,3 +1038,46 @@ translate spanish strings:
     old "Cum on AmRose"
     new "Venirte en AmRose"
 
+# TODO: Translation updated at 2021-04-10 23:29
+
+# game/code/d01/s05.rpy:547
+translate spanish replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "¡Hey! Te quedaste dormida y pensé en irme sin despertarte."
+
+# game/code/d01/s05.rpy:548
+translate spanish replay_d01s05_6bfe9e38_1:
+
+    # arj "Oh, you wanted to sneak out on me."
+    arj "Oh, querías escabullirte de mí."
+
+# game/code/d01/s05.rpy:549
+translate spanish replay_d01s05_5e84ced2_1:
+
+    # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "No, solo te veías tan cómoda durmiendo ahí que odiaba la idea de despertarte."
+
+# game/code/d01/s05.rpy:552
+translate spanish replay_d01s05_8b6b07ae_1:
+
+    # arj "He-he!"
+    arj "¡Je-je!"
+
+# game/code/d01/s05.rpy:553
+translate spanish replay_d01s05_6bd7d659_1:
+
+    # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Tienes razón, estaba muy cansada. La película estaba buena, me gustaría terminarla en algún momento."
+
+# game/code/d01/s05.rpy:554
+translate spanish replay_d01s05_388a66b7_1:
+
+    # mc "Okay! I should get going."
+    mc "¡Okay! Debería irme."
+
+# game/code/d01/s05.rpy:556
+translate spanish replay_d01s05_910039be_1:
+
+    # arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "¡Seguro! Déjame darte un abrazo primero. Gracias por la película."

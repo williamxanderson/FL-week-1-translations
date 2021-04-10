@@ -283,3 +283,11 @@ translate spanish coming_next_de7eb1b3:
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
 
+# TODO: Translation updated at 2021-04-10 23:29
+
+# game/code/labels.rpy:115
+translate spanish support_me_002a4473:
+
+    # dd "Know what?"
+    dd "Know what?"
+

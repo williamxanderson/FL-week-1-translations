@@ -313,3 +313,11 @@ translate spanish d07s03_5a6fbbce:
 
     # arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
     arj "Oh, ¿ves a esa chica calentando? Creo que es del equipo de la Universidad. Nunca la he visto en nuestra universidad."
+
+# TODO: Translation updated at 2021-04-10 23:29
+
+# game/code/d07/d07s03.rpy:24
+translate spanish d07s03_801dd8de:
+
+    # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
+    mc "Sí, Stacy probablemente no haya visto el mar hace mucho tiempo."
