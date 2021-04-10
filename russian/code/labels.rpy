@@ -227,6 +227,12 @@ translate russian support_me_779a284a:
     # sy "Them! The one behind this screen!"
     sy "Them! The one behind this screen!"
 
+# game/code/labels.rpy:115
+translate russian support_me_002a4473:
+
+    # dd "Know what?"
+    dd "Знаешь что?"
+
 # game/code/labels.rpy:119
 translate russian support_me_a481faf7:
 
@@ -286,4 +292,3 @@ translate russian coming_next_de7eb1b3:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-

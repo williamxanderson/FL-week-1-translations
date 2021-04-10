@@ -1038,3 +1038,46 @@ translate russian strings:
     old "Cum on AmRose"
     new "Кончи на АмРоуз"
 
+# TODO: Translation updated at 2021-04-10 23:23
+
+# game/code/d01/s05.rpy:547
+translate russian replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Я здесь! Ты вроде заснула, и я решил уйти, не разбудив тебя."
+
+# game/code/d01/s05.rpy:548
+translate russian replay_d01s05_6bfe9e38_1:
+
+    # arj "Oh, you wanted to sneak out on me."
+    arj "О, ты хотел улизнуть от меня."
+
+# game/code/d01/s05.rpy:549
+translate russian replay_d01s05_5e84ced2_1:
+
+    # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "Нет, просто ты выглядела так уютно, когда спала, что мне очень не хотелось будить тебя."
+
+# game/code/d01/s05.rpy:552
+translate russian replay_d01s05_8b6b07ae_1:
+
+    # arj "He-he!"
+    arj "Xe-xe!"
+
+# game/code/d01/s05.rpy:553
+translate russian replay_d01s05_6bd7d659_1:
+
+    # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Hо ты прав, я чувствую себя очень сонной. Фильм хороший. Я бы с удовольствием когда-нибудь досмотрела его."
+
+# game/code/d01/s05.rpy:554
+translate russian replay_d01s05_388a66b7_1:
+
+    # mc "Okay! I should get going."
+    mc "Ладно! Мне пора идти."
+
+# game/code/d01/s05.rpy:556
+translate russian replay_d01s05_910039be_1:
+
+    # arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "Хорошо! Давай я тебя обниму на прощанье. Спасибо за фильм."
