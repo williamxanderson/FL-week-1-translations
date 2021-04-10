@@ -988,7 +988,7 @@ translate malaysian replay_d03s13_7c55351f:
 translate malaysian replay_d03s13_915ecf9a:
 
     # mc "Do you mean...?"
-    mc "Adakah maksud awak...?
+    mc "Adakah maksud awak...?"
 
 # game/code/d03p/d03s13.rpy:530
 translate malaysian replay_d03s13_7ab50454:

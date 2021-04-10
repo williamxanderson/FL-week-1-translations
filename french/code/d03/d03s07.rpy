@@ -118,7 +118,7 @@ translate french d03s07_88f22d05:
 translate french d03s07_81fa94ec:
 
     # dd "I think he means women's studies."
-    dd "Je pense qu’il veut dire les "études des femmes"."
+    dd "Je pense qu’il veut dire les \"études des femmes\"."
 
 # game/code/d03/d03s07.rpy:89
 translate french d03s07_5e2b3f7d:
@@ -391,4 +391,3 @@ translate french strings:
     # game/code/d03/d03s07.rpy:167
     old "Refuse. I want to dominate, not to submit"
     new "Refuser. Je veux dominer, pas être soumis"
-

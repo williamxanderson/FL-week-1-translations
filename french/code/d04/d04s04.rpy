@@ -196,7 +196,7 @@ translate french d04s04_53ea1830:
 translate french d04s04_ade6968f:
 
     # mc "I don't think I will want to order anything called the Widow Maker while on a date."
-    mc "Je ne pense pas vouloir commander un truc appelé le "Faiseur de Veuves" pour un premier rendez-vous."
+    mc "Je ne pense pas vouloir commander un truc appelé le \"Faiseur de Veuves\" pour un premier rendez-vous."
 
 # game/code/d04/d04s04.rpy:72
 translate french d04s04_91a533e0:
@@ -2331,4 +2331,3 @@ translate french strings:
     # game/code/d04/d04s04.rpy:89
     old "No - I do not want that"
     new "Non - Je ne veux pas de ça"
-
