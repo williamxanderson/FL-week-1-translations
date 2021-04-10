@@ -4,7 +4,7 @@ translate malaysian strings:
 
     # game/code/classes/classes.rpy:117
     old "sister"
-    new "adik"
+    new "adik perempuan"
 
     # game/code/classes/classes.rpy:117
     old "best friend{#female}"
