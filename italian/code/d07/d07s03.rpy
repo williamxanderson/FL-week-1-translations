@@ -293,3 +293,11 @@ translate italian d07s03_80956c5e:
 
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "Forse è il momento buono di andare a trovare Lyssa e Vanessa."
+    
+# TODO: Translation updated at 2021-04-10 23:04
+
+# game/code/d07/d07s03.rpy:24
+translate italian d07s03_801dd8de:
+
+    # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
+    mc "Sì, mi sa che Stacy non vedeva il mare da chissà quanto tempo."
