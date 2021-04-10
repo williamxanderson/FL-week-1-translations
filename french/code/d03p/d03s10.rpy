@@ -694,7 +694,7 @@ translate french d03s10_468ffa40:
 translate french d03s10_c633e448:
 
     # mkfl "No kidding, I've known her for years. She's 100%% heterosexual, not a lesbian bone in her body."
-    mkfl "Sans blague, je la connais depuis des années. Elle est 100% hétérosexuelle, pas une once de lesbienne chez elle."
+    mkfl "Sans blague, je la connais depuis des années. Elle est 100%% hétérosexuelle, pas une once de lesbienne chez elle."
 
 # game/code/d03p/d03s10.rpy:380
 translate french d03s10_4ddaee1b:
@@ -979,4 +979,3 @@ translate french strings:
     # game/code/d03p/d03s10.rpy:497
     old "That's Enough For Tonight"
     new "Ca suffit pour ce soir"
-
