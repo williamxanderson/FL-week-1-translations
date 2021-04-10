@@ -1080,3 +1080,11 @@ translate turkish strings:
     old "Cum on AmRose"
     new "Cum on AmRose"
 
+# TODO: Translation updated at 2021-04-10 23:28
+
+# game/code/d01/s05.rpy:547
+translate turkish replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! You fell asleep, and I thought to leave without waking you up."
+

@@ -174,3 +174,11 @@ translate turkish strings:
     old "What is your name? (Default name - Mike)"
     new "What is your name? (Default name - Mike)"
 
+# TODO: Translation updated at 2021-04-10 23:28
+
+# game/code/labels.rpy:115
+translate turkish support_me_002a4473:
+
+    # dd "Know what?"
+    dd "Know what?"
+
