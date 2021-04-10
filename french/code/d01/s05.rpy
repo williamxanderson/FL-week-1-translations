@@ -1038,3 +1038,46 @@ translate french strings:
     old "Cum on AmRose"
     new "Jouir sur AmRose"
 
+# TODO: Translation updated at 2021-04-10 23:01
+
+# game/code/d01/s05.rpy:547
+translate french replay_d01s05_8e94edd0:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hé! Tu t'es endormie, et je pensais partir sans te réveiller."
+
+# game/code/d01/s05.rpy:548
+translate french replay_d01s05_6bfe9e38_1:
+
+    # arj "Oh, you wanted to sneak out on me."
+    arj "Oh, tu voulais t'echapper sans me le dire."
+
+# game/code/d01/s05.rpy:549
+translate french replay_d01s05_5e84ced2_1:
+
+    # mc "No, you just looked so comfy sleeping there that I hated the idea of waking you up."
+    mc "Non, tu avais l’air si bien endormie que je détestais l’idée de te réveiller."
+
+# game/code/d01/s05.rpy:552
+translate french replay_d01s05_8b6b07ae_1:
+
+    # arj "He-he!"
+    arj "He-he!"
+
+# game/code/d01/s05.rpy:553
+translate french replay_d01s05_6bd7d659_1:
+
+    # arj "But you're right, I feel very tired. The movie was good. I would love to finish it sometime."
+    arj "Mais tu as raison, je me sens très fatiguée. Le film était bon. J’aimerais bien le finir un jour."
+
+# game/code/d01/s05.rpy:554
+translate french replay_d01s05_388a66b7_1:
+
+    # mc "Okay! I should get going."
+    mc "OK! Je devrais y aller."
+
+# game/code/d01/s05.rpy:556
+translate french replay_d01s05_910039be_1:
+
+    # arj "Sure! Let me give you a hug first. Thanks for the movie."
+    arj "Bien sûr! Fais-moi un câlin d'abord. Merci pour le film."
