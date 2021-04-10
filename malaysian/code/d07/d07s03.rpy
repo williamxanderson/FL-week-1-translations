@@ -293,3 +293,11 @@ translate malaysian d07s03_80956c5e:
 
     # mct "Maybe this is a good time for me to find Lyssa and Vanessa."
     mct "Mungkin ni masa yang sesuai untuk aku cari Lyssa dan Vanessa."
+
+# TODO: Translation updated at 2021-04-10 23:10
+
+# game/code/d07/d07s03.rpy:24
+translate malaysian d07s03_801dd8de:
+
+    # mc "Yeah, Stacy probably hasn't seen the sea in a very long time."
+    mc "Iya, Stacy mungkin dah lama tak tengok laut."
