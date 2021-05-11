@@ -1081,3 +1081,11 @@ translate russian replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Хорошо! Давай я тебя обниму на прощанье. Спасибо за фильм."
+    
+# TODO: Translation updated at 2021-05-11 22:59
+
+# game/code/d01/s05.rpy:547
+translate russian replay_d01s05_8e94edd0_1:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Я здесь! Ты вроде заснула, и я решил уйти, не разбудив тебя."

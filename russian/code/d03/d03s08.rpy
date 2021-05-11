@@ -498,3 +498,10 @@ translate russian strings:
     old "Refuse"
     new "Отказаться"
 
+# TODO: Translation updated at 2021-05-11 22:59
+
+translate russian strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Хм... Да, Госпожа."

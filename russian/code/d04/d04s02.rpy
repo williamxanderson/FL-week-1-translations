@@ -564,3 +564,22 @@ translate russian strings:
     old "Just shower and leave"
     new "Просто прими душ и уходи"
 
+# TODO: Translation updated at 2021-05-11 22:59
+
+# game/code/d04/d04s02.rpy:32
+translate russian d04s02_ddd02ad8:
+
+    # dd "Oh, yeah. He does have a manly odor."
+    dd "Ох, да. У него действительно мужественный запах."
+
+# game/code/d04/d04s02.rpy:36
+translate russian d04s02_a0ad5e21:
+
+    # mc "Cool. I'm going to grab a shower."
+    mc "Круто. Я собираюсь принять душ."
+
+# game/code/d04/d04s02.rpy:326
+translate russian d04s02_message_3688a773:
+
+    # mc "(Whistles) We don't need no education..."
+    mc "(Hасвистывает) Нам не нужно никакого образования..."
