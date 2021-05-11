@@ -497,3 +497,11 @@ translate malaysian strings:
     # game/code/d03/d03s08.rpy:110
     old "Refuse"
     new "Enggan Patuh"
+
+# TODO: Translation updated at 2021-05-11 23:17
+
+translate malaysian strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Um... Ya, Puan"

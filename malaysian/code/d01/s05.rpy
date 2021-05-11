@@ -1081,3 +1081,11 @@ translate malaysian replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Ok! Meh saya peluk awak dulu kejap. Terima kasih pasal filem tu."
+    
+# TODO: Translation updated at 2021-05-11 23:17
+
+# game/code/d01/s05.rpy:547
+translate malaysian replay_d01s05_8e94edd0_1:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! Awak tertidur, dengan saya ingat saya tinggalkan awak tanpa kejutkan awak."
