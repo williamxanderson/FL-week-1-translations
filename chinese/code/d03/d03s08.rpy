@@ -498,3 +498,8 @@ translate chinese strings:
     old "Refuse"
     new "拒绝"
 
+translate chinese strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "呃……是，主人"

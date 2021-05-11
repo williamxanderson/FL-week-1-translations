@@ -1081,3 +1081,9 @@ translate chinese replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "好啊！来拥抱一个吧。谢谢你的电影。"
+
+# game/code/d01/s05.rpy:547
+translate chinese replay_d01s05_8e94edd0_1:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
