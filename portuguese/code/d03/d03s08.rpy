@@ -498,3 +498,11 @@ translate portuguese strings:
     old "Refuse"
     new "Refuse"
 
+# TODO: Translation updated at 2021-05-11 23:29
+
+translate portuguese strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Um... Yes, Mistress"
+

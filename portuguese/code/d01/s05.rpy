@@ -1920,3 +1920,11 @@ translate portuguese replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Sure! Let me give you a hug first. Thanks for the movie."
+    
+# TODO: Translation updated at 2021-05-11 23:29
+
+# game/code/d01/s05.rpy:547
+translate portuguese replay_d01s05_8e94edd0_1:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hey! You fell asleep, and I thought to leave without waking you up."
