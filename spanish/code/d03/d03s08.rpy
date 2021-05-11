@@ -497,3 +497,11 @@ translate spanish strings:
     # game/code/d03/d03s08.rpy:107
     old "Refuse"
     new "Rechazar"
+
+# TODO: Translation updated at 2021-05-11 23:15
+
+translate spanish strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Um... Sí, señora"

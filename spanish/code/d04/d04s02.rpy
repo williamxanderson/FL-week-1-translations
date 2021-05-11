@@ -564,3 +564,22 @@ translate spanish strings:
     old "Just shower and leave"
     new "Solo bañate y vete"
 
+# TODO: Translation updated at 2021-05-11 23:15
+
+# game/code/d04/d04s02.rpy:32
+translate spanish d04s02_ddd02ad8:
+
+    # dd "Oh, yeah. He does have a manly odor."
+    dd "Oh, sí.Tiene un olor varonil."
+
+# game/code/d04/d04s02.rpy:36
+translate spanish d04s02_a0ad5e21:
+
+    # mc "Cool. I'm going to grab a shower."
+    mc "Genial. Voy a tomar una ducha."
+
+# game/code/d04/d04s02.rpy:326
+translate spanish d04s02_message_3688a773:
+
+    # mc "(Whistles) We don't need no education..."
+    mc "(Chifla) No necesitamos educación..."
