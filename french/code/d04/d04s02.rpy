@@ -564,3 +564,22 @@ translate french strings:
     old "Just shower and leave"
     new "Prendre juste une douche et de partir"
 
+# TODO: Translation updated at 2021-05-11 23:24
+
+# game/code/d04/d04s02.rpy:32
+translate french d04s02_ddd02ad8:
+
+    # dd "Oh, yeah. He does have a manly odor."
+    dd "Oh, ouais. Il a une odeur virile."
+
+# game/code/d04/d04s02.rpy:36
+translate french d04s02_a0ad5e21:
+
+    # mc "Cool. I'm going to grab a shower."
+    mc "Cool. Je vais prendre une douche."
+
+# game/code/d04/d04s02.rpy:326
+translate french d04s02_message_3688a773:
+
+    # mc "(Whistles) We don't need no education..."
+    mc "(Wifflement) On n'a pas besoin d’éducation..."

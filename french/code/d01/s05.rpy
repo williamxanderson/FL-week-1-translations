@@ -1081,3 +1081,11 @@ translate french replay_d01s05_910039be_1:
 
     # arj "Sure! Let me give you a hug first. Thanks for the movie."
     arj "Bien sûr! Fais-moi un câlin d'abord. Merci pour le film."
+
+# TODO: Translation updated at 2021-05-11 23:24
+
+# game/code/d01/s05.rpy:547
+translate french replay_d01s05_8e94edd0_1:
+
+    # mc "Hey! You fell asleep, and I thought to leave without waking you up."
+    mc "Hé! Tu t'es endormie, et je pensais partir sans te réveiller."

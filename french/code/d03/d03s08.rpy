@@ -498,3 +498,10 @@ translate french strings:
     old "Refuse"
     new "Refuser"
 
+# TODO: Translation updated at 2021-05-11 23:24
+
+translate french strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Um... Oui, Maîtresse"
