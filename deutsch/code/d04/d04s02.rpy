@@ -813,3 +813,22 @@ translate deutsch d04s02_handjob_part_2_09e61f10:
     # dd "Mmm! What a wonderful taste!"
     dd "Mmm! Was ein wundervoller Geschmack!"
 
+# TODO: Translation updated at 2021-05-11 23:11
+
+# game/code/d04/d04s02.rpy:32
+translate deutsch d04s02_ddd02ad8:
+
+    # dd "Oh, yeah. He does have a manly odor."
+    dd "Oh, yeah. Er riecht wirklich männlich."
+
+# game/code/d04/d04s02.rpy:36
+translate deutsch d04s02_a0ad5e21:
+
+    # mc "Cool. I'm going to grab a shower."
+    mc "Cool. Ich werde mal unter die Dusche gehen."
+
+# game/code/d04/d04s02.rpy:326
+translate deutsch d04s02_message_3688a773:
+
+    # mc "(Whistles) We don't need no education..."
+    mc "(Pfeift) We don't need no education..."
