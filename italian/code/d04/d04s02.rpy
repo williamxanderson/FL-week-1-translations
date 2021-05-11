@@ -605,3 +605,23 @@ translate italian strings:
     # game/code/d04/d04s02.rpy:55
     old "Just shower and leave"
     new "Ti fai la doccia e te ne vai"
+
+# TODO: Translation updated at 2021-05-11 23:07
+
+# game/code/d04/d04s02.rpy:32
+translate italian d04s02_ddd02ad8:
+
+    # dd "Oh, yeah. He does have a manly odor."
+    dd "Oh, sì. Sa di maschio..."
+
+# game/code/d04/d04s02.rpy:36
+translate italian d04s02_a0ad5e21:
+
+    # mc "Cool. I'm going to grab a shower."
+    mc "OK. Vado a farmi una doccia."
+
+# game/code/d04/d04s02.rpy:326
+translate italian d04s02_message_3688a773:
+
+    # mc "(Whistles) We don't need no education..."
+    mc "(*Fischiettando*) We don't need no education..."

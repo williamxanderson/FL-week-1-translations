@@ -917,3 +917,11 @@ translate italian strings:
     # game/code/d03/d03s08.rpy:105
     old "Refuse"
     new "Rifiuti"
+
+# TODO: Translation updated at 2021-05-11 23:07
+
+translate italian strings:
+
+    # game/code/d03/d03s08.rpy:67
+    old "Um... Yes, Mistress"
+    new "Uhm... Sì, Padrona"
