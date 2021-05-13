@@ -100,7 +100,7 @@ translate malaysian replay_d02s11a_18de85d7:
 translate malaysian replay_d02s11a_e33becd0:
 
     # mc "Just keep your hand on the counter. If you remove them, the date is over."
-    mc "'Just' letak tangan awak dekat atas kaunter. Kalau awak lepaskan tangan awak tu, habis 'date' awak ni."
+    mc "\"Just\" letak tangan awak dekat atas kaunter. Kalau awak lepaskan tangan awak tu, habis 'date' awak ni."
 
 # game/code/d02/d02s11a.rpy:107
 translate malaysian replay_d02s11a_b96629d2:
@@ -112,13 +112,13 @@ translate malaysian replay_d02s11a_b96629d2:
 translate malaysian replay_d02s11a_8f2df490:
 
     # pwt "She looks so sexy with that blindfold"
-    pwt "Dia nampak seksi betul tutup mata macam tu"
+    pwt "Dia nampak seksi betul tutup mata macam tu."
 
 # game/code/d02/d02s11a.rpy:123
 translate malaysian replay_d02s11a_5d541604:
 
     # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "Aku nak sangat bagi ayat gersang dekat dia! Tapi aku tak boleh kasi dia tahu yang aku ni perempuan"
+    pwt "Aku nak sangat bagi ayat gersang dekat dia! Tapi aku tak boleh kasi dia tahu yang aku ni perempuan."
 
 # game/code/d02/d02s11a.rpy:132
 translate malaysian replay_d02s11a_afed06a9:
