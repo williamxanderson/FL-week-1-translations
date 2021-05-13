@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-11 22:51
+# TODO: Translation updated at 2021-05-13 19:13
 
 translate chinese strings:
 
@@ -79,8 +79,8 @@ translate chinese strings:
     new "Gives you 3 points and you think about Min and Antony."
 
     # game/code/hints.rpy:5
-    old "Gives you 2 points and you think about Chole."
-    new "Gives you 2 points and you think about Chole."
+    old "Gives you 2 points and you think about Chloe."
+    new "Gives you 2 points and you think about Chloe."
 
     # game/code/hints.rpy:5
     old "Gives you 0 points, but you think about Stacy."
@@ -379,8 +379,8 @@ translate chinese strings:
     new "Just film Polly, but not MC."
 
     # game/code/hints.rpy:5
-    old "This will you them both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
-    new "This will you them both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
+    old "This will have you both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
+    new "This will have you both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
 
     # game/code/hints.rpy:5
     old "This will not work."
@@ -623,8 +623,8 @@ translate chinese strings:
     new "Don't you dare!"
 
     # game/code/hints.rpy:5
-    old "This will unlock you more options if some of them are locked for you."
-    new "This will unlock you more options if some of them are locked for you."
+    old "This will unlock you more options."
+    new "This will unlock you more options."
 
     # game/code/hints.rpy:5
     old "This will give you points."
