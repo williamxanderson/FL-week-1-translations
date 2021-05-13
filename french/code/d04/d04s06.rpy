@@ -118,7 +118,8 @@ translate french replay_d04s06_743d99b0:
 translate french replay_d04s06_597e782b:
 
     # pw "Ok, what now?"
-    pw "OK, et maintenant
+    pw "OK, et maintenant?"
+    
 # game/code/d04/d04s06.rpy:42
 translate french replay_d04s06_7bdba7ba:
 
@@ -782,4 +783,3 @@ translate french strings:
     # game/code/d04/d04s06.rpy:146
     old "Not right now, but maybe someday."
     new "Pas maintenant, mais peut-être un jour."
-
