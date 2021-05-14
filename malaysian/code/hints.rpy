@@ -479,12 +479,12 @@ translate malaysian strings:
     new "You cum inside Daisy without telling her. You will get 15 points, but she'll be disappointed."
 
     # game/code/hints.rpy:5
-    old "Mariah will get pissed on by Terrell."
-    new "Mariah will get pissed on by Terrell."
+    old "Maria will get pissed on by Terrell."
+    new "Maria will get pissed on by Terrell."
 
     # game/code/hints.rpy:5
-    old "Mariah will get cummed on by Terrell."
-    new "Mariah will get cummed on by Terrell."
+    old "Maria will get cummed on by Terrell."
+    new "Maria will get cummed on by Terrell."
 
     # game/code/hints.rpy:5
     old "She doesn't interact with another guy in the toilet and leaves."
@@ -641,4 +641,3 @@ translate malaysian strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hints available."
-
