@@ -479,11 +479,11 @@ translate deutsch strings:
     new "Du kommst in Daisy ohne sie zu warnen. Du erhältst Punkte, aber entäuscht Daisy."
 
     # game/code/hints.rpy:5
-    old "Mariah will get pissed on by Terrell."
+    old "Maria will get pissed on by Terrell."
     new "Terrell pinkelt auf Maria."
 
     # game/code/hints.rpy:5
-    old "Mariah will get cummed on by Terrell."
+    old "Maria will get cummed on by Terrell."
     new "Terrell kommt auf Maria."
 
     # game/code/hints.rpy:5
