@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Selecting this will allow you to see more of her, but you get caught."
-    new "选择此选项，你就可以看的更多，但会被抓住。"
+    new "选择此选项，你可以看的更多，但会被抓住。"
 
     # game/code/hints.rpy:5
     old "Selecting this will unlock an achievement."
@@ -20,15 +20,15 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Select this if you want to see cumshots, facials, and other sperm related content in general during the day."
-    new "若你想看到精液照片、面部照片及其他与精液有关的内容，请选择此项。"
+    new "若你想看到精液照片、面部照片及其他精液相关的内容，请选择此项。"
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cumplay related content during the day."
-    new "若你不想在一天内看到任何与精液有关的内容，请选择此项。"
+    new "若你不想在一天中看到任何精液相关的内容，请选择此项。"
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on AmRose's path."
-    new "若你想去找爱洛丝，你需要选择此项。"
+    new "若你想去继续通向爱洛丝的路径，你需要选择此项。"
 
     # game/code/hints.rpy:5
     old "This will close off AmRose's path for now. +1 rude point"
@@ -60,15 +60,15 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Don't get the picture."
-    new "不明白现在的情形。"
+    new "不要照片。"
 
     # game/code/hints.rpy:5
     old "You will get a scene with AmRose. This will give you the most points for the day and you will continue AmRose's path."
-    new "你与爱洛丝接下来还有一幕。这将使你获得今天的最高点数，你将前往爱洛丝那里。"
+    new "你与爱洛丝接下来还有一幕。这将使你获得今天的最高点数，你将继续通向爱洛丝的路径。"
 
     # game/code/hints.rpy:5
     old "You will get a scene with Jessie. You will close off AmRose's path, but you will still be able to catch up with AmRose later. +2 rude points"
-    new "你与杰西接下来还有一幕。你将放弃前往爱洛丝那里，但以后仍能追上爱洛丝。+2 粗鲁点"
+    new "你与杰西接下来还有一幕。你将放弃通向爱洛丝的路径，但以后仍能追上爱洛丝。+2粗鲁点"
 
     # game/code/hints.rpy:5
     old "Gives you 5 points and you think about Lydia."
@@ -112,7 +112,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This will close off Polly and Nora's path for good."
-    new "这将永远切断通向波莉和诺拉那里的去路。"
+    new "这将永远切断通向波莉和诺拉的去路。"
 
     # game/code/hints.rpy:5
     old "Selecting this will show you a Watersports scene. This is also one of the ways to get to Min's path."
@@ -128,11 +128,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish. This scene will close off Polly and Nora's path for good."
-    new "选择此项你将获得一个与明一起的可选场景，其中包括月经性癖。该场景将永远切断通向波莉和诺拉那里的去路。"
+    new "选择此项你将获得与明一起的可选场景，其中包括月经性癖。该场景将永远切断通向波莉和诺拉的路径。"
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish."
-    new "选择此项你将获得一个与明一起的可选场景，其中包括月经性癖。"
+    new "选择此项你将获得与明一起的可选场景，其中包括月经性癖。"
 
     # game/code/hints.rpy:5
     old "You will eat out Min while she's on her period."
@@ -192,7 +192,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will help Kevin and Chloe not get caught. This is a requirement to unlocking cuckold content with Kevin and Chloe. You will also get mores points later on, and get to see more flavor content with AmRose."
-    new "你将帮助凯文和克洛伊不被抓住。这是解锁凯文和克洛伊绿帽奴相关内容的必要条件。稍后你也会得到更多点数，并能看到更多和爱洛丝的有趣文本。"
+    new "你将帮助凯文和克洛伊不被抓住。这是解锁凯文和克洛伊绿帽奴相关内容的必要条件。稍后你也会得到更多点数，并能看到更多关于爱洛丝的有趣文本。"
 
     # game/code/hints.rpy:5
     old "You don't help Kevin and Chloe and they will get caught."
@@ -212,11 +212,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
-    new "你会收到关于爱洛丝的有趣文本。这也是在第7天看场景彩蛋的一个必要条件。"
+    new "你会收到关于爱洛丝的有趣文本。这也是在第七天看场景彩蛋的一个必要条件。"
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
-    new "若你不想要任何与凯文和克洛伊有关的绿帽奴内容，请选择此项。"
+    new "若你不想要任何关于凯文和克洛伊的绿帽奴内容，请选择此项。"
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in cuckold content with Kevin and Chloe."
@@ -232,11 +232,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are interested in femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "若你对黛丽娅扮演的女王感兴趣，和/或想获得更多点数，请选择此项。如果你在今天早些时候回答了 "你愿意帮助我吗？"，你还会得到一个与黛西的手淫场景。"
+    new "若你对黛丽娅扮演的女王感兴趣，和/或想获得更多点数，请选择此项。如果你在今天早些时候回答了\"你愿意帮助我吗？\"，你还会得到一个关于黛西的手淫场景。"
 
     # game/code/hints.rpy:5
     old "Select this if you are open to femdom content with Dahlia and/or want to earn more points. If you answered \"are you willing to help me with that?\" earlier in the day you will also get a handjob scene with Daisy."
-    new "若你对黛丽娅扮演的女王持开放态度，和/或想获得更多的点数，请选择此项。如果你在今天早些时候回答了 "你愿意帮助我吗？"，你还会得到一个与黛西的手淫场景。"
+    new "若你对黛丽娅扮演的女王持开放态度，和/或想获得更多的点数，请选择此项。如果你在今天早些时候回答了\"你愿意帮助我吗？\"，你还会得到一个关于黛西的手淫场景。"
 
     # game/code/hints.rpy:5
     old "Select this if you are not into femdom with Dahlia. It will also give you more dominant content in the future. Especially with Daisy. But you get fewer points."
@@ -320,7 +320,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any enema related content during the day."
-    new "若你不希望一天中看到任何与灌肠有关的内容，请选择此项。"
+    new "若你不希望一天中看到任何灌肠相关的内容，请选择此项。"
 
     # game/code/hints.rpy:5
     old "Select this if you want to go with the more soft-romantic approach."
@@ -380,7 +380,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This will have you both pissing and earn you more points. If you chose not to include watersports you will have an exhibitionism scene with Polly."
-    new "这将使两个人都小便，为你赢得更多点数。如果你选择不包括水上运动的内容，你将获得一个波莉露阴的场景。"
+    new "这将使你们两个人都小便，并为你赢得更多点数。如果你选择不包括水上运动的内容，你将获得一个波莉露阴的场景。"
 
     # game/code/hints.rpy:5
     old "This will not work."
@@ -600,7 +600,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This will close off Vanessa's path for good."
-    new "T这将永远关闭通向瓦妮莎的路径。"
+    new "这将永远关闭通向瓦妮莎的路径。"
 
     # game/code/hints.rpy:5
     old "She will make you cum with her feet."
@@ -636,9 +636,9 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will transfer no points. You get to carryover to week-2 of Fetish Locator one FL point for every five FL points that you currently have in week-1 of Fetish Locator."
-    new "你将不会转让任何点数。在性趣探测器第一周中，你每拥有5个点数，就可以将一个点数转移到性趣探测器第二周中。"
+    new "你将不会转让任何点数。在性趣探测器第一周中，你每拥有5个点数，就可以将1个点数转移到性趣探测器第二周中。"
 
     # game/code/hints.rpy:5
     old "No hints available."
-    new "无提示可用。"
+    new "现无提示可用。"
 
