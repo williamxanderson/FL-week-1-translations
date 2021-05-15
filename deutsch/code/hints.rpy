@@ -211,7 +211,7 @@ translate deutsch strings:
     new "Du schnüffelst nicht in ihrem Handy rum."
 
     # game/code/hints.rpy:5
-    old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
+    old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
     new "Du erhältst etwas Exposition was mit AmRose los ist. Dies ist eine Vorraussetzung für eine Bonusszene an Tag-7"
 
     # game/code/hints.rpy:5

@@ -211,8 +211,8 @@ translate spanish strings:
     new "You won't snoop on her phone."
 
     # game/code/hints.rpy:5
-    old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
-    new "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
+    old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
+    new "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
 
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
