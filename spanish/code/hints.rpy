@@ -214,6 +214,7 @@ translate spanish strings:
     old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
     new "Conseguirás una prueba de sabor interesante sobre lo que está sucediendo con AmRose. Este también es un requisito para ver una escena adicional el día 7."
 
+
     # game/code/hints.rpy:5
     old "Select this if you don't want any cuckold related content with Kevin and Chloe."
     new "Elige esta opción si no quieres ningún contenido relacionado con cuckear con Kevin y Chloe."

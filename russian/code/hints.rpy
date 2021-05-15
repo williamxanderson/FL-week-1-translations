@@ -211,7 +211,7 @@ translate russian strings:
     new "Ты не узнаешь, что написано в ее телефоне."
 
     # game/code/hints.rpy:5
-    old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
+    old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
     new "Ты получишь интересный текст о том, что происходит с АмРоуз. Это также разблокирует бонусную сцену в 7 день"
 
     # game/code/hints.rpy:5
