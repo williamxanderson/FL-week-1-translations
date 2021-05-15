@@ -211,7 +211,7 @@ translate spanish strings:
     new "No fisgonearás en su teléfono."
 
     # game/code/hints.rpy:5
-    old "You will get some interesting flavor text about what's going on with AmRose. This is also a reqirement to see a bonus scene on day-7"
+    old "You will get some interesting flavor text about what's going on with AmRose. This is also a requirement to see a bonus scene on day-7"
     new "Conseguirás una prueba de sabor interesante sobre lo que está sucediendo con AmRose. Este también es un requisito para ver una escena adicional el día 7."
 
 
