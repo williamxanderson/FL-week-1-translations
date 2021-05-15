@@ -617,7 +617,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "AmRose will become your slave and convenient fucktoy."
-    new "爱洛丝会成为你的奴隶，以及你顺手的玩物。
+    new "爱洛丝会成为你的奴隶，以及你顺手的玩物。"
 
     # game/code/hints.rpy:5
     old "Don't you dare!"
