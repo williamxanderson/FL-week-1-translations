@@ -202,7 +202,7 @@ translate malaysian d01s01_6dc48fae:
 translate malaysian d01s01_44fd0ea8:
 
     # "Girl" "What the fuck?!"
-    "Girl" "Apa benda ni?!"
+    "Perempuan" "Apa benda ni?!"
 
 # game/code/d01/s01.rpy:98
 translate malaysian d01s01_72057db8:
@@ -214,7 +214,7 @@ translate malaysian d01s01_72057db8:
 translate malaysian d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "Girl" "Siapa jantan ni?!"
+    "Perempuan" "Siapa jantan ni?!"
 
 # game/code/d01/s01.rpy:102
 translate malaysian d01s01_e514adfa:
@@ -262,7 +262,7 @@ translate malaysian d01s01_6e61b5a0:
 translate malaysian d01s01_2d720d6f:
 
     # "Girl" "Yes? {i}ASSHOLE!{/i} You don't even remember my name?!"
-    "Girl" "Ya? {i}BODOHLAH!{/i} Awak tak ingat pun nama saya?!"
+    "Perempuan" "Ya? {i}BODOHLAH!{/i} Awak tak ingat pun nama saya?!"
 
 # game/code/d01/s01.rpy:115
 translate malaysian d01s01_54356a5f:
@@ -280,13 +280,13 @@ translate malaysian d01s01_6778a0fc:
 translate malaysian d01s01_ee066507:
 
     # "Girl" "FUCK YOU! What did I expect?! You're a dick! You just wanted a good fuck!"
-    "Girl" "JANTAN TAK GUNA! Apalah yang saya ingat! Awak ni kurang ajar! Awak cuma nak tebuk dengan sedap je!"
+    "Perempuan" "JANTAN TAK GUNA! Apalah yang saya ingat! Awak ni kurang ajar! Awak cuma nak tebuk dengan sedap je!"
 
 # game/code/d01/s01.rpy:123
 translate malaysian d01s01_c796b1e5:
 
     # "Girl" "And fuck you! Pervert!"
-    "Girl" "Awak pun sama! Gatal!"
+    "Perempuan" "Awak pun sama! Gatal!"
 
 # game/code/d01/s01.rpy:126
 translate malaysian d01s01_fec04e89:
