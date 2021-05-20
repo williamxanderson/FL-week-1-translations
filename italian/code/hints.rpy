@@ -640,4 +640,4 @@ translate italian strings:
 
     # game/code/hints.rpy:5
     old "No hints available."
-    new "No hints available."
+    new "Nessun suggerimento disponibile."
