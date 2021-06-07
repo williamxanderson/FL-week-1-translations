@@ -244,7 +244,7 @@ translate malaysian d02s10_73d1f4ff:
 translate malaysian d02s10_300e628c:
 
     # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
-    mct Benda tu pelik, kan?{w} Aku tak ada lah nak tebuk AmRose dengan aku tak akan tebuk perempuan ni."
+    mct "Benda tu pelik, kan?{w} Aku tak ada lah nak tebuk AmRose dengan aku tak akan tebuk perempuan ni."
 
 # game/code/d02/d02s10.rpy:250
 translate malaysian d02s10_e00ea774:
@@ -503,4 +503,3 @@ translate malaysian strings:
     # game/code/d02/d02s10.rpy:325
     old "No Thanks - Do Something Else"
     new "Tak Nak Lah - Buat Benda Lain"
-
