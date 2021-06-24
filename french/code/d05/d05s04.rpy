@@ -520,7 +520,7 @@ translate french replay_d05s04_652f2fcf:
 translate french replay_d05s04_f1c36977:
 
     # pw "That simple?"
-    pw "C"est tout ?"
+    pw "C\"est tout ?"
 
 # game/code/d05/d05s04.rpy:157
 translate french replay_d05s04_5fb8ab02:
@@ -1203,4 +1203,3 @@ translate french strings:
     # game/code/d05/d05s04.rpy:265
     old "My turn to strip & piss"
     new "Mon tour de me déshabiller et de pisser"
-
