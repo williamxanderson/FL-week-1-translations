@@ -406,7 +406,7 @@ translate malaysian d01s01_shower_45ebb90e:
 translate malaysian d01s01_shower_2fe21fba:
 
     # mct "Okay, I have a lot of studying to do. Time to get started."
-    mct "Ok, aku kena banyakkan belakar. Jom kita buat."
+    mct "Ok, aku kena banyakkan belajar. Jom kita buat."
 
 # game/code/d01/s01.rpy:196
 translate malaysian d01s01_shower_4676c4c2:
