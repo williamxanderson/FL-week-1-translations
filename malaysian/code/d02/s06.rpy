@@ -34,7 +34,7 @@ translate malaysian d02s06_36d55616:
 translate malaysian d02s06_5e8dc635:
 
     # mct "I feel excited for today!"
-    mct "Aku rasa 'excited' hari ni!"
+    mct "Aku rasa \"excited\" hari ni!"
 
 # game/code/d02/s06.rpy:30
 translate malaysian d02s06_2a2bc255:
@@ -148,7 +148,7 @@ translate malaysian d02s06_5f4b12f4:
 translate malaysian d02s06_fa8c5876:
 
     # mc "It wasn’t that bad! Pete joined and we finished everything faster!"
-    mc "Tak ada lah teruk sangat! Pete 'join' lepas tu kita habis cepat!"
+    mc "Tak ada lah teruk sangat! Pete \"join\" lepas tu kita habis cepat!"
 
 # game/code/d02/s06.rpy:97
 translate malaysian d02s06_80dcb2f0:
@@ -184,7 +184,7 @@ translate malaysian d02s06_fd005d89:
 translate malaysian d02s06_b16ae0ae:
 
     # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
-    mc "({i}Heh. Aku mungkin tak patut bagitahu dia pasal [game.chloekevin] dia hisap kote Pete semata-mata nak dapatkan mata dekat dalam 'app' tu!{/i})"
+    mc "({i}Heh. Aku mungkin tak patut bagitahu dia pasal [game.chloekevin] dia hisap kote Pete semata-mata nak dapatkan mata dekat dalam \"app\" tu!{/i})"
 
 # game/code/d02/s06.rpy:110
 translate malaysian d02s06_a9e74211:
@@ -196,7 +196,7 @@ translate malaysian d02s06_a9e74211:
 translate malaysian d02s06_673ade22:
 
     # mc "Pete told me about the party! Tickets are sold in the app. But I need to get 50 points to get there!"
-    mc "Pete ada bagitahu aku pasal parti tu! Tiket ada jual dekat dalam 'app' tu. Tapi aku kena dapatkan 50 mata untuk ke parti tu!"
+    mc "Pete ada bagitahu aku pasal parti tu! Tiket ada jual dekat dalam \"app\" tu. Tapi aku kena dapatkan 50 mata untuk ke parti tu!"
 
 # game/code/d02/s06.rpy:113
 translate malaysian d02s06_52b42f0d:
@@ -364,7 +364,7 @@ translate malaysian d02s06_015d20de:
 translate malaysian d02s06_39d50247:
 
     # mct "She came back in a skirt! She did it right after today`s fetish was announced!"
-    mct "Dia datang balik dengan pakai 'skirt'! Dia buat dengan betul lepas hari ni punya fetish diumum!"
+    mct "Dia datang balik dengan pakai \"skirt\"! Dia buat dengan betul lepas hari ni punya fetish diumum!"
 
 # game/code/d02/s06.rpy:181
 translate malaysian d02s06_2d7431a4:
@@ -418,7 +418,7 @@ translate malaysian d02s06_03a1bc66:
 translate malaysian d02s06_0b3da5ed:
 
     # kb "Or you can put an ad on the app."
-    kb "Atau kau boleh letak iklan dekat 'app' tu."
+    kb "Atau kau boleh letak iklan dekat \"app\" tu."
 
 # game/code/d02/s06.rpy:206
 translate malaysian d02s06_7a0e86b4:
@@ -430,7 +430,7 @@ translate malaysian d02s06_7a0e86b4:
 translate malaysian d02s06_c9dc21ba:
 
     # kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
-    kb "Kau bayar sedikit duit lepas tu hantar iklan dekat dalam 'app' tu berserta dengan maklumat pasal apa yang kau tengah cari! Mungkin kau bernasib baik!"
+    kb "Kau bayar sedikit duit lepas tu hantar iklan dekat dalam \"app\" tu berserta dengan maklumat pasal apa yang kau tengah cari! Mungkin kau bernasib baik!"
 
 # game/code/d02/s06.rpy:210
 translate malaysian d02s06_e7baac27:
@@ -448,7 +448,7 @@ translate malaysian d02s06_2514821a:
 translate malaysian d02s06_de13e7e8:
 
     # kb "Well that or the rubber pussy. and the rubber pussy will cost you more!"
-    kb "'Well' sama ada tu atau mainan pepek getah. Lepas tu pepek getah pula lebih harga dia!"
+    kb "\"Well\" sama ada tu atau mainan pepek getah. Lepas tu pepek getah pula lebih harga dia!"
 
 # game/code/d02/s06.rpy:216
 translate malaysian d02s06_7cbebcce:
@@ -472,7 +472,7 @@ translate malaysian d02s06_428e5365:
 translate malaysian d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "'Well', kena gambar kote kalau tu yang kau nak tawar kan. Tapi untuk kes yang ni kau kena guna bahagian badan kau yang lain!"
+    kb "\"Well\", kena gambar kote kalau tu yang kau nak tawar kan. Tapi untuk kes yang ni kau kena guna bahagian badan kau yang lain!"
 
 # game/code/d02/s06.rpy:224
 translate malaysian d02s06_c153789c:
@@ -484,7 +484,7 @@ translate malaysian d02s06_c153789c:
 translate malaysian d02s06_2a312316:
 
     # kb "Well that or your lips! Think for yourself which will work better?"
-    kb "'Well' sama ada tu atau bibir kau! Fikir untuk diri kau yang mana lagi elok?"
+    kb "\"Well\" sama ada tu atau bibir kau! Fikir untuk diri kau yang mana lagi elok?"
 
 # game/code/d02/s06.rpy:228
 translate malaysian d02s06_4c3165dc:
@@ -496,7 +496,7 @@ translate malaysian d02s06_4c3165dc:
 translate malaysian d02s06_67f28a29:
 
     # mc "({i}But should I post this at all? This whole idea sounds weird.{/i})"
-    mc "({i}Tapi patut ke aku 'even' hantar benda ni? Idea ni bunyi macam pelik je.{/i})"
+    mc "({i}Tapi patut ke aku \"even\" hantar benda ni? Idea ni bunyi macam pelik je.{/i})"
 
 # game/code/d02/s06.rpy:231
 translate malaysian d02s06_ac0e2301:
@@ -604,7 +604,7 @@ translate malaysian d02s06_03051b13:
 translate malaysian d02s06_7a8abb2b:
 
     # mc "({i}Should I tell Kevin about this? But what if this message is from his [game.chloekevin]? She is using this app very actively!{/i})"
-    mc "({i}Patut ke aku bagitahu Kevin pasal benda ni? Tapi macam mana kalau mesej ni daripada [game.chloekevin] Kevin? Dia memang aktif guna 'app' ni!{/i})"
+    mc "({i}Patut ke aku bagitahu Kevin pasal benda ni? Tapi macam mana kalau mesej ni daripada [game.chloekevin] Kevin? Dia memang aktif guna \"app\" ni!{/i})"
 
 # game/code/d02/s06.rpy:282
 translate malaysian d02s06_c6450146:
@@ -616,7 +616,7 @@ translate malaysian d02s06_c6450146:
 translate malaysian d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}Sepatutnya tak jadi bahaya nak duduk atas bangku dekat taman! Kalau aku tak suka apa yang ditawarkan tu 'then' aku gerak je!{/i})"
+    mc "({i}Sepatutnya tak jadi bahaya nak duduk atas bangku dekat taman! Kalau aku tak suka apa yang ditawarkan tu \"then\" aku gerak je!{/i})"
 
 # game/code/d02/s06.rpy:285
 translate malaysian d02s06_3aba2a79:
@@ -646,7 +646,7 @@ translate malaysian d02s06_5ff75b01:
 translate malaysian d02s06_b619ca43:
 
     # mct "Could that be AmRose? She knows about the app. Is she using it?"
-    mct "Tu AmRose ke? Dia tahu pasal 'app' tu. Dia ada guna ke?"
+    mct "Tu AmRose ke? Dia tahu pasal \"app\" tu. Dia ada guna ke?"
 
 # game/code/d02/s06.rpy:294
 translate malaysian d02s06_b3d32ba0:
@@ -658,7 +658,7 @@ translate malaysian d02s06_b3d32ba0:
 translate malaysian d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
-    mct "Dia ok ke kalau aku jilat pepek dia tu?! Aku ok ke kalau macam tu? Tu sememangnya buat 'friendship' kita orang berubah."
+    mct "Dia ok ke kalau aku jilat pepek dia tu?! Aku ok ke kalau macam tu? Tu sememangnya buat \"friendship\" kita orang berubah."
 
 # game/code/d02/s06.rpy:297
 translate malaysian d02s06_83790a4e:
@@ -712,7 +712,7 @@ translate malaysian d02s06_a972c0f2:
 translate malaysian d02s06_bf9f08f4:
 
     # "[mcname] is leaving the class, but on the way out he remembers about Min changing into skirt."
-    "[mcname] tengah tinggalkan kelas, tapi dalam perjalanan dia teringat pasal Min tukar ke 'skirt'."
+    "[mcname] tengah tinggalkan kelas, tapi dalam perjalanan dia teringat pasal Min tukar ke \"skirt\"."
 
 # game/code/d02/s06.rpy:316
 translate malaysian d02s06_71eab1da:
@@ -766,7 +766,7 @@ translate malaysian d02s06_9a7faac9:
 translate malaysian d02s06_b2d0e7e2:
 
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
-    mc "({i}Orang macam Pete biasanya akan jalan je dekat dia lepas tu guna 'pickup line' manis gitu.{/i})"
+    mc "({i}Orang macam Pete biasanya akan jalan je dekat dia lepas tu guna \"pickup line\" manis gitu.{/i})"
 
 # game/code/d02/s06.rpy:339
 translate malaysian d02s06_cdfee642:
@@ -790,7 +790,7 @@ translate malaysian d02s06_880d2aef:
 translate malaysian d02s06_121c2921:
 
     # mc "({i}After all she should be at the private party from the app.{/i})"
-    mc "({i}Lagipun dia patut ada dekat 'private' parti yang dari 'app' tu.{/i})"
+    mc "({i}Lagipun dia patut ada dekat \"private\" parti yang dari \"app\" tu.{/i})"
 
 # game/code/d02/s06.rpy:345
 translate malaysian d02s06_0d03ebf6:
@@ -802,7 +802,7 @@ translate malaysian d02s06_0d03ebf6:
 translate malaysian d02s06_fd4ab1b9:
 
     # mc "({i}But what if it is her? What if she comes there and joins me on that bench?! How should I react?!{/i})"
-    mc "({i}Tapi macam mana kalau memang dia? Macam mana kalau dia datang ke sana lepas tu 'join' aku atas bangku tu?! Macam mana reaksi aku nanti?!{/i})"
+    mc "({i}Tapi macam mana kalau memang dia? Macam mana kalau dia datang ke sana lepas tu \"join\" aku atas bangku tu?! Macam mana reaksi aku nanti?!{/i})"
 
 # game/code/d02/s06.rpy:348
 translate malaysian d02s06_c701655e:
@@ -826,5 +826,5 @@ translate malaysian strings:
 
     # game/code/d02/s06.rpy:271
     old "Respond to a stranger on the app"
-    new "Balas mesej orang tu dekat dalam 'app' tu"
+    new "Balas mesej orang tu dekat dalam \"app\" tu"
 
