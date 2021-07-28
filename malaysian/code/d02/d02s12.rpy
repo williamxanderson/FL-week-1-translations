@@ -88,7 +88,7 @@ translate malaysian replay_d02s12_44fc04a6:
 translate malaysian replay_d02s12_b20a2b85:
 
     # mct "She got herself all wet during the blind date with Nora!"
-    mct "Dia terbasah dekat bawah tu masa 'blind date' dengan Nora!"
+    mct "Dia terbasah dekat bawah tu masa \"blind date\" dengan Nora!"
 
 # game/code/d02/d02s12.rpy:173
 translate malaysian replay_d02s12_fe51a893:
@@ -112,7 +112,7 @@ translate malaysian replay_d02s12_eb5124cd:
 translate malaysian replay_d02s12_3c2e48f2:
 
     # mc "Let's change the position, I can't reach your pussy from here."
-    mc "Apa kata kita tukar 'position', saya tak boleh dapat pepak awak dari sini."
+    mc "Apa kata kita tukar \"position\", saya tak boleh dapat pepak awak dari sini."
 
 # game/code/d02/d02s12.rpy:196
 translate malaysian replay_d02s12_19d8e464:
@@ -184,7 +184,7 @@ translate malaysian replay_d02s12_8fe77697:
 translate malaysian replay_d02s12_30003be5:
 
     # pw "That tight ass in that tight uniform..."
-    pw "Bontot ketat tu dalam 'uniform' ketat tu..."
+    pw "Bontot ketat tu dalam \"uniform\" ketat tu..."
 
 # game/code/d02/d02s12.rpy:228
 translate malaysian replay_d02s12_93abdd78:
@@ -256,7 +256,7 @@ translate malaysian replay_d02s12_2d325fcd:
 translate malaysian replay_d02s12_68f8459e:
 
     # pw "Here is your phone. I hope you are happy with the photos. If not, give me a call later."
-    pw "Ni telefon awak. Saya harap awak gembira dengan gambar tu. Kalau tak, 'call' saya nanti."
+    pw "Ni telefon awak. Saya harap awak gembira dengan gambar tu. Kalau tak, \"call\" saya nanti."
 
 # game/code/d02/d02s12.rpy:275
 translate malaysian replay_d02s12_dd9d1878:
@@ -292,13 +292,13 @@ translate malaysian replay_d02s12_d07f8876:
 translate malaysian replay_d02s12_09461e00:
 
     # mc "12 pts. Not bad."
-    mc "12 mata. 'Not bad' juga."
+    mc "12 mata. \"Not bad\" juga."
 
 # game/code/d02/d02s12.rpy:290
 translate malaysian replay_d02s12_1ad8d249:
 
     # mct "I wonder if I should call her later and say there was a problem with the photos."
-    mct "Aku terfikir kalau aku 'call' dia nanti lepas tu cakap yang ada masalah dengan gambar tu."
+    mct "Aku terfikir kalau aku \"call\" dia nanti lepas tu cakap yang ada masalah dengan gambar tu."
 
 # game/code/d02/d02s12.rpy:295
 translate malaysian replay_d02s12_b4ee38b4:
