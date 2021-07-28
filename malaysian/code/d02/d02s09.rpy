@@ -58,7 +58,7 @@ translate malaysian d02s09_699878f6:
 translate malaysian d02s09_0cd7eb37:
 
     # "Barista" "Can I offer you something?"
-    "Barista" "Boleh saya ambil 'order' awak?"
+    "Barista" "Boleh saya ambil \"order\" awak?"
 
 # game/code/d02/d02s09.rpy:48
 translate malaysian d02s09_4bfa51e6:
@@ -148,7 +148,7 @@ translate malaysian d02s09_fec5b849:
 translate malaysian d02s09_3ba25599:
 
     # mct "Wow! {w}C'mon [mcname]! Keep talking!"
-    mct "Wow! {w}'Come on' [mcname]! Teruskan bercakap!"
+    mct "Wow! {w}\"Come on\" [mcname]! Teruskan bercakap!"
 
 # game/code/d02/d02s09.rpy:83
 translate malaysian d02s09_62df825a:
@@ -292,7 +292,7 @@ translate malaysian d02s09_36bdee17:
 translate malaysian d02s09_6b5554e8:
 
     # nk "I should have chosen another location for the cafe! Somewhere with a lot of IT startups. {w}They drink a lot of coffee and have tons of money!"
-    nk "Saya patutnya pilih lokasi yang lain untuk kafe ni! Dekat tempat yang ada banyak 'IT startups'. {w}Dia orang minum banyak kopi dengan ada banyak duit!"
+    nk "Saya patutnya pilih lokasi yang lain untuk kafe ni! Dekat tempat yang ada banyak \"IT startups\". {w}Dia orang minum banyak kopi dengan ada banyak duit!"
 
 # game/code/d02/d02s09.rpy:136
 translate malaysian d02s09_8dafd228:
@@ -322,7 +322,7 @@ translate malaysian d02s09_c3a4e712:
 translate malaysian d02s09_a728d161:
 
     # nk "Now I’m not sure it was a wise idea."
-    nk "Sekarang saya tak pasti 'idea' tu waras ke tak."
+    nk "Sekarang saya tak pasti \"idea\" tu waras ke tak."
 
 # game/code/d02/d02s09.rpy:146
 translate malaysian d02s09_9a4c5e0c:
@@ -400,7 +400,7 @@ translate malaysian d02s09_f2d314d2:
 translate malaysian d02s09_70a53646:
 
     # mc "No, I'm being serious! Just so you know, I study business administration. I know what I'm talking about."
-    mc "Tak, saya tengah 'serious'! Cuma nak bagitahu awak, saya belajar pentadbiran perniagaan. Saya tahu apa yang saya cakap."
+    mc "Tak, saya tengah \"serious\"! Cuma nak bagitahu awak, saya belajar pentadbiran perniagaan. Saya tahu apa yang saya cakap."
 
 # game/code/d02/d02s09.rpy:178
 translate malaysian d02s09_029783f8:
@@ -412,7 +412,7 @@ translate malaysian d02s09_029783f8:
 translate malaysian d02s09_e0a09915:
 
     # mc "Well think about it! You can make a discount for couples to have more students to come here for dates. Or even open a blind date club to attract everyone!"
-    mc "Cuba awak fikir balik! Awak boleh buat diskaun untuk sesebuah pasangan supaya adakan banyak lagi pelajar untuk datang sini untuk ber 'dating'. Atau pun buka kelab 'blind date' untuk menarik perhatian semua orang!"
+    mc "Cuba awak fikir balik! Awak boleh buat diskaun untuk sesebuah pasangan supaya adakan banyak lagi pelajar untuk datang sini untuk ber \"dating\". Atau pun buka kelab \"blind date\" untuk menarik perhatian semua orang!"
 
 # game/code/d02/d02s09.rpy:182
 translate malaysian d02s09_c16403b5:
@@ -478,19 +478,19 @@ translate malaysian d02s09_d85fec4f:
 translate malaysian d02s09_c3b77525:
 
     # mc "How about a blind date?"
-    mc "Apa kata buat 'blind date'?"
+    mc "Apa kata buat \"blind date\"?"
 
 # game/code/d02/d02s09.rpy:210
 translate malaysian d02s09_d4e7a480:
 
     # nk "But. we've already met each other. That's not how blind dates work!"
-    nk "Tapi. kita dah jumpa antara satu sama lain. Tu bukan cara 'blind date'!"
+    nk "Tapi. kita dah jumpa antara satu sama lain. Tu bukan cara \"blind date\"!"
 
 # game/code/d02/d02s09.rpy:212
 translate malaysian d02s09_bf783783:
 
     # mc "That is not a traditional blind date! Also it isn't with me, but with a friend of mine."
-    mc "Tu bukan 'blind date' yang tradisional! Lagi pun bukan saya, tapi dengan kawan saya."
+    mc "Tu bukan \"blind date\" yang tradisional! Lagi pun bukan saya, tapi dengan kawan saya."
 
 # game/code/d02/d02s09.rpy:215
 translate malaysian d02s09_4c4e31fb:
@@ -514,19 +514,19 @@ translate malaysian d02s09_22e05223:
 translate malaysian d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "Itulah perjanjian dia! Buat atau lupakan je! Tapi saya boleh janji yang awak akan 'enjoy' 'date' tu!"
+    mc "Itulah perjanjian dia! Buat atau lupakan je! Tapi saya boleh janji yang awak akan \"enjoy\" \"date\" tu!"
 
 # game/code/d02/d02s09.rpy:225
 translate malaysian d02s09_0b6ef706:
 
     # nk "And what do you mean by a non-traditional blind date?"
-    nk "Dan apa maksud awak dengan 'blind date' bukan tradisional?"
+    nk "Dan apa maksud awak dengan \"blind date\" bukan tradisional?"
 
 # game/code/d02/d02s09.rpy:227
 translate malaysian d02s09_494e6166:
 
     # mc "Well you will wear a blindfold. And you won't see the person you have the date with. It will be more of a touch date."
-    mc "Well awak akan pakai kain untuk tutup mata awak. Lepas tu awak tak akan nampak orang yang akan 'date' dengan awak. Ia lebih kepada 'date' sentuhan."
+    mc "Well awak akan pakai kain untuk tutup mata awak. Lepas tu awak tak akan nampak orang yang akan \"date\" dengan awak. Ia lebih kepada \"date\" sentuhan."
 
 # game/code/d02/d02s09.rpy:229
 translate malaysian d02s09_1044d394:
@@ -544,7 +544,7 @@ translate malaysian d02s09_a4c860a5:
 translate malaysian d02s09_bd4a2f01:
 
     # nk "What if you are wrong in your judgment?"
-    nk "Habis tu kalau 'judgement' awak tu salah?"
+    nk "Habis tu kalau \"judgement\" awak tu salah?"
 
 # game/code/d02/d02s09.rpy:235
 translate malaysian d02s09_00b1d252:
