@@ -16,13 +16,13 @@ translate malaysian replay_d02s11a_89c09a5e:
 translate malaysian replay_d02s11a_3b305080:
 
     # nk "Honestly, I'm kinda nervous."
-    nk "Jujur cakap eh, saya rasa macam 'nervous."
+    nk "Jujur cakap eh, saya rasa macam \"nervous\"."
 
 # game/code/d02/d02s11a.rpy:86
 translate malaysian replay_d02s11a_c4e9446f:
 
     # mc "I'd be nervous too, but with no fear there's no bravery."
-    mc "Saya pun 'nervous' sebenarnya, tapi dengan tak ada ketakutan tak ada lah keberanian."
+    mc "Saya pun \"nervous\" sebenarnya, tapi dengan tak ada ketakutan tak ada lah keberanian."
 
 # game/code/d02/d02s11a.rpy:87
 translate malaysian replay_d02s11a_cd297749:
@@ -82,7 +82,7 @@ translate malaysian replay_d02s11a_1c6e3b24:
 translate malaysian replay_d02s11a_60ea808d:
 
     # mc "You will just have to stay here."
-    mc "Awak cuma perlu 'stay' sini je."
+    mc "Awak cuma perlu \"stay\" sini je."
 
 # game/code/d02/d02s11a.rpy:104
 translate malaysian replay_d02s11a_0a50dea6:
@@ -100,7 +100,7 @@ translate malaysian replay_d02s11a_18de85d7:
 translate malaysian replay_d02s11a_e33becd0:
 
     # mc "Just keep your hand on the counter. If you remove them, the date is over."
-    mc "\"Just\" letak tangan awak dekat atas kaunter. Kalau awak lepaskan tangan awak tu, habis 'date' awak ni."
+    mc "\"Just\" letak tangan awak dekat atas kaunter. Kalau awak lepaskan tangan awak tu, habis \"date\" awak ni."
 
 # game/code/d02/d02s11a.rpy:107
 translate malaysian replay_d02s11a_b96629d2:
@@ -136,7 +136,7 @@ translate malaysian replay_d02s11a_b27ea231:
 translate malaysian replay_d02s11a_db64f897:
 
     # pwt "She is really enjoying this, after all, she might like girls, in some way."
-    pwt "Dia memang berseronok betul sekarang ni, mungkin, dia memang minat perempuan, 'in some way'"
+    pwt "Dia memang berseronok betul sekarang ni, mungkin, dia memang minat perempuan, \"in some way\""
 
 # game/code/d02/d02s11a.rpy:186
 translate malaysian replay_d02s11a_1f3c4069:
@@ -172,13 +172,13 @@ translate malaysian replay_d02s11a_b5e65b96:
 translate malaysian replay_d02s11a_2b1d5777:
 
     # nk "What you did to me was amazing; you were right about trying new things."
-    nk "Apa yang awak buat dekat saya tu memang 'best'; betul cakap awak pasal cuba benda baru."
+    nk "Apa yang awak buat dekat saya tu memang \"best\"; betul cakap awak pasal cuba benda baru."
 
 # game/code/d02/d02s11a.rpy:243
 translate malaysian replay_d02s11a_1d26c9f3:
 
     # mc "It wasn't me. I told you it was gonna be a blind date, didn't I?"
-    mc "Tu bukan saya. Saya dah cakap yang benda ni akan jadi 'blind date', kan?"
+    mc "Tu bukan saya. Saya dah cakap yang benda ni akan jadi \"blind date\", kan?"
 
 # game/code/d02/d02s11a.rpy:244
 translate malaysian replay_d02s11a_831c4e99:
