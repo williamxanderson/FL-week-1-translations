@@ -34,7 +34,7 @@ translate malaysian d02s11b_f56219c8:
 translate malaysian d02s11b_548e3b64:
 
     # mes "You keep your eyes down - don't look at me. We pose for 3 photos:{w} one with your tongue on my clit{w}, one with your tongue in my cunt{w}, and one with your mouth wide open covering my entire slit."
-    mes "Awak kekal pandang bawah - jangan tengok saya. Kita 'pose' untuk 3 gambar:{w} satu dengan lidah awak dekat kelentit saya{w}, satu dengan lidah awak dalam pepek saya{w}, dan satu lagi dengan mulut awak terbuka luas tutup pepek saya."
+    mes "Awak kekal pandang bawah - jangan tengok saya. Kita \"pose\" untuk 3 gambar:{w} satu dengan lidah awak dekat kelentit saya{w}, satu dengan lidah awak dalam pepek saya{w}, dan satu lagi dengan mulut awak terbuka luas tutup pepek saya."
 
 # game/code/d02/d02s11b.rpy:68
 translate malaysian d02s11b_c8070e56:
@@ -64,7 +64,7 @@ translate malaysian d02s11b_322dc2a1:
 translate malaysian d02s11b_2d6b93d8:
 
     # mes "That is two questions. You're really bad at this.{w} If you must know...{w} I'm on my period."
-    mes "Tu dua soalan. Awak ni memang teruk lah.{w} Kalau awak kena tahu...{w} Saya tengah 'period'."
+    mes "Tu dua soalan. Awak ni memang teruk lah.{w} Kalau awak kena tahu...{w} Saya tengah \"period\"."
 
 # game/code/d02/d02s11b.rpy:76
 translate malaysian d02s11b_2a4db930:
@@ -160,7 +160,7 @@ translate malaysian replay_d02s11b_99ad7141:
 translate malaysian replay_d02s11b_b6b8c63d:
 
     # mct "She's naked from the waist down.{w} She'll flinch first."
-    mct "Dia bogel dari pinggang sampai ke bawah.{w} Dia akan 'react' dulu."
+    mct "Dia bogel dari pinggang sampai ke bawah.{w} Dia akan \"react\" dulu."
 
 # game/code/d02/d02s11b.rpy:133
 translate malaysian replay_d02s11b_0a2506df:
@@ -172,7 +172,7 @@ translate malaysian replay_d02s11b_0a2506df:
 translate malaysian replay_d02s11b_a2b7b53a:
 
     # mct "She's not flinching. I'm going to lose."
-    mct "Dia tak 'react' pun. Kalahlah aku macam ni."
+    mct "Dia tak \"react\" pun. Kalahlah aku macam ni."
 
 # game/code/d02/d02s11b.rpy:135
 translate malaysian replay_d02s11b_e2447771:
@@ -184,7 +184,7 @@ translate malaysian replay_d02s11b_e2447771:
 translate malaysian replay_d02s11b_fab42f09:
 
     # mct "Okay, if she decides to kill me at least it was worth it."
-    mct "Ok, kalau dia 'decide' nak bunuh aku sekurang-kurangnya ia berbaloi."
+    mct "Ok, kalau dia \"decide\" nak bunuh aku sekurang-kurangnya ia berbaloi."
 
 # game/code/d02/d02s11b.rpy:151
 translate malaysian replay_d02s11b_e84e1b7a:
@@ -214,7 +214,7 @@ translate malaysian replay_d02s11b_6ac10adf:
 translate malaysian replay_d02s11b_8bf9b21e:
 
     # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct "Dia cuba nak jadi 'confident', tapi aku boleh nampak yang dia pun 'nervous' juga!"
+    mct "Dia cuba nak jadi \"confident\", tapi aku boleh nampak yang dia pun \"nervous\" juga!"
 
 # game/code/d02/d02s11b.rpy:170
 translate malaysian replay_d02s11b_8f887f6d:
@@ -238,7 +238,7 @@ translate malaysian replay_d02s11b_072f197d:
 translate malaysian replay_d02s11b_6be4487b:
 
     # mct "Did she moan a little when I grabbed her thighs? I guess she wasn't expecting that."
-    mct "Tadi dia ada 'moan' sikit ke masa aku pegang peha dia? Aku rasa dia tak sangka benda tu."
+    mct "Tadi dia ada \"moan\" sikit ke masa aku pegang peha dia? Aku rasa dia tak sangka benda tu."
 
 # game/code/d02/d02s11b.rpy:196
 translate malaysian replay_d02s11b_c4cccedc:
@@ -286,13 +286,13 @@ translate malaysian replay_d02s11b_a6dd4e57:
 translate malaysian replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    "[mcname] mula sedut perlahan-lahan kelentit Min, membuatkan Min 'moan' dengan kuat."
+    "[mcname] mula sedut perlahan-lahan kelentit Min, membuatkan Min \"moan\" dengan kuat."
 
 # game/code/d02/d02s11b.rpy:240
 translate malaysian replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "Selepas tu [mcname] menjilat lagi dengan melalui bibir Min dari kelentit sepanjang celah kangkang dan punggung Min... {w}Itu membuatkan Min 'moan' lagi kuat."
+    "Selepas tu [mcname] menjilat lagi dengan melalui bibir Min dari kelentit sepanjang celah kangkang dan punggung Min... {w}Itu membuatkan Min \"moan\" lagi kuat."
 
 # game/code/d02/d02s11b.rpy:241
 translate malaysian replay_d02s11b_7a19cf07:
@@ -382,7 +382,7 @@ translate malaysian replay_d02s11b_72aa4035:
 translate malaysian replay_d02s11b_9291f744:
 
     # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "Dia buat-buat 'confident' balik, macam aku tak bagi dia pancut yang paling 'best' tadi!"
+    mct "Dia buat-buat \"confident\" balik, macam aku tak bagi dia pancut yang paling \"best\" tadi!"
 
 # game/code/d02/d02s11b.rpy:283
 translate malaysian replay_d02s11b_c039aa13:
