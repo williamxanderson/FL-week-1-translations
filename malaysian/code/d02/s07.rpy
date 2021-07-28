@@ -64,7 +64,7 @@ translate malaysian d02s07_d8f340ff:
 translate malaysian d02s07_fc986637:
 
     # pb "Yes! We went wild with celebration!"
-    pb "Iya! Kitaorang memang 'celebrate' ganas macam tu!"
+    pb "Iya! Kitaorang memang \"celebrate\" ganas macam tu!"
 
 # game/code/d02/s07.rpy:121
 translate malaysian d02s07_c0d0ab33:
@@ -76,7 +76,7 @@ translate malaysian d02s07_c0d0ab33:
 translate malaysian d02s07_ef709518:
 
     # "[mcname] joins Pete at his table."
-    "[mcname] 'join' dengan Pete dekat meja dia."
+    "[mcname] \"join\" dengan Pete dekat meja dia."
 
 # game/code/d02/s07.rpy:127
 translate malaysian d02s07_d72a4b71:
@@ -112,7 +112,7 @@ translate malaysian d02s07_cce10f86:
 translate malaysian d02s07_b806c105:
 
     # pb "Even if I was actually late to submit. Imagine the points if I had cum in 69 seconds?"
-    pb "'Even' kalau aku memang lambat hantar. Bayangkan bilangan mata kalau aku pancut dalam masa 69 saat?"
+    pb "\"Even\" kalau aku memang lambat hantar. Bayangkan bilangan mata kalau aku pancut dalam masa 69 saat?"
 
 # game/code/d02/s07.rpy:141
 translate malaysian d02s07_7a53e763:
@@ -160,7 +160,7 @@ translate malaysian d02s07_6b653a62:
 translate malaysian d02s07_803742a9:
 
     # mc "Okay, I will try to come up with something!"
-    mc "Ok, aku cuba datangkan 'idea' untuk buat sesuatu!"
+    mc "Ok, aku cuba datangkan \"idea\" untuk buat sesuatu!"
 
 # game/code/d02/s07.rpy:161
 translate malaysian d02s07_17fdb1f4:
@@ -178,7 +178,7 @@ translate malaysian d02s07_7a11f59f:
 translate malaysian d02s07_0f18c60c:
 
     # pb "And good luck with whatever you plan to do with this banana!"
-    pb "Dengan semoga berjaya dengan apa-apa yang kau 'plan' nak buat dengan pisang ni!"
+    pb "Dengan semoga berjaya dengan apa-apa yang kau \"plan\" nak buat dengan pisang ni!"
 
 # game/code/d02/s07.rpy:168
 translate malaysian d02s07_ab3e2ca2:
@@ -364,7 +364,7 @@ translate malaysian replay_d02s07_9c9f6619:
 translate malaysian replay_d02s07_e99614ac:
 
     # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
-    mc "({i}Kote aku jadi tegang tengok [game.stacytitle] aku. Benda tu salah sangat pada masa yang sama 'hot' gila!{/i})"
+    mc "({i}Kote aku jadi tegang tengok [game.stacytitle] aku. Benda tu salah sangat pada masa yang sama \"hot\" gila!{/i})"
 
 # game/code/d02/s07.rpy:287
 translate malaysian replay_d02s07_72bdd4f1:
@@ -430,13 +430,13 @@ translate malaysian replay_d02s07_d7f7bcb2:
 translate malaysian replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc "({i}[game.stacytitle] aku jenis 'kinky'. Dari apa yang aku tahu pasal dia, dia tak akan teragak-agak untuk guna 'app' tu!{/i})"
+    mc "({i}[game.stacytitle] aku jenis \"kinky\". Dari apa yang aku tahu pasal dia, dia tak akan teragak-agak untuk guna \"app\" tu!{/i})"
 
 # game/code/d02/s07.rpy:351
 translate malaysian replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc "({i}Tapi aku ada rasa jadi 'protective' dekat dia. Aku tak nak dia hantar gambar seksi untuk lelaki lain tengok...{/i})"
+    mc "({i}Tapi aku ada rasa jadi \"protective\" dekat dia. Aku tak nak dia hantar gambar seksi untuk lelaki lain tengok...{/i})"
 
 # game/code/d02/s07.rpy:352
 translate malaysian replay_d02s07_b7389156:
@@ -466,19 +466,19 @@ translate malaysian d01s07_pete_about_girls_16af2776:
 translate malaysian d01s07_pete_about_girls_2854182f:
 
     # pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
-    pb "Oh, yeah! Ada banyak gila perempuan dekat sana masa tu! Dia orang bukan dari kolej kita jadi dia orang tak pernah dengar pasal 'app' Fetish Locator! Kita kena tunjuk 'app' tu dekat dia orang!"
+    pb "Oh, yeah! Ada banyak gila perempuan dekat sana masa tu! Dia orang bukan dari kolej kita jadi dia orang tak pernah dengar pasal \"app\" Fetish Locator! Kita kena tunjuk \"app\" tu dekat dia orang!"
 
 # game/code/d02/s07.rpy:385
 translate malaysian d01s07_pete_about_girls_2_cd0e4703:
 
     # pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
-    pb "Iya! Aku ingat cabaran pantas tu! Aku tengah tebuk perempuan rambut perang ni dalam lubang bontot ketat dia lepas tu perasan 'notification' 'app' tu."
+    pb "Iya! Aku ingat cabaran pantas tu! Aku tengah tebuk perempuan rambut perang ni dalam lubang bontot ketat dia lepas tu perasan \"notification\" \"app\" tu."
 
 # game/code/d02/s07.rpy:386
 translate malaysian d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
-    pb "Aku rasa aku buka 'app' tu lambat sikit, tapi aku masih dapat tarik balik kote aku keluar dari bontot perempuan tu, berdiri atas dia lepas tu pancut habis-habisan dekat atas kepala dia!"
+    pb "Aku rasa aku buka \"app\" tu lambat sikit, tapi aku masih dapat tarik balik kote aku keluar dari bontot perempuan tu, berdiri atas dia lepas tu pancut habis-habisan dekat atas kepala dia!"
 
 # game/code/d02/s07.rpy:388
 translate malaysian d01s07_pete_about_girls_2_0741f128:
