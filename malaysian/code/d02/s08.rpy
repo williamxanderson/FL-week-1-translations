@@ -178,7 +178,7 @@ translate malaysian d02s08_f3e39b2a:
 translate malaysian d02s08_3df8b771:
 
     # mct "In that case I lost my chance to get a pussy. But let's wait a little more just in case."
-    mct "Kalau macam tu aku hilang peluang aku untuk dapatkan pepek. Tapi jom kita tunggu sedikit lagi 'just in case'."
+    mct "Kalau macam tu aku hilang peluang aku untuk dapatkan pepek. Tapi jom kita tunggu sedikit lagi \"just in case\"."
 
 # game/code/d02/s08.rpy:105
 translate malaysian d02s08_e825cb57:
@@ -256,7 +256,7 @@ translate malaysian d02s08_4f01f556:
 translate malaysian d02s08_e6db323e:
 
     # pw "Relax! Nerd! We are in this boat together!"
-    pw "Tenang sikit! 'Nerd'! Kita dalam perkara ni sama-sama!"
+    pw "Tenang sikit! \"Nerd\"! Kita dalam perkara ni sama-sama!"
 
 # game/code/d02/s08.rpy:150
 translate malaysian d02s08_4e36113d:
@@ -268,7 +268,7 @@ translate malaysian d02s08_4e36113d:
 translate malaysian d02s08_6fef7bc3:
 
     # pw "Sure you are! I saw you watch anime!"
-    pw "Ya lah tu! Saya pernah nampak awak tengok 'anime'!"
+    pw "Ya lah tu! Saya pernah nampak awak tengok \"anime\"!"
 
 # game/code/d02/s08.rpy:153
 translate malaysian d02s08_e0d6aaf1:
@@ -292,7 +292,7 @@ translate malaysian d02s08_a9034ca8:
 translate malaysian d02s08_bbf02707:
 
     # mct "Well she is actually hot, so that wouldn't be a problem for me!"
-    mct "'Well' dia memang cantik, jadi benda tu tak ada masalah bagi aku!"
+    mct "\"Well\" dia memang cantik, jadi benda tu tak ada masalah bagi aku!"
 
 # game/code/d02/s08.rpy:161
 translate malaysian d02s08_ffae51ef:
@@ -328,7 +328,7 @@ translate malaysian d02s08_bf2abc48:
 translate malaysian d02s08_f468fb1d:
 
     # mc "Huh?! You want to have a date first?"
-    mc "Huh?! Awak nak 'date' dulu ke?"
+    mc "Huh?! Awak nak \"date\" dulu ke?"
 
 # game/code/d02/s08.rpy:175
 translate malaysian d02s08_9d89f758:
@@ -370,7 +370,7 @@ translate malaysian d02s08_17754257:
 translate malaysian d02s08_cb0352fb:
 
     # mct "Why is she acting so hot? My blood is boiling!"
-    mct "Kenapa dia nampak 'hot' semacam ni? Darah aku bergelegak ni!"
+    mct "Kenapa dia nampak \"hot\" semacam ni? Darah aku bergelegak ni!"
 
 # game/code/d02/s08.rpy:193
 translate malaysian d02s08_53fe142c:
@@ -400,7 +400,7 @@ translate malaysian d02s08_979fcb2a:
 translate malaysian d02s08_5e66b2b7:
 
     # mc "Well if the challenge was about doing a deep throat, then I could understand why we would negotiate."
-    mc "'Well' kalau cabaran tu kena buat 'deep throat', rasanya saya mungkin boleh faham kenapa kita boleh berbincang."
+    mc "\"Well\" kalau cabaran tu kena buat \"deep throat\", rasanya saya mungkin boleh faham kenapa kita boleh berbincang."
 
 # game/code/d02/s08.rpy:208
 translate malaysian d02s08_c31a4bdc:
@@ -526,13 +526,13 @@ translate malaysian d02s08_8115c799:
 translate malaysian d02s08_ed9a557d:
 
     # pw "You have to organize a date for me!"
-    pw "Awak kena aturkan sebuah 'date' untuk saya!"
+    pw "Awak kena aturkan sebuah \"date\" untuk saya!"
 
 # game/code/d02/s08.rpy:271
 translate malaysian d02s08_28671472:
 
     # mc "I thought you didn't want a date!"
-    mc "Saya ingat awak tak nak pun 'date'!"
+    mc "Saya ingat awak tak nak pun \"date\"!"
 
 # game/code/d02/s08.rpy:274
 translate malaysian d02s08_b2232394:
