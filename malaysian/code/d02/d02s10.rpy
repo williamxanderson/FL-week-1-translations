@@ -16,7 +16,7 @@ translate malaysian d02s10_c3b2571a:
 translate malaysian d02s10_100acbb8:
 
     # pw "Then wait for her to call you!"
-    pw "Lepas tu tunggu dia 'call' awak!"
+    pw "Lepas tu tunggu dia \"call\" awak!"
 
 # game/code/d02/d02s10.rpy:66
 translate malaysian d02s10_817f412d:
@@ -88,7 +88,7 @@ translate malaysian d02s10_83072ff9:
 translate malaysian d02s10_af2b035f:
 
     # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
-    mct "Memang 'hot' juga cari orang lain punya fetish. Macam porn yang 'enjoy' oleh orang yang aku kenal sangat."
+    mct "Memang \"hot\" juga cari orang lain punya fetish. Macam porn yang \"enjoy\" oleh orang yang aku kenal sangat."
 
 # game/code/d02/d02s10.rpy:87
 translate malaysian d02s10_54e9eeef:
@@ -130,7 +130,7 @@ translate malaysian d02s10_093143f0:
 translate malaysian d02s10_b3dd6cca:
 
     # mct "Is she streaming porn?!"
-    mct "Dia tengah 'stream' porn ke?!"
+    mct "Dia tengah \"stream\" porn ke?!"
 
 # game/code/d02/d02s10.rpy:113
 translate malaysian d02s10_792449e2:
@@ -148,7 +148,7 @@ translate malaysian d02s10_7ce36cb4:
 translate malaysian d02s10_61695b82:
 
     # mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
-    mct "Aku rasa tak salah kalau aku lancap sikit 'as long as' tak ada siapa tahu."
+    mct "Aku rasa tak salah kalau aku lancap sikit \"as long as\" tak ada siapa tahu."
 
 # game/code/d02/d02s10.rpy:142
 translate malaysian d02s10_d39d18f4:
@@ -160,13 +160,13 @@ translate malaysian d02s10_d39d18f4:
 translate malaysian d02s10_038df53c:
 
     # mct "She knows how to tease!"
-    mct "Dia tahu macam mana nak 'tease'!"
+    mct "Dia tahu macam mana nak \"tease\"!"
 
 # game/code/d02/d02s10.rpy:160
 translate malaysian d02s10_154cba3d:
 
     # mct "She's surprised me a lot! I didn't expect that from her!"
-    mct "Dia selalu buat aku 'surprise'! Aku tak sangka pulak dia buat benda ni!"
+    mct "Dia selalu buat aku \"surprise\"! Aku tak sangka pulak dia buat benda ni!"
 
 # game/code/d02/d02s10.rpy:174
 translate malaysian d02s10_249ab9d0:
@@ -178,7 +178,7 @@ translate malaysian d02s10_249ab9d0:
 translate malaysian d02s10_54153b11:
 
     # mct "Wow, seems like she is going to get rid of this maid costume!"
-    mct "Wow, nampaknya dia nak tanggalkan pakaian 'maid' tu!"
+    mct "Wow, nampaknya dia nak tanggalkan pakaian \"maid\" tu!"
 
 # game/code/d02/d02s10.rpy:182
 translate malaysian d02s10_f9735392:
@@ -214,7 +214,7 @@ translate malaysian d02s10_8c6c2132:
 translate malaysian d02s10_5820052b:
 
     # mct "She's teasing a lot, without actually undressing!"
-    mct "Dia banyak 'tease', tanpa tanggalkan baju!"
+    mct "Dia banyak \"tease\", tanpa tanggalkan baju!"
 
 # game/code/d02/d02s10.rpy:242
 translate malaysian d02s10_ab4f697e:
@@ -238,7 +238,7 @@ translate malaysian d02s10_0bb04066:
 translate malaysian d02s10_73d1f4ff:
 
     # mct "But it is kinda hot imagining that could be AmRose."
-    mct "Tapi agak 'hot' juga bayangkan tu AmRose."
+    mct "Tapi agak \"hot\" juga bayangkan tu AmRose."
 
 # game/code/d02/d02s10.rpy:249
 translate malaysian d02s10_300e628c:
@@ -310,19 +310,19 @@ translate malaysian d02s10_716148c3:
 translate malaysian d02s10_7300ceda:
 
     # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
-    mct "Ok! Nampaknya aku semakin dekat nak dapatkan sedikit mata hari ni! Jom kita buat 'blind date' ni menjadi."
+    mct "Ok! Nampaknya aku semakin dekat nak dapatkan sedikit mata hari ni! Jom kita buat \"blind date\" ni menjadi."
 
 # game/code/d02/d02s10.rpy:281
 translate malaysian d02s10_c940c105:
 
     # mct "What’s this? Fetish Locator direct message from Squizzle? {w}With image?!"
-    mct "Apa ni? Fetish Locator 'direct message' dari Squizzle? {w}Berserta dengan gambar?!"
+    mct "Apa ni? Fetish Locator \"direct message\" dari Squizzle? {w}Berserta dengan gambar?!"
 
 # game/code/d02/d02s10.rpy:282
 translate malaysian d02s10_b49e91c3:
 
     # mct "Right, I posted the ad earlier today. I almost forgot about it!"
-    mct "Oh ya, aku 'post' iklan pagi tadi. Aku hampir lupa pasal tu!"
+    mct "Oh ya, aku \"post\" iklan pagi tadi. Aku hampir lupa pasal tu!"
 
 # game/code/d02/d02s10.rpy:283
 translate malaysian d02s10_298d7190:
@@ -346,19 +346,19 @@ translate malaysian d02s10_015d20de:
 translate malaysian d02s10_e01aaeca:
 
     # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
-    mct "Squizzle... {w}bukan ke tu...{w} ya, tu Min punya 'username'."
+    mct "Squizzle... {w}bukan ke tu...{w} ya, tu Min punya \"username\"."
 
 # game/code/d02/d02s10.rpy:291
 translate malaysian d02s10_cacb2632:
 
     # mct "I saw her username as the daily challenge winner yesterday."
-    mct "Aku nampak 'username' dia sebagai pemenang cabaran harian semalam."
+    mct "Aku nampak \"username\" dia sebagai pemenang cabaran harian semalam."
 
 # game/code/d02/d02s10.rpy:292
 translate malaysian d02s10_6e3d0e46:
 
     # mct "So that’s what Min looks like under the skirt."
-    mct "Jadi macam tu rupa Min bawah 'skirt' tu."
+    mct "Jadi macam tu rupa Min bawah \"skirt\" tu."
 
 # game/code/d02/d02s10.rpy:293
 translate malaysian d02s10_5b5acf3d:
@@ -388,7 +388,7 @@ translate malaysian d02s10_a1d5445a:
 translate malaysian d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
-    mct "Sekurang-kurangnya dia cakap pasal 'business' dekat sini!"
+    mct "Sekurang-kurangnya dia cakap pasal \"business\" dekat sini!"
 
 # game/code/d02/d02s10.rpy:300
 translate malaysian d02s10_6ddf750f:
@@ -400,7 +400,7 @@ translate malaysian d02s10_6ddf750f:
 translate malaysian d02s10_cb43c6ca:
 
     # mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
-    mct "Atau kalau 'blind date' tu tak menjadi. Apa peluang aku untuk memang dapatkan pepek kalau macam tu?"
+    mct "Atau kalau \"blind date\" tu tak menjadi. Apa peluang aku untuk memang dapatkan pepek kalau macam tu?"
 
 # game/code/d02/d02s10.rpy:303
 translate malaysian d02s10_c87fcc7e:
@@ -430,13 +430,13 @@ translate malaysian d02s10_7ab3ab7d:
 translate malaysian d02s10_563cb6d9:
 
     # mct "Let's check how AmRose's stream is going before I go."
-    mct "Jom kita tengok macam mana AmRose punya 'stream' tengah jalan sebelum aku pergi."
+    mct "Jom kita tengok macam mana AmRose punya \"stream\" tengah jalan sebelum aku pergi."
 
 # game/code/d02/d02s10.rpy:313
 translate malaysian d02s10_a635648f:
 
     # mct "Let's see how is the girl on the cam-stream is doing."
-    mct "Jom kita tengok macam mana perempuan dekat 'stream' tu tengah buat."
+    mct "Jom kita tengok macam mana perempuan dekat \"stream\" tu tengah buat."
 
 # game/code/d02/d02s10.rpy:318
 translate malaysian d02s10_e948966c:
@@ -454,7 +454,7 @@ translate malaysian d02s10_57a81f8b:
 translate malaysian d02s10_58714ac6:
 
     # mct "I would love to see how far AmRose will go with her stream..."
-    mct "Aku teringin nak tengok sejauh mana AmRose akan pergi dengan 'stream' dia tu..."
+    mct "Aku teringin nak tengok sejauh mana AmRose akan pergi dengan \"stream\" dia tu..."
 
 # game/code/d02/d02s10.rpy:324
 translate malaysian d02s10_d5f9896f:
