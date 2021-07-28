@@ -524,7 +524,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "You will date Lyssa. This will open up the Romance path with her."
-    new "Awak akan 'dating' Lyssa. Ini akan membuka jalan cerita Romantik bersama dia."
+    new "Awak akan \"dating\" Lyssa. Ini akan membuka jalan cerita Romantik bersama dia."
 
     # game/code/hints.rpy:5
     old "You will dominate Lyssa. This will open up the Domination path with her."
