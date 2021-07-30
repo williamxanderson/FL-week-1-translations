@@ -124,7 +124,7 @@ translate malaysian d01s05b_ba74a0c5:
 translate malaysian d01s05b_66c64aa2:
 
     # jfx "Seriously? Huh. {w}So, what do you want some random girl to do - in the park, at night, with you?"
-    jfx "Awak 'serious' lah? Huh. {w}Jadi, apa yang awak nak perempuan mana entah buat - dekat taman, waktu malam, dengan awak?"
+    jfx "Awak \"serious\" lah? Huh. {w}Jadi, apa yang awak nak perempuan mana entah buat - dekat taman, waktu malam, dengan awak?"
 
 # game/code/d01/extended/s05b.rpy:61
 translate malaysian d01s05b_eea5cd43:
@@ -208,7 +208,7 @@ translate malaysian d01s05b_d80e0891:
 translate malaysian d01s05b_946cc9bf:
 
     # mc "No, I mean the foot in mouth thing. It's just an expression."
-    mc "Bukan, maksud saya yang kaki dekat mulut tu. Hanya sekadar 'expression' je."
+    mc "Bukan, maksud saya yang kaki dekat mulut tu. Hanya sekadar \"expression\" je."
 
 # game/code/d01/extended/s05b.rpy:83
 translate malaysian d01s05b_bdeff48f:
