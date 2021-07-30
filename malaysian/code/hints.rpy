@@ -128,7 +128,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish. This scene will close off Polly and Nora's path for good."
-    new "Ini akan beri awak satu pilhan senario bersama Min yang termasuk dengan fetish Menstruasi. Scenario ini akan menutup jalan cerita Polly dan Nora selamanya."
+    new "Ini akan beri awak satu pilhan senario bersama Min yang termasuk dengan fetish Menstruasi. Senario ini akan menutup jalan cerita Polly dan Nora selamanya."
 
     # game/code/hints.rpy:5
     old "This will give you an optional scene with Min that includes the Menstruation fetish."
@@ -136,7 +136,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "You will eat out Min while she's on her period."
-    new "Awak akan jilat pepek Min semasa dia dalam keadaan period."
+    new "Awak akan jilat pepek Min semasa dia dalam keadaan \"period\"."
 
     # game/code/hints.rpy:5
     old "You need to select this option if you wish to go on Polly and Nora's path. You will miss Min's optional oral scene however."
@@ -144,11 +144,11 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "You won't eat out Min while she's on her period."
-    new "Awak tidak akan jilat pepek Min semasa dia dalam keadaan period."
+    new "Awak tidak akan jilat pepek Min semasa dia dalam keadaan \"period\"."
 
     # game/code/hints.rpy:5
     old "This stops the scene."
-    new "Ini menghenti senario."
+    new "Ini menghentikan senario."
 
     # game/code/hints.rpy:5
     old "This continues the scene and has more content."
@@ -224,7 +224,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "You will try to go see what AmRose is up to, but you won't get anywhere because the door will be locked. You need to have helped Kevin and Chloe not get caught to get the key."
-    new "Awak akan cuba untuk pergi melihat apa yang AmRose sedang buat, tetapi awak tidak akan dapat ke mana-mana kerana pintu akan dikunci. Awak perlu tolong Kevin dan Chloe daripada tertangkap untuk dapatkan kunci tersebut."
+    new "Awak akan cuba untuk pergi melihat apa yang AmRose sedang buat, tetapi awak tidak akan dapat ke mana-mana kerana pintu akan dikunci. Awak perlu bantu Kevin dan Chloe daripada tertangkap untuk dapatkan kunci tersebut."
 
     # game/code/hints.rpy:5
     old "You don't try to go see what AmRose is up to."
@@ -428,7 +428,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "Daisy will leave. This will close Daisy's path."
-    new "Daisy akan gerak. Ini akan menutup jalan cerita Daisy."
+    new "Daisy akan pergi. Ini akan menutup jalan cerita Daisy."
 
     # game/code/hints.rpy:5
     old "Daisy will undress."
@@ -576,7 +576,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "Polly will give you a rimjob."
-    new "Polly akan beri awak satu rimjob."
+    new "Polly akan beri awak satu \"rimjob\"."
 
     # game/code/hints.rpy:5
     old "You won't get anything."
@@ -584,7 +584,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "This choice keeps the possibility of future rimming content open."
-    new "Pilihan ini kekalkan kemungkinan kandungan rimming terbuka nanti."
+    new "Pilihan ini kekalkan kemungkinan kandungan \"rimming\" terbuka nanti."
 
     # game/code/hints.rpy:5
     old "This choice keeps the possibility of future scat content open."
@@ -592,7 +592,7 @@ translate malaysian strings:
 
     # game/code/hints.rpy:5
     old "You do not enjoy getting rimmed."
-    new "Awak tidak menikmati dikenakan rimmed."
+    new "Awak tidak menikmati dikenakan \"rimmed\"."
 
     # game/code/hints.rpy:5
     old "This will lead to sex with Vanessa."
