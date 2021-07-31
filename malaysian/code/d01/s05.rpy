@@ -58,7 +58,7 @@ translate malaysian d01s05_dorm_16498b72:
 translate malaysian d01s05_dorm_e676377d:
 
     # mct "Let's google what kinky stuff I can do for a cumshot fetish."
-    mct "Apa kata kita 'google' benda menggatal yang aku boleh buat untuk fetish pancutan tu."
+    mct "Apa kata kita \"google\" benda menggatal yang aku boleh buat untuk fetish pancutan tu."
 
 # game/code/d01/s05.rpy:185
 translate malaysian d01s05_dorm_6fb2fbef:
@@ -268,7 +268,7 @@ translate malaysian d01s05_arj_e3ceb33b:
 translate malaysian d01s05_arj_2ae326b8:
 
     # mc "Yes, it's really good. You have to see it."
-    mc "Ha-ah, memang 'best' pun. Awak kena tengok."
+    mc "Ha-ah, memang \"best\" pun. Awak kena tengok."
 
 # game/code/d01/s05.rpy:364
 translate malaysian d01s05_arj_648093fb:
@@ -292,7 +292,7 @@ translate malaysian d01s05_arj_c0e6c23a:
 translate malaysian d01s05_arj_5d464138:
 
     # arj "Yeah, I remember. That means you haven't seen how I decorated the place since then?"
-    arj "Ya, saya ingat. Maksudnya awak tak pernah tengok macam mana saya 'decorate'  tempat ni semenjak tu?"
+    arj "Ya, saya ingat. Maksudnya awak tak pernah tengok macam mana saya \"decorate\" tempat ni semenjak tu?"
 
 # game/code/d01/s05.rpy:375
 translate malaysian d01s05_arj_0a84b318:
@@ -376,7 +376,7 @@ translate malaysian d01s05_arj_fdca16f4:
 translate malaysian d01s05_arj_bf4ca335:
 
     # arj "Maybe I'm not that big into the party scene, but I wouldn't mind having a little fun every now and then."
-    arj "Mungkin saya bukan jenis nak 'join' parti sangat kot, tapi saya tak kisah pun nak berseronok sikit."
+    arj "Mungkin saya bukan jenis nak \"join\" parti sangat kot, tapi saya tak kisah pun nak berseronok sikit."
 
 # game/code/d01/s05.rpy:409
 translate malaysian d01s05_arj_6db1562f:
@@ -442,7 +442,7 @@ translate malaysian d01s05_arj_1c656e3c:
 translate malaysian d01s05_arj_9be09d5f:
 
     # arjt "He's still really into Lydia. Why did I think that he is over her."
-    arjt "Dia masih taksub dengan Lydia. Kenapalah aku fikir yang dia dah 'move on' dari Lydia."
+    arjt "Dia masih taksub dengan Lydia. Kenapalah aku fikir yang dia dah \"move on\" dari Lydia."
 
 # game/code/d01/s05.rpy:423
 translate malaysian d01s05_arj_0a6677c0:
@@ -454,7 +454,7 @@ translate malaysian d01s05_arj_0a6677c0:
 translate malaysian d01s05_arj_bed3aace:
 
     # arj "Ready to watch the movie?"
-    arj "Dah 'ready' nak tengok filem tak?"
+    arj "Dah \"ready\" nak tengok filem tak?"
 
 # game/code/d01/s05.rpy:427
 translate malaysian d01s05_arj_85d475fe:
@@ -502,7 +502,7 @@ translate malaysian s05_clap_lights_2fc337c2:
 translate malaysian s05_clap_lights_c83d0d03:
 
     # mc "Did you setup the lights yourself?"
-    mc "Awak 'setup' sendiri ke lampu semua ni?"
+    mc "Awak \"setup\" sendiri ke lampu semua ni?"
 
 # game/code/d01/s05.rpy:445
 translate malaysian s05_clap_lights_dd828ab7:
@@ -514,7 +514,7 @@ translate malaysian s05_clap_lights_dd828ab7:
 translate malaysian s05_clap_lights_45d9d0ba:
 
     # mc "Right. How could I forget you're studying electrical engineering."
-    mc "Ha-ah eh. Macam manalah saya boleh lupa yang awak 'study' kejuruteraan elektrik."
+    mc "Ha-ah eh. Macam manalah saya boleh lupa yang awak \"study\" kejuruteraan elektrik."
 
 # game/code/d01/s05.rpy:450
 translate malaysian s05_clap_lights_0a6cb2d6:
@@ -568,7 +568,7 @@ translate malaysian s05_clap_lights_60863592:
 translate malaysian s05_clap_lights_bfbeaab7:
 
     # arjt "Yeah, I'm sure! He definitely likes the outfit that I'm wearing tonight."
-    arjt "Yep, aku 'sure' punyalah! Dia memang suka pakaian yang aku pakai malam ni."
+    arjt "Yep, aku \"sure\" punyalah! Dia memang suka pakaian yang aku pakai malam ni."
 
 # game/code/d01/s05.rpy:465
 translate malaysian s05_clap_lights_41aa147c:
@@ -610,7 +610,7 @@ translate malaysian replay_d01s05_ef1072a0:
 translate malaysian replay_d01s05_5fe7fdff:
 
     # mc "Let's pause the movie."
-    mc "Apa kata kita 'pause' kejap filem ni."
+    mc "Apa kata kita \"pause\" kejap filem ni."
 
 # game/code/d01/s05.rpy:491
 translate malaysian replay_d01s05_c04787a7:
@@ -730,7 +730,7 @@ translate malaysian replay_d01s05_c5976dd7:
 translate malaysian replay_d01s05_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
-    mct "Aku ambil je lah... Aduh! Aku tergerakkan 'mouse' dia tu."
+    mct "Aku ambil je lah... Aduh! Aku tergerakkan \"mouse\" dia tu."
 
 # game/code/d01/s05.rpy:567
 translate malaysian replay_d01s05_f247077d:
@@ -742,7 +742,7 @@ translate malaysian replay_d01s05_f247077d:
 translate malaysian replay_d01s05_55dacec4:
 
     # mct "Oh, she has a nice laptop."
-    mct "Oh, dia ada 'laptop' yang lawa."
+    mct "Oh, dia ada \"laptop\" yang lawa."
 
 # game/code/d01/s05.rpy:571
 translate malaysian replay_d01s05_bc795f0b:
@@ -754,19 +754,19 @@ translate malaysian replay_d01s05_bc795f0b:
 translate malaysian replay_d01s05_5e0101bd:
 
     # mct "Oh, I moved the mouse."
-    mct "Oh, aku tergerakkan 'mouse' dia tu."
+    mct "Oh, aku tergerakkan \"mouse\" dia tu."
 
 # game/code/d01/s05.rpy:575
 translate malaysian replay_d01s05_f19b5467:
 
     # mct "Oops! It looks like it switched to another screen with porn!"
-    mct "Alamak! Nampaknya dia tertukar ke 'screen' lagi satu yang ada porn!"
+    mct "Alamak! Nampaknya dia tertukar ke \"screen\" lagi satu yang ada porn!"
 
 # game/code/d01/s05.rpy:576
 translate malaysian replay_d01s05_44027dcb:
 
     # mct "I better put it back in sleep mode before AmRose wakes up and thinks that I'm looking through her computer."
-    mct "Lebik baik aku tutup balik sebelum AmRose bangun lepas tu ingat yang aku ni selongkar 'laptop' dia."
+    mct "Lebik baik aku tutup balik sebelum AmRose bangun lepas tu ingat yang aku ni selongkar \"laptop\" dia."
 
 # game/code/d01/s05.rpy:579
 translate malaysian replay_d01s05_f80f19bb:
@@ -886,7 +886,7 @@ translate malaysian replay_d01s05_2262c09e:
 translate malaysian replay_d01s05_3a8ef895:
 
     # arjt "Did he just awkwardly touch my leg?"
-    arjt "Tadi dia 'awkwardly' sentuh kaki saya ke?"
+    arjt "Tadi dia \"awkwardly\" sentuh kaki saya ke?"
 
 # game/code/d01/s05.rpy:649
 translate malaysian replay_d01s05_b3af82cf:
