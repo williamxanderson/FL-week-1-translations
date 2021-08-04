@@ -268,7 +268,7 @@ translate malaysian s03_fad68f12:
 translate malaysian s03_e3e28c1f:
 
     # mc "And the points are used to unlock these nude pics?"
-    mc "Dengan bilangan mata tu guna untuk 'unlock' gambar bogel semua tu?"
+    mc "Dengan bilangan mata tu guna untuk \"unlock\" gambar bogel semua tu?"
 
 # game/code/d01/s03.rpy:162
 translate malaysian s03_c558ce34:
@@ -484,7 +484,7 @@ translate malaysian s03_9c23b148:
 translate malaysian s03_6137e902:
 
     # sy "It's only been a year. It's just new make up. I didn't change that much."
-    sy "Baru setahun. 'Make up' baru je. Tak ada yang berubah sangat pun."
+    sy "Baru setahun. \"Make up\" baru je. Tak ada yang berubah sangat pun."
 
 # game/code/d01/s03.rpy:248
 translate malaysian s03_90fe6173:
@@ -496,7 +496,7 @@ translate malaysian s03_90fe6173:
 translate malaysian s03_3773d819:
 
     # mct "She might say it's just the make up, but she's changed a lot! She was kind of a chubby girl but now, she's completely changed. Look how thin she is."
-    mct "Dia mungkin cakap cuma 'make up' je, tapi dia dah berubah banyak! Dia agak gemuk sebelum ni tapi sekarang, dia berubah sepenuhnya. Tengok betapa kurusnya dia ni."
+    mct "Dia mungkin cakap cuma \"make up\" je, tapi dia dah berubah banyak! Dia agak gemuk sebelum ni tapi sekarang, dia berubah sepenuhnya. Tengok betapa kurusnya dia ni."
 
 # game/code/d01/s03.rpy:255
 translate malaysian s03_34b58f6f:
@@ -766,7 +766,7 @@ translate malaysian s03_2f1b80f7:
 translate malaysian s03_7dbb8e20:
 
     # mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
-    mct "Aduh! Sejak bila dia jadi pandai sangat dengan 'pressure' orang ni? Apa dah jadi dengan si kecil gemuk comel [game.stacytitle] aku ni?"
+    mct "Aduh! Sejak bila dia jadi pandai sangat dengan \"pressure\" orang ni? Apa dah jadi dengan si kecil gemuk comel [game.stacytitle] aku ni?"
 
 # game/code/d01/s03.rpy:352
 translate malaysian s03_82d48b48:
