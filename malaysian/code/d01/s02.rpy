@@ -184,7 +184,7 @@ translate malaysian d01s02_d59a0b93:
 translate malaysian d01s02_314849a5:
 
     # mct "Oh, damn! I already forgot how boring this is."
-    mct "Hmm, pensyarah pun cakap bla blah blah je tak guna bahasa betul pun sebab translator yang buat ni boleh 'break the 4th wall' walaupun hanya translator je hehehe."
+    mct "Hmm, pensyarah pun cakap bla blah blah je tak guna bahasa betul pun sebab translator yang buat ni boleh \"break the 4th wall\" walaupun hanya translator je hehehe."
 
 # game/code/d01/s02.rpy:148
 translate malaysian d01s02_0bd30138:
@@ -382,7 +382,7 @@ translate malaysian d01s02_3b056b7a:
 translate malaysian d01s02_8e1260f5:
 
     # kb "Your info is kept anonymous and it's only shown to someone if you want it to be. You can control the settings in the app."
-    kb "Semua maklumat kau dirahsiakan dan akan ditunjuk dekat seseorang kalau kau nak tunjukkan maklumat kau tu. Kau boleh kawal 'setting' dalam aplikasi tu."
+    kb "Semua maklumat kau dirahsiakan dan akan ditunjuk dekat seseorang kalau kau nak tunjukkan maklumat kau tu. Kau boleh kawal \"setting\" dalam aplikasi tu."
 
 # game/code/d01/s02.rpy:206
 translate malaysian d01s02_a106da0d:
@@ -934,7 +934,7 @@ translate malaysian replay_d01s02_ca5f0fd9:
 translate malaysian replay_d01s02_ad429af8:
 
     # mct "Her body language is definitely flirtatious!"
-    mct "'Body language' dia tu ala-ala nak menggoda macam tu!"
+    mct "\"Body language\" dia tu ala-ala nak menggoda macam tu!"
 
 # game/code/d01/s02.rpy:449
 translate malaysian replay_d01s02_4cd44184_3:
