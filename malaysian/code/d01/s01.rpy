@@ -88,7 +88,7 @@ translate malaysian d01s01_9a9a27f1:
 translate malaysian d01s01_4b3873dc:
 
     # mct "Okay. First, I need to pass all my finals. I'm going to make a promise to myself that I won't think about girls at least for today."
-    mct "Ok. Pertama, aku kena lulus semua ujian akhir. Aku kena janji dekat diri aku yang aku tak akan fikir pasal perempuan 'at least' bukan hari ni."
+    mct "Ok. Pertama, aku kena lulus semua ujian akhir. Aku kena janji dekat diri aku yang aku tak akan fikir pasal perempuan \"at least\" bukan hari ni."
 
 # game/code/d01/s01.rpy:52
 translate malaysian d01s01_e68e1b57:
