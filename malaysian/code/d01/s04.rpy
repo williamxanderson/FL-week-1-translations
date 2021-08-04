@@ -130,13 +130,13 @@ translate malaysian s04_fc1333cc:
 translate malaysian s04_785ba4a3:
 
     # mc "She used to be a nerdy, chubby girl the last time I saw her but now she's turned into this super slim sporty chick."
-    mc "Dia dulu budak 'nerd', agak gemuk kali terakhir aku tengok dia tapi sekarang dia dah jadi kurus macam ahli sukan."
+    mc "Dia dulu budak \"nerd\", agak gemuk kali terakhir aku tengok dia tapi sekarang dia dah jadi kurus macam ahli sukan."
 
 # game/code/d01/s04.rpy:166
 translate malaysian s04_00aeba79:
 
     # pb "Wow! Sounds like a nice transformation. She isn't a computer nerd anymore?"
-    pb "Wow! Bunyi dia macam dah berubah sepenuhnya. Dia bukan komputer 'nerd' dah ke?"
+    pb "Wow! Bunyi dia macam dah berubah sepenuhnya. Dia bukan komputer \"nerd\" dah ke?"
 
 # game/code/d01/s04.rpy:168
 translate malaysian s04_7407f7c1:
@@ -802,13 +802,13 @@ translate malaysian replay_d01s04_7a9ceb96:
 translate malaysian replay_d01s04_bb29afd0:
 
     # pb "Yeah, so this is the plan - you use the app, get the ticket and meet Lydia at the party."
-    pb "Iya, jadi ni 'plan' aku - kau guna app tu, dapatkan tiket tu lepas tu jumpa Lydia dekat parti."
+    pb "Iya, jadi ni \"plan\" aku - kau guna app tu, dapatkan tiket tu lepas tu jumpa Lydia dekat parti."
 
 # game/code/d01/s04.rpy:463
 translate malaysian replay_d01s04_fb2526d3:
 
     # mc "I see. Nothing could go wrong with that plan!"
-    mc "Hmm macam tu. 'Plan' yang agak baik juga tu!"
+    mc "Hmm macam tu. \"Plan\" yang agak baik juga tu!"
 
 # game/code/d01/s04.rpy:465
 translate malaysian replay_d01s04_dea4d98c:
@@ -832,7 +832,7 @@ translate malaysian replay_d01s04_16a73af2:
 translate malaysian replay_d01s04_ff2ff749:
 
     # mct "This plan is stupid, but what do I have to lose for trying?"
-    mct "Ni 'plan' yang bodoh, tapi apa salahnya kan kalau mencuba?"
+    mct "Ni \"plan\" yang bodoh, tapi apa salahnya kan kalau mencuba?"
 
 # game/code/d01/s04.rpy:474
 translate malaysian replay_d01s04_2e86dd70:
@@ -862,7 +862,7 @@ translate malaysian strings:
 
     # game/code/d01/s04.rpy:209
     old "That is my [game.stacytitle]! Should give her some privacy"
-    new "Ni [game.stacytitle] aku! Kena bagi dia 'privacy' sikit"
+    new "Ni [game.stacytitle] aku! Kena bagi dia \"privacy\" sikit"
 
     # game/code/d01/s04.rpy:209
     old "Should watch more"
