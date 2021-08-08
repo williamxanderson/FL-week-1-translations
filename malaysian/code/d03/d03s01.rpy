@@ -244,7 +244,7 @@ translate malaysian d03s01_7279eb68:
 translate malaysian d03s01_2d6ec08b:
 
     # mc "Are you willing to help me with that?"
-    mc "Awak sudi nak tolong saya dengan tu?"
+    mc "Awak sudi nak tolong saya pasal tu?"
 
 # game/code/d03/d03s01.rpy:215
 translate malaysian d03s01_11d18100:
@@ -358,7 +358,7 @@ translate malaysian strings:
 
     # game/code/d03/d03s01.rpy:209
     old "Are you willing to help me with that?"
-    new "Awak sudi nak tolong saya dengan tu?"
+    new "Awak sudi nak tolong saya pasal tu?"
 
     # game/code/d03/d03s01.rpy:209
     old "I'll be fine."
