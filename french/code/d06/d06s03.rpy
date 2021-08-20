@@ -526,7 +526,7 @@ translate french replay_d06s03k_a59b4f1a:
 translate french replay_d06s03k_3cbdbcfd:
 
     # arj "It really was. She was just screaming in a high pitched voice for several minutes. I was worried that the R.A. would show up."
-    arj "C’était vraiment le cas. Elle a crié d’une voix aiguë pendant plusieurs minutes. J’avais peur que l'asile psychiatrique se pointe."
+    arj "C’était vraiment le cas. Elle a crié d’une voix aiguë pendant plusieurs minutes. J'avais peur que les autorités débarquent."
 
 # game/code/d06/d06s03.rpy:311
 translate french replay_d06s03k_33afd300:
