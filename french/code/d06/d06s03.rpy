@@ -148,7 +148,7 @@ translate french d06s03_9ca42be1:
 translate french d06s03_7c96ee01:
 
     # mc "I remembered. It's just still very new to me."
-    mc "Je me suis souvenu. C’est juste que c"est encore tout nouveau pour moi."
+    mc "Je me suis souvenu. C’est juste que c\"est encore tout nouveau pour moi."
 
 # game/code/d06/d06s03.rpy:73
 translate french d06s03_c08ee8d9:
@@ -971,4 +971,3 @@ translate french replay_d06s03k_2b35b6fe:
 
     # mc "..."
     mc "..."
-
