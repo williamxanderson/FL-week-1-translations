@@ -208,7 +208,7 @@ translate malaysian replay_d03s02_3f96f9ed:
 translate malaysian replay_d03s02_34030409:
 
     # mc "I feel a draft. Why is it suddenly so cold in here?"
-    mc "Kenapa tiba-tiba sejuk dalam ni?"
+    mc "Rasa berangin. Kenapa tiba-tiba sejuk dalam ni?"
 
 # game/code/d03/d03s02.rpy:204
 translate malaysian replay_d03s02_be7e9aac:
