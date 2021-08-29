@@ -869,6 +869,7 @@ translate portuguese d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
     mct "Qual é a probabilidade dessa mensagem no Fetish Locator ser da Lydia?!"
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/s06.rpy:109
@@ -882,4 +883,3 @@ translate portuguese d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
     kb ""
-

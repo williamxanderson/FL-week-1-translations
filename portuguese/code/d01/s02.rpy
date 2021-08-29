@@ -12,7 +12,6 @@ translate portuguese d01s02_5b6f8a2b:
     # mct "Back to my normal routine and another history class."
     mct "De volta à minha rotina normal: outra aula de História."
 
-
 # game/d01/s02.rpy:100
 translate portuguese d01s02_dc60321d:
 
@@ -1680,6 +1679,7 @@ translate portuguese strings:
     # game/code/d01/s02.rpy:270
     old "No, Cumshot is not my fetish"
     new "Não, Gozadas (cumshot) não são meu Fetish"
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d01/s02.rpy:92
@@ -1711,4 +1711,3 @@ translate portuguese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
     mct ""
-

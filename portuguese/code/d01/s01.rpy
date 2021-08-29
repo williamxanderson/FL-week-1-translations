@@ -834,6 +834,7 @@ translate portuguese d01s01_shower_e2f0143d:
 
     # mct "Yeah. She noticed."
     mct "Yeah. Ela percebeu."
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d01/s01.rpy:66
@@ -841,4 +842,3 @@ translate portuguese d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
     mct ""
-

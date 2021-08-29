@@ -533,6 +533,7 @@ translate portuguese d02s07_f71e9b49:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
     "Ela pega seu mamilo esquerdo com a mão direita e começa a massageá-lo em ritmo com os movimentos de sua mão esquerda que está lá embaixo."
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/s07.rpy:181
@@ -786,4 +787,3 @@ translate portuguese replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
     mc ""
-

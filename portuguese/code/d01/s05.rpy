@@ -1089,6 +1089,7 @@ translate portuguese s05_clap_lights_163711ba:
 
     # arjt "I'm getting mixed signals from [mcname]. He talks about Lydia, but then touches me in a such gentle and erotic way."
     arjt "Não tô entendendo o [mcname]. Ele fala sobre a Lydia, mas depois me toca de um jeito tão gentil e erótico."
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d01/s05.rpy:104
@@ -1918,4 +1919,3 @@ translate portuguese s05_after_cum_challenge_e6d3bf35:
 
     # fl "We think it was a great end to the Cumshot day! We'll still award the fastest participants with some points!"
     fl ""
-

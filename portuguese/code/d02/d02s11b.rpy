@@ -500,6 +500,7 @@ translate portuguese d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
     "Com a língua bem dentro da boceta dela, [mcname] sentiu como o orgasmo de Min relaxou seus músculos enquanto ela jorrava dentro de sua boca aberta."
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/d02s11b.rpy:111
@@ -843,4 +844,3 @@ translate portuguese strings:
     # game/code/d02/d02s11b.rpy:237
     old "She didn't say I {i}have{/i} to stop"
     new ""
-

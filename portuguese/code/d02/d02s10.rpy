@@ -515,6 +515,7 @@ translate portuguese strings:
     # game/d02/d02s10.rpy:307
     old "No Thanks - Do Something Else"
     new "Não, obrigado - Vou fazer outra coisa"
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/d02s10.rpy:87
@@ -534,4 +535,3 @@ translate portuguese d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
     mct ""
-

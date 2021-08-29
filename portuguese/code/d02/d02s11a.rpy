@@ -227,6 +227,7 @@ translate portuguese d02s11a_df2a9f3f:
 
     # nk "You too! I hope we will see each other again soon!"
     nk "Você também! Espero que a gente se veja de novo em breve!"
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/d02s11a.rpy:72
@@ -456,4 +457,3 @@ translate portuguese replay_d02s11a_df2a9f3f:
 
     # nk "You too! I hope we will see each other again soon!"
     nk ""
-

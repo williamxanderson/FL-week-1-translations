@@ -631,6 +631,7 @@ translate portuguese strings:
     # game/d02/s08.rpy:172
     old "Make a counteroffer"
     new "Fazer outra proposta"
+
 # TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d02/s08.rpy:48
@@ -668,4 +669,3 @@ translate portuguese d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
     mc ""
-
