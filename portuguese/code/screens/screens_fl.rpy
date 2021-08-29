@@ -1,32 +1,32 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
+﻿# TODO: Translation updated at 2021-08-29 23:16
 
 translate portuguese strings:
 
-    # game/code/screens/screens_fl.rpy:93
+    # game/code/screens/screens_fl.rpy:112
     old "Name"
-    new "Name"
+    new ""
 
-    # game/code/screens/screens_fl.rpy:96
+    # game/code/screens/screens_fl.rpy:115
     old "Date"
-    new "Date"
+    new ""
 
-    # game/code/screens/screens_fl.rpy:132
+    # game/code/screens/screens_fl.rpy:151
     old "No save from week [FLSS.week.prev] has been detected"
-    new "No save from week [FLSS.week.prev] has been detected"
+    new ""
 
-    # game/code/screens/screens_fl.rpy:195
+    # game/code/screens/screens_fl.rpy:217
     old "points: "
-    new "points: "
+    new ""
 
-    # game/code/screens/screens_fl.rpy:210
+    # game/code/screens/screens_fl.rpy:234
     old "How do you want to name your save?"
-    new "How do you want to name your save?"
+    new ""
 
-    # game/code/screens/screens_fl.rpy:210
+    # game/code/screens/screens_fl.rpy:234
     old "How do you want to rename this page?"
-    new "How do you want to rename this page?"
+    new ""
 
-    # game/code/screens/screens_fl.rpy:241
+    # game/code/screens/screens_fl.rpy:269
     old "Undo"
-    new "Undo"
+    new ""
 

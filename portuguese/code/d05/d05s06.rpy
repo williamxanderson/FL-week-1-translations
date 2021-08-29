@@ -1,1416 +1,1416 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
+﻿# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d05/d05s06.rpy:19
 translate portuguese d05s06_d0f18cf9:
 
     # "03:30 PM"
-    "03:30 PM"
+    ""
 
 # game/code/d05/d05s06.rpy:22
 translate portuguese d05s06_6cf39273:
 
     # mct "I should text Min that there would no more Watersport for me..."
-    mct "I should text Min that there would no more Watersport for me..."
+    mct ""
 
 # game/code/d05/d05s06.rpy:23
 translate portuguese d05s06_e0245561:
 
     # mct "It's hard to tell over text, but she sounds kinda pissed."
-    mct "It's hard to tell over text, but she sounds kinda pissed."
+    mct ""
 
 # game/code/d05/d05s06.rpy:24
 translate portuguese d05s06_85dac6d9:
 
     # mct "heh. Pissed off that she won't be pissed on."
-    mct "heh. Pissed off that she won't be pissed on."
+    mct ""
 
 # game/code/d05/d05s06.rpy:25
 translate portuguese d05s06_730607e0:
 
     # mct "Alright, so let's be really clear about this. {w}Do I want to reject Min or do this thing?"
-    mct "Alright, so let's be really clear about this. {w}Do I want to reject Min or do this thing?"
+    mct ""
 
 # game/code/d05/d05s06.rpy:29
 translate portuguese d05s06_d7308472:
 
     # mct "Min is going to kill me...{w}if I'm lucky."
-    mct "Min is going to kill me...{w}if I'm lucky."
+    mct ""
 
-# game/code/d05/d05s06.rpy:32
+# game/code/d05/d05s06.rpy:33
 translate portuguese d05s06_50344ed6:
 
     # mct "I'll tell her I was just kidding around. We can do this."
-    mct "I'll tell her I was just kidding around. We can do this."
+    mct ""
 
-# game/code/d05/d05s06.rpy:34
+# game/code/d05/d05s06.rpy:36
 translate portuguese d05s06_47ac1d0f:
 
     # mct "I should stop by Min's place on the way back."
-    mct "I should stop by Min's place on the way back."
+    mct ""
 
-# game/code/d05/d05s06.rpy:36
+# game/code/d05/d05s06.rpy:38
 translate portuguese d05s06_68b6cd07:
 
     # mct "I feel like I'm ready for an other round of watersports!"
-    mct "I feel like I'm ready for an other round of watersports!"
+    mct ""
 
-# game/code/d05/d05s06.rpy:44
+# game/code/d05/d05s06.rpy:46
 translate portuguese replay_d05s06_282cb048:
 
     # mc "Hey Min, did you miss me?"
-    mc "Hey Min, did you miss me?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:45
+# game/code/d05/d05s06.rpy:47
 translate portuguese replay_d05s06_0cf36817:
 
     # mes "Please, call me [mesfl] during this. It'll be easier for me."
-    mes "Please, call me [mesfl] during this. It'll be easier for me."
+    mes ""
 
-# game/code/d05/d05s06.rpy:46
+# game/code/d05/d05s06.rpy:48
 translate portuguese replay_d05s06_d27a0b84:
 
     # mc "Cool. So, where do you want to do this thing?"
-    mc "Cool. So, where do you want to do this thing?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:48
+# game/code/d05/d05s06.rpy:50
 translate portuguese replay_d05s06_e67d6a01:
 
     # mesfl "I tried to think of a place that would be comfortable for me."
-    mesfl "I tried to think of a place that would be comfortable for me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:49
+# game/code/d05/d05s06.rpy:51
 translate portuguese replay_d05s06_7cc15645:
 
     # mc "This must be really difficult for you. Why is that?"
-    mc "This must be really difficult for you. Why is that?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:51
+# game/code/d05/d05s06.rpy:53
 translate portuguese replay_d05s06_58cbe7e0:
 
     # mesfl "Why is...? {w}Are you serious?"
-    mesfl "Why is...? {w}Are you serious?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:52
+# game/code/d05/d05s06.rpy:54
 translate portuguese replay_d05s06_a88c1e18:
 
     # mc "Yeah. I get that it isn't a turn-on for you, but isn't it just another liquid?"
-    mc "Yeah. I get that it isn't a turn-on for you, but isn't it just another liquid?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:53
+# game/code/d05/d05s06.rpy:55
 translate portuguese replay_d05s06_259b3350:
 
     # mc "What beverage do you absolutely hate?"
-    mc "What beverage do you absolutely hate?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:55
+# game/code/d05/d05s06.rpy:58
 translate portuguese replay_d05s06_7434ef52:
 
     # mesfl "Tomato juice. Yuck."
-    mesfl "Tomato juice. Yuck."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:56
+# game/code/d05/d05s06.rpy:59
 translate portuguese replay_d05s06_1b02f941:
 
     # mc "Haven't I seen you drink that before? It's healthy."
-    mc "Haven't I seen you drink that before? It's healthy."
+    mc ""
 
-# game/code/d05/d05s06.rpy:58
+# game/code/d05/d05s06.rpy:61
 translate portuguese replay_d05s06_2134751b:
 
     # mesfl "It's disgusting, but yes. I do it sometimes to remind myself that I'm in control."
-    mesfl "It's disgusting, but yes. I do it sometimes to remind myself that I'm in control."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:59
+# game/code/d05/d05s06.rpy:62
 translate portuguese replay_d05s06_001b3e9c:
 
     # mc "So if this challenge was to drink a half gallon of tomato juice, you'd be fine with that?"
-    mc "So if this challenge was to drink a half gallon of tomato juice, you'd be fine with that?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:60
+# game/code/d05/d05s06.rpy:63
 translate portuguese replay_d05s06_3746ac00:
 
     # mesfl "Yes, but... {w}tomato juice doesn't come out of me."
-    mesfl "Yes, but... {w}tomato juice doesn't come out of me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:61
+# game/code/d05/d05s06.rpy:64
 translate portuguese replay_d05s06_e9a05e0d:
 
     # mesfl "Tomato juice is not a bodily emission of waste product."
-    mesfl "Tomato juice is not a bodily emission of waste product."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:63
+# game/code/d05/d05s06.rpy:66
 translate portuguese replay_d05s06_d9890cc8:
 
     # mesfl "Pee doesn't just taste and smell bad, it's... disgusting."
-    mesfl "Pee doesn't just taste and smell bad, it's... disgusting."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:64
+# game/code/d05/d05s06.rpy:67
 translate portuguese replay_d05s06_054c5ee0:
 
     # mc "I see."
-    mc "I see."
+    mc ""
 
-# game/code/d05/d05s06.rpy:65
+# game/code/d05/d05s06.rpy:68
 translate portuguese replay_d05s06_f40fc0fb:
 
     # mct "That gives me an idea for later."
-    mct "That gives me an idea for later."
+    mct ""
 
-# game/code/d05/d05s06.rpy:66
+# game/code/d05/d05s06.rpy:69
 translate portuguese replay_d05s06_308f34a6:
 
     # mesfl "What's that look? Are you plotting something?"
-    mesfl "What's that look? Are you plotting something?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:67
+# game/code/d05/d05s06.rpy:70
 translate portuguese replay_d05s06_c3b5b156:
 
     # mc "What? No, I was just trying to think of some way to trick your mind."
-    mc "What? No, I was just trying to think of some way to trick your mind."
+    mc ""
 
-# game/code/d05/d05s06.rpy:69
+# game/code/d05/d05s06.rpy:72
 translate portuguese replay_d05s06_7357a1a6:
 
     # mesfl "Make believe it's tomato juice instead of urine?"
-    mesfl "Make believe it's tomato juice instead of urine?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:71
+# game/code/d05/d05s06.rpy:74
 translate portuguese replay_d05s06_87a42576:
 
     # mc "Couldn't your boyfriend use hypnosis or something-"
-    mc "Couldn't your boyfriend use hypnosis or something-"
+    mc ""
 
-# game/code/d05/d05s06.rpy:73
+# game/code/d05/d05s06.rpy:76
 translate portuguese replay_d05s06_ee68d6c8:
 
     # mesfl "Okay, first of all, he's Min's boyfriend. I'm [mesfl], remember?"
-    mesfl "Okay, first of all, he's Min's boyfriend. I'm [mesfl], remember?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:74
+# game/code/d05/d05s06.rpy:77
 translate portuguese replay_d05s06_f6e79d3e:
 
     # mc "Oh, I didn't realize-"
-    mc "Oh, I didn't realize-"
+    mc ""
 
-# game/code/d05/d05s06.rpy:75
+# game/code/d05/d05s06.rpy:78
 translate portuguese replay_d05s06_a57cf37a:
 
     # mesfl "Second, there is no way anyone is telling him about this. Agreed?"
-    mesfl "Second, there is no way anyone is telling him about this. Agreed?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:76
+# game/code/d05/d05s06.rpy:79
 translate portuguese replay_d05s06_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc ""
 
-# game/code/d05/d05s06.rpy:77
+# game/code/d05/d05s06.rpy:80
 translate portuguese replay_d05s06_86409af5:
 
     # mesfl "Third and finally, no, his mind tricks don't work on me."
-    mesfl "Third and finally, no, his mind tricks don't work on me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:78
+# game/code/d05/d05s06.rpy:84
 translate portuguese replay_d05s06_6877d803:
 
     # mc "Oh. Why not?"
-    mc "Oh. Why not?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:79
+# game/code/d05/d05s06.rpy:85
 translate portuguese replay_d05s06_59c804c3:
 
     # mesfl "I see through them too easily."
-    mesfl "I see through them too easily."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:80
+# game/code/d05/d05s06.rpy:86
 translate portuguese replay_d05s06_ffe7c7f6:
 
     # mc "Good to know."
-    mc "Good to know."
+    mc ""
 
-# game/code/d05/d05s06.rpy:83
+# game/code/d05/d05s06.rpy:89
 translate portuguese replay_d05s06_5660401a:
 
     # mesfl "This kind of tricks they don't work with Min and won't work with me!"
-    mesfl "This kind of tricks they don't work with Min and won't work with me!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:84
+# game/code/d05/d05s06.rpy:90
 translate portuguese replay_d05s06_dbd03970:
 
     # mc "Would it help - could you convince yourself - that it is something else? Like white grape juice?"
-    mc "Would it help - could you convince yourself - that it is something else? Like white grape juice?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:85
+# game/code/d05/d05s06.rpy:91
 translate portuguese replay_d05s06_46a54fc9:
 
     # mesfl "You mentioned that before? What is it with you and white grape juice?"
-    mesfl "You mentioned that before? What is it with you and white grape juice?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:86
+# game/code/d05/d05s06.rpy:92
 translate portuguese replay_d05s06_7184d152:
 
     # mc "It just has a similar color, taste, smell..."
-    mc "It just has a similar color, taste, smell..."
+    mc ""
 
-# game/code/d05/d05s06.rpy:88
+# game/code/d05/d05s06.rpy:94
 translate portuguese replay_d05s06_e1e1704e:
 
     # mesfl "I didn't know that. {w}I don't think I wanted to know that."
-    mesfl "I didn't know that. {w}I don't think I wanted to know that."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:89
+# game/code/d05/d05s06.rpy:95
 translate portuguese replay_d05s06_afdfb9b6:
 
     # mc "Why not? It's just unfermented white wine."
-    mc "Why not? It's just unfermented white wine."
+    mc ""
 
-# game/code/d05/d05s06.rpy:90
+# game/code/d05/d05s06.rpy:96
 translate portuguese replay_d05s06_2ef7e7b9:
 
     # mesfl "Okay, you need to stop while there are still things in this world that I can drink without thinking they might be pee."
-    mesfl "Okay, you need to stop while there are still things in this world that I can drink without thinking they might be pee."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:92
+# game/code/d05/d05s06.rpy:98
 translate portuguese replay_d05s06_713d84e6:
 
     # mc "Okay, so... what are we going to do here, then?"
-    mc "Okay, so... what are we going to do here, then?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:93
+# game/code/d05/d05s06.rpy:99
 translate portuguese replay_d05s06_348925bb:
 
     # mesfl "I'm just going to have to woman up and take it. {w}After you, of course."
-    mesfl "I'm just going to have to woman up and take it. {w}After you, of course."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:94
+# game/code/d05/d05s06.rpy:100
 translate portuguese replay_d05s06_40f2d569:
 
     # mc "So not, \"Ladies first\"?"
-    mc "So not, \"Ladies first\"?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:95
+# game/code/d05/d05s06.rpy:101
 translate portuguese replay_d05s06_4eeb2475:
 
     # mesfl "Look, there are two parts to this process and both of them are difficult for me."
-    mesfl "Look, there are two parts to this process and both of them are difficult for me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:96
+# game/code/d05/d05s06.rpy:102
 translate portuguese replay_d05s06_a79c6d84:
 
     # mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
-    mesfl "I am not going to be able to relax enough to pee if I'm traumatized from drinking your piss."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:97
+# game/code/d05/d05s06.rpy:103
 translate portuguese replay_d05s06_e708499c:
 
     # mc "Oh, is that what you have in mind?"
-    mc "Oh, is that what you have in mind?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:99
+# game/code/d05/d05s06.rpy:105
 translate portuguese replay_d05s06_9773e013:
 
     # mesfl "Yes. I figure you'll have no problem drinking my... fluid."
-    mesfl "Yes. I figure you'll have no problem drinking my... fluid."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:102
+# game/code/d05/d05s06.rpy:109
 translate portuguese replay_d05s06_f7dc01fc:
 
     # mc "No problem whatsoever."
-    mc "No problem whatsoever."
+    mc ""
 
-# game/code/d05/d05s06.rpy:105
+# game/code/d05/d05s06.rpy:113
 translate portuguese replay_d05s06_146e97d8:
 
     # mc "I'm not so sure about that."
-    mc "I'm not so sure about that."
+    mc ""
 
-# game/code/d05/d05s06.rpy:106
+# game/code/d05/d05s06.rpy:114
 translate portuguese replay_d05s06_873bbbb8:
 
     # mesfl "What?!"
-    mesfl "What?!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:107
+# game/code/d05/d05s06.rpy:115
 translate portuguese replay_d05s06_a14615cb:
 
     # mc "I don't want to drink your piss today."
-    mc "I don't want to drink your piss today."
+    mc ""
 
-# game/code/d05/d05s06.rpy:108
+# game/code/d05/d05s06.rpy:116
 translate portuguese replay_d05s06_29c3aa8a:
 
     # mesfl "But you love this stuff. Don't you?"
-    mesfl "But you love this stuff. Don't you?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:109
+# game/code/d05/d05s06.rpy:117
 translate portuguese replay_d05s06_c70d2a90:
 
     # mc "I guess. Maybe. I'm just not feeling it today."
-    mc "I guess. Maybe. I'm just not feeling it today."
+    mc ""
 
-# game/code/d05/d05s06.rpy:110
+# game/code/d05/d05s06.rpy:118
 translate portuguese replay_d05s06_8de4b1a4:
 
     # mesfl "If I'm doing this, then you can do this. What's the problem?"
-    mesfl "If I'm doing this, then you can do this. What's the problem?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:114
+# game/code/d05/d05s06.rpy:123
 translate portuguese replay_d05s06_74e9b070:
 
     # mc "I just wasn't... well, since you're so interested."
-    mc "I just wasn't... well, since you're so interested."
+    mc ""
 
-# game/code/d05/d05s06.rpy:115
+# game/code/d05/d05s06.rpy:124
 translate portuguese replay_d05s06_101bb320:
 
     # mesfl "Can you do it for me, then? Please?"
-    mesfl "Can you do it for me, then? Please?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:116
+# game/code/d05/d05s06.rpy:125
 translate portuguese replay_d05s06_32e1a81e:
 
     # mc "Sure. Okay. I'll drink your \"fluid\", but just understand that I'm doing this for you."
-    mc "Sure. Okay. I'll drink your \"fluid\", but just understand that I'm doing this for you."
+    mc ""
 
-# game/code/d05/d05s06.rpy:117
+# game/code/d05/d05s06.rpy:126
 translate portuguese replay_d05s06_b07c0ada:
 
     # mesfl "Um... thanks... I think."
-    mesfl "Um... thanks... I think."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:120
+# game/code/d05/d05s06.rpy:130
 translate portuguese replay_d05s06_87495cca:
 
     # mc "Look, I'll help you out here, but I'm not drinking your pee."
-    mc "Look, I'll help you out here, but I'm not drinking your pee."
+    mc ""
 
-# game/code/d05/d05s06.rpy:121
+# game/code/d05/d05s06.rpy:131
 translate portuguese replay_d05s06_bf500ba4:
 
     # mesfl "... fine."
-    mesfl "... fine."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:123
+# game/code/d05/d05s06.rpy:134
 translate portuguese replay_d05s06_4326454a:
 
     # mc "So, after I drink your pee, then what?"
-    mc "So, after I drink your pee, then what?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:124
+# game/code/d05/d05s06.rpy:135
 translate portuguese replay_d05s06_10b94e28:
 
     # mesfl "Then I drink your... urine."
-    mesfl "Then I drink your... urine."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:125
+# game/code/d05/d05s06.rpy:136
 translate portuguese replay_d05s06_697aac72:
 
     # mc "Well, to begin with, we're both a little overdressed."
-    mc "Well, to begin with, we're both a little overdressed."
+    mc ""
 
-# game/code/d05/d05s06.rpy:127
+# game/code/d05/d05s06.rpy:140
 translate portuguese replay_d05s06_dc58ff4d:
 
     # mesfl "Good point. Alright, let's do this."
-    mesfl "Good point. Alright, let's do this."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:128
+# game/code/d05/d05s06.rpy:141
 translate portuguese replay_d05s06_e5beabf8:
 
     # mc "Do you want to do this in glasses or right from the tap?"
-    mc "Do you want to do this in glasses or right from the tap?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:129
+# game/code/d05/d05s06.rpy:142
 translate portuguese replay_d05s06_ef009958:
 
     # mesfl "Right from the... source. {w}It should be worth more points."
-    mesfl "Right from the... source. {w}It should be worth more points."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:131
+# game/code/d05/d05s06.rpy:145
 translate portuguese replay_d05s06_88373358:
 
     # mc "That's fine with me. Anything else?"
-    mc "That's fine with me. Anything else?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:133
+# game/code/d05/d05s06.rpy:147
 translate portuguese replay_d05s06_571d53ca:
 
     # mesfl "That should do it. You drink me; I drink you; We both go brush our teeth or whatever."
-    mesfl "That should do it. You drink me; I drink you; We both go brush our teeth or whatever."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:134
+# game/code/d05/d05s06.rpy:148
 translate portuguese replay_d05s06_fbf70873:
 
     # mc "Sounds simple enough."
-    mc "Sounds simple enough."
+    mc ""
 
-# game/code/d05/d05s06.rpy:135
+# game/code/d05/d05s06.rpy:149
 translate portuguese replay_d05s06_ed629893:
 
     # mesfl "Damn, you're right. That does sound too simple."
-    mesfl "Damn, you're right. That does sound too simple."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:136
+# game/code/d05/d05s06.rpy:150
 translate portuguese replay_d05s06_49cb0acc:
 
     # mc "No, no. I'm sure it will be fine."
-    mc "No, no. I'm sure it will be fine."
+    mc ""
 
-# game/code/d05/d05s06.rpy:137
+# game/code/d05/d05s06.rpy:151
 translate portuguese replay_d05s06_8f44f034:
 
     # mesfl "Fine isn't good enough."
-    mesfl "Fine isn't good enough."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:139
+# game/code/d05/d05s06.rpy:153
 translate portuguese replay_d05s06_f2344665:
 
     # mesfl "Afterwards we'll try to think of ways to make it more interesting."
-    mesfl "Afterwards we'll try to think of ways to make it more interesting."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:140
+# game/code/d05/d05s06.rpy:154
 translate portuguese replay_d05s06_4a497b85:
 
     # mesfl "I am not losing this challenge. Understood?"
-    mesfl "I am not losing this challenge. Understood?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:141
+# game/code/d05/d05s06.rpy:155
 translate portuguese replay_d05s06_934625d4:
 
     # mc "If you get through this without backing down, I would call that a win."
-    mc "If you get through this without backing down, I would call that a win."
+    mc ""
 
-# game/code/d05/d05s06.rpy:142
+# game/code/d05/d05s06.rpy:156
 translate portuguese replay_d05s06_0af3562f:
 
     # mc "It's not about the daily challenge. This is for you. This is your personal challenge."
-    mc "It's not about the daily challenge. This is for you. This is your personal challenge."
+    mc ""
 
-# game/code/d05/d05s06.rpy:143
+# game/code/d05/d05s06.rpy:157
 translate portuguese replay_d05s06_7c1f9822:
 
     # mesfl "Okay... just try to think about other options anyway."
-    mesfl "Okay... just try to think about other options anyway."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:149
+# game/code/d05/d05s06.rpy:163
 translate portuguese replay_d05s06_439ae7f9:
 
     # mesfl "Looking good."
-    mesfl "Looking good."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:150
+# game/code/d05/d05s06.rpy:164
 translate portuguese replay_d05s06_feceb32a:
 
     # mc "Would it help if I were wearing white porcelain?"
-    mc "Would it help if I were wearing white porcelain?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:151
+# game/code/d05/d05s06.rpy:165
 translate portuguese replay_d05s06_b7bf1953:
 
     # mc "I can put a toilet seat cover over my face if that will help you relax."
-    mc "I can put a toilet seat cover over my face if that will help you relax."
+    mc ""
 
-# game/code/d05/d05s06.rpy:153
+# game/code/d05/d05s06.rpy:170
 translate portuguese replay_d05s06_e674cde0:
 
     # mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
-    mesfl "You're going to make me laugh when I need to pee. {w}And then it'll be all over your face."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:154
+# game/code/d05/d05s06.rpy:171
 translate portuguese replay_d05s06_70647942:
 
     # mc "Oh no. The horror. Whatever will I do?"
-    mc "Oh no. The horror. Whatever will I do?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:155
+# game/code/d05/d05s06.rpy:172
 translate portuguese replay_d05s06_1b9bd5b0:
 
     # mc "Here, we can use my phone. That way you can relax, close your eyes, and I'll take a selfie."
-    mc "Here, we can use my phone. That way you can relax, close your eyes, and I'll take a selfie."
+    mc ""
 
-# game/code/d05/d05s06.rpy:157
+# game/code/d05/d05s06.rpy:174
 translate portuguese replay_d05s06_02a3d079:
 
     # mesfl "Oh, no. We should use my phone. It's got a better camera, and I've upgraded my FL account."
-    mesfl "Oh, no. We should use my phone. It's got a better camera, and I've upgraded my FL account."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:160
+# game/code/d05/d05s06.rpy:177
 translate portuguese replay_d05s06_21ef1c14:
 
     # mc "Alright, give me your phone, and I'll take some selfies."
-    mc "Alright, give me your phone, and I'll take some selfies."
+    mc ""
 
-# game/code/d05/d05s06.rpy:163
+# game/code/d05/d05s06.rpy:180
 translate portuguese replay_d05s06_5d586b1a:
 
     # mesfl "Ready?"
-    mesfl "Ready?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:164
+# game/code/d05/d05s06.rpy:181
 translate portuguese replay_d05s06_2a228d7d:
 
     # mc "Go for it!"
-    mc "Go for it!"
+    mc ""
 
-# game/code/d05/d05s06.rpy:172
+# game/code/d05/d05s06.rpy:190
 translate portuguese replay_d05s06_39af3f14:
 
     # mc "(gulp)"
-    mc "(gulp)"
+    mc ""
 
-# game/code/d05/d05s06.rpy:173
+# game/code/d05/d05s06.rpy:191
 translate portuguese replay_d05s06_90dcb7dd:
 
     # mct "Oh! She tastes quite sweet today!"
-    mct "Oh! She tastes quite sweet today!"
+    mct ""
 
-# game/code/d05/d05s06.rpy:203
+# game/code/d05/d05s06.rpy:221
 translate portuguese replay_d05s06_803a72a7:
 
     # mesfl "All done. Do you need a towel or mouthwash?"
-    mesfl "All done. Do you need a towel or mouthwash?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:204
+# game/code/d05/d05s06.rpy:222
 translate portuguese replay_d05s06_f8c0457e:
 
     # mc "Nah, I'm fine. {w}Besides, I've got an idea for later."
-    mc "Nah, I'm fine. {w}Besides, I've got an idea for later."
+    mc ""
 
-# game/code/d05/d05s06.rpy:205
+# game/code/d05/d05s06.rpy:223
 translate portuguese replay_d05s06_5352b814:
 
     # mesfl "Don't tell me yet. I just need to focus for this next part."
-    mesfl "Don't tell me yet. I just need to focus for this next part."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:207
+# game/code/d05/d05s06.rpy:225
 translate portuguese replay_d05s06_92a6e16d:
 
     # mesfl "Alright, let's do this."
-    mesfl "Alright, let's do this."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:208
+# game/code/d05/d05s06.rpy:226
 translate portuguese replay_d05s06_5a91f90f:
 
     # mc "Any preferences?"
-    mc "Any preferences?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:210
+# game/code/d05/d05s06.rpy:228
 translate portuguese replay_d05s06_484530ea:
 
     # mesfl "Like what? Can I choose a flavor?"
-    mesfl "Like what? Can I choose a flavor?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:211
+# game/code/d05/d05s06.rpy:229
 translate portuguese replay_d05s06_c115f089:
 
     # mc "I mean the pose? Do also want me to stand above you?"
-    mc "I mean the pose? Do also want me to stand above you?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:213
+# game/code/d05/d05s06.rpy:232
 translate portuguese replay_d05s06_7d611b30:
 
     # mesfl "I would prefer to have it front of me."
-    mesfl "I would prefer to have it front of me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:214
+# game/code/d05/d05s06.rpy:233
 translate portuguese replay_d05s06_c00b5f57:
 
     # mesfl "Just sit like you do now."
-    mesfl "Just sit like you do now."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:216
+# game/code/d05/d05s06.rpy:235
 translate portuguese replay_d05s06_2e2f9b0a:
 
     # mc "You want me to do this while sitting down?"
-    mc "You want me to do this while sitting down?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:218
+# game/code/d05/d05s06.rpy:237
 translate portuguese replay_d05s06_1c039632:
 
     # mct "She is a second girl today who wants to see me piss like this..."
-    mct "She is a second girl today who wants to see me piss like this..."
+    mct ""
 
-# game/code/d05/d05s06.rpy:220
+# game/code/d05/d05s06.rpy:239
 translate portuguese replay_d05s06_37a571bb:
 
     # mesfl "I'll just get close to it."
-    mesfl "I'll just get close to it."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:221
+# game/code/d05/d05s06.rpy:240
 translate portuguese replay_d05s06_20534e2d:
 
     # mesfl "Can you pee like this without aiming it with your hands?"
-    mesfl "Can you pee like this without aiming it with your hands?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:223
+# game/code/d05/d05s06.rpy:242
 translate portuguese replay_d05s06_f75870c3:
 
     # mc "It is lower than you. From here I need to aim higher."
-    mc "It is lower than you. From here I need to aim higher."
+    mc ""
 
-# game/code/d05/d05s06.rpy:224
+# game/code/d05/d05s06.rpy:243
 translate portuguese replay_d05s06_5953517f:
 
     # mc "Why do you want me to do it hands free?"
-    mc "Why do you want me to do it hands free?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:225
+# game/code/d05/d05s06.rpy:244
 translate portuguese replay_d05s06_4ecd7b5e:
 
     # mesfl "I think the pictures would be better this way."
-    mesfl "I think the pictures would be better this way."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:227
+# game/code/d05/d05s06.rpy:246
 translate portuguese replay_d05s06_3ae9c107:
 
     # mc "I'll just do it from here."
-    mc "I'll just do it from here."
+    mc ""
 
-# game/code/d05/d05s06.rpy:228
+# game/code/d05/d05s06.rpy:247
 translate portuguese replay_d05s06_669fbfb9:
 
     # mc "Okay, you might want to close your eyes for this part."
-    mc "Okay, you might want to close your eyes for this part."
+    mc ""
 
-# game/code/d05/d05s06.rpy:230
+# game/code/d05/d05s06.rpy:249
 translate portuguese replay_d05s06_f4b94ba8:
 
     # mesfl "No, it'll be better if I see it coming."
-    mesfl "No, it'll be better if I see it coming."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:231
+# game/code/d05/d05s06.rpy:250
 translate portuguese replay_d05s06_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc ""
 
-# game/code/d05/d05s06.rpy:236
+# game/code/d05/d05s06.rpy:257
 translate portuguese replay_d05s06_f5f6e43b:
 
     # mesfl "Gah! Tomato! Tomato!"
-    mesfl "Gah! Tomato! Tomato!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:240
+# game/code/d05/d05s06.rpy:261
 translate portuguese replay_d05s06_6a1f8d95:
 
     # mc "Tomato?"
-    mc "Tomato?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:241
+# game/code/d05/d05s06.rpy:262
 translate portuguese replay_d05s06_84d779d7:
 
     # mesfl "Oh, right. I forgot to tell you. {w}Tomato is my safe word."
-    mesfl "Oh, right. I forgot to tell you. {w}Tomato is my safe word."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:242
+# game/code/d05/d05s06.rpy:263
 translate portuguese replay_d05s06_969e8d84:
 
     # mc "You really hate tomato juice, don't you?"
-    mc "You really hate tomato juice, don't you?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:243
+# game/code/d05/d05s06.rpy:264
 translate portuguese replay_d05s06_812d8797:
 
     # mes "You have no idea."
-    mes "You have no idea."
+    mes ""
 
-# game/code/d05/d05s06.rpy:244
+# game/code/d05/d05s06.rpy:265
 translate portuguese replay_d05s06_ebe6cf89:
 
     # mc "So, does that mean \"stop this action\" or \"stop this whole thing\"?"
-    mc "So, does that mean \"stop this action\" or \"stop this whole thing\"?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:246
+# game/code/d05/d05s06.rpy:267
 translate portuguese replay_d05s06_22d03b34:
 
     # mes "Stop this action. I want to continue... I just need a minute."
-    mes "Stop this action. I want to continue... I just need a minute."
+    mes ""
 
-# game/code/d05/d05s06.rpy:247
+# game/code/d05/d05s06.rpy:268
 translate portuguese replay_d05s06_0ab2d254:
 
     # mc "It's okay. We don't have to do anything you don't want."
-    mc "It's okay. We don't have to do anything you don't want."
+    mc ""
 
-# game/code/d05/d05s06.rpy:248
+# game/code/d05/d05s06.rpy:269
 translate portuguese replay_d05s06_defac3bc:
 
     # mesfl "Sorry, it was just too much, too fast. I can't..."
-    mesfl "Sorry, it was just too much, too fast. I can't..."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:249
+# game/code/d05/d05s06.rpy:270
 translate portuguese replay_d05s06_4952934f:
 
     # mc "If I go any slower it will just spray everywhere."
-    mc "If I go any slower it will just spray everywhere."
+    mc ""
 
-# game/code/d05/d05s06.rpy:250
+# game/code/d05/d05s06.rpy:271
 translate portuguese replay_d05s06_4fb50d86:
 
     # mesfl "I know; I know. Let me think..."
-    mesfl "I know; I know. Let me think..."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:252
+# game/code/d05/d05s06.rpy:273
 translate portuguese replay_d05s06_748fe307:
 
     # mesfl "Okay. Just put it in my mouth."
-    mesfl "Okay. Just put it in my mouth."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:253
+# game/code/d05/d05s06.rpy:274
 translate portuguese replay_d05s06_738f3d0a:
 
     # mc "That's what I was doing."
-    mc "That's what I was doing."
+    mc ""
 
-# game/code/d05/d05s06.rpy:254
+# game/code/d05/d05s06.rpy:275
 translate portuguese replay_d05s06_e20393de:
 
     # mesfl "No. Put your penis in my mouth. Then start peeing."
-    mesfl "No. Put your penis in my mouth. Then start peeing."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:255
+# game/code/d05/d05s06.rpy:276
 translate portuguese replay_d05s06_0e54636a:
 
     # mc "If I do that the camera won't see it."
-    mc "If I do that the camera won't see it."
+    mc ""
 
-# game/code/d05/d05s06.rpy:256
+# game/code/d05/d05s06.rpy:277
 translate portuguese replay_d05s06_52f5f9a4:
 
     # mesfl "Right. Damn it. Okay, so start in my mouth, and then slowly pull out enough to get it on video."
-    mesfl "Right. Damn it. Okay, so start in my mouth, and then slowly pull out enough to get it on video."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:257
+# game/code/d05/d05s06.rpy:278
 translate portuguese replay_d05s06_7aff2bf7:
 
     # mc "Okay, let's try that."
-    mc "Okay, let's try that."
+    mc ""
 
-# game/code/d05/d05s06.rpy:260
+# game/code/d05/d05s06.rpy:282
 translate portuguese replay_d05s06_c5f4b8c8:
 
     # mc "Here it goes!"
-    mc "Here it goes!"
+    mc ""
 
-# game/code/d05/d05s06.rpy:264
+# game/code/d05/d05s06.rpy:288
 translate portuguese replay_d05s06_621d9a84:
 
     # mesfl "Stop! Stop!"
-    mesfl "Stop! Stop!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:269
+# game/code/d05/d05s06.rpy:293
 translate portuguese replay_d05s06_cc37f097:
 
     # mc "I've stopped! I've stopped!"
-    mc "I've stopped! I've stopped!"
+    mc ""
 
-# game/code/d05/d05s06.rpy:271
+# game/code/d05/d05s06.rpy:296
 translate portuguese replay_d05s06_4489e6de:
 
     # mesfl "That's disgusting, I'm sorry."
-    mesfl "That's disgusting, I'm sorry."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:272
+# game/code/d05/d05s06.rpy:297
 translate portuguese replay_d05s06_d758c0c6:
 
     # mc "I took a shower-"
-    mc "I took a shower-"
+    mc ""
 
-# game/code/d05/d05s06.rpy:274
+# game/code/d05/d05s06.rpy:299
 translate portuguese replay_d05s06_bb6a2d7c:
 
     # mesfl "Very funny. Not your penis, you dick. I just couldn't handle the piss."
-    mesfl "Very funny. Not your penis, you dick. I just couldn't handle the piss."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:275
+# game/code/d05/d05s06.rpy:300
 translate portuguese replay_d05s06_45f6bbb6:
 
     # mc "I'm sorry too. I didn't get a photo before-"
-    mc "I'm sorry too. I didn't get a photo before-"
+    mc ""
 
-# game/code/d05/d05s06.rpy:277
+# game/code/d05/d05s06.rpy:302
 translate portuguese replay_d05s06_ba05d291:
 
     # mesfl "Yeah, I know. {w}We'll have to try something else."
-    mesfl "Yeah, I know. {w}We'll have to try something else."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:278
+# game/code/d05/d05s06.rpy:303
 translate portuguese replay_d05s06_81b7c63e:
 
     # mc "Yeah, so I've got an idea about that."
-    mc "Yeah, so I've got an idea about that."
+    mc ""
 
-# game/code/d05/d05s06.rpy:288
+# game/code/d05/d05s06.rpy:314
 translate portuguese d05s06_Face_3439c704:
 
     # mc "So, what if you close your mouth and shut your eyes, and I just pee on your face."
-    mc "So, what if you close your mouth and shut your eyes, and I just pee on your face."
+    mc ""
 
-# game/code/d05/d05s06.rpy:289
+# game/code/d05/d05s06.rpy:315
 translate portuguese d05s06_Face_b9262b61:
 
     # mc "You don't have to drink it. You don't have to taste it. You can even hold your breath."
-    mc "You don't have to drink it. You don't have to taste it. You can even hold your breath."
+    mc ""
 
-# game/code/d05/d05s06.rpy:290
+# game/code/d05/d05s06.rpy:316
 translate portuguese d05s06_Face_19dc6627:
 
     # mesfl "That could work. {w}And maybe if I get comfortable with that..."
-    mesfl "That could work. {w}And maybe if I get comfortable with that..."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:291
+# game/code/d05/d05s06.rpy:317
 translate portuguese d05s06_Face_682f46b1:
 
     # mesfl "Okay, let's try that."
-    mesfl "Okay, let's try that."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:303
+# game/code/d05/d05s06.rpy:329
 translate portuguese d05s06_Face_27af19f2:
 
     # mesfl "I'm going to open my mouth. Just keep going."
-    mesfl "I'm going to open my mouth. Just keep going."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:304
+# game/code/d05/d05s06.rpy:330
 translate portuguese d05s06_Face_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc ""
 
-# game/code/d05/d05s06.rpy:309
+# game/code/d05/d05s06.rpy:335
 translate portuguese d05s06_Face_b01c4d2a:
 
     # mesfl "(gulp)"
-    mesfl "(gulp)"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:329
+# game/code/d05/d05s06.rpy:355
 translate portuguese d05s06_Body_7a394560:
 
     # mc "So, what if instead I pee on your body."
-    mc "So, what if instead I pee on your body."
+    mc ""
 
-# game/code/d05/d05s06.rpy:330
+# game/code/d05/d05s06.rpy:356
 translate portuguese d05s06_Body_165bf938:
 
     # mesfl "Like my breasts and torso? Maybe my legs and feet?"
-    mesfl "Like my breasts and torso? Maybe my legs and feet?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:331
+# game/code/d05/d05s06.rpy:357
 translate portuguese d05s06_Body_02de425e:
 
     # mc "Yeah, like that. What do you think?"
-    mc "Yeah, like that. What do you think?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:332
+# game/code/d05/d05s06.rpy:358
 translate portuguese d05s06_Body_c377642f:
 
     # mesfl "That could work. {w}Okay, let's try that!"
-    mesfl "That could work. {w}Okay, let's try that!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:349
+# game/code/d05/d05s06.rpy:376
 translate portuguese d05s06_after_1e6d1b8d:
 
     # mesfl "That was so much easier. It was just like taking a shower."
-    mesfl "That was so much easier. It was just like taking a shower."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:350
+# game/code/d05/d05s06.rpy:377
 translate portuguese d05s06_after_e2dc70e4:
 
     # mc "Yeah, a golden shower."
-    mc "Yeah, a golden shower."
+    mc ""
 
-# game/code/d05/d05s06.rpy:351
+# game/code/d05/d05s06.rpy:378
 translate portuguese d05s06_after_8ab40569:
 
     # mesfl "Oh, right."
-    mesfl "Oh, right."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:352
+# game/code/d05/d05s06.rpy:379
 translate portuguese d05s06_after_dab1a8b5:
 
     # mesfl "Do you think that's good enough?"
-    mesfl "Do you think that's good enough?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:353
+# game/code/d05/d05s06.rpy:380
 translate portuguese d05s06_after_8129ca69:
 
     # mc "Well, I do have one more idea."
-    mc "Well, I do have one more idea."
+    mc ""
 
-# game/code/d05/d05s06.rpy:354
+# game/code/d05/d05s06.rpy:381
 translate portuguese d05s06_after_0854ad4c:
 
     # mesfl "Go ahead."
-    mesfl "Go ahead."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:355
+# game/code/d05/d05s06.rpy:382
 translate portuguese d05s06_after_fa5b5ec1:
 
     # mc "Keeping in mind that this is purely platonic and just for the game."
-    mc "Keeping in mind that this is purely platonic and just for the game."
+    mc ""
 
-# game/code/d05/d05s06.rpy:356
+# game/code/d05/d05s06.rpy:383
 translate portuguese d05s06_after_2089f4a4:
 
     # mesfl "Uh huh."
-    mesfl "Uh huh."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:358
+# game/code/d05/d05s06.rpy:385
 translate portuguese d05s06_after_eec1c1b8:
 
     # mc "Why not include a selfie of us kissing?"
-    mc "Why not include a selfie of us kissing?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:359
+# game/code/d05/d05s06.rpy:389
 translate portuguese d05s06_after_be32eb9e:
 
     # mesfl "Huh?"
-    mesfl "Huh?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:360
+# game/code/d05/d05s06.rpy:390
 translate portuguese d05s06_after_206691e5:
 
     # mc "We do an open mouthed kiss, take the picture, get more points."
-    mc "We do an open mouthed kiss, take the picture, get more points."
+    mc ""
 
-# game/code/d05/d05s06.rpy:361
+# game/code/d05/d05s06.rpy:391
 translate portuguese d05s06_after_27097b14:
 
     # mesfl "I guess it sound reasonable..."
-    mesfl "I guess it sound reasonable..."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:363
+# game/code/d05/d05s06.rpy:393
 translate portuguese d05s06_after_99ecabb9:
 
     # mc "But my mouth still tastes like urine from earlier."
-    mc "But my mouth still tastes like urine from earlier."
+    mc ""
 
-# game/code/d05/d05s06.rpy:365
+# game/code/d05/d05s06.rpy:395
 translate portuguese d05s06_after_377732b8:
 
     # mesfl "Well, I also drank a lot of piss from your dick!"
-    mesfl "Well, I also drank a lot of piss from your dick!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:367
+# game/code/d05/d05s06.rpy:397
 translate portuguese d05s06_after_4f649d7b:
 
     # mesfl "Well, I think I could handle that. If you're a decent kisser."
-    mesfl "Well, I think I could handle that. If you're a decent kisser."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:375
+# game/code/d05/d05s06.rpy:407
 translate portuguese d05s06_after_5e5d0fa3:
 
     # mc "How was that?"
-    mc "How was that?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:376
+# game/code/d05/d05s06.rpy:408
 translate portuguese d05s06_after_ee90c7f6:
 
     # mesfl "Platonic."
-    mesfl "Platonic."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:377
+# game/code/d05/d05s06.rpy:409
 translate portuguese d05s06_after_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc ""
 
-# game/code/d05/d05s06.rpy:378
+# game/code/d05/d05s06.rpy:410
 translate portuguese d05s06_after_e5145c66:
 
     # mct "She had my dick in her mouth and my tongue in her mouth and it was all platonic."
-    mct "She had my dick in her mouth and my tongue in her mouth and it was all platonic."
+    mct ""
 
-# game/code/d05/d05s06.rpy:379
+# game/code/d05/d05s06.rpy:411
 translate portuguese d05s06_after_9b4e1a0f:
 
     # mc "Sometimes, I really love this game."
-    mc "Sometimes, I really love this game."
+    mc ""
 
-# game/code/d05/d05s06.rpy:381
+# game/code/d05/d05s06.rpy:413
 translate portuguese d05s06_after_eaab31b1:
 
     # mesfl "You said that out loud."
-    mesfl "You said that out loud."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:382
+# game/code/d05/d05s06.rpy:414
 translate portuguese d05s06_after_4bdc5aa0:
 
     # mct "Shit!"
-    mct "Shit!"
+    mct ""
 
-# game/code/d05/d05s06.rpy:383
+# game/code/d05/d05s06.rpy:415
 translate portuguese d05s06_after_e24a66bd:
 
     # mesfl "Don't worry. I enjoy it too. {w}This was utterly disgusting, but also kinda fun."
-    mesfl "Don't worry. I enjoy it too. {w}This was utterly disgusting, but also kinda fun."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:386
+# game/code/d05/d05s06.rpy:418
 translate portuguese d05s06_after_7697d26f:
 
     # mc "Congratulations."
-    mc "Congratulations."
+    mc ""
 
-# game/code/d05/d05s06.rpy:387
+# game/code/d05/d05s06.rpy:419
 translate portuguese d05s06_after_f97cb4c8:
 
     # mesfl "... Why?"
-    mesfl "... Why?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:388
+# game/code/d05/d05s06.rpy:420
 translate portuguese d05s06_after_faea46b3:
 
     # mc "One more obstacle overcome by the great [mesfl]!"
-    mc "One more obstacle overcome by the great [mesfl]!"
+    mc ""
 
-# game/code/d05/d05s06.rpy:389
+# game/code/d05/d05s06.rpy:421
 translate portuguese d05s06_after_00cd30eb:
 
     # mesfl "Oh, yeah! You've got that right."
-    mesfl "Oh, yeah! You've got that right."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:398
+# game/code/d05/d05s06.rpy:430
 translate portuguese d05s06_after_4f799524:
 
     # mct "Both of us won [d05s06_points] points, not bad. I wonder if I could have earned more."
-    mct "Both of us won [d05s06_points] points, not bad. I wonder if I could have earned more."
+    mct ""
 
-# game/code/d05/d05s06.rpy:400
+# game/code/d05/d05s06.rpy:432
 translate portuguese d05s06_after_86aa21c5:
 
     # mct "Especially since I declined today's daily challenge."
-    mct "Especially since I declined today's daily challenge."
+    mct ""
 
-# game/code/d05/d05s06.rpy:401
+# game/code/d05/d05s06.rpy:433
 translate portuguese d05s06_after_a2554fcf:
 
     # mct "I figured I'd either earn no points or twice the points."
-    mct "I figured I'd either earn no points or twice the points."
+    mct ""
 
-# game/code/d05/d05s06.rpy:404
+# game/code/d05/d05s06.rpy:436
 translate portuguese d05s06_after_fee548c1:
 
     # fl "Daily Challenge Winners Announcement: Squizzle & [mclogin]"
-    fl "Daily Challenge Winners Announcement: Squizzle & [mclogin]"
+    fl ""
 
-# game/code/d05/d05s06.rpy:405
+# game/code/d05/d05s06.rpy:437
 translate portuguese d05s06_after_e6e4a8b8:
 
     # mct "Isn't her boyfriend going to see this?"
-    mct "Isn't her boyfriend going to see this?"
+    mct ""
 
-# game/code/d05/d05s06.rpy:407
+# game/code/d05/d05s06.rpy:442
 translate portuguese d05s06_after_a0aede3f:
 
     # mesfl "Purple Turtle! Purple Turtle! PURPLE!!! TURTLE!!!"
-    mesfl "Purple Turtle! Purple Turtle! PURPLE!!! TURTLE!!!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:408
+# game/code/d05/d05s06.rpy:443
 translate portuguese d05s06_after_407e43de:
 
     # mc "Is that another safe word?"
-    mc "Is that another safe word?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:409
+# game/code/d05/d05s06.rpy:444
 translate portuguese d05s06_after_bc287b3d:
 
     # mesfl "No! It's a Purple Turtle! Do you know how rare that is?"
-    mesfl "No! It's a Purple Turtle! Do you know how rare that is?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:410
+# game/code/d05/d05s06.rpy:445
 translate portuguese d05s06_after_d35a64b8:
 
     # mc "You've completely lost me."
-    mc "You've completely lost me."
+    mc ""
 
-# game/code/d05/d05s06.rpy:412
+# game/code/d05/d05s06.rpy:447
 translate portuguese d05s06_after_4b4ec178:
 
     # mesfl "You've never won a challenge before, have you?"
-    mesfl "You've never won a challenge before, have you?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:413
+# game/code/d05/d05s06.rpy:448
 translate portuguese d05s06_after_fca52711:
 
     # mc "No."
-    mc "No."
+    mc ""
 
-# game/code/d05/d05s06.rpy:414
+# game/code/d05/d05s06.rpy:449
 translate portuguese d05s06_after_30bfe2c7:
 
     # mesfl "When you win a daily challenge, you get a magical doodad."
-    mesfl "When you win a daily challenge, you get a magical doodad."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:415
+# game/code/d05/d05s06.rpy:450
 translate portuguese d05s06_after_0690c34f:
 
     # mc "A magical doodad?"
-    mc "A magical doodad?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:416
+# game/code/d05/d05s06.rpy:451
 translate portuguese d05s06_after_5fd4beac:
 
     # mesfl "That's what they call them. They're sorta like loot drops in games, or marshmallows in kids cereals."
-    mesfl "That's what they call them. They're sorta like loot drops in games, or marshmallows in kids cereals."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:417
+# game/code/d05/d05s06.rpy:452
 translate portuguese d05s06_after_b373f411:
 
     # mesfl "Purple is the rarest color, and I didn't get a turtle before!"
-    mesfl "Purple is the rarest color, and I didn't get a turtle before!"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:418
+# game/code/d05/d05s06.rpy:453
 translate portuguese d05s06_after_d7bfca5a:
 
     # mc "Well, congrats."
-    mc "Well, congrats."
+    mc ""
 
-# game/code/d05/d05s06.rpy:419
+# game/code/d05/d05s06.rpy:454
 translate portuguese d05s06_after_a16bdb1d:
 
     # mesfl "What did you get?"
-    mesfl "What did you get?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:420
+# game/code/d05/d05s06.rpy:455
 translate portuguese d05s06_after_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:421
+# game/code/d05/d05s06.rpy:456
 translate portuguese d05s06_after_f96d29db:
 
     # mesfl "We won this challenge together. You got something too. What did you get!?"
-    mesfl "We won this challenge together. You got something too. What did you get!?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:422
+# game/code/d05/d05s06.rpy:457
 translate portuguese d05s06_after_906acae6:
 
     # mc "I earned a Gold Star? What does that mean?"
-    mc "I earned a Gold Star? What does that mean?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:423
+# game/code/d05/d05s06.rpy:458
 translate portuguese d05s06_after_2d5d9e4c:
 
     # mesfl "Gold Star? I'm not familiar with that-"
-    mesfl "Gold Star? I'm not familiar with that-"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:425
+# game/code/d05/d05s06.rpy:460
 translate portuguese d05s06_after_0b93ba3a:
 
     # mesfl "It says that Gold Stars are exclusive to Retention Program users."
-    mesfl "It says that Gold Stars are exclusive to Retention Program users."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:427
+# game/code/d05/d05s06.rpy:462
 translate portuguese d05s06_after_ab859e09:
 
     # mesfl "What's the Retention Program?"
-    mesfl "What's the Retention Program?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:428
+# game/code/d05/d05s06.rpy:463
 translate portuguese d05s06_after_6c8fd643:
 
     # mc "Oh, that. {w}Let's say that if I were in the Retention Program, I couldn't talk about it."
-    mc "Oh, that. {w}Let's say that if I were in the Retention Program, I couldn't talk about it."
+    mc ""
 
-# game/code/d05/d05s06.rpy:430
+# game/code/d05/d05s06.rpy:466
 translate portuguese d05s06_after_6f493f89:
 
     # mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to avoid one punishment?"
-    mesfl "Cryptic. {w}Wait, it says you can use a Gold Star to avoid one punishment?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:431
+# game/code/d05/d05s06.rpy:467
 translate portuguese d05s06_after_7a5d74ec:
 
     # mesfl "Gold Stars are NOT transferable. You can't use one to get someone else out of punishment."
-    mesfl "Gold Stars are NOT transferable. You can't use one to get someone else out of punishment."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:432
+# game/code/d05/d05s06.rpy:468
 translate portuguese d05s06_after_29199b72:
 
     # mesfl "What is this? Why does it keep talking about punishments?"
-    mesfl "What is this? Why does it keep talking about punishments?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:433
+# game/code/d05/d05s06.rpy:469
 translate portuguese d05s06_after_685a6a73:
 
     # mc "Good to know. Thanks for looking that up."
-    mc "Good to know. Thanks for looking that up."
+    mc ""
 
-# game/code/d05/d05s06.rpy:435
+# game/code/d05/d05s06.rpy:472
 translate portuguese d05s06_after_df69e211:
 
     # mesfl "Hey [mcname] - are you okay?"
-    mesfl "Hey [mcname] - are you okay?"
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:436
+# game/code/d05/d05s06.rpy:473
 translate portuguese d05s06_after_9e8ef92a:
 
     # mc "I'm good. Don't worry about it."
-    mc "I'm good. Don't worry about it."
+    mc ""
 
-# game/code/d05/d05s06.rpy:437
+# game/code/d05/d05s06.rpy:474
 translate portuguese d05s06_after_cf94bef4:
 
     # mc "Hey, you might want to read the terms & conditions. Analyze it like you would an assignment for class."
-    mc "Hey, you might want to read the terms & conditions. Analyze it like you would an assignment for class."
+    mc ""
 
-# game/code/d05/d05s06.rpy:438
+# game/code/d05/d05s06.rpy:475
 translate portuguese d05s06_after_2a86b453:
 
     # mesfl "Um, okay. I'll do that."
-    mesfl "Um, okay. I'll do that."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:443
+# game/code/d05/d05s06.rpy:480
 translate portuguese d05s06_after_09c82e29:
 
     # fl "Daily Challenge Winners Announcement: OurKelley & Chickaa"
-    fl "Daily Challenge Winners Announcement: OurKelley & Chickaa"
+    fl ""
 
-# game/code/d05/d05s06.rpy:445
+# game/code/d05/d05s06.rpy:482
 translate portuguese d05s06_after_849b8c8b:
 
     # mesfl "Who are they? I've never heard of either one."
-    mesfl "Who are they? I've never heard of either one."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:446
+# game/code/d05/d05s06.rpy:483
 translate portuguese d05s06_after_1f660624:
 
     # mc "Damn. I'm sorry."
-    mc "Damn. I'm sorry."
+    mc ""
 
-# game/code/d05/d05s06.rpy:448
+# game/code/d05/d05s06.rpy:485
 translate portuguese d05s06_after_dbcb9b25:
 
     # mesfl "Don't be. If anything, this is my fault. I should have started training sooner."
-    mesfl "Don't be. If anything, this is my fault. I should have started training sooner."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:449
+# game/code/d05/d05s06.rpy:486
 translate portuguese d05s06_after_b47abf86:
 
     # mc "Well, unless they repeat daily challenges, at least you never have to do that again."
-    mc "Well, unless they repeat daily challenges, at least you never have to do that again."
+    mc ""
 
-# game/code/d05/d05s06.rpy:450
+# game/code/d05/d05s06.rpy:487
 translate portuguese d05s06_after_20197518:
 
     # mesfl "Oh yes I do. I need to beat this on my own terms. And you're going to help me."
-    mesfl "Oh yes I do. I need to beat this on my own terms. And you're going to help me."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:451
+# game/code/d05/d05s06.rpy:488
 translate portuguese d05s06_after_160cc547:
 
     # mc "I am?"
-    mc "I am?"
+    mc ""
 
-# game/code/d05/d05s06.rpy:453
+# game/code/d05/d05s06.rpy:490
 translate portuguese d05s06_after_4fd7690a:
 
     # mesfl "I won't take no for an answer."
-    mesfl "I won't take no for an answer."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:454
+# game/code/d05/d05s06.rpy:491
 translate portuguese d05s06_after_a576b8e1:
 
     # mc "You're kinda scary sometimes."
-    mc "You're kinda scary sometimes."
+    mc ""
 
-# game/code/d05/d05s06.rpy:455
+# game/code/d05/d05s06.rpy:492
 translate portuguese d05s06_after_c4f55880:
 
     # mesfl "I will drink your piss and learn to love it."
-    mesfl "I will drink your piss and learn to love it."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:456
+# game/code/d05/d05s06.rpy:493
 translate portuguese d05s06_after_f5c9a807:
 
     # mc "Anyway, I should get going. Take care."
-    mc "Anyway, I should get going. Take care."
+    mc ""
 
-# game/code/d05/d05s06.rpy:458
+# game/code/d05/d05s06.rpy:495
 translate portuguese d05s06_after_d666d4a9:
 
     # mesfl "You too... {w}and hey, if you ever need points or just want a partner for something, I wouldn't mind doing more challenges with you."
-    mesfl "You too... {w}and hey, if you ever need points or just want a partner for something, I wouldn't mind doing more challenges with you."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:459
+# game/code/d05/d05s06.rpy:496
 translate portuguese d05s06_after_592a17f3:
 
     # mc "Looking forward to it."
-    mc "Looking forward to it."
+    mc ""
 
-# game/code/d05/d05s06.rpy:461
+# game/code/d05/d05s06.rpy:499
 translate portuguese d05s06_after_a8604854:
 
     # mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
-    mc "Now that I know your weakness, I'll be ready for the next time you take challengers."
+    mc ""
 
-# game/code/d05/d05s06.rpy:462
+# game/code/d05/d05s06.rpy:500
 translate portuguese d05s06_after_077a5ea0:
 
     # mesfl "Don't think you can defeat me with simple watersports next time."
-    mesfl "Don't think you can defeat me with simple watersports next time."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:463
+# game/code/d05/d05s06.rpy:501
 translate portuguese d05s06_after_d226a0c0:
 
     # mc "Of course not, but I know you can't handle bodily emissions."
-    mc "Of course not, but I know you can't handle bodily emissions."
+    mc ""
 
-# game/code/d05/d05s06.rpy:464
+# game/code/d05/d05s06.rpy:502
 translate portuguese d05s06_after_75f5d497:
 
     # mesfl "What are you- {w}You wouldn't."
-    mesfl "What are you- {w}You wouldn't."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:465
+# game/code/d05/d05s06.rpy:503
 translate portuguese d05s06_after_645b1818:
 
     # mc "Piss is only the beginning..."
-    mc "Piss is only the beginning..."
+    mc ""
 
-# game/code/d05/d05s06.rpy:467
+# game/code/d05/d05s06.rpy:506
 translate portuguese d05s06_after_37e07a8e:
 
     # mesfl "No. You wouldn't dare."
-    mesfl "No. You wouldn't dare."
+    mesfl ""
 
-# game/code/d05/d05s06.rpy:469
+# game/code/d05/d05s06.rpy:508
 translate portuguese d05s06_after_775e40e3:
 
     # mc "See ya' at the next Party!"
-    mc "See ya' at the next Party!"
+    mc ""
 
 translate portuguese strings:
 
     # game/code/d05/d05s06.rpy:26
     old "Reject Min (ends the Min Path)"
-    new "Reject Min (ends the Min Path)"
+    new ""
 
     # game/code/d05/d05s06.rpy:26
     old "Pee Play with Min"
-    new "Pee Play with Min"
+    new ""
 
-    # game/code/d05/d05s06.rpy:100
+    # game/code/d05/d05s06.rpy:107
     old "No problem."
-    new "No problem."
+    new ""
 
-    # game/code/d05/d05s06.rpy:100
+    # game/code/d05/d05s06.rpy:107
     old "No thanks."
-    new "No thanks."
+    new ""
 
-    # game/code/d05/d05s06.rpy:111
+    # game/code/d05/d05s06.rpy:120
     old "Oh, alright."
-    new "Oh, alright."
+    new ""
 
-    # game/code/d05/d05s06.rpy:111
+    # game/code/d05/d05s06.rpy:120
     old "No means no."
-    new "No means no."
+    new ""
 
-    # game/code/d05/d05s06.rpy:279
+    # game/code/d05/d05s06.rpy:304
     old "Pee on Min's Face"
-    new "Pee on Min's Face"
+    new ""
 
-    # game/code/d05/d05s06.rpy:279
+    # game/code/d05/d05s06.rpy:304
     old "Pee on Min's Body"
-    new "Pee on Min's Body"
+    new ""
 

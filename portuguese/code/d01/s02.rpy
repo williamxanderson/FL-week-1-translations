@@ -1249,7 +1249,7 @@ translate portuguese replay_d01s02_dbccc912:
 translate portuguese replay_d01s02_ed592207:
 
     # mc "No! Just trying to listen to the lecture, you know?"
-    mc "Não! Só tentando ouvir a aula, ta ligada?" 
+    mc "Não! Só tentando ouvir a aula, ta ligada?"
 
 # game/code/d01/s02.rpy:320
 translate portuguese replay_d01s02_36026660:
@@ -1262,7 +1262,7 @@ translate portuguese replay_d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
     mc "Verdade, mas não precisa ficar puta. Eu trouxe um filme, você vai gostar."
-    
+
 # game/code/d01/s02.rpy:324
 translate portuguese replay_d01s02_84a64c74:
 
@@ -1412,7 +1412,7 @@ translate portuguese replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
     mc "Eu tenho que botar o lixo pra fora depois do jogo de basquete porque a Srta. Waller viu uma garota saindo do nosso quarto hoje cedo."
-    
+
 # game/code/d01/s02.rpy:384
 translate portuguese replay_d01s02_3b00d1ca:
 
@@ -1435,7 +1435,7 @@ translate portuguese replay_d01s02_d527faec:
 translate portuguese replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "Nós dois nos encrencamos. Mas a Srta. Waller não liga pra quem é responsável. Ela disse que como dividimos o quarto, dividimos a responsabilidade." 
+    mc "Nós dois nos encrencamos. Mas a Srta. Waller não liga pra quem é responsável. Ela disse que como dividimos o quarto, dividimos a responsabilidade."
 
 # game/code/d01/s02.rpy:393
 translate portuguese replay_d01s02_23b83d84:
@@ -1680,36 +1680,35 @@ translate portuguese strings:
     # game/code/d01/s02.rpy:270
     old "No, Cumshot is not my fetish"
     new "Não, Gozadas (cumshot) não são meu Fetish"
-
-# TODO: Translation updated at 2021-01-18 23:30
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d01/s02.rpy:92
 translate portuguese d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct "They broke up over the winter break..."
+    mct ""
 
 # game/code/d01/s02.rpy:94
 translate portuguese d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct "A couple weeks ago they still hated each other"
+    mct ""
 
 # game/code/d01/s02.rpy:96
 translate portuguese d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct "Look at them now. Are they dating again?"
+    mct ""
 
-# game/code/d01/s02.rpy:319
+# game/code/d01/s02.rpy:321
 translate portuguese replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+    mc ""
 
-# game/code/d01/s02.rpy:416
+# game/code/d01/s02.rpy:420
 translate portuguese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct "Is he gonna finish now?!"
+    mct ""
 

@@ -515,23 +515,23 @@ translate portuguese strings:
     # game/d02/d02s10.rpy:307
     old "No Thanks - Do Something Else"
     new "Não, obrigado - Vou fazer outra coisa"
-# TODO: Translation updated at 2020-08-05 01:51
+# TODO: Translation updated at 2021-08-29 23:16
 
-# game/code/d02/d02s10.rpy:84
+# game/code/d02/d02s10.rpy:87
 translate portuguese d02s10_54e9eeef:
 
     # mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
-    mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
+    mct ""
 
-# game/code/d02/d02s10.rpy:278
+# game/code/d02/d02s10.rpy:283
 translate portuguese d02s10_298d7190:
 
     # mct "Okay, let's see what this is about."
-    mct "Okay, let's see what this is about."
+    mct ""
 
-# game/code/d02/d02s10.rpy:294
+# game/code/d02/d02s10.rpy:299
 translate portuguese d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
-    mct "At least she's talking business here!"
+    mct ""
 
