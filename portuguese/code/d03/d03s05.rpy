@@ -772,7 +772,7 @@ translate portuguese d03s05_end_9c65edcf:
 translate portuguese d03s05_end_00449c84:
 
     # mct "Wait a second... {w}Echo & Bravo won yesterday's challenge."
-    mct "Espera... {e} Echo & Bravo ganharam o desafio de ontem."
+    mct "Espera... {w} Echo & Bravo ganharam o desafio de ontem."
 
 # game/code/d03/d03s05.rpy:323
 translate portuguese d03s05_end_f24ca1de:
@@ -797,4 +797,3 @@ translate portuguese strings:
     # game/code/d03/d03s05.rpy:206
     old "Don't show him that pic"
     new "Não mostrar aquela foto"
-
