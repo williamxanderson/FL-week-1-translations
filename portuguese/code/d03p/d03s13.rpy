@@ -352,7 +352,7 @@ translate portuguese replay_d03s13_f69fbcb4:
 translate portuguese replay_d03s13_e3f1e91c:
 
     # mes "Does it involve your flaccid cock?"
-    mes "Involve seu pau murcho?"
+    mes "Envolve seu pau murcho?"
 
 # game/code/d03p/d03s13.rpy:227
 translate portuguese replay_d03s13_2ddf5601:
