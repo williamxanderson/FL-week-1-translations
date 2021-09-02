@@ -766,7 +766,7 @@ translate portuguese d04s04p2_cdc6f1de:
 translate portuguese d04s04p2_01027653:
 
     # nk "That I can do! {w}One Soy Milk Latte coming right up..."
-    nk "Isso eu posso fazer! {W}Latte com Leite de Soja vindo..."
+    nk "Isso eu posso fazer! {w}Latte com Leite de Soja vindo..."
 
 # game/code/d04/d04s04.rpy:266
 translate portuguese d04s04p2_bb31174e:
@@ -2331,4 +2331,3 @@ translate portuguese strings:
     # game/code/d04/d04s04.rpy:96
     old "No - I do not want that"
     new "Não - Não quero isso"
-
