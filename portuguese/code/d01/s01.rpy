@@ -841,4 +841,4 @@ translate portuguese d01s01_shower_e2f0143d:
 translate portuguese d01s01_dc5dd433:
 
     # mct "She looks like an interesting person... {w}I would love to date a girl like her."
-    mct ""
+    mct "Ela parece uma pessoa interessante... {w}Eu adoraria namorar uma garota que nem ela."
