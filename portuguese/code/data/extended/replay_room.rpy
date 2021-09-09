@@ -4,221 +4,221 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 1: Min & Antony"
-    new ""
+    new "Dia 1: Min & Anthony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Say yes to cumshots"
-    new ""
+    new "Diga sim para ejaculações"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 1: Chloe & Peter"
-    new ""
+    new "Dia 1: Chloe & Peter"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Stacy (flashback)"
-    new ""
+    new "Dia 2: Stacy (flashback)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Nora & Polly"
-    new ""
+    new "Dia 2: Nora e Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "You must have posted your lips, met Polly and accepted her conditions"
-    new ""
+    new "Você deve ter postado seus lábios, encontrado Polly e aceitado suas condições"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Min"
-    new ""
+    new "Dia 2: Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Make Min cum and keep watching her until the end"
-    new ""
+    new "Faça Min gozar e continue vendo ela até o fim"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Polly - Nora route"
-    new ""
+    new "Dia 2: rota da Polly - Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Assfinger Polly"
-    new ""
+    new "Enfie o dedo na bunda da Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 2: Polly - solo"
-    new ""
+    new "Dia 2: Polly - solo"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 3: Stacy (flashback)"
-    new ""
+    new "Dia 3: Stacy (flashback)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't scare Stacy"
-    new ""
+    new "Não assuste a Stacy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 3: Chloe (NTR)"
-    new ""
+    new "Dia 3: Chloe (NTR)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Save Kevin"
-    new ""
+    new "Salve Kevin"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Submit to Dahlia"
-    new ""
+    new "Submeta-se à Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Secret Santa"
-    new ""
+    new "Festa: Amigo Secreto"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Choose the event and request to see Lyssa's pussy"
-    new ""
+    new "Escolha o evento e peça para ver a boceta da Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: QueenB"
-    new ""
+    new "Festa: QueenB"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Squizzle's event"
-    new ""
+    new "Festa: Evento da Squizzle"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do whatever it takes to win"
-    new ""
+    new "Faça o que for necessário para vencer"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Mr.D1cky's event"
-    new ""
+    new "Festa: Evento do Mr.D1cky"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Allison & Vesna"
-    new ""
+    new "Festa: Allison e Vesna"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party: Squizzle & Mr.D1cky"
-    new ""
+    new "Festa: Squizzle e Mr.D1cky"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: Daisy"
-    new ""
+    new "Dia 4: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Command Daisy to blow you (you must have refused Dahlia's request)"
-    new ""
+    new "Ordene que Daisy te chupe (você tem que ter recusado o pedido da Dahlia)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: AmRose"
-    new ""
+    new "Dia 4: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Say yes to enema play"
-    new ""
+    new "Diga sim para enemas"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: Polly & Nora"
-    new ""
+    new "dia 4: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Finger Polly (any hole)"
-    new ""
+    new "Enfie um dedo na Polly (qualquer buraco)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Chloe"
-    new ""
+    new "Dia 5: Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "It's showtime! (available if you have supported Kevin's views on NTR)"
-    new ""
+    new "Hora do show! (disponível se você concordou com as ideias de NTR de Kevin)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Polly"
-    new ""
+    new "Dia 5: Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Strip and join Polly"
-    new ""
+    new "Tire as roupas e se junte à Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
-    new ""
+    new "Dia 5: URLittlePony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Squizzle"
-    new ""
+    new "Dia 5: Squizzle"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Earn a gold star"
-    new ""
+    new "Ganhe uma estrela dourada"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Daisy"
-    new ""
+    new "Dia 5: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Invite Daisy and don't be shy"
-    new ""
+    new "Convide Daisy e não seja tímido"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: Stacy (flashback)"
-    new ""
+    new "Dia 5: Stacy (flashback)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Jerk off"
-    new ""
+    new "Masturbe-se"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Daisy"
-    new ""
+    new "Dia 6: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Daisy"
-    new ""
+    new "Goze na Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Jessie (dorm)"
-    new ""
+    new "Dia 6: Jessie (dormitório)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Lydia"
-    new ""
+    new "Dia 6: Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Creampie Nora"
-    new ""
+    new "Goze na Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 6: Polly & Nora"
-    new ""
+    new "Dia 6: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Unlocked if you are not romancing Polly"
-    new ""
+    new "Destravado se você não está em um romance com Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Take a more dominant role"
-    new ""
+    new "Tome um papel mais dominante"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Cum on Vanessa's feet"
-    new ""
+    new "Goze nos pés da Vanessa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ask for a release"
-    new ""
+    new "Pedir para gozar"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 7: Maria & AmRose (flashback)"
-    new ""
+    new "Dia 7: Maria e AmRose (flashback)"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 7: Dahlia"
-    new ""
+    new "Dia 7: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Spank Lyssa twelve times"
-    new ""
+    new "Dê doze palmadas na Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Enjoy the rimjob"
-    new ""
+    new "Aproveite a lambida na bunda"
 
