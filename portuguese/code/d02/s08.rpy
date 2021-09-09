@@ -638,34 +638,34 @@ translate portuguese strings:
 translate portuguese d02s08_61cc607a:
 
     # mct "And I feel a bit stupid sitting here and holding this banana."
-    mct ""
+    mct "E eu me sinto um pouco estúpido sentado aqui segurando essa banana."
 
 # game/code/d02/s08.rpy:54
 translate portuguese d02s08_a5d6c8c8:
 
     # mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct ""
+    mct "Tô aqui esperando uma garota que não conheço, que vai supostamente deixar eu provar a boceta dela... {w} Quando eu penso nisso - é maluquice!"
 
 # game/code/d02/s08.rpy:128
 translate portuguese d02s08_6be0a302:
 
     # mct "It looks like she is coming my way..."
-    mct ""
+    mct "Parece que ela tá vindo na minha direção..."
 
 # game/code/d02/s08.rpy:180
 translate portuguese d02s08_bf9dde6f:
 
     # pw "Yeah, but I think that you need those points more than I do."
-    pw ""
+    pw "É, mas acho que você precisa mais desses pontos que eu."
 
 # game/code/d02/s08.rpy:265
 translate portuguese d02s08_cbf2642e:
 
     # mc "Okay - what is the favor?"
-    mc ""
+    mc "Okay - qual é o favor?"
 
 # game/code/d02/s08.rpy:268
 translate portuguese d02s08_82c27cdb:
 
     # mc "Without knowing what it is?!"
-    mc ""
+    mc "Sem saber o que é?"
