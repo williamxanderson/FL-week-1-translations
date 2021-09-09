@@ -876,10 +876,10 @@ translate portuguese d02s06_880d2aef:
 translate portuguese d02s06_b16ae0ae:
 
     # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
-    mc ""
+    mc "({i}Ha. Provavelmente não é bom eu falar da [game.chloekevin] dele chupando o Pete só pra pegar pontos no aplicativo!{/i})"
 
 # game/code/d02/s06.rpy:223
 translate portuguese d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb ""
+    kb "Bom, seria uma foto do seu pau, se for o que você tá oferecendo. Mas nesse caso, você vai é usar parte diferente do corpo!"
