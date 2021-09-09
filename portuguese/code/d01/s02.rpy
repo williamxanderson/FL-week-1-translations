@@ -1686,28 +1686,28 @@ translate portuguese strings:
 translate portuguese d01s02_ccff9ce5:
 
     # mct "They broke up over the winter break..."
-    mct ""
+    mct "Eles terminaram durante as férias de inverno..."
 
 # game/code/d01/s02.rpy:94
 translate portuguese d01s02_ad0fa766:
 
     # mct "A couple weeks ago they still hated each other"
-    mct ""
+    mct "Algumas semanas atrás ainda se odiavam."
 
 # game/code/d01/s02.rpy:96
 translate portuguese d01s02_f3e611a0:
 
     # mct "Look at them now. Are they dating again?"
-    mct ""
+    mct "Mas olha só agora. Tão namorando de novo?"
 
 # game/code/d01/s02.rpy:321
 translate portuguese replay_d01s02_d4c74386:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
-    mc ""
+    mc "Verdade, mas não se irrite. Eu trouxe um filme, você vai gostar."
 
 # game/code/d01/s02.rpy:420
 translate portuguese replay_d01s02_e52ed3fc:
 
     # mct "Is he gonna finish now?!"
-    mct ""
+    mct "Ele vai gozar agora?!"
