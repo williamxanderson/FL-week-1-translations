@@ -522,16 +522,16 @@ translate portuguese strings:
 translate portuguese d02s10_54e9eeef:
 
     # mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
-    mct ""
+    mct "Ahhh! A minha [game.stacytitle] sentiu da mesma forma quando encontrou meu pornô?"
 
 # game/code/d02/d02s10.rpy:283
 translate portuguese d02s10_298d7190:
 
     # mct "Okay, let's see what this is about."
-    mct ""
+    mct "Okay, vamos ver do que se trata."
 
 # game/code/d02/d02s10.rpy:299
 translate portuguese d02s10_c6b69984:
 
     # mct "At least she's talking business here!"
-    mct ""
+    mct "Pelo menos ela tá falando sério!"
