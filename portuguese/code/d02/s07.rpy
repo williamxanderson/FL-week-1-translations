@@ -540,250 +540,250 @@ translate portuguese d02s07_f71e9b49:
 translate portuguese replay_d02s07_b50077a0:
 
     # mc "({i}Sleeping on this couch is horrible! I am already dreaming about going back to my dorm bed!{/i})"
-    mc ""
+    mc "({i}Dormir nesse sofá é horrível! Já tô sonhando em voltar pra cama do meu quarto!{/i})"
 
 # game/code/d02/s07.rpy:182
 translate portuguese replay_d02s07_11cf90e9:
 
     # mc "({i}Ugh, I need a shower!{/i})"
-    mc ""
+    mc "({i}Ugh, preciso tomar um baho!{/i})"
 
 # game/code/d02/s07.rpy:184
 translate portuguese replay_d02s07_c3b6099b:
 
     # mct "Is everyone still sleeping?"
-    mct ""
+    mct "Tá todo mundo dormindo?"
 
 # game/code/d02/s07.rpy:186
 translate portuguese replay_d02s07_eca82bf1:
 
     # mct "Great! The door is open! The shower shall be mine!"
-    mct ""
+    mct "Ótimo! A porta tá aberta! O chuveiro será meu!"
 
 # game/code/d02/s07.rpy:192
 translate portuguese replay_d02s07_b5fc3d66:
 
     # mct "Strange... I hear the shower running."
-    mct ""
+    mct "Estranho... Ouço o chuveiro aberto."
 
 # game/code/d02/s07.rpy:200
 translate portuguese replay_d02s07_f0042343:
 
     # mct "What? Again?!"
-    mct ""
+    mct "O quê? De novo?!"
 
 # game/code/d02/s07.rpy:202
 translate portuguese replay_d02s07_63f812be:
 
     # mc "({i}Why on earth isn’t the door closed?!{/i})"
-    mc ""
+    mc "({i}Por que raios a porta não tá fechada?!{/i})"
 
 # game/code/d02/s07.rpy:203
 translate portuguese replay_d02s07_4355860f:
 
     # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
-    mc ""
+    mc "({i}E novamente eu esbarro na minha [game.stacytitle], mas dessa vez ela tá mesmo pelada!{/i})"
 
 # game/code/d02/s07.rpy:204
 translate portuguese replay_d02s07_cf1cd28e:
 
     # mc "({i}What should I do?!{/i})"
-    mc ""
+    mc "({i}O que eu faço?!{/i})"
 
 # game/code/d02/s07.rpy:213
 translate portuguese replay_d02s07_db0389aa:
 
     # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
-    mc ""
+    mc "({i}Ela é minha [game.stacytitle]! Eu tenho que sair imediatamente!{/i})"
 
 # game/code/d02/s07.rpy:216
 translate portuguese replay_d02s07_f9ea10f1:
 
     # mct "I will just open the door a little bit more!"
-    mct ""
+    mct "Vou só abrir a porta mais um pouquinho!"
 
 # game/code/d02/s07.rpy:220
 translate portuguese replay_d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
-    mct ""
+    mct "Nossa! Eu tô vendo a Stacy pelada!"
 
 # game/code/d02/s07.rpy:221
 translate portuguese replay_d02s07_a2c85cd6:
 
     # mc "({i}I will watch just a little bit more!{/i})"
-    mc ""
+    mc "({i}Vou ver só mais um pouquinho!{/i})"
 
 # game/code/d02/s07.rpy:241
 translate portuguese replay_d02s07_a18006d4:
 
     # mct "And now she’s turned off the shower! I should leave now!"
-    mct ""
+    mct "Agora ela fechou o chuveiro! Tenho que sair agora!"
 
 # game/code/d02/s07.rpy:242
 translate portuguese replay_d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
-    mct ""
+    mct "Ah! Ela vai fazer o que acho que vai?"
 
 # game/code/d02/s07.rpy:243
 translate portuguese replay_d02s07_af60218e:
 
     # mct "I pee in the shower too. But should I watch how she does it?"
-    mct ""
+    mct "Eu também urino no chuveiro. Mas será que eu vejo como ela faz?"
 
 # game/code/d02/s07.rpy:248
 translate portuguese replay_d02s07_a7b96636:
 
     # mct "Will she actually pee?"
-    mct ""
+    mct "Ela vai mesmo urinar?"
 
 # game/code/d02/s07.rpy:249
 translate portuguese replay_d02s07_a8656b26:
 
     # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
-    mct ""
+    mct "Por que eu quero ver a minha [game.stacytitle] mijar no banheiro?"
 
 # game/code/d02/s07.rpy:250
 translate portuguese replay_d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
-    mct ""
+    mct "Por que eu tô tão excitado pensando nisso?"
 
 # game/code/d02/s07.rpy:256
 translate portuguese replay_d02s07_22fa5f40:
 
     # mct "She is actually pissing now!"
-    mct ""
+    mct "Ela tá mesmo mijando agora!"
 
 # game/code/d02/s07.rpy:257
 translate portuguese replay_d02s07_a13dfa49:
 
     # mct "I'm watching my naked [game.stacytitle] pee!"
-    mct ""
+    mct "Eu tô vendo a minha [game.stacytitle] pelada mijando!"
 
 # game/code/d02/s07.rpy:270
 translate portuguese replay_d02s07_6d530174:
 
     # mct "Wow! Wait! What is she doing?!"
-    mct ""
+    mct "Nossa! Calma! O que ela tá fazendo?!"
 
 # game/code/d02/s07.rpy:271
 translate portuguese replay_d02s07_04cfb5d9:
 
     # mct "Is she masturbating while peeing? {w} Or she is peeing while masturbating!?"
-    mct ""
+    mct "Ela tá se masturbando enquanto urina? {w}Ou ela tá urinando enquanto se masturba!?"
 
 # game/code/d02/s07.rpy:276
 translate portuguese replay_d02s07_b0a5fdcf:
 
     # sy "Mmmh"
-    sy ""
+    sy "Mmmh"
 
 # game/code/d02/s07.rpy:280
 translate portuguese replay_d02s07_21301221:
 
     # sy "Yeah"
-    sy ""
+    sy "Isso"
 
 # game/code/d02/s07.rpy:282
 translate portuguese replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
-    mc ""
+    mc "({i}Se eu for pego, não tô só espiando a minha [game.stacytitle] no chuveiro, mas eu tô espiando na minha [game.stacytitle] mijando e se masturbando!{/i})"
 
 # game/code/d02/s07.rpy:284
 translate portuguese replay_d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
-    mc ""
+    mc "({i}E da última vez que espiei ela, eu fui pego!{/i})"
 
 # game/code/d02/s07.rpy:285
 translate portuguese replay_d02s07_e99614ac:
 
     # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
-    mc ""
+    mc "({i}Eu fiquei com uma ereção da minha [game.stacytitle]. Isso é tão errado, e ao mesmo tempo tão incrivelmente excitante!{/i})"
 
 # game/code/d02/s07.rpy:289
 translate portuguese replay_d02s07_72bdd4f1:
 
     # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
-    ""
+    "Depois que a Stacy termina de urinar, ela cai no chão, derramando gotas de urina pra todo lugar."
 
 # game/code/d02/s07.rpy:290
 translate portuguese replay_d02s07_859c321f:
 
     # mct "Looks like she is going to need another shower soon."
-    mct ""
+    mct "Parece que ela já vai precisar de outro banho."
 
 # game/code/d02/s07.rpy:292
 translate portuguese replay_d02s07_f71e9b49:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
-    ""
+    "Ela segura o mamilo esquerdo com a mão direita, e começa a puxar pra frente com cada movimento, enquanto sua mão desce."
 
 # game/code/d02/s07.rpy:299
 translate portuguese replay_d02s07_1a8deaac:
 
     # "Stacy starts to collapse backwards."
-    ""
+    "Stacy começa a cair pra trás."
 
 # game/code/d02/s07.rpy:302
 translate portuguese replay_d02s07_919f3d91:
 
     # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
-    ""
+    "Quando sua bunda nua caiu no chão frio, um grito de prazer saiu da sua boca."
 
 # game/code/d02/s07.rpy:303
 translate portuguese replay_d02s07_9731f864:
 
     # sy "A-a-a-h"
-    sy ""
+    sy "A-a-a-i"
 
 # game/code/d02/s07.rpy:307
 translate portuguese replay_d02s07_ae0e3462:
 
     # "Stacy’s body starts to shake in orgasmic spasms!"
-    ""
+    "O corpo da Stacy começa tremer com espasmos de orgasmo!"
 
 # game/code/d02/s07.rpy:315
 translate portuguese replay_d02s07_5c25b3ee:
 
     # sy "O-o-o-h"
-    sy ""
+    sy "A-a-a-ih"
 
 # game/code/d02/s07.rpy:316
 translate portuguese replay_d02s07_2d8f6d5d:
 
     # "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
-    ""
+    "Depois do orgasmo, os músculos dela se relaxaram e ela continuou a cair de costas"
 
 # game/code/d02/s07.rpy:337
 translate portuguese replay_d02s07_d7f7bcb2:
 
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
-    mct ""
+    mct "Eu... {w}acho que eu... {w}gozei nas calças... {w} Isso foi incrível!"
 
 # game/code/d02/s07.rpy:353
 translate portuguese replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
-    mc ""
+    mc "({i}Minha [game.stacytitle] é safada. Do que eu conheço dela, ela não vai hesitar em usar o aplicativo!{/i})"
 
 # game/code/d02/s07.rpy:354
 translate portuguese replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
-    mc ""
+    mc "({i}Mas tenho essa vontade de proteger ela. Não quero que ela poste imagens sexuais pra outros caras verem...{/i})"
 
 # game/code/d02/s07.rpy:355
 translate portuguese replay_d02s07_b7389156:
 
     # mc "({i}Or am I actually just jealous?!{/i})"
-    mc ""
+    mc "({i}Ou eu tô ficando com ciúmes?!{/i})"
 
 # game/code/d02/s07.rpy:357
 translate portuguese replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
-    mc ""
+    mc "({i}Hora de descobrir qualé a dessa banana.{/i})"
