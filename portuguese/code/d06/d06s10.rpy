@@ -70,7 +70,7 @@ translate portuguese replay_d06s10_a5ee1870:
 translate portuguese replay_d06s10_4df2e7a8:
 
     # "female voice" "I bet you'd like that."
-    "female voice" "Aposto que vocÊ gostaria disso."
+    "female voice" "Aposto que você gostaria disso."
 
 # game/code/d06/d06s10.rpy:32
 translate portuguese replay_d06s10_56c90293:
