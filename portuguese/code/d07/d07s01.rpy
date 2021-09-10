@@ -460,7 +460,7 @@ translate portuguese d07s01_29fdf2f1:
 translate portuguese d07s01_2c5243bf:
 
     # pb "Umm... {w}nope. No idea."
-    pb "Uhm... {W}Não. Não faço ideia."
+    pb "Uhm... {w}Não. Não faço ideia."
 
 # game/code/d07/d07s01.rpy:161
 translate portuguese d07s01_f4e8342e:
@@ -587,4 +587,3 @@ translate portuguese d07s01_8959c8e4:
 
     # sy "Fine! Let's go. I want to see AmRose."
     sy "Tá bom! vamos. Quero ver a AmRose."
-
