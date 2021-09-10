@@ -10,7 +10,7 @@ translate portuguese replay_d03s10b_e93494b1:
 translate portuguese replay_d03s10b_9226f090:
 
     # mct "Fucking blue balls. It might not be a medical condition, but it's damn frustrating."
-    mct "Malditas bolas azuis. Pode não ser uma doença, mas é bem frustrante."
+    mct "Minhas bolas táo explodindo. Pode não ser uma doença, mas é bem frustrante."
 
 # game/code/d03p/extended/d03s10b.rpy:25
 translate portuguese replay_d03s10b_5823cebb:
