@@ -220,7 +220,7 @@ translate portuguese d06s05_a7ffb668:
 translate portuguese d06s05_aaf5f1c9:
 
     # mk "With what? {w}Oh! Eww!"
-    mk "Com o quê? {W}Ah! Eca!"
+    mk "Com o quê? {w}Ah! Eca!"
 
 # game/code/d06/d06s05.rpy:98
 translate portuguese d06s05_f9a8eb47:
@@ -843,4 +843,3 @@ translate portuguese strings:
     # game/code/d06/d06s05.rpy:261
     old "Send it to me"
     new "Manda pra mim"
-
