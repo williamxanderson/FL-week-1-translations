@@ -76,7 +76,7 @@ translate portuguese support_me_588733f4:
 translate portuguese support_me_8900d108:
 
     # sy "Do you think he knows how important his support is to me?"
-    sy "Você acha que ele sabe o quão importante pra mim é o suporte dele?"
+    sy "Você acha que ele sabe o quão importante para mim é o suporte dele?"
 
 # game/script.rpy:158
 translate portuguese support_me_57289a79:
@@ -94,7 +94,7 @@ translate portuguese support_me_15bd04e6:
 translate portuguese support_me_45c4fd11:
 
     # dd "And I'm sure he knows that even a little support means a great deal to you!"
-    dd "E sei que ele sabe que até uma pequena ajuda significa muito pra você!"
+    dd "E sei que ele sabe que até uma pequena ajuda significa muito para você!"
 # TODO: Translation updated at 2020-01-21 12:56
 
 translate portuguese strings:
