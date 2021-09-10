@@ -1936,7 +1936,7 @@ translate portuguese d04s04p2_a4690c63:
 translate portuguese d04s04p2_1491d16e:
 
     # nk "Yup! It's amazing what you can do for free online. {w}I'm a dudeist priest."
-    nk "Sim! É incrível o que vocÊ consegue fazer online e de graça. {w} Sou uma ministra dudeísta."
+    nk "Sim! É incrível o que se consegue fazer de graça online. {w} Sou uma ministra dudeísta."
 
 # game/code/d04/d04s04.rpy:595
 translate portuguese d04s04p2_921cc200:
