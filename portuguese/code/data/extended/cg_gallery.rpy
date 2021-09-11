@@ -164,7 +164,7 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must be into watersports or have joined Antony's event"
-    new "Você deve estar a fim de watersports ou ido ao evento do Anthony"
+    new "Você deve estar a fim de watersports ou ido ao evento do Antony"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 5: AmRose"
