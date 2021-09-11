@@ -32,7 +32,7 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:267
     old "Prefs"
-    new "Preferências"
+    new "Prefs"
 
     # game/code/screens/screens.rpy:309
     old "Continue from week [FLSS.week.prev]"
