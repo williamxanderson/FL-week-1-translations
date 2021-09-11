@@ -670,7 +670,7 @@ translate portuguese d03s16_cc5a56e8:
 translate portuguese d03s16_5a7bd336:
 
     # mc "Let's follow Antony's advice and move over there."
-    mc "Vamos seguir o conselho do Anthony e vamos ali."
+    mc "Vamos seguir o conselho do Antony e vamos ali."
 
 # game/code/d03p2/d03s16.rpy:285
 translate portuguese d03s16_d6cc9e1a:
