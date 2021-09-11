@@ -32,11 +32,11 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:267
     old "Prefs"
-    new "Prefs"
+    new "Preferências"
 
     # game/code/screens/screens.rpy:309
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "Continuar da semana [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:313
     old "Start"
@@ -56,23 +56,23 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:345
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "Apoiar no Patreon"
 
     # game/code/screens/screens.rpy:349
     old "Join Discord"
-    new "Join Discord"
+    new "Entar no Discord"
 
     # game/code/screens/screens.rpy:353
     old "Switch Language"
-    new "Switch Language"
+    new "Mudar idioma"
 
     # game/code/screens/screens.rpy:368
     old "End Replay"
-    new "End Replay"
+    new "Acabar Replay"
 
     # game/code/screens/screens.rpy:376
     old "About"
-    new "About"
+    new "Sobre"
 
     # game/code/screens/screens.rpy:381
     old "Help"
@@ -88,15 +88,15 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:616
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
+    new "Feito com {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
-    new "(set a name before saving your progress)"
+    new "(coloque um nome antes de salvar seu progresso)"
 
     # game/code/screens/screens.rpy:686
     old "Current save name:"
-    new "Current save name:"
+    new "Nome atual do save:"
 
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -112,7 +112,7 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:743
     old "{#auto_page}A"
-    new "{#auto_page}Uma"
+    new "{#auto_page}A"
 
     # game/code/screens/screens.rpy:746
     old "{#quick_page}Q"
@@ -132,7 +132,7 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:809
     old "Fullscreen"
-    new "Fullscreen"
+    new "Tela Cheia"
 
     # game/code/screens/screens.rpy:813
     old "Rollback Side"
@@ -148,11 +148,11 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:816
     old "Right"
-    new "Direito"
+    new "Direita"
 
     # game/code/screens/screens.rpy:821
     old "Unseen Text"
-    new "Invisível Texto"
+    new "Texto ainda não visto"
 
     # game/code/screens/screens.rpy:822
     old "After Choices"
@@ -164,31 +164,31 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:828
     old "Taboo mode"
-    new "Taboo mode"
+    new "Modo Tabu"
 
     # game/code/screens/screens.rpy:829
     old "Enabled"
-    new "Enabled"
+    new "Habilitado"
 
     # game/code/screens/screens.rpy:830
     old "Disabled"
-    new "Disabled"
+    new "Desabilitado"
 
     # game/code/screens/screens.rpy:840
     old "Text Speed"
-    new "Texto De Velocidade"
+    new "Velocidade do texto"
 
     # game/code/screens/screens.rpy:844
     old "Auto-Forward Time"
-    new "Auto-Encaminhar Tempo"
+    new "Auto-Avançar Tempo"
 
     # game/code/screens/screens.rpy:851
     old "Music Volume"
-    new "O Volume Da Música"
+    new "Volume Da Música"
 
     # game/code/screens/screens.rpy:858
     old "Sound Volume"
-    new "O Volume Do Som"
+    new "Volume Do Som"
 
     # game/code/screens/screens.rpy:864
     old "Test"
@@ -196,11 +196,11 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:868
     old "Voice Volume"
-    new "O Volume De Voz"
+    new "Volume De Voz"
 
     # game/code/screens/screens.rpy:879
     old "Mute All"
-    new "Silenciar Todos Os"
+    new "Silenciar Tudo"
 
     # game/code/screens/screens.rpy:998
     old "The dialogue history is empty."
@@ -216,7 +216,7 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:1071
     old "Gamepad"
-    new "Gamepad"
+    new "Controle"
 
     # game/code/screens/screens.rpy:1084
     old "Enter"
