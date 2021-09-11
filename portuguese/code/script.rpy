@@ -4,7 +4,7 @@
 translate portuguese end_131a6b8a:
 
     # "You reached the end of implemented part of the story! Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - https://www.patreon.com/fetishlocator"
-    "Você alcançou o fim da parte implementada da história! Obrigado por jogar a versão [config.version] do meu jogo. Por favor, me diga o que você achou! Seu feedback me ajudaria muito! Me suporte no Patreon - https://www.patreon.com/fetishlocator"
+    "Você alcançou o fim da parte implementada da história! Obrigado por jogar a versão [config.version] do meu jogo. Por favor, me diga o que você achou! Seu feedback me ajudaria muito! Me apoie no Patreon - https://www.patreon.com/fetishlocator"
 
 # game/script.rpy:112
 translate portuguese end_0d108dc9:
@@ -22,7 +22,7 @@ translate portuguese end_e80b6e2a:
 translate portuguese finish_dde91144:
 
     # "Thanks for playing [config.version] version of my game. Please let me know what do you think! Your feedback would help me a lot! Support on Patreon - https://www.patreon.com/fetishlocator"
-    "Obrigado por jogar a versão [config.version] do meu jogo. Por favor, me diga o que você achou! Seu feedback me ajudaria muito! Me suporte no Patreon - https://www.patreon.com/fetishlocator"
+    "Obrigado por jogar a versão [config.version] do meu jogo. Por favor, me diga o que você achou! Seu feedback me ajudaria muito! Me apoie no Patreon - https://www.patreon.com/fetishlocator"
 
 # game/script.rpy:120
 translate portuguese finish_0d108dc9:
@@ -76,7 +76,7 @@ translate portuguese support_me_588733f4:
 translate portuguese support_me_8900d108:
 
     # sy "Do you think he knows how important his support is to me?"
-    sy "Você acha que ele sabe o quão importante para mim é o suporte dele?"
+    sy "Você acha que ele sabe o quão importante para mim é o apoio dele?"
 
 # game/script.rpy:158
 translate portuguese support_me_57289a79:
