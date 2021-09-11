@@ -838,7 +838,7 @@ translate portuguese d06s07_warnnora_12ba8acd:
 translate portuguese d06s07_noracreampie_63c29916:
 
     # nk "FUCK YESSS!!! FILL MY NAUGHTY PUSSY WITH YOUR HARD COCK!!!"
-    nk ""
+    nk "IIISSSOO, PORRAAA! ENCHE MINHA BOCETA SAFADA COM SEU PAU DURO!!!"
 
 # game/code/d06/d06s07.rpy:387
 translate portuguese d06s07_noracreampie_a6166d09:
@@ -1213,4 +1213,3 @@ translate portuguese strings:
     # game/code/d06/d06s07.rpy:242
     old "Creampie without warning"
     new "Creampie sem aviso"
-
