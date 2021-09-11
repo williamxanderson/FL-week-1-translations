@@ -150,7 +150,7 @@ translate portuguese replay_d03s02_6f015947:
 translate portuguese replay_d03s02_b911a24b:
 
     # mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
-    mct "Somehow now that she is spying on me, I feel like I'm in control of the situation."
+    mct "Agora que ela tá me espiando, por alguma razão sinto que tô no controle."
 
 # game/code/d03/d03s02.rpy:209
 translate portuguese replay_d03s02_a82b3399:
