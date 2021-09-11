@@ -507,340 +507,340 @@ translate portuguese d02s11b_b1cfa47b:
 translate portuguese replay_d02s11b_05adbeb1:
 
     # "Two minutes later"
-    ""
+    "Dois minutos depois"
 
 # game/code/d02/d02s11b.rpy:115
 translate portuguese replay_d02s11b_c71d7213:
 
     # mct "Here we go."
-    mct ""
+    mct "Prontinho."
 
 # game/code/d02/d02s11b.rpy:120
 translate portuguese replay_d02s11b_4b0eff93:
 
     # mct "Beautiful. Looks like she lost the skirt."
-    mct ""
+    mct "Maravilha. Parece que ela perdeu a saia."
 
 # game/code/d02/d02s11b.rpy:121
 translate portuguese replay_d02s11b_e22e1c14:
 
     # mct "I should close the door."
-    mct ""
+    mct "É melhor eu fechar a porta."
 
 # game/code/d02/d02s11b.rpy:134
 translate portuguese replay_d02s11b_660b6770:
 
     # mct "Crap. She looks very annoyed."
-    mct ""
+    mct "Droga. Parece que ela tá bem irritada."
 
 # game/code/d02/d02s11b.rpy:136
 translate portuguese replay_d02s11b_7b6946f5:
 
     # mct "Double crap. We are now locked in a staring contest."
-    mct ""
+    mct "Merda em dobro. Agora nós estamos nos encarando."
 
 # game/code/d02/d02s11b.rpy:137
 translate portuguese replay_d02s11b_99ad7141:
 
     # mct "I am going to lose. Min is extremely competitive...{w} But maybe I can win after all."
-    mct ""
+    mct "Vou perder. Min é super competitiva...{w} Mas afinal, talvez eu possa ganhar."
 
 # game/code/d02/d02s11b.rpy:138
 translate portuguese replay_d02s11b_b6b8c63d:
 
     # mct "She's naked from the waist down.{w} She'll flinch first."
-    mct ""
+    mct "Elá tá pelada da cintura pra baixo.{w} Ela vai se mover primeiro."
 
 # game/code/d02/d02s11b.rpy:139
 translate portuguese replay_d02s11b_0a2506df:
 
     # mct "I ... {w}must not ... {w}look down."
-    mct ""
+    mct "Eu... {w}não posso... {w}olhar pra baixo."
 
 # game/code/d02/d02s11b.rpy:140
 translate portuguese replay_d02s11b_a2b7b53a:
 
     # mct "She's not flinching. I'm going to lose."
-    mct ""
+    mct "Ela não tá se mexendo. Vou perder."
 
 # game/code/d02/d02s11b.rpy:141
 translate portuguese replay_d02s11b_e2447771:
 
     # mct "If I'm going to lose I can at least get a good look at her pussy."
-    mct ""
+    mct "Se eu vou perder, posso pelo menos dar uma boa olhada na boceta dela."
 
 # game/code/d02/d02s11b.rpy:147
 translate portuguese replay_d02s11b_fab42f09:
 
     # mct "Okay, if she decides to kill me at least it was worth it."
-    mct ""
+    mct "Bom, se ela decidir me matar, pelo menos valeu a pena."
 
 # game/code/d02/d02s11b.rpy:157
 translate portuguese replay_d02s11b_e84e1b7a:
 
     # mct "Oh good. I made the right decision."
-    mct ""
+    mct "Ah, ótimo. Tomei a decisão certa."
 
 # game/code/d02/d02s11b.rpy:159
 translate portuguese replay_d02s11b_a553e095:
 
     # mes "Close the door. I'm feeling a draft."
-    mes ""
+    mes "Fecha a porta. Tô sentindo um vento."
 
 # game/code/d02/d02s11b.rpy:161
 translate portuguese replay_d02s11b_18fdee16:
 
     # mc "Of course. Shall I get down to business?"
-    mc ""
+    mc "Claro. Posso ir direto ao ponto?"
 
 # game/code/d02/d02s11b.rpy:162
 translate portuguese replay_d02s11b_6ac10adf:
 
     # mes "Please."
-    mes ""
+    mes "Por favor."
 
 # game/code/d02/d02s11b.rpy:173
 translate portuguese replay_d02s11b_8bf9b21e:
 
     # mct "She is trying to be confident, but I can see that she is also nervous!"
-    mct ""
+    mct "Ela tá tentando ser confiante, mas posso ver que ela também tá nervosa!"
 
 # game/code/d02/d02s11b.rpy:177
 translate portuguese replay_d02s11b_8f887f6d:
 
     # mes "Help me get up here, to the sink."
-    mes ""
+    mes "Me ajuda a subir aqui na pia."
 
 # game/code/d02/d02s11b.rpy:179
 translate portuguese replay_d02s11b_7a7f7d2b:
 
     # mc "Here you go!"
-    mc ""
+    mc "Lá vai!"
 
 # game/code/d02/d02s11b.rpy:187
 translate portuguese replay_d02s11b_072f197d:
 
     # mct "What a gorgeous view! {w}Right now, I don't even care about the points!"
-    mct ""
+    mct "Que bela vista! {w}Agora eu nem ligo mais pros pontos!"
 
 # game/code/d02/d02s11b.rpy:195
 translate portuguese replay_d02s11b_6be4487b:
 
     # mct "Did she moan a little when I grabbed her thighs? I guess she wasn't expecting that."
-    mct ""
+    mct "Ela gemeu um pouco quando segurei as coxas dela? Acho que ela não esperava por isso."
 
 # game/code/d02/d02s11b.rpy:205
 translate portuguese replay_d02s11b_c4cccedc:
 
     # mes "Maybe you will quit staring?"
-    mes ""
+    mes "Que tal parar de encarar?"
 
 # game/code/d02/d02s11b.rpy:207
 translate portuguese replay_d02s11b_bff1902c:
 
     # mes "Time to work with those sexy lips of yours!"
-    mes ""
+    mes "Hora de botar esses seus lábios sexy pra trabalhar!"
 
 # game/code/d02/d02s11b.rpy:216
 translate portuguese replay_d02s11b_2dad8ed4:
 
     # "[mcname] pressed his tongue to her clit. At the moment of this touch [mcname] was able to feel a small wave of Min's muscles flinching, giving away her pleasure from this attention."
-    ""
+    "[mcname] pressionou a língua no clitóris dela. No momento do seu toque, [mcname] sentiu pequenos movimentos dos músculos da Min, demonstrando o prazer que ela sentiu da atenção dele."
 
 # game/code/d02/d02s11b.rpy:219
 translate portuguese replay_d02s11b_8acf1586:
 
     # "He stood still and after several seconds Min started taking pictures."
-    ""
+    "Ele ficou parado, e depois de vários segundos, Min começou a tirar fotos."
 
 # game/code/d02/d02s11b.rpy:235
 translate portuguese replay_d02s11b_02a98d0b:
 
     # mes "(panting) Okay, that's good...{w} We have the photos... {w} You can stop...{w} If you want."
-    mes ""
+    mes "(ofegante) Beleza, ótimo...{w}Temos as fotos... {w} Você pode parar...{w}se quiser."
 
 # game/code/d02/d02s11b.rpy:239
 translate portuguese replay_d02s11b_57de2af3:
 
     # mct "It wasn't too bad, but that is enough."
-    mct ""
+    mct "Não foi tão ruim, mas já chega."
 
 # game/code/d02/d02s11b.rpy:243
 translate portuguese replay_d02s11b_a6dd4e57:
 
     # mct "Let's show her what I can do."
-    mct ""
+    mct "Vamos mostrar a ela o que eu posso fazer."
 
 # game/code/d02/d02s11b.rpy:249
 translate portuguese replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    ""
+    "[mcname] começou a chupar lentamente o clitóris da Min, e isso fez ela soltar um gemido alto."
 
 # game/code/d02/d02s11b.rpy:252
 translate portuguese replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    ""
+    "Depois que [mcname] caminhou com a língua entre os lábios, do clitóris até a abertura, e de volta... {w}Isso fez ela gemer ainda mais."
 
 # game/code/d02/d02s11b.rpy:253
 translate portuguese replay_d02s11b_7a19cf07:
 
     # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct ""
+    mct "O gosto não é nada mal. Antony não sabe o que tá perdendo."
 
 # game/code/d02/d02s11b.rpy:256
 translate portuguese replay_d02s11b_d9521958:
 
     # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    ""
+    "[mcname] finalmente passou pela entrada sagrada da Min com sua língua, e começou a explorar as profundezas como uma besta esfomeada..."
 
 # game/code/d02/d02s11b.rpy:258
 translate portuguese replay_d02s11b_a89139dc:
 
     # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct ""
+    mct "Hmm, eu sinto um pouco o gosto de sangue. Tem gosto de ferro...{w} Como que eu sei o gosto de ferro?"
 
 # game/code/d02/d02s11b.rpy:259
 translate portuguese replay_d02s11b_33f8dab7:
 
     # "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
-    ""
+    "As ações de [mcname] trouxeram uma já excitada Min ao clímax do prazer. A boceta dela precisava dessa atenção!"
 
 # game/code/d02/d02s11b.rpy:260
 translate portuguese replay_d02s11b_32df4632:
 
     # "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
-    ""
+    "Ela estava pulsando por dentro, e seu grito passou pelo banheiro vazio e ecoou pelo saguão de esportes..."
 
 # game/code/d02/d02s11b.rpy:266
 translate portuguese replay_d02s11b_e5cb2ce8:
 
     # mes "YES! OH YES! PLEASE LET ME CUM!!"
-    mes ""
+    mes "ISSO! AIH, ISSO! POR FAVOR DEIXA EU GOZAR!!!"
 
 # game/code/d02/d02s11b.rpy:268
 translate portuguese replay_d02s11b_957fef2f:
 
     # mct "That's right. Cum for me bitch!"
-    mct ""
+    mct "Isso aí. Goza pra mim, vadia!"
 
 # game/code/d02/d02s11b.rpy:274
 translate portuguese replay_d02s11b_ce8ae155:
 
     # mes "Aaa-a-h"
-    mes ""
+    mes "Aaa-a-i"
 
 # game/code/d02/d02s11b.rpy:277
 translate portuguese replay_d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    ""
+    "Com a língua bem dentro, [mcname] sentiu como o orgasmo da Min relaxou os músculos dela quando Min esguichou na boca dele."
 
 # game/code/d02/d02s11b.rpy:279
 translate portuguese replay_d02s11b_3929faa5:
 
     # mes "Oh, Fuck!{w} I Have NEVER ...{w} You are extremely talented."
-    mes ""
+    mes "Ah, Porra!{w}Eu NUNCA tive...{w} Você tem muito talento."
 
 # game/code/d02/d02s11b.rpy:286
 translate portuguese replay_d02s11b_60314aff:
 
     # mes "Thank you."
-    mes ""
+    mes "Obrigada."
 
 # game/code/d02/d02s11b.rpy:287
 translate portuguese replay_d02s11b_41e24afe:
 
     # mc "I'm glad we could help each other out, with this challenge."
-    mc ""
+    mc "Fico feliz que pudemos nos ajudar com esse desafio."
 
 # game/code/d02/d02s11b.rpy:289
 translate portuguese replay_d02s11b_b66575e4:
 
     # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes ""
+    mes "Sim. Agora se me dá licença...{w} Preciso urinar e me vestir."
 
 # game/code/d02/d02s11b.rpy:291
 translate portuguese replay_d02s11b_72aa4035:
 
     # mes "Did you swallow your tongue? You can leave now!"
-    mes ""
+    mes "Você também engoliu a própria língua? Já pode sair!"
 
 # game/code/d02/d02s11b.rpy:293
 translate portuguese replay_d02s11b_9291f744:
 
     # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct ""
+    mct "Ela voltou a ficar confiante, como se eu não tivesse dado a ela um orgasmo incrível!"
 
 # game/code/d02/d02s11b.rpy:298
 translate portuguese replay_d02s11b_c039aa13:
 
     # mes "Thanks, again. That was excellent."
-    mes ""
+    mes "Obrigada de novo. Isso foi excelente."
 
 # game/code/d02/d02s11b.rpy:299
 translate portuguese replay_d02s11b_1ba6ec5a:
 
     # mc "Thank you. You were delicious."
-    mc ""
+    mc "Valeu. Você estava deliciosa."
 
 # game/code/d02/d02s11b.rpy:305
 translate portuguese replay_d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
-    ""
+    "Min entra numa cabine. Após alguns segundos, [mcname] chega mais perto e lentamente abre a porta."
 
 # game/code/d02/d02s11b.rpy:308
 translate portuguese replay_d02s11b_61b75870:
 
     # mc "You know, I would kinda like to see that"
-    mc ""
+    mc "Olha, eu meio que gostaria de ver isso."
 
 # game/code/d02/d02s11b.rpy:311
 translate portuguese replay_d02s11b_d80b3761:
 
     # mes "Oh, you're still here!"
-    mes ""
+    mes "Ah, você ainda tá aqui!"
 
 # game/code/d02/d02s11b.rpy:312
 translate portuguese replay_d02s11b_e08008ca:
 
     # mc "Yeah, I think I deserve some reward"
-    mc ""
+    mc "É, acho que mereço uma recompensa."
 
 # game/code/d02/d02s11b.rpy:315
 translate portuguese replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes ""
+    mes "(rindo) Sim, merece. Mas não sei se consigo urinar agora com você olhando... {w}Talvez da próxima?"
 
 # game/code/d02/d02s11b.rpy:316
 translate portuguese replay_d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
-    mc ""
+    mc "Acho que nunca ouvi você rindo antes... Gostei."
 
 # game/code/d02/d02s11b.rpy:318
 translate portuguese replay_d02s11b_e3aec1e4:
 
     # mct "That didn't take long. I can hear her peeing."
-    mct ""
+    mct "Não demorou muito. Consigo ouvir ela urinando."
 
 # game/code/d02/d02s11b.rpy:327
 translate portuguese replay_d02s11b_d07f8876:
 
     # fl "You earned some points!"
-    fl ""
+    fl "Você ganhou alguns pontos!"
 
 # game/code/d02/d02s11b.rpy:329
 translate portuguese replay_d02s11b_629fe89d:
 
     # mct "Hey, I just got [s11b_points] points!"
-    mct ""
+    mct "Opa, acabei de ganhar [s11b_points] pontos!"
 
 translate portuguese strings:
 
     # game/code/d02/d02s11b.rpy:237
     old "She didn't say I {i}have{/i} to stop"
-    new ""
+    new "Ela não disse que eu {i}tenho{/i} que parar"
