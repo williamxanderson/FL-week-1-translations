@@ -70,7 +70,7 @@ translate portuguese support_me_002a4473:
 translate portuguese support_me_a481faf7:
 
     # sy "Do you think they know how important their support is to me?"
-    sy "Você acha que ela sabe  quão importante para mim é o suporte dela?"
+    sy "Você acha que ela sabe  quão importante para mim é o apoio dela?"
 
 # game/code/labels.rpy:125
 translate portuguese support_me_9ce1e5cd:
