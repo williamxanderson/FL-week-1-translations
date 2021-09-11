@@ -4,7 +4,7 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 1: Min & Antony"
-    new "Dia 1: Min & Anthony"
+    new "Dia 1: Min & Antony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Say yes to cumshots"
