@@ -8,7 +8,7 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Replays"
+    new "Galeria de Replays"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
