@@ -974,7 +974,7 @@ translate portuguese strings:
 
     # game/code/d03p/d03s10.rpy:513
     old "Go Watch Antony's Event"
-    new "Ir Ver o Evento do Anthony"
+    new "Ir Ver o Evento do Antony"
 
     # game/code/d03p/d03s10.rpy:513
     old "That's Enough For Tonight"
