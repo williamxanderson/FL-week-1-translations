@@ -70,7 +70,7 @@ translate portuguese s03_0f54bf1c:
 translate portuguese s03_f2774c64:
 
     # fl "Mr. D1cky and Squizzle just completed the cum play challenge. They both get 50 points. Stay tuned for the next challenge tomorrow!"
-    fl "Sr. P4uzudo e Apertadinha acabaram de completar o desafio da gozada. Eles recebem 50 pontos cada um. Fiquem ligados no próximo desafio amanhã!"
+    fl "Sr. D1cky e Apertadinha acabaram de completar o desafio da gozada. Eles recebem 50 pontos cada um. Fiquem ligados no próximo desafio amanhã!"
 
 # game/d01/s03.rpy:73
 translate portuguese s03_c65e5cc5:
@@ -1113,7 +1113,7 @@ translate portuguese s03_dc5397d2_1:
 translate portuguese s03_c33e016e:
 
     # fl "Mr. D1cky and Squizzle just completed the Cumshot challenge. They both get 25 points. Stay tuned for the next challenge tomorrow!"
-    fl "Sr. P4uzudo e Apertadinha acabaram de completar o desafio da gozada (cumshot). Os dois receberam 25 pontos cada. Fiquem ligados para o desafio de amanhã!"
+    fl "Sr. D1cky e Apertadinha acabaram de completar o desafio da gozada (cumshot). Os dois receberam 25 pontos cada. Fiquem ligados para o desafio de amanhã!"
 
 # game/code/d01/s03.rpy:145
 translate portuguese s03_e0d4ae87:

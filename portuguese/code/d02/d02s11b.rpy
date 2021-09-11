@@ -70,7 +70,7 @@ translate portuguese d02s11b_2d6b93d8:
 translate portuguese d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "O P4uzudo tem medinho de sangue, ou coisa que o valha. Não quer dar uma de \"vampiro doidão\", mesmo pra mim.{w} Nem mesmo pros desafios do FL."
+    mes "O D1cky tem medinho de sangue, ou coisa que o valha. Não quer dar uma de \"vampiro doidão\", mesmo pra mim.{w} Nem mesmo pros desafios do FL."
 
 # game/d02/d02s11b.rpy:83
 translate portuguese d02s11b_432f3c5e:
