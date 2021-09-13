@@ -526,7 +526,7 @@ translate portuguese replay_d06s07_2b25ae7c:
 translate portuguese replay_d06s07_bb076067:
 
     # mc "Oh, hey Lyssa."
-    mc "Ah, oy Lyssa."
+    mc "Ah, oi Lyssa."
 
 # game/code/d06/d06s07.rpy:260
 translate portuguese replay_d06s07_349f84f8:
@@ -826,7 +826,7 @@ translate portuguese d06s07_warnnora_9847de70:
 translate portuguese d06s07_warnnora_a2f0ce4f:
 
     # nk "May I Cum, Sir! Please Please Please May I Cum?!"
-    nk "Posso, Gozar Senhor? Por Favor, Por Favor, Por Favor, Posso Gozar?!"
+    nk "Posso Gozar, Senhor? Por Favor, Por Favor, Por Favor, Posso Gozar?!"
 
 # game/code/d06/d06s07.rpy:375
 translate portuguese d06s07_warnnora_12ba8acd:
@@ -940,7 +940,7 @@ translate portuguese d06s07_noracreampie_0038e77a:
 translate portuguese d06s07_noracreampie_d7eecb70:
 
     # mh "Hey [mcname]. What a show! And you are still leaking..."
-    mh "Oi,  [mcname]. Que show! E você ainda tá vazando..."
+    mh "Oi, [mcname]. Que show! E você ainda tá vazando..."
 
 # game/code/d06/d06s07.rpy:436
 translate portuguese d06s07_noracreampie_74ffcd3a:
@@ -1042,7 +1042,7 @@ translate portuguese d06s07_goodend_9e94ec93:
 translate portuguese d06s07_goodend_f5f70753:
 
     # nk "You were terrific. Thank you so much for pulling out. I'm not on the pill."
-    nk "Você foi incrível. Muito obrigada por ter tirado. Não tô na pílula."
+    nk "Você foi incrível. Muito obrigada por ter tirado. Não tô tomando a pílula."
 
 # game/code/d06/d06s07.rpy:479
 translate portuguese d06s07_goodend_085722e2:
@@ -1054,7 +1054,7 @@ translate portuguese d06s07_goodend_085722e2:
 translate portuguese d06s07_goodend_3d35d4eb:
 
     # nk "It's been a long time since I needed it."
-    nk "Já faz muito tempo que precisei."
+    nk "Já faz muito tempo desde que precisei."
 
 # game/code/d06/d06s07.rpy:482
 translate portuguese d06s07_goodend_b8990a51:
