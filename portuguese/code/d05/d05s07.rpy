@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d05/d05s07.rpy:13
 translate portuguese replay_d05s07_2bbdcd9b:
@@ -208,7 +208,7 @@ translate portuguese d05s07_daisy_6f581e08:
 translate portuguese d05s07_daisy_d4973d92:
 
     # mct "Hmm. I wouldn't mind seeing her naked again, but..."
-    mct "Hmm. Não me importaria d ever ela pelada de novo, mas..."
+    mct "Hmm. Não me importaria de ever ela pelada de novo, mas..."
 
 # game/code/d05/d05s07.rpy:118
 translate portuguese d05s07_daisy_7faa5fcb:
@@ -414,9 +414,9 @@ translate portuguese strings:
 
     # game/code/d05/d05s07.rpy:112
     old "Nude is Comfortable"
-    new "Nú é Confortável"
+    new "Nu é Confortável"
 
     # game/code/d05/d05s07.rpy:112
     old "You could borrow some of my clothes"
-    new "Pode pegar uma das minhas roupas emprestada"
+    new "Pode pegar uma roupa minha emprestada"
 
