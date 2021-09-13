@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d04/d04s02.rpy:24
 translate portuguese d04s02_01cc8f65:
@@ -208,7 +208,7 @@ translate portuguese d04s02_domdbj_fe3b6c4b:
 translate portuguese d04s02_domdbj_de5d88f2:
 
     # mc "Suck it!"
-    mc "Chupa1"
+    mc "Chupa!"
 
 # game/code/d04/d04s02.rpy:137
 translate portuguese d04s02_domdbj_fb2e33cb:
@@ -268,7 +268,7 @@ translate portuguese d04s02_domdbj_28459d99:
 translate portuguese d04s02_blowjob_f24f41d4:
 
     # mc "Remember how yesterday we lost this challenge?"
-    mc "Lembra de ontem que perdemos esse desafio?"
+    mc "Lembra como ontem perdemos esse desafio?"
 
 # game/code/d04/d04s02.rpy:191
 translate portuguese d04s02_blowjob_b1bc0a94:
@@ -310,7 +310,7 @@ translate portuguese d04s02_blowjob_599ff22d:
 translate portuguese d04s02_blowjob_01cd19c1:
 
     # dd "Oh! Poor boy!"
-    dd "Ah! Pobrezinho!"
+    dd "Ah! Coitadinho!"
 
 # game/code/d04/d04s02.rpy:204
 translate portuguese d04s02_blowjob_71358059:
