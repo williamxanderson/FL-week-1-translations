@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d05/d05s06.rpy:19
 translate portuguese d05s06_d0f18cf9:
@@ -454,7 +454,7 @@ translate portuguese replay_d05s06_ed629893:
 translate portuguese replay_d05s06_49cb0acc:
 
     # mc "No, no. I'm sure it will be fine."
-    mc "Não, não. Vai dar tudo bem."
+    mc "Não, não. Vai ficar tudo bem."
 
 # game/code/d05/d05s06.rpy:151
 translate portuguese replay_d05s06_8f44f034:
@@ -496,7 +496,7 @@ translate portuguese replay_d05s06_7c1f9822:
 translate portuguese replay_d05s06_439ae7f9:
 
     # mesfl "Looking good."
-    mesfl "Tá bonito."
+    mesfl "Parece bom."
 
 # game/code/d05/d05s06.rpy:164
 translate portuguese replay_d05s06_feceb32a:
@@ -610,7 +610,7 @@ translate portuguese replay_d05s06_c115f089:
 translate portuguese replay_d05s06_7d611b30:
 
     # mesfl "I would prefer to have it front of me."
-    mesfl "Eu preferiria na minha frente."
+    mesfl "Eu prefiro na minha frente."
 
 # game/code/d05/d05s06.rpy:233
 translate portuguese replay_d05s06_c00b5f57:
@@ -628,7 +628,7 @@ translate portuguese replay_d05s06_2e2f9b0a:
 translate portuguese replay_d05s06_1c039632:
 
     # mct "She is a second girl today who wants to see me piss like this..."
-    mct "Ela é a segunda garota hoje que quer me ver mijar assim..."
+    mct "Ela é a segunda garota que quer me ver mijar assim hoje..."
 
 # game/code/d05/d05s06.rpy:239
 translate portuguese replay_d05s06_37a571bb:
@@ -706,7 +706,7 @@ translate portuguese replay_d05s06_84d779d7:
 translate portuguese replay_d05s06_969e8d84:
 
     # mc "You really hate tomato juice, don't you?"
-    mc "Você realmente odeia suco de tomate, não é?"
+    mc "Você odeia mesmo suco de tomate, hein?"
 
 # game/code/d05/d05s06.rpy:264
 translate portuguese replay_d05s06_812d8797:
@@ -904,7 +904,7 @@ translate portuguese d05s06_Body_02de425e:
 translate portuguese d05s06_Body_c377642f:
 
     # mesfl "That could work. {w}Okay, let's try that!"
-    mesfl "Pode dar certo. {w}Okay, vamos tentar isso?"
+    mesfl "Pode dar certo. {w}Beleza, vamos tentar isso!"
 
 # game/code/d05/d05s06.rpy:376
 translate portuguese d05s06_after_1e6d1b8d:
@@ -928,7 +928,7 @@ translate portuguese d05s06_after_8ab40569:
 translate portuguese d05s06_after_dab1a8b5:
 
     # mesfl "Do you think that's good enough?"
-    mesfl "Acha que foi o bastante?"
+    mesfl "Acha que foi bom o bastante?"
 
 # game/code/d05/d05s06.rpy:380
 translate portuguese d05s06_after_8129ca69:
@@ -1156,7 +1156,7 @@ translate portuguese d05s06_after_5fd4beac:
 translate portuguese d05s06_after_b373f411:
 
     # mesfl "Purple is the rarest color, and I didn't get a turtle before!"
-    mesfl "Roxo é a cor mais rara, nunca ganhei uma tartaruga roxa antes1"
+    mesfl "Roxo é a cor mais rara, nunca ganhei uma tartaruga roxa antes!"
 
 # game/code/d05/d05s06.rpy:453
 translate portuguese d05s06_after_d7bfca5a:
@@ -1180,7 +1180,7 @@ translate portuguese d05s06_after_b2b9e19d:
 translate portuguese d05s06_after_f96d29db:
 
     # mesfl "We won this challenge together. You got something too. What did you get!?"
-    mesfl "Nós vencemos esse desafio juntos. Você também ganhou alguma coisa. O que ganhou!?"
+    mesfl "Nós vencemos esse desafio juntos. Você também ganhou alguma coisa. O que você ganhou!?"
 
 # game/code/d05/d05s06.rpy:457
 translate portuguese d05s06_after_906acae6:
