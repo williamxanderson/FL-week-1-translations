@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d05/d05s04.rpy:19
 translate portuguese replay_d05s04_7d9f2829:
@@ -580,7 +580,7 @@ translate portuguese replay_d05s04_ba1d2eac:
 translate portuguese replay_d05s04_a3a543ab:
 
     # mc "Smoking hot! How about removing your dress all the way?"
-    mc "Gostosa demais! Que tal remover seu vestido todo?"
+    mc "Gostosa demais! Que tal tirar seu vestido todo?"
 
 # game/code/d05/d05s04.rpy:209
 translate portuguese replay_d05s04_08aa7206:
@@ -706,7 +706,7 @@ translate portuguese replay_d05s04_2f5a2de8:
 translate portuguese replay_d05s04_f6af999a:
 
     # pw "(laughing) I should be horny as hell, but I can't help thinking..."
-    pw "(rindo) Eu devia estar muito excitada, mas não posso parar de pensar..."
+    pw "(rindo) Eu devia estar muito excitada, mas não consigo parar de pensar..."
 
 # game/code/d05/d05s04.rpy:248
 translate portuguese replay_d05s04_6dae68be:
@@ -826,7 +826,7 @@ translate portuguese replay_d05s04_57857315:
 translate portuguese replay_d05s04_9285a160:
 
     # pw "No, silly. I just need to wipe myself."
-    pw "Não, tolinho. Só tenho que me limpar."
+    pw "Não, seu bobo. Só tenho que me limpar."
 
 # game/code/d05/d05s04.rpy:284
 translate portuguese replay_d05s04_4c405d81:
