@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d04/d04s03.rpy:12
 translate portuguese d04s03_0fc36193:
@@ -16,7 +16,7 @@ translate portuguese d04s03_4dd4bdfb:
 translate portuguese d04s03_9d572f65:
 
     # mc "Were you arguing with someone?"
-    mc "Tava brigando com alguém?"
+    mc "Estava brigando com alguém?"
 
 # game/code/d04/d04s03.rpy:24
 translate portuguese d04s03_87b0a693:
@@ -496,7 +496,7 @@ translate portuguese d04s03_cbd06c1c:
 translate portuguese d04s03_051bd574:
 
     # sy "The idea is to eat less carbohydrates and more protein and fat. That way my body learns to produce energy from fat. Not only the fat that I consume; it also learned to burn the stored fat on my body."
-    sy "A ideia é comer menos carboidratos, e mais proteína e gordura. Assim, meu corpo aprende a produzir energia da gordura. Não só a gordura que eu consumo/ ele aprende a queimar a gordura do meu corpo."
+    sy "A ideia é comer menos carboidratos, e mais proteína e gordura. Assim, meu corpo aprende a produzir energia da gordura. Não só a gordura que eu consumo; ele aprende a queimar a gordura do meu corpo."
 
 # game/code/d04/d04s03.rpy:175
 translate portuguese d04s03_59e3024f:
@@ -598,7 +598,7 @@ translate portuguese d04s03_9069844e:
 translate portuguese d04s03_92637851:
 
     # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What natural sugars, like fruits?"
-    mc "Parece legal, mas eu não conseguiria parar de comer açúcar... e "
+    mc "Parece legal, mas eu não conseguiria parar de comer açúcar... e que tal açúcar natural, tipo frutas?"
 
 # game/code/d04/d04s03.rpy:208
 translate portuguese d04s03_f4ec2a98:
