@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d04/d04s06.rpy:10
 translate portuguese replay_d04s06_27bbea47:
@@ -364,7 +364,7 @@ translate portuguese replay_d04s06_8d1f5cac:
 translate portuguese replay_d04s06_f0ac4282:
 
     # mc "It's okay, you can be honest with me. You're an exhibitionist."
-    mc "Tudo bem pode ser honesta comigo. VocÊ é uma exibicionista."
+    mc "Tudo bem pode ser honesta comigo. Você é uma exibicionista."
 
 # game/code/d04/d04s06.rpy:110
 translate portuguese replay_d04s06_ab234c13:
@@ -532,7 +532,7 @@ translate portuguese replay_d04s06_77c04a57:
 translate portuguese replay_d04s06_5868e304:
 
     # pw "Trans. I don't know any, but I love watching shemale videos and... ya'know. Just fantasizing."
-    pw "Trans. Não conheço nenhum, mas adoro ver vídeos de shemales, e... sabe. Fantasiar."
+    pw "Trans. Não conheço nenhum, mas adoro ver vídeos de shemales, e... cê sabe. Fantasiar."
 
 # game/code/d04/d04s06.rpy:148
 translate portuguese replay_d04s06_e250249c:
