@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d06/d06s01.rpy:37
 translate portuguese replay_d06s01_e9d8a8ea:
@@ -106,7 +106,7 @@ translate portuguese replay_d06s01_c6f1863c:
 translate portuguese replay_d06s01_cc45952d:
 
     # mct "Bad touch! Bad Touch!! BAD TOUCH!!!"
-    mct "Aí não! Aí não! AÍ NÃO!"
+    mct "Aí não! Aí não! AÍ NÃO!!!"
 
 # game/code/d06/d06s01.rpy:141
 translate portuguese replay_d06s01_c641d70e:
@@ -142,7 +142,7 @@ translate portuguese replay_d06s01_cd1b79c2:
 translate portuguese replay_d06s01_349e5fa1:
 
     # mc "Next time - LUBE. Spit, lube, saliva, something!"
-    mc "Da próxima vez, - LUBRIFIQUE. Cuspe, lubrificador, saliva, alguma coisa!"
+    mc "Da próxima vez, - LUBRIFIQUE. Cuspe, lubrificante, saliva, alguma coisa!"
 
 # game/code/d06/d06s01.rpy:148
 translate portuguese replay_d06s01_3f04f4bf:
@@ -178,7 +178,7 @@ translate portuguese replay_d06s01_b3d674f1:
 translate portuguese replay_d06s01_c893390b:
 
     # mct "Huh. Even though that hurt like hell, I'm still hard as a rock."
-    mct "Hmm. Mesmo doendo pra caralho, ainda tô duro que nem pedra."
+    mct "Hmm. Mesmo isso doendo pra caralho, ainda tô duro que nem pedra."
 
 # game/code/d06/d06s01.rpy:156
 translate portuguese replay_d06s01_ba75cb84:
@@ -250,7 +250,7 @@ translate portuguese replay_d06s01_8be32e22:
 translate portuguese replay_d06s01_a7be9467:
 
     # dd "Dry ass fingerfucking?"
-    dd "Dedar a bunda sem lubrificador?"
+    dd "Dedar a bunda sem lubrificante?"
 
 # game/code/d06/d06s01.rpy:189
 translate portuguese replay_d06s01_59c2bebe:
@@ -292,7 +292,7 @@ translate portuguese replay_d06s01_c8ebcdc9:
 translate portuguese replay_d06s01_8839dbe9:
 
     # mct "I can feel it cumming."
-    mct "Já sinto chegando."
+    mct "Sinto que tá chegando."
 
 # game/code/d06/d06s01.rpy:218
 translate portuguese replay_d06s01_ef0a9aae:
@@ -442,7 +442,7 @@ translate portuguese replay_d06s01_5ebafca7:
 translate portuguese replay_d06s01_329237f9:
 
     # mct "Nice! A good start of the day!"
-    mct "Legal! Um bom início do dia!"
+    mct "Legal! Um bom começo do dia!"
 
 # game/code/d06/d06s01.rpy:299
 translate portuguese replay_d06s01_a59de2ec:
