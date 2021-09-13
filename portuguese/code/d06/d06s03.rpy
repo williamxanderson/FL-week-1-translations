@@ -220,7 +220,7 @@ translate portuguese replay_d06s03k_500d8e48:
 translate portuguese replay_d06s03k_0e208ab4:
 
     # arj "Yep! They were hella inconsiderate. Pretty much every time I went to my dorm room they were bare assed and fucking."
-    arj "Sim! eles eram bem desconsideráveis. Toda vez que eu ia pro meu dormitório, eles estavam pelados e fodendo."
+    arj "Sim! Eles eram bem imprudentes. Toda vez que eu ia pro meu dormitório, eles estavam pelados e fodendo."
 
 # game/code/d06/d06s03.rpy:128
 translate portuguese replay_d06s03k_966d71ae:
@@ -256,13 +256,13 @@ translate portuguese replay_d06s03k_834a511a:
 translate portuguese replay_d06s03k_f36517f3:
 
     # sy "*Nom nom nom* {w}Bukkake or gangbang?"
-    sy "*Nom nom nom* {w}Bukkake ou  gangbang?"
+    sy "*Nom nom nom* {w}Bukkake ou gangbang?"
 
 # game/code/d06/d06s03.rpy:140
 translate portuguese replay_d06s03k_e5b9faca:
 
     # arj "Nope, just [mcname]..."
-    arj "Não, só o  [mcname]..."
+    arj "Não, só o [mcname]..."
 
 # game/code/d06/d06s03.rpy:159
 translate portuguese replay_d06s03k_b5b47cc8:
@@ -508,7 +508,7 @@ translate portuguese replay_d06s03k_b53b15a4:
 translate portuguese replay_d06s03k_547a9a31:
 
     # arj "After like a week or two, Karen finally showed up one day, slammed the door, and yelled like a crazy biatch at him."
-    arj "Depois de uma semana ou duas, Karen finalmente apareceu um dia, bateu a porta, e gritou que nem uma puta com ele."
+    arj "Depois de uma semana ou duas, Karen finalmente apareceu um dia, bateu a porta, e gritou que nem uma puta louca com ele."
 
 # game/code/d06/d06s03.rpy:340
 translate portuguese replay_d06s03k_9f83c407:
@@ -562,7 +562,7 @@ translate portuguese replay_d06s03k_4b96e999:
 translate portuguese replay_d06s03k_2e833067:
 
     # arj "[mcname] just calmly replied, \"Oh hey Karen. AmRose and I were just about to watch a movie. Did you want to join us?\""
-    arj "[mcname] só calmamente respondeu, \"Ah, oi Karen. AmRose e eu íamos ver um filme. Quer ver junto?\""
+    arj "[mcname] só respondeu calmamente, \"Ah, oi Karen. AmRose e eu íamos ver um filme. Quer ver junto?\""
 
 # game/code/d06/d06s03.rpy:369
 translate portuguese replay_d06s03k_790de301:
