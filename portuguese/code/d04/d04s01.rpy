@@ -256,7 +256,7 @@ translate portuguese d04s01_2cc7863f:
 translate portuguese d04s01_9f4c2e3a:
 
     # aw "Just take a look!"
-    aw "Só dá uma olhada!"
+    aw "Dá só uma olhada!"
 
 # game/code/d04/d04s01.rpy:96
 translate portuguese d04s01_0746823b:
