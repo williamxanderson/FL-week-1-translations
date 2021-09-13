@@ -124,7 +124,7 @@ translate portuguese replay_d07s04dd_3dbd3a26:
 translate portuguese replay_d07s04dd_4a90afe5:
 
     # mct "Her breathing seems normal. Her pulse is... there. What am I doing?"
-    mct "A respiração dela parece normal. A pulsação tá... norma. O que eu tô fazendo?"
+    mct "A respiração dela parece normal. A pulsação tá... normal. O que eu tô fazendo?"
 
 # game/code/d07/d07s04dd.rpy:93
 translate portuguese replay_d07s04dd_0ace07d7:
