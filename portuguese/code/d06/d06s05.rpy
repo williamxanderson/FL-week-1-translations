@@ -766,7 +766,7 @@ translate portuguese d06s05_mk_tr_91d8a70c:
 translate portuguese d06s05_mk_tr_5ba8c7b0:
 
     # mk "It wasn't as bad as I thought. {w}Please don't ask me to do that ever again."
-    mk "Não foi tão ruim quanto pensei."
+    mk "Não foi tão ruim quanto pensei. {w}Por favor, nunca mais me peça pra fazer isso de novo."
 
 # game/code/d06/d06s05.rpy:258
 translate portuguese d06s05_mk_tr_12cb1484:
