@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d05/d05s05b.rpy:16
 translate portuguese d05s05_apt2_b250022a:
@@ -52,7 +52,7 @@ translate portuguese d05s05_apt2_4184a4c8:
 translate portuguese d05s05_apt2_6ba83c67:
 
     # mc "As I recall, she was having a little trouble in the meat section."
-    mc "Pelo que lembro você estava com problema na sessão de carnes."
+    mc "Pelo que lembro você estava com problema com carne."
 
 # game/code/d05/d05s05b.rpy:32
 translate portuguese d05s05_apt2_b0634fd4:
@@ -70,7 +70,7 @@ translate portuguese d05s05_apt2_5e3ea8f2:
 translate portuguese d05s05_apt2_89276a59:
 
     # mh "Oh don't be silly, Vanessa. This young man is too much of a gentleman for your humor."
-    mh "Ah, não seja bobinha, Vanessa. Esse jovem é cavalheiro demais para o seu humor."
+    mh "Ah, não seja boba, Vanessa. Esse jovem é cavalheiro demais para o seu humor."
 
 # game/code/d05/d05s05b.rpy:38
 translate portuguese d05s05_apt2_852bf95a:
@@ -664,7 +664,7 @@ translate portuguese d05s05_end_68f427db:
 translate portuguese d05s05_end_95b68525:
 
     # mc "Yeah. She'll be singing at Nora's tomorrow evening."
-    mc "Sim. Ella vai cantar amanhã la na Nora."
+    mc "Sim. Ela vai cantar amanhã la na Nora."
 
 # game/code/d05/d05s05b.rpy:228
 translate portuguese d05s05_end_8f7c2b52:
@@ -712,7 +712,7 @@ translate portuguese d05s05_end_5104b7e2:
 translate portuguese d05s05_end_0fc82289:
 
     # mct "I can check that item off my worry list."
-    mct "Posso tirar isso da lista."
+    mct "Posso tirar isso da lista de preocupações."
 
 translate portuguese strings:
 
