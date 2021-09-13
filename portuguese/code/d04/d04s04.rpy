@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d04/d04s04.rpy:10
 translate portuguese d04s04_e8172d92:
@@ -190,7 +190,7 @@ translate portuguese d04s04_d7ef55be:
 translate portuguese d04s04_53ea1830:
 
     # nk "The alternative is the Widow Maker, which starts by making a double shot of espresso and pouring the espresso and the grounds into the cup..."
-    nk "A alternativa é o Criador de viúva, que começa com uma dose dupla de espresso e você joga o espresso e o café moído no copo..."
+    nk "A alternativa é o Criador de Viúva, que começa com uma dose dupla de espresso e você joga o espresso e o café moído no copo..."
 
 # game/code/d04/d04s04.rpy:77
 translate portuguese d04s04_ade6968f:
@@ -430,7 +430,7 @@ translate portuguese d04s04p2_81797bb0:
 translate portuguese d04s04p2_d726e033:
 
     # lc "She said that she had once been concerned that you might get a better grade than she will..."
-    lc "Ela disse que uma vez se preocupou que você você poderia conseguir uma nota melhor que ela..."
+    lc "Ela disse que uma vez se preocupou que você poderia conseguir uma nota melhor que ela..."
 
 # game/code/d04/d04s04.rpy:162
 translate portuguese d04s04p2_aefa6691:
@@ -454,7 +454,7 @@ translate portuguese d04s04p2_dd22b0ef:
 translate portuguese d04s04p2_ada47b37:
 
     # mct "I hope you don't know how I defeated Min... {w}or anything about that event."
-    mct "Espero que você não saiba como eu derrotei Min... {w}ou qualquer coisa daquele evento."
+    mct "Espero que você não saiba como eu derrotei a Min... {w}ou qualquer coisa daquele evento."
 
 # game/code/d04/d04s04.rpy:168
 translate portuguese d04s04p2_7331052f:
@@ -958,7 +958,7 @@ translate portuguese d04s04p2_45c35c36:
 translate portuguese d04s04p2_fe696e13:
 
     # lc "Then a couple days later I would find myself singing in the shower and forget that I swore off it."
-    lc "Aí alguns dias depois, eu estaria cantando no chuveiro e esquecia que tinha jurado não fazer mais."
+    lc "Aí alguns dias depois, ficava cantando no chuveiro e esquecia que tinha jurado não fazer mais."
 
 # game/code/d04/d04s04.rpy:320
 translate portuguese d04s04p2_19d757ba:
@@ -970,7 +970,7 @@ translate portuguese d04s04p2_19d757ba:
 translate portuguese d04s04p2_1a11aa7d:
 
     # lc "Yeah, bathrooms really have terrific acoustics."
-    lc "É, banheiros tem ótima acústica."
+    lc "É, banheiros têm ótima acústica."
 
 # game/code/d04/d04s04.rpy:324
 translate portuguese d04s04p2_6ee53f49:
@@ -1018,7 +1018,7 @@ translate portuguese d04s04p2_c4c28fdb:
 translate portuguese d04s04p2_48225c44:
 
     # lc "Well, I couldn't help wondering if this was coffee... {w}or, ya'know..."
-    lc "Bem, eu estava me perguntando se isso era café... {w}ou, você sabe..."
+    lc "Bem, eu estava me perguntando se isso era só café... {w}ou, você sabe..."
 
 # game/code/d04/d04s04.rpy:338
 translate portuguese d04s04p2_62ab1bd7:
@@ -1342,7 +1342,7 @@ translate portuguese d04s04p2_3a20bcbe:
 translate portuguese d04s04p2_43e40cf0:
 
     # mc "Have you been to many?"
-    mc "Você vai a muitas?"
+    mc "Você foi a muitas?"
 
 # game/code/d04/d04s04.rpy:431
 translate portuguese d04s04p2_28de2bab:
@@ -1780,7 +1780,7 @@ translate portuguese d04s04p2_720de2b1:
 translate portuguese d04s04p2_9c07f7d2:
 
     # lc "It shouldn't be too big of a deal... maybe we can do it on Saturday evening?"
-    lc "Não deve ser muito complicado... talvez possamos fazer isso no sábado de noite?"
+    lc "Não deve ser muito complicado... talvez possamos fazer no sábado de noite?"
 
 # game/code/d04/d04s04.rpy:550
 translate portuguese d04s04p2_88435bc9:
