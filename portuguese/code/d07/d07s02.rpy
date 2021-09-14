@@ -238,13 +238,13 @@ translate portuguese d07s02_c07f7d88:
 translate portuguese d07s02_f8330954:
 
     # arj "How do you think she is doing, really?"
-    arj "Como você acha que ela tá?"
+    arj "Como você acha que ela tá, de verdade?"
 
 # game/code/d07/d07s02.rpy:144
 translate portuguese d07s02_70d728e2:
 
     # mc "Kinda weird. Pete came home with a girl last night."
-    mc "Meio estranho. Pete veio com uma garota ontem."
+    mc "Meio estranha. Pete veio com uma garota ontem."
 
 # game/code/d07/d07s02.rpy:145
 translate portuguese d07s02_1d932e5b:
