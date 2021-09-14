@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-29 23:16
+# TODO: Translation updated at 2021-08-29 23:16
 
 # game/code/d06/d06s02.rpy:6
 translate portuguese d06s02_9f1f77c4:
@@ -22,7 +22,7 @@ translate portuguese d06s02_56ac894c:
 translate portuguese d06s02_bc9ef99b:
 
     # mct "Actually worried a lot!"
-    mct "Na verdade, muito preocupado1"
+    mct "Na verdade, muito preocupado!"
 
 # game/code/d06/d06s02.rpy:12
 translate portuguese d06s02_c363cfa8:
