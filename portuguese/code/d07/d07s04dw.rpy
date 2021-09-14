@@ -226,7 +226,7 @@ translate portuguese replay_d07s04dw_a56d7dfb:
 translate portuguese replay_d07s04dw_6c7f1f79:
 
     # dw "Calm down. It's only a spanking."
-    dw "Calma. É só uma palmada."
+    dw "Calma. São só palmadas."
 
 # game/code/d07/d07s04dw.rpy:133
 translate portuguese replay_d07s04dw_612bde74:
