@@ -370,7 +370,7 @@ translate portuguese replay_d07s04pw_c1dff962:
 translate portuguese replay_d07s04pw_a76847fc:
 
     # pw "So, what do you think? Want me to toss your salad before we go swimming?"
-    pw "Então, o que acha, eu comer sua bundinha antes de irmos nadar?"
+    pw "Então, o que acha? Quer que eu lamba sua bundinha antes de irmos nadar?"
 
 # game/code/d07/d07s04pw.rpy:166
 translate portuguese replay_d07s04pw_c2894437:
