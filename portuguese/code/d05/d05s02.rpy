@@ -646,7 +646,7 @@ translate portuguese d05s02_end_fc35ec74:
 translate portuguese d05s02_end_425f0d01:
 
     # fl "Daily Challenge: Watersports"
-    fl "Desafio Diário: Watersports"
+    fl "Desafio Diário: Urina"
 
 # game/code/d05/d05s02.rpy:406
 translate portuguese d05s02_end_f75ef870:
@@ -752,7 +752,7 @@ translate portuguese strings:
 
     # game/code/d05/d05s02.rpy:407
     old "Yes to watersports"
-    new "Sim para watersports"
+    new "Sim para urina"
 
     # game/code/d05/d05s02.rpy:407
     old "No, that is not my thing"
@@ -760,7 +760,7 @@ translate portuguese strings:
 
     # game/code/d05/d05s02.rpy:425
     old "I want pee, piss, and watersports"
-    new "Quero urina, mijo, e watersports"
+    new "Quero urina e mijo"
 
     # game/code/d05/d05s02.rpy:425
     old "I do not want any of that"
