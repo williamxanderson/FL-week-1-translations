@@ -10,7 +10,7 @@ translate portuguese d05s06_d0f18cf9:
 translate portuguese d05s06_6cf39273:
 
     # mct "I should text Min that there would no more Watersport for me..."
-    mct "Melhor eu ligar pra Min se ela vai fazer mais watersports pra mim..."
+    mct "Melhor eu ligar pra Min pra falar que não teria mais isso de urina pra mim..."
 
 # game/code/d05/d05s06.rpy:23
 translate portuguese d05s06_e0245561:
@@ -52,7 +52,7 @@ translate portuguese d05s06_47ac1d0f:
 translate portuguese d05s06_68b6cd07:
 
     # mct "I feel like I'm ready for an other round of watersports!"
-    mct "Sinto que tô pronto pra outra rodada de watersports!"
+    mct "Sinto que tô pronto pra outra rodada de urina!"
 
 # game/code/d05/d05s06.rpy:46
 translate portuguese replay_d05s06_282cb048:
@@ -1348,7 +1348,7 @@ translate portuguese d05s06_after_a8604854:
 translate portuguese d05s06_after_077a5ea0:
 
     # mesfl "Don't think you can defeat me with simple watersports next time."
-    mesfl "Não pense que pode me derrotar com simples watersports da próxima vez."
+    mesfl "Não pense que pode me derrotar apenas com urina da próxima vez."
 
 # game/code/d05/d05s06.rpy:501
 translate portuguese d05s06_after_d226a0c0:
