@@ -514,13 +514,13 @@ translate portuguese d04s01_978c8108:
 translate portuguese d04s01_a39df845:
 
     # mes "You seem to be good with... {w}..."
-    mes "Você parece ser bom em... {w}..."
+    mes "Você parece ser bom com... {w}..."
 
 # game/code/d04/d04s01.rpy:167
 translate portuguese d04s01_25ede9e0:
 
     # mc "Watersports?"
-    mc "Watersports?"
+    mc "Urina?"
 
 # game/code/d04/d04s01.rpy:168
 translate portuguese d04s01_5777a254:
