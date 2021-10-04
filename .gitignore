@@ -2,3 +2,4 @@
 *.bak
 *.rar
 desktop.ini
+*.pyc
