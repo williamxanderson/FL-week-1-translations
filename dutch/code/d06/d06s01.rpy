@@ -484,3 +484,11 @@ translate dutch strings:
     old "Creampie Surprise"
     new "Creampie Surprise"
 
+# TODO: Translation updated at 2021-10-04 22:45
+
+# game/code/d06/d06s01.rpy:296
+translate dutch replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Here are your [d06s01_points] points!"
+

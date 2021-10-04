@@ -1378,3 +1378,17 @@ translate turkish strings:
     old "Oh bother, it's a drunken slut."
     new "Oh bother, it's a drunken slut."
 
+# TODO: Translation updated at 2021-10-04 22:44
+
+# game/code/d04/d04s05.rpy:259
+translate turkish d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Never mind."
+
+# game/code/d04/d04s05.rpy:484
+translate turkish d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Thanks [mcname]."
+

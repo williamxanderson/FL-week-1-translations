@@ -616,3 +616,11 @@ translate turkish strings:
     old "Just let them be caught by Miss Waller"
     new "Just let them be caught by Miss Waller"
 
+# TODO: Translation updated at 2021-10-04 22:44
+
+# game/code/d03/d03s03.rpy:63
+translate turkish replay_d03s03_4eb788cb:
+
+    # mct "And I was sweating. Did I have a fever or something?"
+    mct "And I was sweating. Did I have a fever or something?"
+

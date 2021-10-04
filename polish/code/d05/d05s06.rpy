@@ -1414,3 +1414,11 @@ translate polish strings:
     old "Pee on Min's Body"
     new "Pee on Min's Body"
 
+# TODO: Translation updated at 2021-10-04 22:43
+
+# game/code/d05/d05s06.rpy:89
+translate polish replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "This kind of trick don't work with Min and won't work with me!"
+
