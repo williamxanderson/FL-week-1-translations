@@ -30,3 +30,6 @@ translate portuguese strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Esse game vai tentar repetir a cena/gravação nessa atual campanha"
 
+    # FL Name
+    old "What is your name in Fetish Locator app?"
+    new "Qual é o seu nome no aplicativo Fetish Locator?"
