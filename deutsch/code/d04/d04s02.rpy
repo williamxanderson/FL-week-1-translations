@@ -832,3 +832,11 @@ translate deutsch d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(Pfeift) We don't need no education..."
+
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d04/d04s02.rpy:37
+translate deutsch d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Das ist wahrscheinlich eine gute Idee. Ich muss meine Ersatzklamotten finden..."

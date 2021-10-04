@@ -261,3 +261,10 @@ translate deutsch d05s01_06a49016:
     # "Bzzzzz"
     "Bzzzzz"
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d05/d05s01.rpy:59
+translate deutsch d05s01_941ecdf2:
+
+    # mc "If I fail, I will have my pictures published."
+    mc "Wenn ich versage, werden meine Bilder veröffentlicht."

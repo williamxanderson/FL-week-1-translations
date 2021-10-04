@@ -1439,3 +1439,23 @@ translate deutsch d03s04_4a64aca4:
 
     # "12:25 PM"
     "12:25 PM"
+
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d03/d03s04.rpy:258
+translate deutsch d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Wenn ich mich nur etwas nach rechts lehnen, dann könnte ich vielleicht einen guten Blick auf Lydias Höschen ergattern..."
+
+# game/code/d03/d03s04.rpy:380
+translate deutsch d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "Dann warst du immer noch weg. Und weg. Eine ganze weitere Woche."
+
+# game/code/d03/d03s04.rpy:642
+translate deutsch replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Sie chattet mit jemanden... Worum geht es da? Arbeitet sie daran Punkte mit jemanden zu verdienen?"

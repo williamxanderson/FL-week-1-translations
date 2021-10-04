@@ -1138,3 +1138,10 @@ translate deutsch d03s10_back_5c66cf99:
     # mct "Let's go back and find out about the events."
     mct "Zurück zum Anfang und finden wir mal heraus was sonst so los ist."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d03p/d03s10.rpy:263
+translate deutsch d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Lass es mich anders formulieren... Wenn du mit jemanden alleine wärst und herausfinden würdest, dass die Person untenrum anders verkabelt ist als du erwartet hast."

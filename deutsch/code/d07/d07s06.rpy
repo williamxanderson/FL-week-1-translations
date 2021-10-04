@@ -584,3 +584,10 @@ translate deutsch d07s06_later_4032c7ef:
     # mct "Also [d07s04_pw_points] for having fun with Polly!"
     mct "Außerdem [d07s04_pw_points] für den Spaß mit Polly!"
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d07/d07s06.rpy:118
+translate deutsch d07s06_885b56d0:
+
+    # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
+    mc "{i}Hey Polly! Ich weiß dass wir nicht gerade im guten auseinandergegangen sind. Tut mir Leid deswegen. Aber ich muss dich um einen Gefallen bitten.{/i}"

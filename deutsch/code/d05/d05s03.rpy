@@ -671,6 +671,7 @@ translate deutsch d05s03_wantcock_4b8f64f3:
 
     # mc "I haven't even fucked your asshole. {w}Yet!"
     mc "Ich habe deinen Arsch noch gar nicht gefickt. {w}Noch nicht!"
+
 # TODO: Translation updated at 2020-04-25 19:42
 
 # game/code/d05/d05s03.rpy:39
@@ -711,3 +712,10 @@ translate deutsch d05s03_wantcock_f8e0e6fe:
     # mc "Maybe I should just have you spend a day in the men's room working as a urinal."
     mc "Vielleicht sollte ich dich einfach einen Tag im Männerklo verbringen lassen, und du bist das Urinal."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d05/d05s03.rpy:225
+translate deutsch d05s03_wantcock_8fc3d754:
+
+    # mk "Because I want your cock."
+    mk "Weil ich deinen Schwanz will."

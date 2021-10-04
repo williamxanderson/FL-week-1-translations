@@ -943,3 +943,10 @@ translate deutsch replay_d05s02_ab0b90da:
     # mc "Much better. Thanks."
     mc "Viel besser. Danke."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d05/d05s02.rpy:431
+translate deutsch d05s02_end_9cd9f799:
+
+    # mct "Weird. Why did I drink... {w}oh well, never mind."
+    mct "Komisch. Warum habe ich... {w}oh nun, wie dem auch sei."

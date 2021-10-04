@@ -1007,7 +1007,7 @@ translate deutsch replay_d06s03k_500d8e48:
 # game/code/d06/d06s03.rpy:103
 translate deutsch replay_d06s03k_0e208ab4:
 
-    # arj "Yep! They were hella inconsiderate. Pretty much every time I went to my dorm room they were bare assed and fucking." 
+    # arj "Yep! They were hella inconsiderate. Pretty much every time I went to my dorm room they were bare assed and fucking."
     arj "Yep! Sie waren höllisch rücksichtslos. Nahezu jedes mal als ich ins Zimmer zurück bin waren sie nackt am ficken."
 
 # game/code/d06/d06s03.rpy:118
@@ -1027,7 +1027,7 @@ translate deutsch replay_d06s03k_e9b178a4:
 
     # arj "Every fucking time! {w}I swear, it was like Karen was addicted to your cum."
     arj "Jedes verdammte mal! {w}Ich schwöre, es war als wäre Karen Spermasüchtig."
-    
+
 # game/code/d06/d06s03.rpy:123
 translate deutsch replay_d06s03k_5bafa646:
 
@@ -1767,3 +1767,10 @@ translate deutsch replay_d06s03k_dfa8b32f:
     # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
     mc "Lydia ist sowas wie meine Freundin. Wir hatten unser erstes Date im lokalen Kaffee-Haus, und nun singt sie dort."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d06/d06s03.rpy:392
+translate deutsch replay_d06s03k_51c88428:
+
+    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
+    sy "Weißt du, es könnte wirklich peinlich sein, wenn ein Mädchen hier auf dem Campus herumlaufen würde... sie aus der Routine bringt und sich immer noch nach deinem Sperma sehnt."

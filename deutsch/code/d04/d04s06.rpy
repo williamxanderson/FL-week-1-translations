@@ -1566,3 +1566,11 @@ translate deutsch replay_d04s06_6059bd11:
 
     # mc "Let's just see what happens."
     mc "Lass uns einfach gucken was passiert."
+
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d04/d04s06.rpy:51
+translate deutsch replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "Ihr scheint es wirklich gefallen zu haben, was du letztes Mal mit ihr gemacht hast... und sie flirtet jedes Mal wie verrückt mit mir, wenn ich sie besuche."

@@ -1278,3 +1278,10 @@ translate deutsch replay_d03s16_fb8a9aaf:
     # mct "I gotta get up there before something happens."
     mct "Ich muss da hoch, bevor etwas passiert."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d03p2/d03s16.rpy:198
+translate deutsch d03s16_3337a592:
+
+    # dd "Hey there, Lil' Mister Bigcock!"
+    dd "Hey Hey, kleiner Mister Bigcock!"

@@ -2227,3 +2227,10 @@ translate deutsch replay_d05s06_81b7c63e:
     # mc "Yeah, so I've got an idea about that."
     mc "Yeah, also da habe ich eine Idee."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d05/d05s06.rpy:89
+translate deutsch replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "Diese Tricks funktionieren nicht mit Min und werden es auch nicht mit mir!"

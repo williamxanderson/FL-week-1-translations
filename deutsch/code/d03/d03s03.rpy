@@ -1243,3 +1243,10 @@ translate deutsch replay_d03s03a_001815b5:
     # zw "What the hell do you think you're doing?!"
     zw "Was zur Hölle glaubst du das du da machst?!"
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d03/d03s03.rpy:63
+translate deutsch replay_d03s03_4eb788cb:
+
+    # mct "And I was sweating. Did I have a fever or something?"
+    mct "Und geschwitzt. Hatte ich Fieber oder so?"

@@ -958,6 +958,7 @@ translate deutsch replay_d06s01_a59de2ec:
 
     # mct "Let's go and see what else Saturday has prepared for me!"
     mct "Mal sehen, was mich Samstags sonst noch so erwartet!"
+
 # TODO: Translation updated at 2020-07-01 23:25
 
 # game/code/d06/d06s01.rpy:125
@@ -966,3 +967,10 @@ translate deutsch replay_d06s01_ffd9ddf6:
     # mc "I know you didn't. Let's just... not repeat that ever again."
     mc "Ich weiß du hast es nicht getan. Lass uns einfach... das nie wieder machen."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d06/d06s01.rpy:296
+translate deutsch replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Hier sind deine [d06s01_points] Punkte!"

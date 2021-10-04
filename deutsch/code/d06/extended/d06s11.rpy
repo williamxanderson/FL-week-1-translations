@@ -544,3 +544,10 @@ translate deutsch replay_d06s11_c031ec07:
     # mc "Oh, I got [d06s11_points] points for your pictures!"
     mc "Oh, Ich bekommne [d06s11_points] Punkte für deine Bilder!"
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d06/extended/d06s11.rpy:175
+translate deutsch replay_d06s11_c7abcee1:
+
+    # jf "Yes."
+    jf "Ja."

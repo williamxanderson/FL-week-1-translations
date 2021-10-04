@@ -1459,3 +1459,16 @@ translate deutsch d04s05_confession_2bd45108:
     # arj "It was something really stupid, something I had never done, and then I did it."
     arj "Es war etwas wirklich dummes, etwas das ich noch nie getan habe, und nun habe ich es."
 
+# TODO: Translation updated at 2021-10-05 00:49
+
+# game/code/d04/d04s05.rpy:259
+translate deutsch d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Egal."
+
+# game/code/d04/d04s05.rpy:484
+translate deutsch d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Danke [mcname]."
