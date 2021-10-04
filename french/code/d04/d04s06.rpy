@@ -119,7 +119,7 @@ translate french replay_d04s06_597e782b:
 
     # pw "Ok, what now?"
     pw "OK, et maintenant?"
-    
+
 # game/code/d04/d04s06.rpy:42
 translate french replay_d04s06_7bdba7ba:
 
@@ -783,3 +783,11 @@ translate french strings:
     # game/code/d04/d04s06.rpy:146
     old "Not right now, but maybe someday."
     new "Pas maintenant, mais peut-être un jour."
+
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d04/d04s06.rpy:51
+translate french replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "Elle semblait vraiment apprécier ce que tu lui as fait la dernière fois... et elle flirte avec moi comme une folle à chaque fois que je passe."

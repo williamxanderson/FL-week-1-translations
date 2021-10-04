@@ -844,3 +844,11 @@ translate french strings:
     old "Send it to me"
     new "Send it to me"
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d06/d06s05.rpy:43
+translate french d06s05_e22908de:
+
+    # mk "You can pee on my face."
+    mk "You can pee on my face."
+

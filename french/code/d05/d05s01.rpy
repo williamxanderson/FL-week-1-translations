@@ -252,3 +252,10 @@ translate french d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Il faut que j'y aille."
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d05/d05s01.rpy:59
+translate french d05s01_941ecdf2:
+
+    # mc "If I fail, I will have my pictures published."
+    mc "Si j'échoue, mes photos seront publiées."

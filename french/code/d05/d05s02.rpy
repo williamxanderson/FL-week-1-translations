@@ -766,3 +766,10 @@ translate french strings:
     old "I do not want any of that"
     new "Je ne veux rien de tout ça"
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d05/d05s02.rpy:431
+translate french d05s02_end_9cd9f799:
+
+    # mct "Weird. Why did I drink... {w}oh well, never mind."
+    mct "Étrange, pourquoi est-ce que j'ai bu... {w}Oh d'accord, peu importe."

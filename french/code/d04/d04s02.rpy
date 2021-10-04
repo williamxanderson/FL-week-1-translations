@@ -583,3 +583,11 @@ translate french d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(Wifflement) On n'a pas besoin d’éducation..."
+
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d04/d04s02.rpy:37
+translate french d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "C’est une bonne idée. Je dois trouver mes vêtements de rechange..."

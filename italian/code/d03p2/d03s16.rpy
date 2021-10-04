@@ -1272,4 +1272,4 @@ translate italian replay_d03s16_fb8a9aaf:
 translate italian d03s16_3337a592:
 
     # dd "Hey there, Lil' Mister Bigcock!"
-    dd "Ehilà, cazzetto bello!
+    dd "Ehilà, cazzetto bello!"

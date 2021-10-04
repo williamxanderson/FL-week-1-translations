@@ -979,3 +979,11 @@ translate french strings:
     # game/code/d03p/d03s10.rpy:497
     old "That's Enough For Tonight"
     new "Ca suffit pour ce soir"
+
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d03p/d03s10.rpy:263
+translate french d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Laisse-moi te le présenter autrement... si tu étais dans l'intimité avec quelqu’un, et que tu découvres qu’elle a une plomberie différente de celle à quoi tu t'attendais."

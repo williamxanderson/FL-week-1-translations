@@ -228,3 +228,10 @@ translate french d01s05b_469e9f2f:
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "Mais à quoi je pensais putain! {w}Je retourne à mon dortoir."
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d01/extended/s05b.rpy:26
+translate french d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "Laisse tomber. Je viens de réaliser ce que j’allais dire et..."

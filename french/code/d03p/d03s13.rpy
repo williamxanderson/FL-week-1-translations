@@ -1050,3 +1050,16 @@ translate french strings:
     old "Shake Hands in Acceptance"
     new "Serrer la main et accepter le match nul"
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d03p/d03s13.rpy:185
+translate french replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "Je connais la faiblesse de Min ! Elle était mal à l'aise de pisser devant moi!"
+
+# game/code/d03p/d03s13.rpy:210
+translate french replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "Laisse tomber, je suis prêt. Allons-y."

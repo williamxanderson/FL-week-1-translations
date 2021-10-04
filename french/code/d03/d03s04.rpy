@@ -1056,3 +1056,22 @@ translate french strings:
     old "I am curious"
     new "Je suis curieux"
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d03/d03s04.rpy:258
+translate french d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Si je bougeais juste à droite, je pourrais avoir une bonne vue sur les sous-vêtements de Lydia..."
+
+# game/code/d03/d03s04.rpy:380
+translate french d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "Puis tu étais toujours absent. Et absent. Encore une semaine entière."
+
+# game/code/d03/d03s04.rpy:642
+translate french replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Elle discute avec quelqu’un... De quoi s’agit-il ? Est-ce qu'elle essaye de gagner des points avec quelqu’un?"

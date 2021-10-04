@@ -971,3 +971,11 @@ translate french replay_d06s03k_2b35b6fe:
 
     # mc "..."
     mc "..."
+
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d06/d06s03.rpy:392
+translate french replay_d06s03k_51c88428:
+
+    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
+    sy "Tu sais, ça pourrait être vraiment gênant s'il y avait une fille qui se promenait autour du campus... {w}Avec toujours un envie de ton sperme pour ses soins de peaux."

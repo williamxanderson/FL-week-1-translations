@@ -1378,3 +1378,16 @@ translate french strings:
     old "Oh bother, it's a drunken slut."
     new "Oh mince, c’est une salope ivre."
 
+# TODO: Translation updated at 2021-10-05 00:40
+
+# game/code/d04/d04s05.rpy:259
+translate french d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Laisse tomber."
+
+# game/code/d04/d04s05.rpy:484
+translate french d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Merci [mcname]."
