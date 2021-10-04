@@ -1050,3 +1050,16 @@ translate chinese strings:
     old "Shake Hands in Acceptance"
     new "握手表示接受"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d03p/d03s13.rpy:185
+translate chinese replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "我知道明的一个劣势! 她羞于在我面前撒尿!"
+
+# game/code/d03p/d03s13.rpy:210
+translate chinese replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "没关系，我已经准备好了。走吧。"

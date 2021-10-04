@@ -784,3 +784,10 @@ translate chinese strings:
     old "Not right now, but maybe someday."
     new "不是现在，但也许有一天会的。"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d04/d04s06.rpy:51
+translate chinese replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "她似乎很喜欢你上次做的事……每次我过来的时候，她都会疯狂地和我调情。"

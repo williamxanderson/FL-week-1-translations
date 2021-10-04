@@ -978,3 +978,10 @@ translate chinese replay_d03s16_fb8a9aaf:
     # mct "I gotta get up there before something happens."
     mct "我得在出事之前赶过去。"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d03p2/d03s16.rpy:198
+translate chinese d03s16_3337a592:
+
+    # dd "Hey there, Lil' Mister Bigcock!"
+    dd "嘿，大鸡巴先生！"

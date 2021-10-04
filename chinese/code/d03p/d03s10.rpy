@@ -979,3 +979,11 @@ translate chinese strings:
     # game/code/d03p/d03s10.rpy:497
     old "That's Enough For Tonight"
     new "今晚就到此为止"
+
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d03p/d03s10.rpy:263
+translate chinese d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "让我换一种方式说…… 如果你和某人私下相处，发现他们的部位和你想象的不一样。"

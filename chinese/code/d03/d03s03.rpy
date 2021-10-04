@@ -616,3 +616,10 @@ translate chinese strings:
     old "Just let them be caught by Miss Waller"
     new "就让沃勒女士抓住他们吧"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d03/d03s03.rpy:63
+translate chinese replay_d03s03_4eb788cb:
+
+    # mct "And I was sweating. Did I have a fever or something?"
+    mct "还不停地出汗。我是发烧了还是怎么了来着？"

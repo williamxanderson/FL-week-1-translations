@@ -872,3 +872,10 @@ translate chinese strings:
     old "Parents' Songs"
     new "父母的歌"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d06/d06s04.rpy:153
+translate chinese d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "你父母的歌也许最适合咖啡馆和观众，但你内心深处会排斥的。"

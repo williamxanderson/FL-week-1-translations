@@ -1056,3 +1056,22 @@ translate chinese strings:
     old "I am curious"
     new "我很好奇"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d03/d03s04.rpy:258
+translate chinese d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "如果向右挪一下，就能看到莉迪亚的内裤了……"
+
+# game/code/d03/d03s04.rpy:380
+translate chinese d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "然后你除了玩消失，还是玩消失。又是整整一个星期。"
+
+# game/code/d03/d03s04.rpy:642
+translate chinese replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "她正在和某人聊天……这是什么意思？她是在和谁努力赚点数吗？"

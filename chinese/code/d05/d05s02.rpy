@@ -766,3 +766,10 @@ translate chinese strings:
     old "I do not want any of that"
     new "这些我都不想要"
 
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d05/d05s02.rpy:431
+translate chinese d05s02_end_9cd9f799:
+
+    # mct "Weird. Why did I drink... {w}oh well, never mind."
+    mct "奇怪，为什么要我喝……{w}哦，好吧，无所谓了。"

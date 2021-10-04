@@ -843,3 +843,11 @@ translate chinese strings:
     # game/code/d06/d06s05.rpy:245
     old "Send it to me"
     new "把它发给我"
+
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d06/d06s05.rpy:43
+translate chinese d06s05_e22908de:
+
+    # mk "You can pee on my face."
+    mk "你可以在我脸上撒尿。"

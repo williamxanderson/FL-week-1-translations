@@ -227,3 +227,11 @@ translate chinese d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "我到底在想什么啊?! {w}还是回宿舍吧。"
+
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d01/extended/s05b.rpy:26
+translate chinese d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "没什么。我刚刚意识到我要说什么，就……"

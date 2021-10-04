@@ -581,3 +581,11 @@ translate chinese d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(吹口哨)我们不需要教育……"
+
+# TODO: Translation updated at 2021-10-05 01:02
+
+# game/code/d04/d04s02.rpy:37
+translate chinese d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "好主意。我得去找我的备用衣服……"
