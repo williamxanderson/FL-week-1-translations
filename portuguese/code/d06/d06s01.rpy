@@ -484,3 +484,10 @@ translate portuguese strings:
     old "Creampie Surprise"
     new "Creampie Surpresa"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d06/d06s01.rpy:296
+translate portuguese replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Aqui estão seus [d06s01_points] pontos!"

@@ -872,3 +872,10 @@ translate portuguese strings:
     old "Parents' Songs"
     new "Música dos Pais"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d06/d06s04.rpy:153
+translate portuguese d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "E as músicas dos seus pais podem ser melhor para a cafeteria e a plateia, mas você morreria um pouco por dentro."

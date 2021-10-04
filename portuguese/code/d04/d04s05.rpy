@@ -1378,3 +1378,16 @@ translate portuguese strings:
     old "Oh bother, it's a drunken slut."
     new "Ah legal, outra vadia bêbada."
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d04/d04s05.rpy:259
+translate portuguese d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Nada."
+
+# game/code/d04/d04s05.rpy:484
+translate portuguese d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Obrigada [mcname]."

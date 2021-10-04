@@ -1050,3 +1050,16 @@ translate portuguese strings:
     old "Shake Hands in Acceptance"
     new "Aceitar com Aperto de Mãos"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d03p/d03s13.rpy:185
+translate portuguese replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "Eu sei um dos pontos fracos da Min! Ela estava toda envergonhada pra urinar na minha frente!"
+
+# game/code/d03p/d03s13.rpy:210
+translate portuguese replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "Não é nada. Tô pronto. Vamos."

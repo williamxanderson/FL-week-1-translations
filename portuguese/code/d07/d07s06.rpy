@@ -582,3 +582,10 @@ translate portuguese strings:
     old "Transfer No Points"
     new "Não Transferir Pontos"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d07/d07s06.rpy:118
+translate portuguese d07s06_885b56d0:
+
+    # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
+    mc "{i}Ei Polly! Eu sei que não deixamos a situação melhor possível. Desculpa por isso. mas preciso te pedir um favor.{/i}"

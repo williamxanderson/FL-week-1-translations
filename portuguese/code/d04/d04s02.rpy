@@ -52,7 +52,7 @@ translate portuguese d04s02_a0ad5e21:
 translate portuguese d04s02_8827500d:
 
     # dd "That's' a good idea. I need to find my change of clothes..."
-    dd "Boa ideia. "
+    dd "Boa ideia."
 
 # game/code/d04/d04s02.rpy:45
 translate portuguese d04s02_05540121:
@@ -564,3 +564,10 @@ translate portuguese strings:
     old "Just shower and leave"
     new "Só tomar banho e sair"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d04/d04s02.rpy:37
+translate portuguese d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Boa ideia. Preciso encontrar minha muda de roupas..."

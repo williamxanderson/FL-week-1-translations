@@ -1056,3 +1056,22 @@ translate portuguese strings:
     old "I am curious"
     new "Estou curioso"
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d03/d03s04.rpy:258
+translate portuguese d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Se eu me mover para a direita, posso dar uma boa olhada na calcinha da Lydia..."
+
+# game/code/d03/d03s04.rpy:380
+translate portuguese d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "E depois você ainda ficou sumido. E sumido. Mais outra semana."
+
+# game/code/d03/d03s04.rpy:642
+translate portuguese replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Ela tá falando com alguém... Sobre o que será? Será que ela tá tentando ganhar alguns pontos com alguém?"

@@ -784,3 +784,10 @@ translate portuguese strings:
     old "Not right now, but maybe someday."
     new "Não no momento, mas talvez um dia."
 
+# TODO: Translation updated at 2021-10-04 23:35
+
+# game/code/d04/d04s06.rpy:51
+translate portuguese replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "Parece que ela gostou bastante do que você fez da última vez... e ela tem flertado comigo loucamente toda vez que passo lá."
