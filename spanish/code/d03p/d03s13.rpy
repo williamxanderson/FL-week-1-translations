@@ -1050,3 +1050,16 @@ translate spanish strings:
     old "Shake Hands in Acceptance"
     new "Dar la mano en aceptación"
 
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d03p/d03s13.rpy:185
+translate spanish replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "¡Conozco una debilidad de Min! ¡Ella era tímida para orinar delante de mí!"
+
+# game/code/d03p/d03s13.rpy:210
+translate spanish replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "No importa, estoy listo. Vamos a ello."

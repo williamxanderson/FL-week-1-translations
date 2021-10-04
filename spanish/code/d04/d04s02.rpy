@@ -583,3 +583,11 @@ translate spanish d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(Chifla) No necesitamos educación..."
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d04/d04s02.rpy:37
+translate spanish d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Eso es una buena idea. Necesito encontrar mi cambio de ropa..."

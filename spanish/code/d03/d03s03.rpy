@@ -647,3 +647,11 @@ translate spanish replay_d03s03a_5dddfad8:
 
     # kb "Did she leave?"
     kb "¿Se fue?"
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d03/d03s03.rpy:63
+translate spanish replay_d03s03_4eb788cb:
+
+    # mct "And I was sweating. Did I have a fever or something?"
+    mct "Y sudando. ¿Tenía fiebre o algo así?"

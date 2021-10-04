@@ -784,3 +784,10 @@ translate spanish strings:
     old "Not right now, but maybe someday."
     new "No ahora mismo, pero tal vez algún día"
 
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d04/d04s06.rpy:51
+translate spanish replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "Parece que le gustó mucho lo que hiciste la última vez... ...y ha estado coqueteando conmigo como loca cada vez que vengo."

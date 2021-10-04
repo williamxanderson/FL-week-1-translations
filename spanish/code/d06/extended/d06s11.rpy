@@ -535,3 +535,11 @@ translate spanish replay_d06s11_ec6811a0:
 
     # mc "Damn, I just saw the time! I've gotta go. There's a concert."
     mc "¡Mierda, acabo de ver la hora! Tengo que irme. Hay un concierto."
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d06/extended/d06s11.rpy:175
+translate spanish replay_d06s11_c7abcee1:
+
+    # jf "Yes."
+    jf "Sí."

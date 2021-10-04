@@ -979,3 +979,11 @@ translate spanish strings:
     # game/code/d03p/d03s10.rpy:497
     old "That's Enough For Tonight"
     new "Esto es suficiente por esta noche"
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d03p/d03s10.rpy:263
+translate spanish d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Déjame decirlo de otra manera... si estuvieras en privado con alguien y descubrieras que tiene una fontanería diferente a la que esperabas."

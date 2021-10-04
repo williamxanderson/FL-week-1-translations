@@ -1055,7 +1055,7 @@ translate spanish strings:
     # game/code/d03/d03s04.rpy:543
     old "I am curious"
     new "Tengo curiosidad"
-    
+
 # TODO: Translation updated at 2021-01-18 23:42
 
 # game/code/d03/d03s04.rpy:105
@@ -1063,3 +1063,23 @@ translate spanish d03s04_4a64aca4:
 
     # "12:25 PM"
     "12:25 PM"
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d03/d03s04.rpy:258
+translate spanish d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Si me muevo a la derecha, podría tener una buena vista de las panties de Lydia..."
+
+# game/code/d03/d03s04.rpy:380
+translate spanish d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "Entonces todavía no estabas y seguias desaparecido otra semana entera."
+
+# game/code/d03/d03s04.rpy:642
+translate spanish replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Ella está charlando con alguien... ¿De qué se trata? ¿Está trabajando para ganar puntos con alguien?"

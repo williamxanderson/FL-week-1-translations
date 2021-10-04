@@ -979,3 +979,11 @@ translate spanish replay_d06s03k_dfa8b32f:
 
     # mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
     mc "Lydia es algo así como mi novia. Vamos a tener nuestra primera cita, y luego ella cantará en la cafetería local."
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d06/d06s03.rpy:392
+translate spanish replay_d06s03k_51c88428:
+
+    # sy "You know, it could be really awkward if there was some girl who was just walking around campus here... {w}off her skin routine and still craving your cum."
+    sy "Sabes, podría ser realmente incómodo si hubiera una chica que estuviera caminando por el campus aquí... {w}fuera de su rutina y aún anhelando tu semen."

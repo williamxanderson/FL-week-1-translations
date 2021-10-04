@@ -1414,3 +1414,10 @@ translate spanish strings:
     old "Pee on Min's Body"
     new "Orinar en el cuerpo de Min"
 
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d05/d05s06.rpy:89
+translate spanish replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "¡Este tipo de trucos no funcionan con Min y no funcionarán conmigo!"

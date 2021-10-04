@@ -491,3 +491,11 @@ translate spanish replay_d06s01_ffd9ddf6:
 
     # mc "I know you didn't. Let's just... not repeat that ever again."
     mc "Sé que no lo hiciste. Vamos a... no repetir eso nunca más."
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d06/d06s01.rpy:296
+translate spanish replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "¡Aquí están tus [d06s01_points] puntos!"

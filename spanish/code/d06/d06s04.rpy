@@ -879,3 +879,11 @@ translate spanish strings:
     # game/code/d06/d06s04.rpy:156
     old "Classical"
     new "clásica"
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d06/d06s04.rpy:153
+translate spanish d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "Y las canciones de tus padres podrían ser las mejores para la cafetería y el público, pero morirías un poco por dentro."

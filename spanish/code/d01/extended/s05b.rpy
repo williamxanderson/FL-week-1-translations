@@ -227,3 +227,11 @@ translate spanish d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "¡¿En qué mierda estaba pensando?! {w}Voy a mi habitación."
+
+# TODO: Translation updated at 2021-10-04 22:48
+
+# game/code/d01/extended/s05b.rpy:26
+translate spanish d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "No importa. Me di cuenta de lo que iba a decir y..."
