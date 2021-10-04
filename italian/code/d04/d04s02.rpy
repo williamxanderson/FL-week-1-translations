@@ -625,3 +625,11 @@ translate italian d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(*Fischiettando*) We don't need no education..."
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d04/d04s02.rpy:37
+translate italian d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Buona idea. Io cerco di trovare i miei vestiti di ricambio..."

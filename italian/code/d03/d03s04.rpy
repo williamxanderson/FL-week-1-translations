@@ -1433,3 +1433,23 @@ translate italian strings:
     # game/code/d03/d03s04.rpy:539
     old "I am curious"
     new "Ti fai vincere dalla curiosità"
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d03/d03s04.rpy:258
+translate italian d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Se solo mi spostassi un ciccinino, avrei le mutandine di Lydia in bella vista..."
+
+# game/code/d03/d03s04.rpy:380
+translate italian d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "E tu ancora eri via. E via. E sono due settimane intere."
+
+# game/code/d03/d03s04.rpy:642
+translate italian replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Sta chattando con qualcuno... Di che si tratterà? Sta cercando di ottenere punti con un altro studente?"

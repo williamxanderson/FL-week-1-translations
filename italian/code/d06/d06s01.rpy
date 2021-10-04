@@ -957,3 +957,11 @@ translate italian strings:
     # game/code/d06/d06s01.rpy:173
     old "Creampie Surprise"
     new "Creampie a sorpresa"
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d06/d06s01.rpy:296
+translate italian replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Hai ottenuto [d06s01_points] punti!"

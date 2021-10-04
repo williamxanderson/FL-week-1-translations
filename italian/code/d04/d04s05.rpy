@@ -1455,3 +1455,17 @@ translate italian strings:
     # game/code/d04/d04s05.rpy:39
     old "Oh bother, it's a drunken slut."
     new "Cristo santo, guarda questa zoccola quant'è ubriaca."
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d04/d04s05.rpy:259
+translate italian d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Ah, lascia stare."
+
+# game/code/d04/d04s05.rpy:484
+translate italian d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Grazie [mcname]."

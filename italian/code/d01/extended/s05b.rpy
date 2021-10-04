@@ -228,3 +228,10 @@ translate italian d01s05b_469e9f2f:
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "Ma che stracazzo stavo pensando?!{w} Meglio tornare al dormitorio..."
 
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d01/extended/s05b.rpy:26
+translate italian d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "Nulla. Mi sono reso conto di cosa stessi per dirti..."

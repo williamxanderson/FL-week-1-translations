@@ -1136,3 +1136,10 @@ translate italian strings:
     old "That's Enough For Tonight"
     new "Per stanotte basta così"
 
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d03p/d03s10.rpy:263
+translate italian d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Mettiamola in un altro modo... Se fossi da solo con una persona e scoprissi che lì sotto non ha quello che ti aspetti."

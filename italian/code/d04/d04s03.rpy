@@ -803,3 +803,11 @@ translate italian d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
     sy "È una lunga storia."
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d04/d04s03.rpy:205
+translate italian d04s03_edf74400:
+
+    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
+    mc "La tua dieta mi sembra buona... però non so se sarei mai in grado di smettere di assumere zucchero...\nZuccheri naturali, come quelli della frutta?"

@@ -2223,3 +2223,11 @@ translate italian strings:
     # game/code/d05/d05s06.rpy:264
     old "Pee on Min's Body"
     new "Fai pipì sul corpo di Min"
+
+# TODO: Translation updated at 2021-10-05 00:26
+
+# game/code/d05/d05s06.rpy:89
+translate italian replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "Questo tipo di trucchi non funziona né con Min, né con me"
