@@ -616,17 +616,3 @@ translate polish strings:
     old "Just let them be caught by Miss Waller"
     new "Just let them be caught by Miss Waller"
 
-# TODO: Translation updated at 2021-10-04 21:12
-
-# game/code/d03/d03s03.rpy:63
-translate polish replay_d03s03_a76f5a9a:
-
-    # mct "And I am sweating. Did I have a fever or something?"
-    mct "And I am sweating. Did I have a fever or something?"
-
-# game/code/d03/d03s03.rpy:162
-translate polish replay_d03s03a_612e98b5:
-
-    # mct "Sounds like someone is fucking."
-    mct "Sounds like someone is fucking."
-

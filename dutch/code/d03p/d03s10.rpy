@@ -980,29 +980,3 @@ translate dutch strings:
     old "That's Enough For Tonight"
     new "That's Enough For Tonight"
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d03p/d03s10.rpy:263
-translate dutch d03s10_0c4e7be1:
-
-    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
-    aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
-
-# game/code/d03p/d03s10.rpy:377
-translate dutch d03s10_68b8e783:
-
-    # tm "Oh yeah? What's he into?"
-    tm "Oh yeah? What's he into?"
-
-# game/code/d03p/d03s10.rpy:383
-translate dutch d03s10_e7497b1a:
-
-    # tm "Really? Oh, wow."
-    tm "Really? Oh, wow."
-
-# game/code/d03p/d03s10.rpy:386
-translate dutch d03s10_facea962:
-
-    # mkfl "And I didn't even tell you the best part - she's straight!"
-    mkfl "And I didn't even tell you the best part - she's straight!"
-

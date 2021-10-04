@@ -300,11 +300,3 @@ translate dutch replay_d06s06_585f4226:
     # lc "I couldn't have done it without you."
     lc "I couldn't have done it without you."
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d06/d06s06.rpy:33
-translate dutch replay_d06s06_9509b53e:
-
-    # lc "But I think I could love her."
-    lc "But I think I could love her."
-

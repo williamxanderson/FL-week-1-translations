@@ -506,17 +506,3 @@ translate turkish strings:
     old "Um... Yes, Mistress"
     new "Um... Yes, Mistress"
 
-# TODO: Translation updated at 2021-10-04 21:11
-
-# game/code/d03/d03s08.rpy:60
-translate turkish replay_d03s08_7fd3a623_1:
-
-    # mc "Yes, Mistress."
-    mc "Yes, Mistress."
-
-# game/code/d03/d03s08.rpy:71
-translate turkish replay_d03s08_988b906a:
-
-    # mc "Um... Yes, Mistress."
-    mc "Um... Yes, Mistress."
-

@@ -266,11 +266,3 @@ translate polish strings:
     old "Leave them both alone"
     new "Leave them both alone"
 
-# TODO: Translation updated at 2021-10-04 21:12
-
-# game/code/d07/d07s04dnd.rpy:40
-translate polish d07s04dnd_9bb20d70:
-
-    # mc "So, what are you two lovely ladies doing over on this side of the beach."
-    mc "So, what are you two lovely ladies doing over on this side of the beach."
-

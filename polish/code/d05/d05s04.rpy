@@ -1204,23 +1204,3 @@ translate polish strings:
     old "My turn to strip & piss"
     new "My turn to strip & piss"
 
-# TODO: Translation updated at 2021-10-04 21:12
-
-# game/code/d05/d05s04.rpy:156
-translate polish replay_d05s04_5d349832:
-
-    # pw "And you're going to take photos of me?"
-    pw "And you're going to take photos of me?"
-
-# game/code/d05/d05s04.rpy:253
-translate polish replay_d05s04_886a1f6f:
-
-    # pw "(laughing uncontrollably) I KNOW."
-    pw "(laughing uncontrollably) I KNOW."
-
-# game/code/d05/d05s04.rpy:255
-translate polish replay_d05s04_8c6c1f3e:
-
-    # pw "(laughing) Before someone comes to see you watching a pissing girl laugh..."
-    pw "(laughing) Before someone comes to see you watching a pissing girl laugh..."
-

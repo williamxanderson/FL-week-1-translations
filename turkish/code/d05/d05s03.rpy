@@ -702,11 +702,3 @@ translate turkish d05s03_wantcock_4b8f64f3:
     # mc "I haven't even fucked your asshole. {w}Yet!"
     mc "I haven't even fucked your asshole. {w}Yet!"
 
-# TODO: Translation updated at 2021-10-04 21:11
-
-# game/code/d05/d05s03.rpy:225
-translate turkish d05s03_wantcock_e1a1599b:
-
-    # mk "Because i want your cock."
-    mk "Because i want your cock."
-

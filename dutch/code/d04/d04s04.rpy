@@ -2332,35 +2332,3 @@ translate dutch strings:
     old "No - I do not want that"
     new "No - I do not want that"
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d04/d04s04.rpy:285
-translate dutch d04s04p2_94a09ac5:
-
-    # mc "Ouch!"
-    mc "Ouch!"
-
-# game/code/d04/d04s04.rpy:327
-translate dutch d04s04p2_4f0bb25f:
-
-    # lc "Ha! You jerk. {w}Wait, I didn't mean..."
-    lc "Ha! You jerk. {w}Wait, I didn't mean..."
-
-# game/code/d04/d04s04.rpy:389
-translate dutch d04s04p2_00c79f1a:
-
-    # lc "Oh, wow. I..."
-    lc "Oh, wow. I..."
-
-# game/code/d04/d04s04.rpy:608
-translate dutch d04s04p2_1e42bfa0:
-
-    # mc "Right?! {w}Wait, what?"
-    mc "Right?! {w}Wait, what?"
-
-# game/code/d04/d04s04.rpy:647
-translate dutch d04s04p2_a09af71b:
-
-    # mc "Um, Hello?"
-    mc "Um, Hello?"
-

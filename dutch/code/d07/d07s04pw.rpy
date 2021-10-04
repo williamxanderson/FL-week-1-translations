@@ -706,11 +706,3 @@ translate dutch strings:
     old "Weird. Not bad, just very strange"
     new "Weird. Not bad, just very strange"
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d07/d07s04pw.rpy:185
-translate dutch replay_d07s04pw_eb76574d:
-
-    # pw "Damn that looks good. Do you...?"
-    pw "Damn that looks good. Do you...?"
-

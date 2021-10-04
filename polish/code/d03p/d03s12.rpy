@@ -372,23 +372,3 @@ translate polish replay_d03s12_6b55f4de:
     # mct "I guess I still have time to visit one more event."
     mct "I guess I still have time to visit one more event."
 
-# TODO: Translation updated at 2021-10-04 21:12
-
-# game/code/d03p/d03s12.rpy:64
-translate polish replay_d03s12_7a6d41cc:
-
-    # mc "Well, yeah."
-    mc "Well, yeah."
-
-# game/code/d03p/d03s12.rpy:69
-translate polish replay_d03s12_1703e7f5:
-
-    # mc "It really wasn't anything..."
-    mc "It really wasn't anything..."
-
-# game/code/d03p/d03s12.rpy:134
-translate polish replay_d03s12_66f421ac:
-
-    # mc "Alright, I'll see ya' \"El Hoc\"."
-    mc "Alright, I'll see ya' \"El Hoc\"."
-

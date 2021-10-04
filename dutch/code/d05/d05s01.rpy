@@ -252,11 +252,3 @@ translate dutch d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "I need to get moving."
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d05/d05s01.rpy:59
-translate dutch d05s01_941ecdf2:
-
-    # mc "If I fail, I will have my pictures published."
-    mc "If I fail, I will have my pictures published."
-

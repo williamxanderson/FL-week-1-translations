@@ -210,17 +210,3 @@ translate polish d04s08_bonus_f13c7ee8:
     # flr "Further instructions will follow."
     flr "Further instructions will follow."
 
-# TODO: Translation updated at 2021-10-04 21:12
-
-# game/code/d04/d04s08.rpy:21
-translate polish d04s08_a16a10d8:
-
-    # mct "Hmm. What to do about this thing."
-    mct "Hmm. What to do about this thing."
-
-# game/code/d04/d04s08.rpy:60
-translate polish d04s08_5db702e5:
-
-    # mct "...and reboot my phone..."
-    mct "...and reboot my phone..."
-

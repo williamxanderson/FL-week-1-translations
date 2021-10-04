@@ -580,11 +580,3 @@ translate turkish strings:
     old "Demand to see her pussy"
     new "Demand to see her pussy"
 
-# TODO: Translation updated at 2021-10-04 21:11
-
-# game/code/d03p/d03s11.rpy:178
-translate turkish replay_d03s11_d17f6c62:
-
-    # cb "You can just do it here, if I can watch...? or in the closet over there. {w}It is like a small room and it's empty."
-    cb "You can just do it here, if I can watch...? or in the closet over there. {w}It is like a small room and it's empty."
-

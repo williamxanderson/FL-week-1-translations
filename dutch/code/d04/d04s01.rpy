@@ -590,17 +590,3 @@ translate dutch d04s01_0746823b:
     # mes "Is someone sleeping in my bushes?"
     mes "Is someone sleeping in my bushes?"
 
-# TODO: Translation updated at 2021-10-04 21:14
-
-# game/code/d04/d04s01.rpy:122
-translate dutch d04s01_f2c67dad:
-
-    # mes "Hello."
-    mes "Hello."
-
-# game/code/d04/d04s01.rpy:140
-translate dutch d04s01_4f55cad2:
-
-    # dd "Huh. I guess that would do it."
-    dd "Huh. I guess that would do it."
-

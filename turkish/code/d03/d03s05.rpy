@@ -798,17 +798,3 @@ translate turkish strings:
     old "Don't show him that pic"
     new "Don't show him that pic"
 
-# TODO: Translation updated at 2021-10-04 21:11
-
-# game/code/d03/d03s05.rpy:210
-translate turkish d03s05_3e24f1ab:
-
-    # mc "Oh hey, here's something you might enjoy."
-    mc "Oh hey, here's something you might enjoy."
-
-# game/code/d03/d03s05.rpy:249
-translate turkish d03s05_0419d335:
-
-    # mc "Later."
-    mc "Later."
-

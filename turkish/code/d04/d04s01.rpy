@@ -582,17 +582,3 @@ translate turkish d04s01_16d522f3:
     # mes "(whisper) I bet she is."
     mes "(whisper) I bet she is."
 
-# TODO: Translation updated at 2021-10-04 21:11
-
-# game/code/d04/d04s01.rpy:122
-translate turkish d04s01_f2c67dad:
-
-    # mes "Hello."
-    mes "Hello."
-
-# game/code/d04/d04s01.rpy:140
-translate turkish d04s01_4f55cad2:
-
-    # dd "Huh. I guess that would do it."
-    dd "Huh. I guess that would do it."
-
