@@ -44,11 +44,11 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:57
     old "Please type a name for the save file below and click save"
-    new "Por favo digite um nome para o arquivo de save abaixo e clique em salvar"
+    new "Por favor digite um nome para o arquivo de save abaixo e clique em salvar"
 
     # game/code/screens/screens_fl.rpy:65
     old "This will allow you to start week 2 without losing your progress"
-    new "Isso permitirá que comece a segunda semana sem perder seu progresso"
+    new "Isso permitirÃ¡ que comece a segunda semana sem perder seu progresso"
 
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
