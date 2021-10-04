@@ -581,3 +581,11 @@ translate malaysian strings:
     # game/code/d07/d07s06.rpy:255
     old "Transfer No Points"
     new "Jangan Pindahkan Mata"
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d07/d07s06.rpy:118
+translate malaysian d07s06_885b56d0:
+
+    # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
+    mc "{i}Hey Polly! Saya tahu kita terjumpa dalam keadaan salah faham. Saya minta maaf pasal tu. Tapi saya nak minta tolong ni.{/i}"

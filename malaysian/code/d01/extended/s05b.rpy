@@ -227,3 +227,11 @@ translate malaysian d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "Apa yang aku fikir tadi sial?! {w}Aku balik bilik je lah."
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d01/extended/s05b.rpy:26
+translate malaysian d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "Tak apa lah. Saya baru perasan apa yang saya nak cakap tadi..."

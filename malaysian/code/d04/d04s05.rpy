@@ -1377,3 +1377,16 @@ translate malaysian strings:
     # game/code/d04/d04s05.rpy:42
     old "Oh bother, it's a drunken slut."
     new "Aduh, ini pelacur yang sangat mabuk."
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d04/d04s05.rpy:259
+translate malaysian d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Tidak mengapa."
+
+# game/code/d04/d04s05.rpy:484
+translate malaysian d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Terima kasih [mcname]."

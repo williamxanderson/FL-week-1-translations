@@ -979,3 +979,11 @@ translate malaysian strings:
     # game/code/d03p/d03s10.rpy:508
     old "That's Enough For Tonight"
     new "Cukup Lah Untuk Malam Ni"
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d03p/d03s10.rpy:263
+translate malaysian d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Bagi saya cakap dengan cara lain... kalau awak berseorangan dengan seseorang lepas tu awak tahu yang dia tu lain daripada apa yang awak jangka kan."

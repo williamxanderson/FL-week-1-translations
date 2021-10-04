@@ -1049,3 +1049,17 @@ translate malaysian strings:
     # game/code/d03p/d03s13.rpy:338
     old "Shake Hands in Acceptance"
     new "Salam Tangan secara Menerima"
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d03p/d03s13.rpy:185
+translate malaysian replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "Aku tahu satu kelemahan Min! Dia malu nak kencing depan aku masa tu!"
+
+# game/code/d03p/d03s13.rpy:210
+translate malaysian replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "Tak apa lah, saya sedia. Jom kita pergi."

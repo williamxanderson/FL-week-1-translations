@@ -1056,3 +1056,22 @@ translate malaysian strings:
     old "I am curious"
     new "Aku teringin nak tahu"
 
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d03/d03s04.rpy:258
+translate malaysian d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Kalau aku dapat gerak ke kanan sedikit je lagi, aku mungkin dapat tengok dengan jelas seluar dalam Lydia..."
+
+# game/code/d03/d03s04.rpy:380
+translate malaysian d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "Lepas tu awak masih hilang. dan hilang. Lagi seminggu."
+
+# game/code/d03/d03s04.rpy:642
+translate malaysian replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Dia tengah berbual dengan seseorang... Pasal apa ni eh? Dia tengah cuba dapatkan mata dengan seseorang ke?"

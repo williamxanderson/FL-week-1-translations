@@ -582,3 +582,11 @@ translate malaysian d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(Bersiul) Kami tidak memerlukan pendidikan..."
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d04/d04s02.rpy:37
+translate malaysian d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Itu idea yang bagus. Saya perlu mencari pakaian saya..."

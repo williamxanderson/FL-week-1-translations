@@ -702,3 +702,10 @@ translate malaysian d05s03_wantcock_4b8f64f3:
     # mc "I haven't even fucked your asshole. {w}Yet!"
     mc "Saya belum mengongkek bontot awak. {w}Lagi!"
 
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d05/d05s03.rpy:225
+translate malaysian d05s03_wantcock_8fc3d754:
+
+    # mk "Because I want your cock."
+    mk "Sebab saya mahukan batang awak."

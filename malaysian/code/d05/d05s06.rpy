@@ -1413,3 +1413,11 @@ translate malaysian strings:
     # game/code/d05/d05s06.rpy:295
     old "Pee on Min's Body"
     new "Kencing Di Atas Badan Min"
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d05/d05s06.rpy:89
+translate malaysian replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "Jenis muslihat seperti ini tidak akan berjaya dengan Min dan tidak akan berjaya dengan saya!"

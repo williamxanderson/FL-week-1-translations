@@ -486,3 +486,10 @@ translate malaysian replay_d06s11_36e228a5:
     # jf "Sounds good!"
     jf "Baiklah kalau begitu!"
 
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d06/extended/d06s11.rpy:175
+translate malaysian replay_d06s11_c7abcee1:
+
+    # jf "Yes."
+    jf "Ya."

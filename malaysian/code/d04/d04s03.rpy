@@ -795,3 +795,11 @@ translate malaysian strings:
     # game/code/d04/d04s03.rpy:161
     old "Move on the conversation"
     new "Teruskan perbualan"
+
+# TODO: Translation updated at 2021-10-05 00:08
+
+# game/code/d04/d04s03.rpy:205
+translate malaysian d04s03_edf74400:
+
+    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
+    mc "Saya rasa itu enak, tapi saya tidak akan dapat berhenti memakan gula... Apakah gula semulajadi, seperti buah-buahan?"
