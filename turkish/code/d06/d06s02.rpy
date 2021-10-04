@@ -342,3 +342,17 @@ translate turkish d06s02_a81d71ef:
     # sy "Sooooo sexy, you ass!"
     sy "Sooooo sexy, you ass!"
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d06/d06s02.rpy:141
+translate turkish d06s02_61b83b28:
+
+    # sy "(Whispers) And sometimes without them..."
+    sy "(Whispers) And sometimes without them..."
+
+# game/code/d06/d06s02.rpy:147
+translate turkish d06s02_bcaaf3a5:
+
+    # mc "(Whispers) You don't need glasses for that..."
+    mc "(Whispers) You don't need glasses for that..."
+

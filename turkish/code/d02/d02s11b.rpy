@@ -488,3 +488,17 @@ translate turkish strings:
     old "Stay & Watch"
     new "Stay & Watch"
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d02/d02s11b.rpy:308
+translate turkish replay_d02s11b_6078960e:
+
+    # mc "You know, I would kinda like to see that."
+    mc "You know, I would kinda like to see that."
+
+# game/code/d02/d02s11b.rpy:312
+translate turkish replay_d02s11b_11742625:
+
+    # mc "Yeah, I think I deserve some reward."
+    mc "Yeah, I think I deserve some reward."
+

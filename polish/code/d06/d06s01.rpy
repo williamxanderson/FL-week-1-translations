@@ -484,3 +484,17 @@ translate polish strings:
     old "Creampie Surprise"
     new "Creampie Surprise"
 
+# TODO: Translation updated at 2021-10-04 21:12
+
+# game/code/d06/d06s01.rpy:296
+translate polish replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Here are your [d06s01_points] points!"
+
+translate polish strings:
+
+    # game/code/d06/d06s01.rpy:86
+    old "Yes, I want to cum inside."
+    new "Yes, I want to cum inside."
+

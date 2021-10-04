@@ -872,3 +872,11 @@ translate dutch strings:
     old "Parents' Songs"
     new "Parents' Songs"
 
+# TODO: Translation updated at 2021-10-04 21:14
+
+# game/code/d06/d06s04.rpy:153
+translate dutch d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+

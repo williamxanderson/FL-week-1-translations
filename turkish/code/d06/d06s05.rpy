@@ -844,3 +844,17 @@ translate turkish strings:
     old "Send it to me"
     new "Send it to me"
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d06/d06s05.rpy:43
+translate turkish d06s05_e22908de:
+
+    # mk "You can pee on my face."
+    mk "You can pee on my face."
+
+# game/code/d06/d06s05.rpy:71
+translate turkish d06s05_5cd26e27:
+
+    # mk "Okay, okay. {w}Um... Thank you."
+    mk "Okay, okay. {w}Um... Thank you."
+

@@ -766,3 +766,17 @@ translate polish strings:
     old "I do not want any of that"
     new "I do not want any of that"
 
+# TODO: Translation updated at 2021-10-04 21:12
+
+# game/code/d05/d05s02.rpy:301
+translate polish d05s02_anal_fea4496c:
+
+    # cb "Dammit... next time... need lube."
+    cb "Dammit... next time... need lube."
+
+# game/code/d05/d05s02.rpy:431
+translate polish d05s02_end_9cd9f799:
+
+    # mct "Weird. Why did I drink... {w}oh well, never mind."
+    mct "Weird. Why did I drink... {w}oh well, never mind."
+

@@ -1414,3 +1414,17 @@ translate turkish strings:
     old "Pee on Min's Body"
     new "Pee on Min's Body"
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d05/d05s06.rpy:24
+translate turkish d05s06_81b1b5c2:
+
+    # mct "Heh. Pissed off that she won't be pissed on."
+    mct "Heh. Pissed off that she won't be pissed on."
+
+# game/code/d05/d05s06.rpy:89
+translate turkish replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "This kind of trick don't work with Min and won't work with me!"
+

@@ -582,3 +582,11 @@ translate dutch strings:
     old "Transfer No Points"
     new "Transfer No Points"
 
+# TODO: Translation updated at 2021-10-04 21:14
+
+# game/code/d07/d07s06.rpy:118
+translate dutch d07s06_885b56d0:
+
+    # mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
+    mc "{i}Hey Polly! I know we didn't leave things on the best of terms. I'm sorry about that. But I need to ask you a favor.{/i}"
+

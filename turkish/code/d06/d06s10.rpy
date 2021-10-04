@@ -258,3 +258,11 @@ translate turkish replay_d06s10_b79140a5:
     # "female voice" "asshole."
     "female voice" "asshole."
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d06/d06s10.rpy:134
+translate turkish replay_d06s10_9ab9e4ab:
+
+    # "female voice" "Asshole."
+    "female voice" "Asshole."
+

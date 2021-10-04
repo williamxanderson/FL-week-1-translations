@@ -1050,3 +1050,35 @@ translate polish strings:
     old "Shake Hands in Acceptance"
     new "Shake Hands in Acceptance"
 
+# TODO: Translation updated at 2021-10-04 21:12
+
+# game/code/d03p/d03s13.rpy:69
+translate polish replay_d03s13_a2afecbc:
+
+    # dd "Um, yes."
+    dd "Um, yes."
+
+# game/code/d03p/d03s13.rpy:185
+translate polish replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+
+# game/code/d03p/d03s13.rpy:210
+translate polish replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "Never mind, I'm ready. Let's go."
+
+# game/code/d03p/d03s13.rpy:305
+translate polish replay_d03s13_330093c1:
+
+    # dd "Can she catch up to [mcname]???"
+    dd "Can she catch up to [mcname]???"
+
+# game/code/d03p/d03s13.rpy:315
+translate polish replay_d03s13_f30f4795:
+
+    # dd "This is about volume, not just speed."
+    dd "This is about volume, not just speed."
+

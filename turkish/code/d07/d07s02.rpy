@@ -762,3 +762,23 @@ translate turkish d07s02_26739c3d:
     # arj "Hey guys! Look! We are almost there!"
     arj "Hey guys! Look! We are almost there!"
 
+# TODO: Translation updated at 2021-10-04 21:11
+
+# game/code/d07/d07s02.rpy:73
+translate turkish d07s02_33ac2818:
+
+    # sy "Or an older brother!"
+    sy "Or an older brother!"
+
+# game/code/d07/d07s02.rpy:74
+translate turkish d07s02_47d04b55:
+
+    # mc "Or a younger sister!"
+    mc "Or a younger sister!"
+
+# game/code/d07/d07s02.rpy:81
+translate turkish d07s02_0e14337c:
+
+    # arj "But it's not the same as having a sister."
+    arj "But it's not the same as having a sister."
+

@@ -872,3 +872,11 @@ translate polish strings:
     old "Parents' Songs"
     new "Parents' Songs"
 
+# TODO: Translation updated at 2021-10-04 21:12
+
+# game/code/d06/d06s04.rpy:153
+translate polish d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+
