@@ -803,3 +803,11 @@ translate russian d04s03_9be2bfa9:
 
     # sy "It's kind of a long story."
     sy "Это довольно длинная история."
+
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d04/d04s03.rpy:205
+translate russian d04s03_edf74400:
+
+    # mc "I guess it sounds good, but I wouldn't be able to stop consuming sugar... What about natural sugars, like fruits?"
+    mc "Думаю, это звучит хорошо, но я не смогу перестать потреблять сахар... Например, какие натуральные сахара находятся в фруктах?"

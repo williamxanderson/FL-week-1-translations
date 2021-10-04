@@ -228,3 +228,10 @@ translate russian d01s05b_469e9f2f:
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
     mct "О чем, черт возьми, я думал?! {w}Нужно возвращатся в общежитие."
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d01/extended/s05b.rpy:26
+translate russian d01s05b_daed77a9:
+
+    # mc "Never mind. I just realized what I was about to say and..."
+    mc "Не бери в голову. Я только сейчас понял, что собирался сказать, и ..."

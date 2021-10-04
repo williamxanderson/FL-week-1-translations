@@ -1378,3 +1378,16 @@ translate russian strings:
     old "Oh bother, it's a drunken slut."
     new "О черт, это же пьяная шлюха"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d04/d04s05.rpy:259
+translate russian d04s05_slut_658994d8:
+
+    # mc "Never mind."
+    mc "Неважно."
+
+# game/code/d04/d04s05.rpy:484
+translate russian d04s05_confession_c8b9ab67:
+
+    # arj "Thanks [mcname]."
+    arj "Спасибо [mcname]."

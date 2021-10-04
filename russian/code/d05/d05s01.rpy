@@ -252,3 +252,10 @@ translate russian d05s01_0e079e0e:
     # mct "I need to get moving."
     mct "Мне нужно бежать."
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d05/d05s01.rpy:59
+translate russian d05s01_941ecdf2:
+
+    # mc "If I fail, I will have my pictures published."
+    mc "Если я не справлюсь, то мои фотографии будут опубликованы."

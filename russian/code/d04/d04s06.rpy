@@ -784,3 +784,10 @@ translate russian strings:
     old "Not right now, but maybe someday."
     new "Не сейчас, но может когда-нибудь..."
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d04/d04s06.rpy:51
+translate russian replay_d04s06_324c7031:
+
+    # mc "She seemed to really enjoy what you did last time... and she's been flirting with me like crazy every time I drop by."
+    mc "Похоже, ей понравилось то, что ты сделала в прошлый раз... И она флиртует со мной, как сумасшедшая, каждый раз когда я захожу к ней."

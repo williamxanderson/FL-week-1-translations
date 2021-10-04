@@ -616,3 +616,10 @@ translate russian strings:
     old "Just let them be caught by Miss Waller"
     new "Ничего не делать и пусть их поймает мисс Уоллер"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d03/d03s03.rpy:63
+translate russian replay_d03s03_4eb788cb:
+
+    # mct "And I was sweating. Did I have a fever or something?"
+    mct "И потел. У меня была лихорадка?"

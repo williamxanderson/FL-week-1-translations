@@ -766,3 +766,10 @@ translate russian strings:
     old "I do not want any of that"
     new "Я не хочу ничего из этого"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d05/d05s02.rpy:431
+translate russian d05s02_end_9cd9f799:
+
+    # mct "Weird. Why did I drink... {w}oh well, never mind."
+    mct "Странно. Зачем мне пить... {w}Ладно, неважно."

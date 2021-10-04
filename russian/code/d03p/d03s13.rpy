@@ -1050,3 +1050,16 @@ translate russian strings:
     old "Shake Hands in Acceptance"
     new "Согласится на ничью"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d03p/d03s13.rpy:185
+translate russian replay_d03s13_2ddffda6:
+
+    # mct "I know one of Min's weaknesses! She was shy to pee in front of me!"
+    mct "Я знаю одну слабость Мин! Она стеснялась писать передо мной!"
+
+# game/code/d03p/d03s13.rpy:210
+translate russian replay_d03s13_ace02fee:
+
+    # mc "Never mind, I'm ready. Let's go."
+    mc "Неважно, я готов. Продолжим."

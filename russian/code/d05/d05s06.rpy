@@ -1414,3 +1414,10 @@ translate russian strings:
     old "Pee on Min's Body"
     new "Писать на тело Мин"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d05/d05s06.rpy:89
+translate russian replay_d05s06_26901a0d:
+
+    # mesfl "This kind of trick don't work with Min and won't work with me!"
+    mesfl "Такие трюки не сработают с Мин и не будут работать со мной!"

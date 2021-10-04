@@ -980,3 +980,10 @@ translate russian strings:
     old "That's Enough For Tonight"
     new "На сегодня хватит"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d03p/d03s10.rpy:263
+translate russian d03s10_0c4e7be1:
+
+    # aw "Let me put it another way... if you were in private with someone and found out they had different plumbing than you expected."
+    aw "Хорошо, я выражу это по-другому... если бы ты был с кем-то наедине и узнал, что у того человека не такой причиндал, как ты ожидал."

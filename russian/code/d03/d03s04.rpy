@@ -1056,3 +1056,22 @@ translate russian strings:
     old "I am curious"
     new "Мне просто любопытно"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d03/d03s04.rpy:258
+translate russian d03s04_7600016b:
+
+    # mct "If I would just move to the right, I might get a good view of Lydia's panties..."
+    mct "Если я слегка наклонюсь вправо, то смогу рассмотреть трусики Лидии..."
+
+# game/code/d03/d03s04.rpy:380
+translate russian d03s04_c76556a2:
+
+    # arj "Then you were still gone for another whole week."
+    arj "Ты исчез. Тебя не было рядом. Целых две недели."
+
+# game/code/d03/d03s04.rpy:642
+translate russian replay_d03s04_a5708353:
+
+    # mct "She's chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "Она с кем-то переписывается... В чем дело? Она работает над тем, чтобы зарабатывать очки с кем-то?"

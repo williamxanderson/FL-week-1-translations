@@ -583,3 +583,11 @@ translate russian d04s02_message_3688a773:
 
     # mc "(Whistles) We don't need no education..."
     mc "(Hасвистывает) Нам не нужно никакого образования..."
+
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d04/d04s02.rpy:37
+translate russian d04s02_20513a43:
+
+    # dd "That's a good idea. I need to find my change of clothes..."
+    dd "Хорошая идея. Мне нужно найти мою сменную одежду..."

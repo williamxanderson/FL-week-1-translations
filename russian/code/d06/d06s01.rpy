@@ -484,3 +484,10 @@ translate russian strings:
     old "Creampie Surprise"
     new "Сделай ей сюрприз"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d06/d06s01.rpy:296
+translate russian replay_d06s01_ecc91a4f:
+
+    # fl "Here are your [d06s01_points] points!"
+    fl "Вы заработали [d06s01_points] очков!"

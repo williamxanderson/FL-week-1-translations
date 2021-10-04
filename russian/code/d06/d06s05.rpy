@@ -844,3 +844,10 @@ translate russian strings:
     old "Send it to me"
     new "Пришли их мне"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d06/d06s05.rpy:43
+translate russian d06s05_e22908de:
+
+    # mk "You can pee on my face."
+    mk "Ты можешь пописать мне в лицо."

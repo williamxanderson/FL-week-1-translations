@@ -872,3 +872,10 @@ translate russian strings:
     old "Parents' Songs"
     new "Песни родителей"
 
+# TODO: Translation updated at 2021-10-04 23:04
+
+# game/code/d06/d06s04.rpy:153
+translate russian d06s04_fff1ce5c:
+
+    # mc "And your parents' songs might be best for the coffee shop and audience, but you'd die a little inside."
+    mc "А песни времён твоих родителей, возможно, лучше всего подходят для кафе и публики, но ты умрешь от скуки."
