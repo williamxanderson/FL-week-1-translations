@@ -1,0 +1,431 @@
+============================== Language: spanish ==============================
+
+File: ./spanish\code/functions.rpy
+
+27: new "Mike"
+31: new "Not_Mike"
+
+File: ./spanish\code/labels.rpy
+
+115: "Bzzzzz" with hpunch
+138: "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+144: sy "Hey Daisy!"
+150: dd "Yes sweety?"
+156: sy "Do you think he will wait?"
+162: dd "Who?"
+168: sy "Him! The one behind this screen!"
+174: dd "Wait for what?"
+180: sy "Wait for the next game update?"
+186: dd "Oh my dear! Don't you worry!"
+192: dd "He loves you!"
+198: dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+
+File: ./spanish\code/options.rpy
+
+7: new "Fetish Locator"
+
+File: ./spanish\code/d01\s01.rpy
+
+13: "6:00 AM"
+211: mc "Ummm-m-m."
+271: pb "Umm... Anna?"
+385: mct "Hmmm... Lydia..."
+391: mct "O-o-ohhh."
+771: mct "She looks like an interesting person... {w}I would love to date a girl like her."
+
+File: ./spanish\code/d01\s02.rpy
+
+7: "9:00 AM"
+61: am "...inaudible..."
+590: " "
+1128: mct "They broke up over the winter break..."
+1134: mct "A couple weeks ago they still hated each other"
+1140: mct "Look at them now. Are they dating again?"
+1146: "A couple minutes later."
+1152: mc "True, but don't be so pissed. I brought you a movie, you are going to like it."
+1158: mct "Is he gonna finish now?!"
+1164: mct "I hope I can walk out of class without someone noticing my hard dick."
+
+File: ./spanish\code/d01\s03.rpy
+
+7: "5:00 PM"
+1051: new "No"
+1074: mc "What's this about the points you have to get to be able to do things in the app? There was a message that someone won 25 points."
+1080: mc "What's this about the points in the app? There was a message that someone won 25 points."
+1086: mct "Hey, there's Chloe! It's not like her to miss the first 10 minutes of the game."
+1092: mc "The last two weeks though, we had a chance to get caught up with each other's lives."
+1098: mct "Damn! When did she become so smart and pushy? What happened to my chubby cute little [game.stacytitle]?"
+
+File: ./spanish\code/d01\s04.rpy
+
+7: "6:00 PM"
+403: "Klaaank"
+523: cb "Ugh-tugh-tugh."
+893: mc "Thanks! We'll finish this a lot quicker together."
+899: sy "What if I'd been doing it naked? Would you still watch me?"
+905: mct "What the fuck?! He knows that I just came into this restroom. Did he bring some girl here on purpose?"
+
+File: ./spanish\code/d01\s05.rpy
+
+7: "8:00 PM"
+475: "Clap-clap"
+
+File: ./spanish\code/d01\extended\s05b.rpy
+
+91: jfx "Nope."
+
+File: ./spanish\code/d02\d02s09.rpy
+
+7: "03:00 PM"
+585: nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+591: mc "Then you miss out on this opportunity and won't get my help with your business."
+
+File: ./spanish\code/d02\d02s10.rpy
+
+7: "6:00 PM"
+193: mct "Camgirls ... Camsluts ..."
+199: mct "Camwhores ... KinkyCams ..."
+513: mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
+519: mct "Okay, let's see what this is about."
+525: mct "At least she's talking business here!"
+
+File: ./spanish\code/d02\d02s11a.rpy
+
+7: "07:30 PM"
+
+File: ./spanish\code/d02\d02s11b.rpy
+
+7: "07:00 PM"
+344: mes "Aaa-a-h"
+
+File: ./spanish\code/d02\d02s12.rpy
+
+7: "09:00 PM"
+396: mc "She enjoyed being blindfolded and forbidden to move."
+
+File: ./spanish\code/d02\s06.rpy
+
+13: "7:00 AM"
+49: "9:00 AM"
+
+File: ./spanish\code/d02\s07.rpy
+
+7: "12:00 PM"
+343: sy "Mmmh"
+403: sy "A-a-a-h"
+415: sy "O-o-o-h"
+
+File: ./spanish\code/d02\s08.rpy
+
+7: "12:30 PM"
+247: mc "?!?"
+641: mct "And I feel a bit stupid sitting here and holding this banana."
+647: mct "I'm waiting here for a girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+653: mct "It looks like she is coming my way..."
+659: pw "Yeah, but I think that you need those points more than I do."
+665: mc "Okay - what is the favor?"
+671: mc "Without knowing what it is?!"
+
+File: ./spanish\code/d03\d03s01.rpy
+
+13: "07:30 AM"
+79: mc "[mcname]."
+157: mc "[mcname]."
+265: dd "Hmmm... {w} ...{w} ... "
+
+File: ./spanish\code/d03\d03s02.rpy
+
+7: "09:00 AM"
+
+File: ./spanish\code/d03\d03s03.rpy
+
+7: "11:30 AM"
+361: "Baaaam"
+
+File: ./spanish\code/d03\d03s04.rpy
+
+7: "12:25 AM"
+1009: mc "Hey Kevin..."
+1015: kb "Hey..."
+1065: "12:25 PM"
+
+File: ./spanish\code/d03\d03s05.rpy
+
+7: "02:30 PM"
+733: pw "Hey [mcname]."
+807: mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+813: kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+819: kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
+825: mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+
+File: ./spanish\code/d03\d03s06.rpy
+
+7: "03:00 PM"
+
+File: ./spanish\code/d03\d03s07.rpy
+
+7: "04:30 PM"
+400: pb "Yeah, right... {w}I told you about them yesterday!"
+
+File: ./spanish\code/d03\d03s08.rpy
+
+
+File: ./spanish\code/d03\d03s09.rpy
+
+85: mct "Ouch..."
+
+File: ./spanish\code/d03p\d03s10.rpy
+
+157: mc "Oh."
+
+File: ./spanish\code/d03p\d03s11.rpy
+
+590: mct "She looks like the hottest girl! {w}She even talks and moves like a girl... {w}Or he? {w}Daaamn..."
+
+File: ./spanish\code/d03p\d03s12.rpy
+
+349: mc "QueenB."
+
+File: ./spanish\code/d03p\d03s13.rpy
+
+673: "(Gulp) (gulp) (gulp)"
+781: mes "(gulp)"
+787: mes "(gulp)"
+
+File: ./spanish\code/d03p\d03s14.rpy
+
+693: mkfl "You being straight! Have you never even experimented with a girl?!"
+
+File: ./spanish\code/d03p\extended\d03s10b.rpy
+
+254: mct "Wow - she's almost ready to cum."
+260: mc "Did you like that?"
+
+File: ./spanish\code/d03p\extended\d03s11b.rpy
+
+19: mct "Oops..."
+31: jfx "Eep!"
+
+File: ./spanish\code/d03p2\d03s15.rpy
+
+140: mct "But I didn't notice AmRose at the party... Why would she be \"crazy for points\"?"
+146: mct "Allison removed her mask! It is pretty dark and far away, but now I'm almost certain that Vesna is Maria!"
+
+File: ./spanish\code/d03p2\d03s16.rpy
+
+253: mc "Ouch."
+
+File: ./spanish\code/d04\d04s01.rpy
+
+13: "09:30 AM"
+307: dd "Ugh..."
+590: mes "Is someone sleeping in my bushes?"
+
+File: ./spanish\code/d04\d04s02.rpy
+
+7: "10:30 AM"
+223: mc "O-o-oh!"
+
+File: ./spanish\code/d04\d04s03.rpy
+
+751: mc "Ugh..."
+763: mc "N-no!"
+805: sy "It's kind of a long story."
+
+File: ./spanish\code/d04\d04s04.rpy
+
+7: "11:10 AM"
+835: mc "ouch."
+949: mc "Oh?"
+1645: mc "Oh, um... no."
+2113: "???" "Boof."
+2125: "???" "Boooooooof."
+2269: mc "Oh."
+
+File: ./spanish\code/d04\d04s05.rpy
+
+7: "2:30 PM"
+61: mc "Oh... {w}boof."
+73: arj "boof..."
+181: arj "la lala lala..."
+343: arj "boof..."
+1069: arj "Oh."
+1081: arj "Oh, no."
+1123: arj "Oh."
+
+File: ./spanish\code/d04\d04s06.rpy
+
+7: "4:30 PM"
+433: mc "Pete."
+
+File: ./spanish\code/d04\d04s07.rpy
+
+7: "5:30 PM"
+199: nk "Aa-a-h"
+205: nk "Aa-a-h"
+
+File: ./spanish\code/d04\d04s08.rpy
+
+7: "8:00 PM"
+
+File: ./spanish\code/d05\d05s01.rpy
+
+13: "05:30 AM"
+
+File: ./spanish\code/d05\d05s02.rpy
+
+7: "11:30 AM"
+457: mc "O-o-of!"
+481: cb "M-m-mgh"
+
+File: ./spanish\code/d05\d05s03.rpy
+
+85: mk "No..."
+139: arj "Um-m-m..."
+
+File: ./spanish\code/d05\d05s04.rpy
+
+7: "11:30 AM"
+
+File: ./spanish\code/d05\d05s05a.rpy
+
+921: arj "Okay. We're going across town, so I'll meet you at the subway station."
+
+File: ./spanish\code/d05\d05s06.rpy
+
+1135: mc "No."
+
+File: ./spanish\code/d05\d05s07.rpy
+
+7: "10:00 PM"
+103: dd "Um, hey, [mcname]."
+
+File: ./spanish\code/d05\d05s08.rpy
+
+175: mc "Ugum-m..."
+
+File: ./spanish\code/d06\d06s01.rpy
+
+13: "08:00 AM"
+19: "08:15 AM"
+37: dd "Mf-f-f, mf-f-f."
+493: mc "I know you didn't. Let's just... not repeat that ever again."
+
+File: ./spanish\code/d06\d06s02.rpy
+
+7: "09:00 AM"
+350: mct "Stacy is in the shower..."
+
+File: ./spanish\code/d06\d06s03.rpy
+
+7: "12:30 PM"
+981: mc "Lydia is kinda my girlfriend. We're having our first date, and then she's singing at the local coffee shop."
+
+File: ./spanish\code/d06\d06s04.rpy
+
+7: "07:00 PM"
+882: new "Classical"
+
+File: ./spanish\code/d06\d06s05.rpy
+
+853: fl "[d06s05_points] points were transferred to you from [trfl]'s account."
+
+File: ./spanish\code/d06\d06s07.rpy
+
+547: "Bzzzz-Bzzzz-Bzzzz"
+1222: lc "Thanks! It is [mcname] who made all of this happen!"
+
+File: ./spanish\code/d06\d06s09.rpy
+
+463: mct "Zzzzzzzzzzz."
+
+File: ./spanish\code/d06\d06s10.rpy
+
+7: "2 AM"
+13: "Zzz-zzz"
+
+File: ./spanish\code/d06\extended\d06s03b.rpy
+
+49: jf "No... no..."
+253: mc "Uh huh."
+
+File: ./spanish\code/d06\extended\d06s11.rpy
+
+313: jf "Eeeee..."
+331: jf "...eeeeeeeeeep!"
+483: jf "Okay, so... try to keep an open mind."
+489: mc "I was in this very room, but it was with different people..."
+495: jf "Did this room have a photo studio in it before? I don't think so!"
+501: jf "Ah, and you can see here some of my best pictures!"
+507: jf "Simple. The offer was too good, and so I had money to make the next one!"
+513: mct "She's clearly in love with cosplay!"
+519: jf "Some of my best assets for survival haven't been weapons."
+525: mc "Oh, I got [d06s11_points] points for your pictures!"
+531: fl "You earned some points!"
+537: mc "Damn, I just saw the time! I've gotta go. There's a concert."
+
+File: ./spanish\code/d07\d07s01.rpy
+
+109: pb "Zzzzzz."
+
+File: ./spanish\code/d07\d07s02.rpy
+
+7: "8 AM"
+223: arj "Shhh."
+259: arj "Eek."
+625: mc "No no no."
+
+File: ./spanish\code/d07\d07s03.rpy
+
+303: arj "Did you even see the kayaking competition last year?"
+309: mc "I was here, but I don't remember the competition itself."
+315: arj "Oh, you see that girl warming up? I think she is from the University team. I've never seen her at our college."
+
+File: ./spanish\code/d07\d07s04mh.rpy
+
+987: mc "Don't know, but it should be a fair number of points!"
+
+File: ./spanish\code/d07\d07s04pw.rpy
+
+
+File: ./spanish\code/d07\d07s05.rpy
+
+301: mc "Oh."
+
+File: ./spanish\code/data\extended\cg_gallery.rpy
+
+255: new "You must have helped Kevin and respected AmRose privacy"
+
+File: ./spanish\code/data\extended\extra_gallery.rpy
+
+47: new "2020"
+75: new "100 patrons"
+103: new "200 patrons"
+170: new "You have seen all the possible pictures that Maria can send"
+174: new "Stacy in hell"
+178: new "Disappoint Stacy"
+182: new "Halloween Bonus - Stacy"
+186: new "Halloween Special"
+190: new "Halloween Bonus - Jessie"
+194: new "Halloween Bonus - Samiya"
+
+File: ./spanish\code/data\extended\replay_room.rpy
+
+231: new "Day 5: URLittlePony"
+
+File: ./spanish\code/screens\screens.rpy
+
+19: new "Auto"
+111: new "«"
+115: new "{#auto_page}A"
+123: new "»"
+211: new "Enter"
+235: new "Escape"
+243: new "Ctrl"
+319: new "D-Pad, Sticks"
+
+File: ./spanish\code/screens\extended\screens_fl.rpy
+
+31: new "<"
+35: new ">"
+
