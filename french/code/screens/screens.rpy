@@ -350,3 +350,11 @@ translate french strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2021-10-08 00:25
+
+translate french strings:
+
+    # game/code/screens/screens.rpy:711
+    old "Naming save file:"
+    new "Naming save file:"
+

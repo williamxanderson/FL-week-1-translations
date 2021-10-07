@@ -350,3 +350,11 @@ translate malaysian strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2021-10-08 00:22
+
+translate malaysian strings:
+
+    # game/code/screens/screens.rpy:711
+    old "Naming save file:"
+    new "Naming save file:"
+

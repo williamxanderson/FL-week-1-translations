@@ -337,3 +337,11 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1506
     old "Menu"
     new "Menú"
+
+# TODO: Translation updated at 2021-10-08 00:07
+
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:711
+    old "Naming save file:"
+    new "Naming save file:"

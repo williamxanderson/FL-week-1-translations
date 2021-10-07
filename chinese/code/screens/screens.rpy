@@ -350,3 +350,11 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
+# TODO: Translation updated at 2021-10-08 00:21
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:711
+    old "Naming save file:"
+    new "Naming save file:"
+
