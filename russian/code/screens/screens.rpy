@@ -357,3 +357,11 @@ translate russian strings:
     # game/code/screens/screens.rpy:830
     old "Disabled"
     new "Выключено"
+
+# TODO: Translation updated at 2021-10-08 00:01
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:711
+    old "Naming save file:"
+    new "Называть сохранения:"

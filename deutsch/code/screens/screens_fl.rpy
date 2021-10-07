@@ -36,4 +36,4 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
-    new "Speichern"
+    new "SPEICHERN"
