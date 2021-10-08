@@ -408,4 +408,4 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
-    new "Naming save file:"
+    new "Nominare i salvataggi:"

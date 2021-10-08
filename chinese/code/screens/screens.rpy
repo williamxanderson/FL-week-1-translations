@@ -356,5 +356,4 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
-    new "Naming save file:"
-
+    new "命名保存文件："
