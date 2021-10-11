@@ -40,21 +40,20 @@ translate italian strings:
 
     # game/code/screens/screens_fl.rpy:20
     old "Week 1 Save"
-    new "Week 1 Save"
+    new "Salvataggio della 1ᵃ settimana"
 
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
-    new "Your first week on Fetish Locator ends here"
+    new "La tua prima settimana su Fetish Locator finisce qui."
 
     # game/code/screens/screens_fl.rpy:57
     old "Please type a name for the save file below and click save"
-    new "Please type a name for the save file below and click save"
+    new "Per favore, digita un nome da assegnare al salvataggio e clicca \"SALVA\""
 
     # game/code/screens/screens_fl.rpy:65
     old "This will allow you to start week 2 without losing your progress"
-    new "This will allow you to start week 2 without losing your progress"
+    new "In questo modo potrai giocare la seconda settimana riprendendola da dove eri rimasto"
 
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
-    new "SAVE"
-
+    new "SALVA"

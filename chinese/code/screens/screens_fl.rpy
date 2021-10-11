@@ -36,21 +36,20 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:20
     old "Week 1 Save"
-    new "Week 1 Save"
+    new "保存第一周"
 
     # game/code/screens/screens_fl.rpy:49
     old "Your first week on Fetish Locator ends here"
-    new "Your first week on Fetish Locator ends here"
+    new "性趣探测器的第一周到此结束"
 
     # game/code/screens/screens_fl.rpy:57
     old "Please type a name for the save file below and click save"
-    new "Please type a name for the save file below and click save"
+    new "请在下面输入要保存文件的名称，然后点击保存"
 
     # game/code/screens/screens_fl.rpy:65
     old "This will allow you to start week 2 without losing your progress"
-    new "This will allow you to start week 2 without losing your progress"
+    new "这将使您在不丢失进度的情况下，开始第二周的活动"
 
     # game/code/screens/screens_fl.rpy:95
     old "SAVE"
-    new "SAVE"
-
+    new "保存"
