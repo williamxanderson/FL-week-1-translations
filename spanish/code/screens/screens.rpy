@@ -344,4 +344,4 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:711
     old "Naming save file:"
-    new "Naming save file:"
+    new "Nombrar el archivo de guardado:"
