@@ -712,7 +712,7 @@ translate portuguese d06s05_mk_tr_65fb144d:
 translate portuguese d06s05_mk_tr_981c093b:
 
     # mc "Cool. You sticking around for the concert?"
-    mc "Legal. Você via ficar pro show?"
+    mc "Legal. Você vai ficar pro show?"
 
 # game/code/d06/d06s05.rpy:232
 translate portuguese d06s05_mk_tr_a6a7d61e:
