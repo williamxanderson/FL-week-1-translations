@@ -106,7 +106,7 @@ translate portuguese d06s07_aee84c84:
 translate portuguese d06s07_d3ba50e9:
 
     # lc "Of course! I'm sure he'll be delighted to make your life easier."
-    lc "Claro! Imagino que el vai ficar feliz em deixar sua vida mais fácil."
+    lc "Claro! Imagino que ele vai ficar feliz em deixar sua vida mais fácil."
 
 # game/code/d06/d06s07.rpy:48
 translate portuguese d06s07_9ef98015:
