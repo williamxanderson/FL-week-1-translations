@@ -17,7 +17,7 @@ translate chinese strings:
     old "Min"
     new "明"
 
-    old "Anthony"
+    old "Antony"
     new "安东尼"
 
     old "Kevin"

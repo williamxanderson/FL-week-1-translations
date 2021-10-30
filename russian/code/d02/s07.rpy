@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-05 14:03
+﻿# TODO: Translation updated at 2021-10-13 09:52
 
 # game/code/d02/s07.rpy:99
 translate russian d02s07_19452b15:
@@ -198,295 +198,295 @@ translate russian d02s07_1f9c1d0e:
     # mc "({i}It just occurred to me ... when my [game.stacytitle] comes here she will definitely find out about Fetish Locator, since everyone is using it here. Will she use it too?!{/i})"
     mc "({i}Мне только что пришло в голову ... когда моя [game.stacytitle] приедет сюда, она же обязательно узнает о фетиш-локаторе, так как все здесь его используют. А она тоже будет им пользоваться?!{/i})"
 
-# game/code/d02/s07.rpy:180
+# game/code/d02/s07.rpy:181
 translate russian replay_d02s07_b50077a0:
 
     # mc "({i}Sleeping on this couch is horrible! I am already dreaming about going back to my dorm bed!{/i})"
     mc "({i}Спать на этом диване просто ужасно! Я уже мечтаю вернуться в свою кровать в общежитии!{/i})"
 
-# game/code/d02/s07.rpy:181
+# game/code/d02/s07.rpy:182
 translate russian replay_d02s07_11cf90e9:
 
     # mc "({i}Ugh, I need a shower!{/i})"
     mc "({i}Фух, мне нужно принять душ!{/i})"
 
-# game/code/d02/s07.rpy:183
+# game/code/d02/s07.rpy:184
 translate russian replay_d02s07_c3b6099b:
 
     # mct "Is everyone still sleeping?"
     mct "Неужели все еще спят?"
 
-# game/code/d02/s07.rpy:185
+# game/code/d02/s07.rpy:186
 translate russian replay_d02s07_eca82bf1:
 
     # mct "Great! The door is open! The shower shall be mine!"
     mct "Отлично! Дверь открыта! Душ будет моим!"
 
-# game/code/d02/s07.rpy:191
+# game/code/d02/s07.rpy:192
 translate russian replay_d02s07_b5fc3d66:
 
     # mct "Strange... I hear the shower running."
     mct "Странно... Я слышу, как льется вода в душе."
 
-# game/code/d02/s07.rpy:199
+# game/code/d02/s07.rpy:200
 translate russian replay_d02s07_f0042343:
 
     # mct "What? Again?!"
     mct "Что? Снова?!"
 
-# game/code/d02/s07.rpy:201
+# game/code/d02/s07.rpy:202
 translate russian replay_d02s07_63f812be:
 
     # mc "({i}Why on earth isn’t the door closed?!{/i})"
     mc "({i}Почему, черт возьми, дверь не закрыта?!{/i})"
 
-# game/code/d02/s07.rpy:202
+# game/code/d02/s07.rpy:203
 translate russian replay_d02s07_4355860f:
 
     # mc "({i}Again I walk in on my [game.stacytitle], but this time she’s actually naked!{/i})"
     mc "({i}Это моя [game.stacytitle], но на этот раз она действительно голая!{/i})"
 
-# game/code/d02/s07.rpy:203
+# game/code/d02/s07.rpy:204
 translate russian replay_d02s07_cf1cd28e:
 
     # mc "({i}What should I do?!{/i})"
     mc "({i}Что же мне делать?!{/i})"
 
-# game/code/d02/s07.rpy:210
+# game/code/d02/s07.rpy:213
 translate russian replay_d02s07_db0389aa:
 
     # mc "({i}She is my [game.stacytitle]! I should leave immediately!{/i})"
     mc "({i}Она моя [game.stacytitle]! Я должен немедленно убраться!{/i})"
 
-# game/code/d02/s07.rpy:213
+# game/code/d02/s07.rpy:216
 translate russian replay_d02s07_f9ea10f1:
 
     # mct "I will just open the door a little bit more!"
     mct "Я просто немного приоткрою дверь!"
 
-# game/code/d02/s07.rpy:216
+# game/code/d02/s07.rpy:220
 translate russian replay_d02s07_87cb12c3:
 
     # mct "Wow! I see Stacy naked!"
     mct "Вау! Я вижу Стейси голой!"
 
-# game/code/d02/s07.rpy:217
+# game/code/d02/s07.rpy:221
 translate russian replay_d02s07_a2c85cd6:
 
     # mc "({i}I will watch just a little bit more!{/i})"
     mc "({i}Я посмотрю еще немного!{/i})"
 
-# game/code/d02/s07.rpy:237
+# game/code/d02/s07.rpy:241
 translate russian replay_d02s07_a18006d4:
 
     # mct "And now she’s turned off the shower! I should leave now!"
     mct "Она выключила душ! Я должен сейчас же уйти!"
 
-# game/code/d02/s07.rpy:238
+# game/code/d02/s07.rpy:242
 translate russian replay_d02s07_66f66cf3:
 
     # mct "Oh! Is she about to do what I think?"
     mct "Ох! Она собирается сделать то, что я думаю?"
 
-# game/code/d02/s07.rpy:239
+# game/code/d02/s07.rpy:243
 translate russian replay_d02s07_af60218e:
 
     # mct "I pee in the shower too. But should I watch how she does it?"
     mct "Я тоже писаю в душе. Но стоит ли мне смотреть, как она это делает?"
 
-# game/code/d02/s07.rpy:243
+# game/code/d02/s07.rpy:248
 translate russian replay_d02s07_a7b96636:
 
     # mct "Will she actually pee?"
     mct "А она действительно писает?"
 
-# game/code/d02/s07.rpy:244
+# game/code/d02/s07.rpy:249
 translate russian replay_d02s07_a8656b26:
 
     # mct "Why do I want to watch my [game.stacytitle] piss in the shower?"
     mct "Почему я хочу смотреть как писает в душе моя [game.stacytitle]?"
 
-# game/code/d02/s07.rpy:245
+# game/code/d02/s07.rpy:250
 translate russian replay_d02s07_e54639ee:
 
     # mct "Why am I so aroused by that thought?"
     mct "Почему меня так возбуждает эта мысль?"
 
-# game/code/d02/s07.rpy:251
+# game/code/d02/s07.rpy:256
 translate russian replay_d02s07_22fa5f40:
 
     # mct "She is actually pissing now!"
     mct "Она действительно сейчас писает!"
 
-# game/code/d02/s07.rpy:252
+# game/code/d02/s07.rpy:257
 translate russian replay_d02s07_a13dfa49:
 
     # mct "I'm watching my naked [game.stacytitle] pee!"
     mct "Я смотрю как писает моя голая [game.stacytitle]!"
 
-# game/code/d02/s07.rpy:265
+# game/code/d02/s07.rpy:270
 translate russian replay_d02s07_6d530174:
 
     # mct "Wow! Wait! What is she doing?!"
     mct "Вау! Подождите! Что она делает?!"
 
-# game/code/d02/s07.rpy:266
+# game/code/d02/s07.rpy:271
 translate russian replay_d02s07_04cfb5d9:
 
     # mct "Is she masturbating while peeing? {w} Or she is peeing while masturbating!?"
     mct "Она мастурбирует, когда писает? {w}Или она писает во время мастурбации!?"
 
-# game/code/d02/s07.rpy:270
+# game/code/d02/s07.rpy:276
 translate russian replay_d02s07_b0a5fdcf:
 
     # sy "Mmmh"
     sy "Мммх."
 
-# game/code/d02/s07.rpy:273
+# game/code/d02/s07.rpy:280
 translate russian replay_d02s07_21301221:
 
     # sy "Yeah"
     sy "Да."
 
-# game/code/d02/s07.rpy:275
+# game/code/d02/s07.rpy:282
 translate russian replay_d02s07_f8eec004:
 
     # mc "({i}Now if I get caught, I'm not only spying on [game.stacytitle] in shower, but I'm spying on [game.stacytitle] pissing and masturbating!{/i})"
     mc "({i}Теперь, если меня поймают, что я не только подглядывал за тем как купается моя [game.stacytitle] в душе, но ещё и смотрел как [game.stacytitle] писает и мастурбирует!{/i})"
 
-# game/code/d02/s07.rpy:277
+# game/code/d02/s07.rpy:284
 translate russian replay_d02s07_9c9f6619:
 
     # mc "({i}And last time I spied on her I got caught!{/i})"
     mc "({i}В прошлый раз, когда я подглядывал за ней, меня поймали!{/i})"
 
-# game/code/d02/s07.rpy:278
+# game/code/d02/s07.rpy:285
 translate russian replay_d02s07_e99614ac:
 
     # mc "({i}I’ve got an erection from my [game.stacytitle]. That is so wrong and at the same time so incredibly hot!{/i})"
     mc "({i}У меня эрекция, когда я подглядываю за тем, что делает в душе моя [game.stacytitle]. Это так неправильно и в то же время так невероятно горячо!{/i})"
 
-# game/code/d02/s07.rpy:281
+# game/code/d02/s07.rpy:289
 translate russian replay_d02s07_72bdd4f1:
 
     # "After Stacy`s piss stream is running to an end, she collapses on her ass, splashing drops of pee all over the place."
     "После того, как поток мочи Стейси подходит к концу, она шлёпается на свою задницу, разбрызгивая мочу во все стороны."
 
-# game/code/d02/s07.rpy:282
+# game/code/d02/s07.rpy:290
 translate russian replay_d02s07_859c321f:
 
     # mct "Looks like she is going to need another shower soon."
     mct "Похоже, ей понадобится еще один душ."
 
-# game/code/d02/s07.rpy:284
+# game/code/d02/s07.rpy:292
 translate russian replay_d02s07_f71e9b49:
 
     # "She grabs left nipple with her right hand and starts to pull it forward with every movement as her left hand is going down."
     "Она хватает левый сосок правой рукой и начинает тянуть его одновременно с ее левой рукой, которая движется вниз."
 
-# game/code/d02/s07.rpy:289
+# game/code/d02/s07.rpy:299
 translate russian replay_d02s07_1a8deaac:
 
     # "Stacy starts to collapse backwards."
     "Стейси начинает падать навзничь."
 
-# game/code/d02/s07.rpy:292
+# game/code/d02/s07.rpy:302
 translate russian replay_d02s07_919f3d91:
 
     # "When her bare ass touched the wet floor a scream of pleasure came out of her mouth."
     "Когда ее голая задница коснулась мокрого пола, вскрик удовольствия вырывается из ее рта."
 
-# game/code/d02/s07.rpy:293
+# game/code/d02/s07.rpy:303
 translate russian replay_d02s07_9731f864:
 
     # sy "A-a-a-h"
     sy "А-а-а-х!"
 
-# game/code/d02/s07.rpy:297
+# game/code/d02/s07.rpy:307
 translate russian replay_d02s07_ae0e3462:
 
     # "Stacy’s body starts to shake in orgasmic spasms!"
     "Тело Стейси начинает сотрясаться в оргазмических спазмах!"
 
-# game/code/d02/s07.rpy:304
+# game/code/d02/s07.rpy:315
 translate russian replay_d02s07_5c25b3ee:
 
     # sy "O-o-o-h"
     sy "О-о-о-х!"
 
-# game/code/d02/s07.rpy:305
+# game/code/d02/s07.rpy:316
 translate russian replay_d02s07_2d8f6d5d:
 
     # "After bursting in orgasm her muscles relaxed and she continued falling onto her back"
     "После взрыва оргазма ее мышцы расслабились и она рухнула на спину"
 
-# game/code/d02/s07.rpy:326
+# game/code/d02/s07.rpy:337
 translate russian replay_d02s07_d7f7bcb2:
 
     # mct "I... {w}think I... {w}came in my pants... {w} That was amazing!"
     mct "Я... {w}я думаю... {w}что кончил прямо в штаны... {w}Это было потрясающе!"
 
-# game/code/d02/s07.rpy:340
+# game/code/d02/s07.rpy:353
 translate russian replay_d02s07_52a9ffc5:
 
     # mc "({i}My [game.stacytitle] is a kinky one. From what I know of her, she won’t hesitate to use the app!{/i})"
     mc "({i}Моя [game.stacytitle] - извращенка. И насколько я знаю её, она не будет колебаться, чтобы использовать приложение!{/i})"
 
-# game/code/d02/s07.rpy:341
+# game/code/d02/s07.rpy:354
 translate russian replay_d02s07_6b2c50de:
 
     # mc "({i}But I have this feeling of being protective towards her. I don't want her to post sexy pictures for other dudes to see...{/i})"
     mc "({i}Но у меня такое чувство, что я защищаю ее. Я не хочу, чтобы она публиковала сексуальные фотографии для других парней...{/i})"
 
-# game/code/d02/s07.rpy:342
+# game/code/d02/s07.rpy:355
 translate russian replay_d02s07_b7389156:
 
     # mc "({i}Or am I actually just jealous?!{/i})"
     mc "({i}Или, на самом деле, я просто ревную?!{/i})"
 
-# game/code/d02/s07.rpy:344
+# game/code/d02/s07.rpy:357
 translate russian replay_d02s07_c2ae07eb:
 
     # mc "({i}Time to find out what the deal is with this banana.{/i})"
     mc "({i}Пора выяснить, что за дело с этим бананом.{/i})"
 
-# game/code/d02/s07.rpy:358
+# game/code/d02/s07.rpy:371
 translate russian d01s07_pete_about_girls_fcc1b776:
 
     # pb "Hmmm, what was I talking about?"
     pb "Хммм, о чем это я говорил?"
 
-# game/code/d02/s07.rpy:359
+# game/code/d02/s07.rpy:372
 translate russian d01s07_pete_about_girls_16af2776:
 
     # mc "The party."
     mc "О вечеринке."
 
-# game/code/d02/s07.rpy:364
+# game/code/d02/s07.rpy:377
 translate russian d01s07_pete_about_girls_2854182f:
 
     # pb "Oh, yeah! There were some crazy girls there! They were not from our college so they never heard of the Fetish Locator app! We had to show it to them!"
     pb "Ах да! Там были какие-то сумасшедшие девчонки! Они были не из нашего колледжа, поэтому никогда не слышали о приложении Фетиш-Локатор! Мы должны были показать это им!"
 
-# game/code/d02/s07.rpy:375
+# game/code/d02/s07.rpy:388
 translate russian d01s07_pete_about_girls_2_cd0e4703:
 
     # pb "Right! I remember that blitz challenge! I was fucking this sporty blond girl in her super tight ass and then noticed the app notification."
     pb "Точно! Я помню это блиц-задание! Я трахал эту спортивную блондинку в ее супер тугую задницу, а затем заметил уведомление приложения."
 
-# game/code/d02/s07.rpy:376
+# game/code/d02/s07.rpy:389
 translate russian d01s07_pete_about_girls_2_4240b1bf:
 
     # pb "I think I opened the app a bit late, but I still pulled my dick out of her ass, stood up right above her and came all over the top of her head!"
     pb "Думаю, что заметил это сообщение довольно поздно, но я все равно вытащил свой член из ее задницы, встал прямо над ней и кончил ей на макушку!"
 
-# game/code/d02/s07.rpy:378
+# game/code/d02/s07.rpy:391
 translate russian d01s07_pete_about_girls_2_0741f128:
 
     # pb "Right on her pretty blond hair! Can you believe that?! It was epic!"
     pb "Прямо на ее красивые светлые волосы! Ты можешь в это поверить?! Это было эпично!"
 
-# game/code/d02/s07.rpy:380
+# game/code/d02/s07.rpy:393
 translate russian d01s07_pete_about_girls_2_5b5eb208:
 
     # pb "Got 25 points for that!"
@@ -494,19 +494,19 @@ translate russian d01s07_pete_about_girls_2_5b5eb208:
 
 translate russian strings:
 
-    # game/code/d02/s07.rpy:204
+    # game/code/d02/s07.rpy:205
     old "Keep watching"
     new "Продолжай смотреть"
 
-    # game/code/d02/s07.rpy:204
+    # game/code/d02/s07.rpy:205
     old "Stop spying on your [game.stacytitle]"
     new "Прекратить подсматривать как купается [game.stacytitle]"
 
-    # game/code/d02/s07.rpy:240
+    # game/code/d02/s07.rpy:245
     old "Continue watching [game.stacytitle]"
     new "Продолжить подсматривать, что делает [game.stacytitle]"
 
-    # game/code/d02/s07.rpy:240
+    # game/code/d02/s07.rpy:245
     old "Let’s have some boundaries and leave"
     new "Всё же будем соблюдать некоторые границы"
 

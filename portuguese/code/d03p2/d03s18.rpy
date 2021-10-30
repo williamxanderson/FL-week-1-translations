@@ -76,7 +76,7 @@ translate portuguese d03s18_01c4e0d0:
 translate portuguese d03s18_611b9f55:
 
     # fl "Cum in 69 seconds to earn 69 points!"
-    fl "Goze em 69 segundos para ganhar 69 pontos1"
+    fl "Goze em 69 segundos para ganhar 69 pontos!"
 
 # game/code/d03p2/d03s18.rpy:97
 translate portuguese d03s18_89327d77:
@@ -160,7 +160,7 @@ translate portuguese d03s18_f1c2c58a:
 translate portuguese d03s18_1904400a:
 
     # mct "That was weird... {w}oh fuck!"
-    mct "Isso foi estranho... {w}ah, porra1"
+    mct "Isso foi estranho... {w}ah, porra!"
 
 # game/code/d03p2/d03s18.rpy:136
 translate portuguese d03s18_8f4b9d89:
