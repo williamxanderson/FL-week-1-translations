@@ -816,7 +816,7 @@ translate spanish d03s05_b10de45f:
 translate spanish d03s05_f2650af8:
 
     # kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
-    kb kb "¡Guau! ¿De qué se trataba? {w}¿Dijiste que está relacionado con Fetish Locator? {w}¡¿Te la cogiste?!"
+    kb "¡Guau! ¿De qué se trataba? {w}¿Dijiste que está relacionado con Fetish Locator? {w}¡¿Te la cogiste?!"
 
 # game/code/d03/d03s05.rpy:171
 translate spanish d03s05_4625af52:
