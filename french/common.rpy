@@ -276,15 +276,15 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:569
     old "File page auto"
-    new "File page auto"/*
+    new "Page de fichier automatique"
 
     # renpy/common/00action_file.rpy:571
     old "File page quick"
-    new "File page quick"/*
+    new "Page de fichier rapide"
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
-    new "File page [text]"/*
+    new "Page de fichier [text]"
 
     # renpy/common/00action_file.rpy:631
     old "Page {}"
