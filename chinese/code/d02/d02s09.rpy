@@ -22,13 +22,13 @@ translate chinese d02s09_6666dcd9:
 translate chinese d02s09_5e0cf59a:
 
     # mct "I know this place has been here forever, but I've never even stepped inside."
-    mct "我知道这个咖啡店存在很久了，但我从来没有进去过。"
+    mct "我知道这个咖啡店在这开了很久了，但我从来都没进去过。"
 
 # game/code/d02/d02s09.rpy:33
 translate chinese d02s09_5d8c50ed:
 
     # mct "It looks nice, but a bit empty. There is only a single customer..."
-    mct "这里看起来不错，但有点空。只有一个客人……"
+    mct "这里看起来不错，但有点冷清。只有一个客人……"
 
 # game/code/d02/d02s09.rpy:35
 translate chinese d02s09_4170b5f5:
@@ -76,19 +76,19 @@ translate chinese d02s09_f2abb171:
 translate chinese d02s09_aeba2c2e:
 
     # "Barista" "We have a vast selection of terrific coffee!"
-    "咖啡师" "我们有很多很棒的咖啡可供选择！"
+    "咖啡师" "我们有各种美味咖啡，供您挑选！"
 
 # game/code/d02/d02s09.rpy:49
 translate chinese d02s09_6266e383:
 
     # "Barista" "Are you new here? I don't remember you coming in before!"
-    "咖啡师" "你是新来的吗？我不记得你以前来过！"
+    "咖啡师" "你是新来的吗？我不记得以前见过你！"
 
 # game/code/d02/d02s09.rpy:51
 translate chinese d02s09_9aaf6271:
 
     # mc "There are so many options to choose from. {w}What would you recommend?"
-    mc "有这么多选择。{w}你有什么推荐？"
+    mc "有这么多选择。{w}你有什么推荐吗？"
 
 # game/code/d02/d02s09.rpy:53
 translate chinese d02s09_cbaec6ce:
@@ -112,7 +112,7 @@ translate chinese d02s09_45c80c1c:
 translate chinese d02s09_9d688a6e:
 
     # mc "I see! Well than. {w}Hmmm. Can I ask your name?"
-    mc "啊看到了! 好吧。{w}呃，我可以问你的名字吗？"
+    mc "啊看到了! 好吧。{w}呃，我可以问问你的名字吗？"
 
 # game/code/d02/d02s09.rpy:62
 translate chinese d02s09_c09fa928:
@@ -346,7 +346,7 @@ translate chinese d02s09_705d57ee:
 translate chinese d02s09_b15d77a2:
 
     # nk "Yeeep."
-    nk "是啊。"
+    nk "对。"
 
 # game/code/d02/d02s09.rpy:144
 translate chinese d02s09_b1b8e6ce:
@@ -412,13 +412,13 @@ translate chinese d02s09_029783f8:
 translate chinese d02s09_e0a09915:
 
     # mc "Well think about it! You can make a discount for couples to have more students to come here for dates. Or even open a blind date club to attract everyone!"
-    mc "你想想看！你可以给情侣打折，让更多的学生来这里约会。甚至可以开个相亲俱乐部，吸引大家来！"
+    mc "你想想看！你可以给情侣打折，让更多的学生来这里约会。甚至可以开个相亲俱乐部，吸引大家来消费！"
 
 # game/code/d02/d02s09.rpy:169
 translate chinese d02s09_c16403b5:
 
     # nk "I can’t afford any discounts. How would I do the latter one?"
-    nk "我可没钱打折。相亲俱乐部怎么搞呢？"
+    nk "我可没钱打折。那相亲俱乐部该怎么搞呢？"
 
 # game/code/d02/d02s09.rpy:171
 translate chinese d02s09_8303687a:
@@ -430,7 +430,7 @@ translate chinese d02s09_8303687a:
 translate chinese d02s09_a9473033:
 
     # nk "Yeah, right. {w}And I would have to pay you? {w}Duh! I have no money to spare..."
-    nk "好啊。{w}我该怎么给你钱呢？{w}呃！我没有多余的钱……"
+    nk "好啊。{w}我该怎么给你钱呢？{w}呃！我可没有多余的钱……"
 
 # game/code/d02/d02s09.rpy:175
 translate chinese d02s09_84b01c26:
@@ -442,7 +442,7 @@ translate chinese d02s09_84b01c26:
 translate chinese d02s09_bd791879:
 
     # mc "Ouch. You probably shouldn’t tell this to your customers!"
-    mc "哎哟。你可能不该把这个告诉你的顾客！"
+    mc "哎哟。这种事情你还是不要告诉你的顾客比较好！"
 
 # game/code/d02/d02s09.rpy:179
 translate chinese d02s09_a5dc9709:
@@ -502,7 +502,7 @@ translate chinese d02s09_4c4e31fb:
 translate chinese d02s09_9ea21620:
 
     # mc "It has to be today!"
-    mc "今天一定要想好！"
+    mc "今天一定要想好哦！"
 
 # game/code/d02/d02s09.rpy:202
 translate chinese d02s09_22e05223:
@@ -514,7 +514,7 @@ translate chinese d02s09_22e05223:
 translate chinese d02s09_5ab4c97b:
 
     # mc "That's the deal! Take it or leave it! But I can promise you will enjoy the date!"
-    mc "就这么定了！要么接受要么算了! 但我可以保证你会喜欢这次约会！"
+    mc "就这么定了！要么接受要么算了! 但我可以保证你会喜欢这次约会的！"
 
 # game/code/d02/d02s09.rpy:207
 translate chinese d02s09_0b6ef706:
