@@ -10,7 +10,7 @@ translate chinese d01s02_4ee8cc8f:
 translate chinese d01s02_5b6f8a2b:
 
     # mct "Back to my normal routine and another history class."
-    mct "回到我的日常生活吧，当然，还有历史课。"
+    mct "回归我的日常状态吧，当然，还有历史课。"
 
 # game/code/d01/s02.rpy:101
 translate chinese d01s02_0fc96c86:
@@ -28,7 +28,7 @@ translate chinese d01s02_dc60321d:
 translate chinese d01s02_6dd4c992:
 
     # mes "What day is it?"
-    mes "哪天?"
+    mes "星期几?"
 
 # game/code/d01/s02.rpy:108
 translate chinese d01s02_0b3fb849:
@@ -40,7 +40,7 @@ translate chinese d01s02_0b3fb849:
 translate chinese d01s02_ccd1b5eb:
 
     # mes "Who'll be there?"
-    mes "都谁会参加?"
+    mes "都有谁参加?"
 
 # game/code/d01/s02.rpy:112
 translate chinese d01s02_b1b76aad:
@@ -118,7 +118,7 @@ translate chinese d01s02_9fc29083:
 translate chinese d01s02_df7f0366:
 
     # mc "Yea, she saw a girl leaving our room that Pete had over last night."
-    mc "对啊，昨晚皮特带回来的女孩被她看见从我们房间出来。"
+    mc "对啊，昨晚皮特带回来一个女孩，今早上正从我们房间出来，被她发现了。"
 
 # game/code/d01/s02.rpy:136
 translate chinese d01s02_3a75ee50:
@@ -130,7 +130,7 @@ translate chinese d01s02_3a75ee50:
 translate chinese d01s02_492177d9:
 
     # mc "I woke up this morning to see a hot girl in front of me...right across the room! Can you imagine?!"
-    mc "我早上醒来看到这个性感的美女在我面前……就在房间的对面!你能想象吗?!"
+    mc "我早上醒来看到这个性感的美女在我面前……就在另一边的床上!你能想象吗?!"
 
 # game/code/d01/s02.rpy:140
 translate chinese d01s02_28e2321d:
@@ -142,7 +142,7 @@ translate chinese d01s02_28e2321d:
 translate chinese d01s02_55fb62ef:
 
     # mc "If only she was my girl. Pete brought her to our room...and you know how risky that is with our resident advisor!"
-    mc "只可惜不是我带来的，皮特把她带到了我们的房间，你也知道被宿舍指导员发现的话有多危险!"
+    mc "只可惜不是我带来的，皮特把她带到了我们的房间，你也知道被宿舍管理员发现的话有多危险!"
 
 # game/code/d01/s02.rpy:144
 translate chinese d01s02_b11c099d:
@@ -178,7 +178,7 @@ translate chinese d01s02_314849a5:
 translate chinese d01s02_0bd30138:
 
     # kb "How was your trip home? I forgot, why did you go?"
-    kb "你的回家之旅怎么样？等会，我忘了，你为啥回去了来着？"
+    kb "你的回家这段时间过得怎么样？等会，我忘了，你为啥回去了来着？"
 
 # game/code/d01/s02.rpy:156
 translate chinese d01s02_4ab34b9f:
@@ -202,7 +202,7 @@ translate chinese d01s02_8e9364a8:
 translate chinese d01s02_aaef13fd:
 
     # kb "There was some new stuff I guess. Everyone is stressed about the finals."
-    kb "我想是有些新东西吧。大家都在为期末考试而紧张。"
+    kb "我想是有些新东西吧。大家都因为期末考试而备受煎熬。"
 
 # game/code/d01/s02.rpy:164
 translate chinese d01s02_a3f1d4fd:
@@ -376,7 +376,7 @@ translate chinese d01s02_8e1260f5:
 translate chinese d01s02_a106da0d:
 
     # mc "You sound like a salesman! Do you work for them?"
-    mc "你听起来就像个推销的，你不会为他们工作吧？"
+    mc "你听起来就像个推销的，你不会给他们打工吧？"
 
 # game/code/d01/s02.rpy:216
 translate chinese d01s02_cc12458d:
@@ -670,7 +670,7 @@ translate chinese replay_d01s02_36026660:
 translate chinese replay_d01s02_3e274df8:
 
     # mc "True, but don't be so pissed. I brought you a movie, you are gonna to like it."
-    mc "你说得对，但别生气啦，我给你带了个电影，你会喜欢的。"
+    mc "你说得对，但别生气啦，我给你带了部电影，你会喜欢的。"
 
 # game/code/d01/s02.rpy:324
 translate chinese replay_d01s02_84a64c74:
@@ -682,7 +682,7 @@ translate chinese replay_d01s02_84a64c74:
 translate chinese replay_d01s02_eaf4eca4:
 
     # arj "You know how to get out of trouble."
-    arj "你还蛮知道如何摆脱困境。"
+    arj "你摆脱麻烦还真有一套。"
 
 # game/code/d01/s02.rpy:327
 translate chinese replay_d01s02_80c2ad2e:
@@ -730,7 +730,7 @@ translate chinese replay_d01s02_b5006555:
 translate chinese replay_d01s02_c48bdb4e:
 
     # mc "And I'm not gonna tell you what it's about. You'll like it, I'm sure."
-    mc "我不会告诉你关于啥，不过我保证你会喜欢。"
+    mc "我不会告诉你电影怎么样，不过我保证你会喜欢。"
 
 # game/code/d01/s02.rpy:349
 translate chinese replay_d01s02_7bb488f1:
@@ -820,7 +820,7 @@ translate chinese replay_d01s02_1e1e3d11:
 translate chinese replay_d01s02_06c4215c:
 
     # mc "I have to empty the trash tonight after the basketball game because Miss Waller saw a girl leaving our room this morning."
-    mc "今晚篮球比赛后，我要留下清理垃圾，因为沃勒女士今天早上看到一个女孩离开我们的房间。"
+    mc "今晚篮球比赛后，我要留下清理垃圾，因为沃勒女士今天早上看到有个女孩从我们房间出来。"
 
 # game/code/d01/s02.rpy:384
 translate chinese replay_d01s02_3b00d1ca:
@@ -844,13 +844,13 @@ translate chinese replay_d01s02_d527faec:
 translate chinese replay_d01s02_04c56411:
 
     # mc "We both got in trouble. Miss Waller didn't care who was responsible. She said because we share the room we share the responsibilities."
-    mc "我们俩都被罚了，沃勒女士不在乎谁负责。 她说，因为我们住在一起，所以也要一同分担责任。"
+    mc "我们俩都被罚了，沃勒女士并不在乎是谁的责任。 她说，因为我们住在一起，所以也要一同分担。"
 
 # game/code/d01/s02.rpy:393
 translate chinese replay_d01s02_23b83d84:
 
     # mc "I was just put in a bad spot and it isn't cool to rat out your friends."
-    mc "我只是当时境地很糟糕，但是出卖朋友可不太好。"
+    mc "只是我当时的境地很糟糕，但是出卖朋友可不太好。"
 
 # game/code/d01/s02.rpy:395
 translate chinese replay_d01s02_bbfa59bc:
@@ -898,7 +898,7 @@ translate chinese replay_d01s02_4cd44184_2:
 translate chinese replay_d01s02_62c324fa:
 
     # mc "But we can watch it later ... after I'm finished."
-    mc "我们可以在我结束之后看电影。"
+    mc "我完事之后，我们可以一起看电影。"
 
 # game/code/d01/s02.rpy:420
 translate chinese replay_d01s02_b065aa01:
@@ -910,7 +910,7 @@ translate chinese replay_d01s02_b065aa01:
 translate chinese replay_d01s02_e7934d20:
 
     # mc "I already saw it anyway. I just wanted you to see it."
-    mc "我已经看过了，我只想你看看。"
+    mc "我已经看过了，我只想让你看看。"
 
 # game/code/d01/s02.rpy:426
 translate chinese replay_d01s02_5f5a449a:
