@@ -154,7 +154,7 @@ translate chinese s04_bb8ac82c:
 translate chinese s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "喂，不准碰我的[游戏名称]啊！告诉你，想都别想！"
+    mc "喂，不准碰我的[game.stacytitle]啊！告诉你，想都别想！"
 
 # game/code/d01/s04.rpy:219
 translate chinese s04_b6043fc1:
@@ -178,13 +178,13 @@ translate chinese s04_e93ca3c5:
 translate chinese s04_add5108b:
 
     # pb "Guilty. But by your description of her, I'm pretty sure you thought about her yourself."
-    pb "好吧这是不对，不过根据你对她的描述，我敢肯定你自己也想过她。"
+    pb "好吧这是不对，不过根据你对她的描述，我敢肯定你自己也想过上她。"
 
 # game/code/d01/s04.rpy:227
 translate chinese s04_aaadf451:
 
     # mc "What the fuck, dude? She's my [game.stacytitle]!"
-    mc "搞什么鬼，老兄？她可是我的[game.stacytitle]！"
+    mc "搞什么鬼，老兄？她可是我[game.stacytitle]！"
 
 # game/code/d01/s04.rpy:229
 translate chinese s04_8bacdffc:
@@ -202,7 +202,7 @@ translate chinese s04_57bcb3d0:
 translate chinese s04_bf4b3c03:
 
     # mct "It was a nice morning. Hung out with all my friends that are still in the city."
-    mct "一个相当美好的早晨。我和还在城里的朋友一起出去玩。"
+    mct "一个相当美好的早晨。我和还住在城里的朋友一起出去玩。"
 
 # game/code/d01/s04.rpy:241
 translate chinese s04_85bba9dd:
@@ -298,7 +298,7 @@ translate chinese s04_c16c614e:
 translate chinese s04_5eceac14:
 
     # sy "I do it sometimes when no ones home. It feels very natural."
-    sy "没人在家的时候我就会这样。感觉很自然。"
+    sy "没人在家的时候我就会这样。感觉很自然哦。"
 
 # game/code/d01/s04.rpy:298
 translate chinese s04_53494d9e:
@@ -532,7 +532,7 @@ translate chinese replay_d01s04_3ccb40c9:
 translate chinese replay_d01s04_660ea8f8:
 
     # cb "Tits! Cum on my tits please!"
-    cb "乳头！拜托射我奶子上!"
+    cb "奶子！拜托射我奶子上!"
 
 # game/code/d01/s04.rpy:401
 translate chinese replay_d01s04_67128b74:
