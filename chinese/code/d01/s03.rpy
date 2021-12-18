@@ -370,7 +370,7 @@ translate chinese s03_66baf98c:
 translate chinese s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "对，我回家帮一下我的[game.stacytitle]。"
+    mc "对，我回家帮了一下我的[game.stacytitle]。"
 
 # game/code/d01/s03.rpy:184
 translate chinese s03_889ca342:
@@ -382,7 +382,7 @@ translate chinese s03_889ca342:
 translate chinese s03_dfae6d5f:
 
     # mc "Well, actually, the idea was to go help for the weekend and the beginning of the following week. I was supposed to head back on Tuesday."
-    mc "实际上，我想着挑个周末和后面几天去帮忙。我本来周二就该回去的。"
+    mc "实际上，我想着挑个周末和之后一周的头几天去帮忙的。我本来周二就该回来的。"
 
 # game/code/d01/s03.rpy:187
 translate chinese s03_bd39d731:
@@ -424,7 +424,7 @@ translate chinese s03_6736810d:
 translate chinese s03_337726d5:
 
     # mc "We were really close when we were kids, but, when school started we kinda went our separate ways for a while."
-    mc "我们小时候关系还很好，但后来上学了，就有点分道扬镳了。"
+    mc "我们小时候关系还很好，但后来上学了，就有点疏远了。"
 
 # game/code/d01/s03.rpy:199
 translate chinese s03_f549b1a7:
@@ -466,7 +466,7 @@ translate chinese s03_c772efaa:
 translate chinese s03_0c398970:
 
     # sy "Heeeey! Big [game.mctitle], you're here!"
-    sy "嘻嘻，大[game.mctitle]回来啦！"
+    sy "嘻嘻，[game.mctitle]回来啦！"
 
 # game/code/d01/s03.rpy:231
 translate chinese s03_512059d9:
@@ -478,7 +478,7 @@ translate chinese s03_512059d9:
 translate chinese s03_9c23b148:
 
     # mc "It been a long time! You've really changed!"
-    mc "好久不见！你变了好多！"
+    mc "好久不见！还真是女大十八变！"
 
 # game/code/d01/s03.rpy:233
 translate chinese s03_6137e902:
@@ -616,7 +616,7 @@ translate chinese s03_e28a76e6:
 translate chinese s03_9a1cc2a7:
 
     # mct "Oh no! My [game.stacytitle] found my porn collection! There was some weird stuff in there! Super perverted stuff!"
-    mct "不是吧！我的[game.stacytitle]发现了我的小宝库！里面都是些奇怪的东西啊！超奇怪的东西来着！"
+    mct "不是吧！我[game.stacytitle]发现了我的小宝库！里面都是些奇怪的东西啊！超奇怪的东西来着！"
 
 # game/code/d01/s03.rpy:276
 translate chinese s03_c1e7f53c:
@@ -628,7 +628,7 @@ translate chinese s03_c1e7f53c:
 translate chinese s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "什么？你不应该说\"谢谢你[game.stacytitle]，帮我瞒着爸妈把小黄片藏起来\"？"
+    sy "什么？你不应该说\"谢谢你[game.stacytitle]，帮我瞒着爸妈把小黄片藏起来了\"？"
 
 # game/code/d01/s03.rpy:280
 translate chinese s03_e666a618:
@@ -742,7 +742,7 @@ translate chinese s03_73bfe911:
 translate chinese s03_1120c9ba:
 
     # sy "Oh, big [game.mctitle]! You're so cute with your lame excuses!"
-    sy "我的大[game.mctitle]！你的蹩脚借口真可爱!"
+    sy "我的[game.mctitle]！你的蹩脚借口真可爱!"
 
 # game/code/d01/s03.rpy:322
 translate chinese s03_079510f8:
@@ -754,7 +754,7 @@ translate chinese s03_079510f8:
 translate chinese s03_678330d7:
 
     # sy "Yeah, sure! And you needed all of that for research! That much porn would've taken you years to go through!"
-    sy "啊哈，原来你需要研究呀，这么多黄片你要花好几年才能研究完！"
+    sy "啊哈，原来你需要研究呀，这么多黄片你要花好几年才能研究完呢！"
 
 # game/code/d01/s03.rpy:327
 translate chinese s03_2f1b80f7:
@@ -820,13 +820,13 @@ translate chinese s03_e3294529:
 translate chinese s03_5a215e99:
 
     # sy "Hiding the porn from Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
-    sy "瞒着爸妈帮你藏小黄片啊。你以为从你房间偷出来，再藏到我房间很容易吗?!我看你没有一点感激之情!"
+    sy "瞒着爸妈帮你藏小黄片啊。你以为从你房间偷出来，再藏到我房间很容易吗?!我看你真是狼心狗肺!"
 
 # game/code/d01/s03.rpy:352
 translate chinese s03_39193b30:
 
     # sy "Hiding the porn from your Mom and Dad. You think it was easy to sneak it out of your room and hide it in mine?! I see no gratitude!"
-    sy "瞒着你爸妈帮你藏小黄片啊。你以为从你房间偷出来，再藏到我房间很容易吗?!我看你没有一点感激之情!"
+    sy "瞒着你爸妈帮你藏小黄片啊。你以为从你房间偷出来，再藏到我房间很容易吗?!我看你真是狼心狗肺!"
 
 # game/code/d01/s03.rpy:354
 translate chinese s03_9f53f7f8:
@@ -1012,7 +1012,7 @@ translate chinese s03_ac8adf19:
 translate chinese s03_148420d0:
 
     # mc "Hey guys, I'm gonna go start cleaning so I can to be out of here as quick as possible."
-    mc "嘿朋友们，我想尽快离开这里，所以现在得去打扫了。"
+    mc "嘿朋友们，我要去搞卫生了，所以我得赶紧撤了。"
 
 # game/code/d01/s03.rpy:420
 translate chinese s03_2cdd333e:
