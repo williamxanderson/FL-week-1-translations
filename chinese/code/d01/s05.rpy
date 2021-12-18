@@ -262,7 +262,7 @@ translate chinese d01s05_arj_3eb42ff9:
 translate chinese d01s05_arj_e3ceb33b:
 
     # arj "Ah Watchmen! I heard about it! It's supposed to be better than just a comic book movie right?"
-    arj "啊，《守望者》！我听过它！应该不只是一部漫画电影吧？"
+    arj "啊，《守望者》！我听过它！应该不只是一部漫改电影吧？"
 
 # game/code/d01/s05.rpy:352
 translate chinese d01s05_arj_2ae326b8:
@@ -298,13 +298,13 @@ translate chinese d01s05_arj_5d464138:
 translate chinese d01s05_arj_0a84b318:
 
     # mc "Right. I remember it being full of boxes. You only had a bed and no other furniture. It was still better to have your own place than live in the dorms."
-    mc "嗯哼，我记得之前满满的都是箱子。你只有一张床，没有其他家具来着。不过有自己的地方总比住在宿舍里好。"
+    mc "嗯哼，我记得之前满满的都是箱子。你只有一张床，没有其他家具来着。不过有自己的住处总比住在宿舍里好。"
 
 # game/code/d01/s05.rpy:367
 translate chinese d01s05_arj_24de17ac:
 
     # arj "Yea, it's great but it's still my parent's place and not mine. If they get tired of working and living on the coast, they can always come back here."
-    arj "嗯，这里是不错，但这还是我父母的地方，不是我的。如果他们厌倦了沿海的工作和生活，还是可以随时回到这里。"
+    arj "嗯，这里是不错，但这还是我父母的房子，不是我的。如果他们厌倦了沿海的工作和生活，还是可以随时搬回来。"
 
 # game/code/d01/s05.rpy:368
 translate chinese d01s05_arj_e0588061:
@@ -322,7 +322,7 @@ translate chinese d01s05_arj_8b4cf234:
 translate chinese d01s05_arj_6c638052:
 
     # arj "Yeah, but that didn't stop your roommate."
-    arj "是啊，但这不也没有阻止你的室友嘛。"
+    arj "是啊，但这不也没能阻止你的室友嘛。"
 
 # game/code/d01/s05.rpy:376
 translate chinese d01s05_arj_d4828c69:
@@ -358,7 +358,7 @@ translate chinese d01s05_arj_14059e66:
 translate chinese d01s05_arj_d44aa490:
 
     # arj "Why didn't you tell him it was a bad idea?"
-    arj "你为什么不告诉他这个想法很糟？"
+    arj "你怎么不告诉他这么做简直蠢爆了？"
 
 # game/code/d01/s05.rpy:391
 translate chinese d01s05_arj_df795fac:
@@ -418,7 +418,7 @@ translate chinese d01s05_arj_91a4f925:
 translate chinese d01s05_arj_8217af39:
 
     # mc "Wait! You know about it?!"
-    mc "等等！你知道吗?!"
+    mc "等等！你已经知道了?!"
 
 # game/code/d01/s05.rpy:408
 translate chinese d01s05_arj_959757fe:
@@ -430,7 +430,7 @@ translate chinese d01s05_arj_959757fe:
 translate chinese d01s05_arj_02d5870e:
 
     # mc "He's sure that Lydia will be there."
-    mc "他保证说莉迪亚会去的。"
+    mc "他保证说莉迪亚也会去。"
 
 # game/code/d01/s05.rpy:410
 translate chinese d01s05_arj_1c656e3c:
@@ -466,7 +466,7 @@ translate chinese d01s05_arj_85d475fe:
 translate chinese d01s05_arj_b0ea4798:
 
     # arj "We need proper lighting for that. Check this out!"
-    arj "我们需要适当的照明。看这个！"
+    arj "我们要来点合适的的灯光。看这个！"
 
 # game/code/d01/s05.rpy:421
 translate chinese s05_clap_lights_c8d65698:
@@ -496,7 +496,7 @@ translate chinese s05_clap_lights_52e4f359:
 translate chinese s05_clap_lights_2fc337c2:
 
     # arj "Here we have lights! Aaand..."
-    arj "在这我们可以开灯！还有……"
+    arj "灯光已经准备就绪！还有……"
 
 # game/code/d01/s05.rpy:433
 translate chinese s05_clap_lights_c83d0d03:
@@ -514,7 +514,7 @@ translate chinese s05_clap_lights_dd828ab7:
 translate chinese s05_clap_lights_45d9d0ba:
 
     # mc "Right. How could I forget you're studying electrical engineering."
-    mc "对了，我怎么忘了你是学电子工程的呢？"
+    mc "对了，我怎么忘了你是学电气工程的呢？"
 
 # game/code/d01/s05.rpy:439
 translate chinese s05_clap_lights_0a6cb2d6:
@@ -658,19 +658,19 @@ translate chinese replay_d01s05_737c8188:
 translate chinese replay_d01s05_0cb05a1d:
 
     # mct "It is too much! I'm so hard right now because AmRose is right here!"
-    mct "这样太过了！就因为爱洛丝在这里，我才硬的！"
+    mct "这样太过分了！就因为爱洛丝在这里，我才硬的！"
 
 # game/code/d01/s05.rpy:494
 translate chinese replay_d01s05_e4c64b2f:
 
     # mct "And I'm doing it right in front of her!"
-    mct "而我还要在她面前做！"
+    mct "而我还要在她面前搞传统手艺！"
 
 # game/code/d01/s05.rpy:495
 translate chinese replay_d01s05_fdd626cb:
 
     # mct "Ohhh! I'm almost there. Where should I do it?"
-    mct "啊啊！我快来了。我该在哪做呢？"
+    mct "啊啊！我快来了。我该射在哪呢？"
 
 # game/code/d01/s05.rpy:510
 translate chinese replay_d01s05_c185c3cf:
@@ -700,7 +700,7 @@ translate chinese replay_d01s05_77e54e43:
 translate chinese replay_d01s05_35e9a974:
 
     # mct "Okay, uploading now. Seems like I did it in time."
-    mct "好了，现在上传。看来我还是挺及时。"
+    mct "好了，现在上传。看来我还挺及时。"
 
 # game/code/d01/s05.rpy:530
 translate chinese replay_d01s05_c5c597d9:
@@ -730,13 +730,13 @@ translate chinese replay_d01s05_c5976dd7:
 translate chinese replay_d01s05_610183e0:
 
     # mct "I'll just take it... Damn! I moved the mouse."
-    mct "我只需要把它拿起来……该死！我动了鼠标。"
+    mct "我只需要把它拿起来……该死！我碰到了鼠标。"
 
 # game/code/d01/s05.rpy:542
 translate chinese replay_d01s05_f247077d:
 
     # mct "I should probably leave quietly and not wake her up."
-    mct "我还是悄悄走吧，别吵醒她。"
+    mct "我还是悄悄溜走吧，免得吵醒她。"
 
 # game/code/d01/s05.rpy:544
 translate chinese replay_d01s05_55dacec4:
@@ -802,7 +802,7 @@ translate chinese replay_d01s05_47d685c3:
 translate chinese replay_d01s05_620473fd:
 
     # mc "Hey! You feel asleep, and I thought to leave without waking you up."
-    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
+    mc "嘿！你好像睡着了，我就想着自己先走，免得吵醒你。"
 
 # game/code/d01/s05.rpy:571
 translate chinese replay_d01s05_64958f6b:
@@ -886,13 +886,13 @@ translate chinese replay_d01s05_2262c09e:
 translate chinese replay_d01s05_3a8ef895:
 
     # arjt "Did he just awkwardly touch my leg?"
-    arjt "他刚才是奇怪地摸了我的腿吗？"
+    arjt "他刚才摸了我的腿吗？好尴尬哦。"
 
 # game/code/d01/s05.rpy:618
 translate chinese replay_d01s05_b3af82cf:
 
     # arjt "That's not how a friendly hug should be. Felt like an erotic touch."
-    arjt "友好的拥抱不该是这样的。感觉更像是色情的抚摸。"
+    arjt "友好的拥抱不该是这样的。感觉更像是色色的抚摸。"
 
 # game/code/d01/s05.rpy:620
 translate chinese replay_d01s05_163711ba:
@@ -994,7 +994,7 @@ translate chinese s05_after_cum_challenge_d3117b32:
 translate chinese s05_after_cum_challenge_d192e45b:
 
     # mct "Damn! I didn't even submit anything. I have to try harder tomorrow."
-    mct "可恶！我都没有提交什么东西。明天要更加努力了。"
+    mct "可恶！我什么都没有提交。明天要更加努力了。"
 
 translate chinese strings:
 
@@ -1044,7 +1044,7 @@ translate chinese strings:
 translate chinese replay_d01s05_8e94edd0:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
-    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
+    mc "嘿！你好像睡着了，我就想着自己先走，免得吵醒你。"
 
 # game/code/d01/s05.rpy:548
 translate chinese replay_d01s05_6bfe9e38_1:
@@ -1086,4 +1086,4 @@ translate chinese replay_d01s05_910039be_1:
 translate chinese replay_d01s05_8e94edd0_1:
 
     # mc "Hey! You fell asleep, and I thought to leave without waking you up."
-    mc "嘿！你好像睡着了，我在想不然不吵醒你，自己先走。"
+    mc "嘿！你好像睡着了，我就想着自己先走，免得吵醒你。"
