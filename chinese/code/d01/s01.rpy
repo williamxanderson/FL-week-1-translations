@@ -16,25 +16,25 @@ translate chinese d01s01_c294ff8d:
 translate chinese d01s01_837d56ef:
 
     # mct "\"The best days of your life never start with an alarm clock.\"{w} I'm sure someone very smart said that."
-    mct "\"人生中最美好的日子从不会从被闹钟吵醒开始。\"{w} 我敢确定说这话的人一定很聪明。"
+    mct "\"人生中最美好的日子绝对不会从被闹钟吵醒开始。\"{w} 我敢肯定说这话的人一定是个大聪明。"
 
 # game/code/d01/s01.rpy:35
 translate chinese d01s01_860125d7:
 
     # mct "But today is not one of those days..."
-    mct "显然今天不是那种美日子……"
+    mct "显然今天并不是什么好日子……"
 
 # game/code/d01/s01.rpy:36
 translate chinese d01s01_8b232835:
 
     # mct "I never got good grades in school. It was very hard for me to even get into college."
-    mct "我在学校的成绩一直不好。就连考上大学都很难了。"
+    mct "我在学校的成绩一直不好。就连考上大学都很难。"
 
 # game/code/d01/s01.rpy:38
 translate chinese d01s01_0915344f:
 
     # mct "This is my second year studying business administration. I'm not sure if I like it but, I'm good at it."
-    mct "这是我学工商管理的第二年了。我不知道自己是不是喜欢这个专业，但至少还算比较擅长。"
+    mct "这是我学工商管理的第二年。我不知道自己是不是喜欢这个专业，但至少还算比较擅长。"
 
 # game/code/d01/s01.rpy:39
 translate chinese d01s01_308f75bc:
@@ -52,7 +52,7 @@ translate chinese d01s01_5c531e30:
 translate chinese d01s01_16024863:
 
     # mct "It's very unfortunate that I have missed the last couple weeks of class. It might have a negative impact on my chances to pass finals."
-    mct "很不幸，我错过了最后几周的课。这对我的期末考试很不利啊。"
+    mct "很不幸，我错过了最后几周的课。这对于我的期末考试来说可不是什么好事。"
 
 # game/code/d01/s01.rpy:43
 translate chinese d01s01_0edfd832:
@@ -76,13 +76,13 @@ translate chinese d01s01_1539c406:
 translate chinese d01s01_74c9f86d:
 
     # mct "This bothers me more than the fact that I'm completely unprepared for finals."
-    mct "这比我完全没有准备好迎接期末考试，更让人心烦。"
+    mct "这比我完全没有准备好迎接期末考试更让人心烦。"
 
 # game/code/d01/s01.rpy:48
 translate chinese d01s01_9a9a27f1:
 
     # mct "I should probably focus on exams now, and worry about the girls later."
-    mct "哎我也许应该把精力放在考试上，以后再担心女朋友的问题。"
+    mct "哎，我也许应该把精力放在考试上，以后再担心女朋友的问题。"
 
 # game/code/d01/s01.rpy:50
 translate chinese d01s01_4b3873dc:
@@ -94,7 +94,7 @@ translate chinese d01s01_4b3873dc:
 translate chinese d01s01_e68e1b57:
 
     # mct "I'm going to focus and I'll try not to get distracted by any girls."
-    mct "我要集中精力，尽量不被任何女孩分心。"
+    mct "我要集中精力，决不能再被妹子的事分心了。"
 
 # game/code/d01/s01.rpy:55
 translate chinese d01s01_a6a59a59:
@@ -124,7 +124,7 @@ translate chinese d01s01_0450e07b:
 translate chinese d01s01_b598428c:
 
     # mct "That's the second time this month. We could get in trouble!"
-    mct "这是这个月第二次了。我们会有麻烦的!"
+    mct "这是本月第二次了。我们会有麻烦的!"
 
 # game/code/d01/s01.rpy:64
 translate chinese d01s01_c7996105:
@@ -154,7 +154,7 @@ translate chinese d01s01_d14b5b5a:
 translate chinese d01s01_6ac4c8ac:
 
     # mct "How did I miss whatever Pete did with her last night?"
-    mct "我怎么一点也不知道皮特昨晚跟她在一起?"
+    mct "皮特昨晚跟她在一起这事，我怎么一点也不知道?"
 
 # game/code/d01/s01.rpy:80
 translate chinese d01s01_41c6ea21:
@@ -202,7 +202,7 @@ translate chinese d01s01_6dc48fae:
 translate chinese d01s01_44fd0ea8:
 
     # "Girl" "What the fuck?!"
-    "女孩" "什么鬼?!"
+    "女孩" "搞毛啊?!"
 
 # game/code/d01/s01.rpy:94
 translate chinese d01s01_72057db8:
@@ -214,7 +214,7 @@ translate chinese d01s01_72057db8:
 translate chinese d01s01_246f536a:
 
     # "Girl" "Who the {i}fuck{/i} are you?!"
-    "女孩" "你{i}TM{/i}是谁?!"
+    "女孩" "你{i}寄吧{/i}谁啊?!"
 
 # game/code/d01/s01.rpy:98
 translate chinese d01s01_e514adfa:
@@ -316,7 +316,7 @@ translate chinese d01s01_6444e025:
 translate chinese d01s01_a32766e9:
 
     # pb "Man. Relax. It's going to be Okay. Don't stress about it!"
-    pb "放轻松老兄，不会有事的。别为这担心了！"
+    pb "淡定点，老兄，不会有事的。别为这担心了！"
 
 # game/code/d01/s01.rpy:128
 translate chinese d01s01_973bd581:
@@ -328,7 +328,7 @@ translate chinese d01s01_973bd581:
 translate chinese d01s01_01249464:
 
     # pb "No! Dude, I just got drunk! We got here around 4 AM and that chick sucked my dick like a champ!"
-    pb "没啊老哥，我就是喝酒了而已！我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下！"
+    pb "没啊老哥，我就是喝醉了而已！我们回到这的时候都凌晨四点了，然后她就开始像个排水渠一样给我疏通了一下！"
 
 # game/code/d01/s01.rpy:132
 translate chinese d01s01_afe63ae9:
@@ -424,13 +424,13 @@ translate chinese d01s01_shower_ffedf8f5:
 translate chinese d01s01_shower_cc16de3d:
 
     # pb "It was pure heaven!"
-    pb "简直是天堂！"
+    pb "爽得飞起，就像上了天堂一样！"
 
 # game/code/d01/s01.rpy:182
 translate chinese d01s01_shower_ebf93a86:
 
     # pb "Damn! I have no idea what her name was..."
-    pb "啧啧，我忘了她叫什么名字……"
+    pb "操，她叫什么……我给忘了。"
 
 # game/code/d01/s01.rpy:183
 translate chinese d01s01_shower_6b72f665:
@@ -490,7 +490,7 @@ translate chinese d01s01_shower_c10a1144:
 translate chinese d01s01_shower_31139995:
 
     # pb "Right! That's it! I want to help you, bro. I hate seeing you waste your time in college."
-    pb "对对，没错！就是她！我想帮你，老兄。我可不想你在大学里就这么浪费时间。"
+    pb "对对，没错！就是她！我想帮你，老兄。我可不想你在大学里就这么虚度光阴。"
 
 # game/code/d01/s01.rpy:201
 translate chinese d01s01_shower_edd8bfa0:
@@ -634,7 +634,7 @@ translate chinese d01s01_shower_3b636b20:
 translate chinese d01s01_shower_19408e01:
 
     # pb "No time for shower."
-    pb "没有洗澡的时间了。"
+    pb "没有时间洗澡了。"
 
 # game/code/d01/s01.rpy:245
 translate chinese d01s01_shower_70651338:
@@ -658,7 +658,7 @@ translate chinese d01s01_shower_d2b4df8b:
 translate chinese d01s01_shower_427f6db0:
 
     # "[mcname] was on his way out when..."
-    "[mcname]在出去的路上时……"
+    "[mcname]就在他出去那会……"
 
 # game/code/d01/s01.rpy:252
 translate chinese d01s01_shower_f5b311bf:
@@ -688,13 +688,13 @@ translate chinese d01s01_shower_e2f0143d:
 translate chinese d01s01_shower_aeb373b5:
 
     # zw "You know that girls aren't allowed to be in the boys dorm after midnight!"
-    zw "你知道午夜后女生们是不允许进男寝室的！"
+    zw "你知道午夜之后女生是不允许进男寝室的吧！"
 
 # game/code/d01/s01.rpy:258
 translate chinese d01s01_shower_1883b0c1:
 
     # zw "No more excuses! You're getting punished!"
-    zw "不要再找借口了，你等着被惩罚吧！"
+    zw "不要再找借口了，你等着挨处分吧！"
 
 # game/code/d01/s01.rpy:260
 translate chinese d01s01_shower_3e20fae6:
@@ -718,7 +718,7 @@ translate chinese d01s01_shower_171def1d:
 translate chinese d01s01_shower_3e9ffa5f:
 
     # zw "So, you think I care who brought that girl here?!"
-    zw "你以为我在乎谁把那女孩带进来的吗?!"
+    zw "你以为我在乎是谁把那女孩带进来的吗?!"
 
 # game/code/d01/s01.rpy:272
 translate chinese d01s01_shower_03d60ad0:
